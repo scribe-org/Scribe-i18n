@@ -18,23 +18,6 @@ body:
         A concise description of what you're experiencing and what you expected to happen.
     validations:
       required: true
-  - type: dropdown
-    id: device
-    attributes:
-      label: Device type
-      options:
-        - iPhone
-        - iPad
-        - iPhone and iPad
-    validations:
-      required: true
-  - type: input
-    id: version
-    attributes:
-      label: Versions
-      placeholder: "What are the OS and Scribe versions?"
-    validations:
-      required: false
   - type: markdown
     attributes:
       value: |
