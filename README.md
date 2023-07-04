@@ -11,7 +11,7 @@
 
 ## Application text localization files for Scribe apps
 
-**Scribe-L10N** are the localization files that are included in each Scribe application.
+**Scribe-L10N** is the home of the localization files that are included in each Scribe application.
 
 > **Note**: The [contributing](#contributing) section has information for those interested, with the articles and presentations in [featured by](#featured-by) also being good resources for learning more about Scribe.
 
