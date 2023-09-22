@@ -1,16 +1,16 @@
 <div align="center">
-  <a href="https://github.com/scribe-org/Scribe-L10N"><img src="https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeGitHubOrgBanner.png" width=1024 alt="Scribe Logo"></a>
+  <a href="https://github.com/scribe-org/scribe-i18n"><img src="https://raw.githubusercontent.com/scribe-org/Organization/main/logo/ScribeGitHubOrgBanner.png" width=1024 alt="Scribe Logo"></a>
 </div>
 
-[![issues](https://img.shields.io/github/issues/scribe-org/Scribe-L10N?label=%20&logo=github)](https://github.com/scribe-org/Scribe-L10N/issues)
-[![license](https://img.shields.io/github/license/scribe-org/Scribe-L10N.svg?label=%20)](https://github.com/scribe-org/Scribe-L10N/blob/main/LICENSE.txt)
-[![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/scribe-org/Scribe-L10N/blob/main/.github/CODE_OF_CONDUCT.md)
+[![issues](https://img.shields.io/github/issues/scribe-org/scribe-i18n?label=%20&logo=github)](https://github.com/scribe-org/scribe-i18n/issues)
+[![license](https://img.shields.io/github/license/scribe-org/scribe-i18n.svg?label=%20)](https://github.com/scribe-org/scribe-i18n/blob/main/LICENSE.txt)
+[![coc](https://img.shields.io/badge/Contributor%20Covenant-ff69b4.svg)](https://github.com/scribe-org/scribe-i18n/blob/main/.github/CODE_OF_CONDUCT.md)
 [![mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=ffffff)](https://wikis.world/@scribe)
 [![matrix](https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=ffffff)](https://matrix.to/#/#scribe_community:matrix.org)
 
 ## Application text localization files for Scribe apps
 
-**Scribe-L10N** is the home of the localization files that are included in each Scribe application.
+**scribe-i18n** is the home of the localization files that are included in each Scribe application.
 
 > [!NOTE]\
 > The [contributing](#contributing) section has information for those interested, with the articles and presentations in [featured by](#featured-by) also being good resources for learning more about Scribe.
@@ -35,18 +35,18 @@ Scribe apps are available on [iOS](https://github.com/scribe-org/Scribe-iOS), [A
 
 Scribe uses [Matrix](https://matrix.org/) for communications. You're more than welcome to [join us in our public chat rooms](https://matrix.to/#/#scribe_community:matrix.org) to share ideas, ask questions or just say hi :)
 
-Please see the [contribution guidelines](https://github.com/scribe-org/Scribe-L10N/blob/main/CONTRIBUTING.md) if you are interested in contributing to Scribe-L10N. Work that is in progress or could be implemented is tracked in the [issues](https://github.com/scribe-org/Scribe-L10N/issues) and [projects](https://github.com/scribe-org/Scribe-L10N/projects).
+Please see the [contribution guidelines](https://github.com/scribe-org/scribe-i18n/blob/main/CONTRIBUTING.md) if you are interested in contributing to scribe-i18n. Work that is in progress or could be implemented is tracked in the [issues](https://github.com/scribe-org/scribe-i18n/issues) and [projects](https://github.com/scribe-org/scribe-i18n/projects).
 
 > [!NOTE]\
-> Just because an issue is assigned on GitHub doesn't mean that the team isn't interested in your contribution! Feel free to write [in the issues](https://github.com/scribe-org/Scribe-L10N/issues) and we can potentially reassign it to you.
+> Just because an issue is assigned on GitHub doesn't mean that the team isn't interested in your contribution! Feel free to write [in the issues](https://github.com/scribe-org/scribe-i18n/issues) and we can potentially reassign it to you.
 
-Those interested can further check the [`-next release-`](https://github.com/scribe-org/Scribe-L10N/labels/-next%20release-) and [`-priority-`](https://github.com/scribe-org/Scribe-L10N/labels/-priority-) labels in the [issues](https://github.com/scribe-org/Scribe-L10N/issues) for those that are most important, as well as those marked [`good first issue`](https://github.com/scribe-org/Scribe-L10N/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that are tailored for first time contributors.
+Those interested can further check the [`-next release-`](https://github.com/scribe-org/scribe-i18n/labels/-next%20release-) and [`-priority-`](https://github.com/scribe-org/scribe-i18n/labels/-priority-) labels in the [issues](https://github.com/scribe-org/scribe-i18n/issues) for those that are most important, as well as those marked [`good first issue`](https://github.com/scribe-org/scribe-i18n/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that are tailored for first time contributors.
 
 ### Ways to Help [`⇧`](#contents)
 
-- [Reporting bugs](https://github.com/scribe-org/Scribe-L10N/issues/new?assignees=&labels=bug&template=bug_report.yml) as they're found 🐞
-- [Localization](https://github.com/scribe-org/Scribe-L10N/issues?q=is%3Aissue+is%3Aopen+label%3Alocalization) for the app and Google Play 🌐
-- [Documentation](https://github.com/scribe-org/Scribe-L10N/issues?q=is%3Aissue+is%3Aopen+label%3Adocumentation) for onboarding and project cohesion 📝
+- [Reporting bugs](https://github.com/scribe-org/scribe-i18n/issues/new?assignees=&labels=bug&template=bug_report.yml) as they're found 🐞
+- [Localization](https://github.com/scribe-org/scribe-i18n/issues?q=is%3Aissue+is%3Aopen+label%3Alocalization) for the app and Google Play 🌐
+- [Documentation](https://github.com/scribe-org/scribe-i18n/issues?q=is%3Aissue+is%3Aopen+label%3Adocumentation) for onboarding and project cohesion 📝
 - Adding language data to [Scribe-Data](https://github.com/scribe-org/Scribe-Data/issues) via [Wikidata](https://www.wikidata.org/)! 🗃️
 
 ### Road Map [`⇧`](#contents)
@@ -112,10 +112,10 @@ Should happen on Transifex for the localization. Please make an issue.
 
 ### Contributors
 
-Many thanks to all the [Scribe-L10N contributors](https://github.com/scribe-org/Scribe-L10N/graphs/contributors)! 🚀
+Many thanks to all the [scribe-i18n contributors](https://github.com/scribe-org/scribe-i18n/graphs/contributors)! 🚀
 
-<a href="https://github.com/scribe-org/Scribe-L10N/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=scribe-org/Scribe-L10N" />
+<a href="https://github.com/scribe-org/scribe-i18n/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=scribe-org/scribe-i18n" />
 </a>
 
 ### Wikimedia Communities

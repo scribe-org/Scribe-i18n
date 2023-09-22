@@ -6,9 +6,9 @@ body:
     attributes:
       label: Terms
       options:
-        - label: I have searched [open and closed issues](https://github.com/scribe-org/Scribe-L10N/issues?q=is%3Aissue)
+        - label: I have searched [open and closed issues](https://github.com/scribe-org/scribe-i18n/issues?q=is%3Aissue)
           required: true
-        - label: I agree to follow Scribe-L10N's [Code of Conduct](https://github.com/scribe-org/Scribe-L10N/blob/main/.github/CODE_OF_CONDUCT.md)
+        - label: I agree to follow scribe-i18n's [Code of Conduct](https://github.com/scribe-org/scribe-i18n/blob/main/.github/CODE_OF_CONDUCT.md)
           required: true
   - type: textarea
     id: issue
