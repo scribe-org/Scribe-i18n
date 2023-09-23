@@ -1,10 +1,10 @@
-# Contributing to scribe-i18n
+# Contributing to Scribe-i18n
 
 Thank you for your interest in contributing!
 
 Please take a moment to review this document in order to make the contribution process easy and effective for everyone involved.
 
-Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open-source project. In return, and in accordance with this project's [code of conduct](https://github.com/scribe-org/scribe-i18n/blob/main/.github/CODE_OF_CONDUCT.md), other contributors will reciprocate that respect in addressing your issue or assessing changes and features.
+Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open-source project. In return, and in accordance with this project's [code of conduct](https://github.com/scribe-org/Scribe-i18n/blob/main/.github/CODE_OF_CONDUCT.md), other contributors will reciprocate that respect in addressing your issue or assessing changes and features.
 
 If you have questions or would like to communicate with the team, please [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org). We'd be happy to hear from you!
 
@@ -23,7 +23,7 @@ If you have questions or would like to communicate with the team, please [join u
 
 # Localization [`⇧`](#contents)
 
-Being an app that focusses on language learning, localization plays a big part in what Scribe will eventually be. Specifically scribe-i18n provides all the needed localizations for all Scribe apps, so please consider contributing here to help people use Scribe in whatever language they choose. We use [Transifex]() for localization. The process for contributing is the following:
+Being an app that focusses on language learning, localization plays a big part in what Scribe will eventually be. Specifically Scribe-i18n provides all the needed localizations for all Scribe apps, so please consider contributing here to help people use Scribe in whatever language they choose. We use [Transifex]() for localization. The process for contributing is the following:
 
 - Make an account on Transifex
 - ...
@@ -34,12 +34,12 @@ Those interested in contributing to localization for the app are welcome to chec
 
 # Issues and projects [`⇧`](#contents)
 
-The [issue tracker for scribe-i18n](https://github.com/scribe-org/scribe-i18n/issues) is the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests) and [submitting pull requests](#pull-requests). Scribe also organizes related issues into [projects](https://github.com/scribe-org/scribe-i18n/projects).
+The [issue tracker for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/issues) is the preferred channel for [bug reports](#bug-reports), [features requests](#feature-requests) and [submitting pull requests](#pull-requests). Scribe also organizes related issues into [projects](https://github.com/scribe-org/Scribe-i18n/projects).
 
 > [!NOTE]\
-> Just because an issue is assigned on GitHub doesn't mean that the team isn't interested in your contribution! Feel free to write [in the issues](https://github.com/scribe-org/scribe-i18n/issues) and we can potentially reassign it to you.
+> Just because an issue is assigned on GitHub doesn't mean that the team isn't interested in your contribution! Feel free to write [in the issues](https://github.com/scribe-org/Scribe-i18n/issues) and we can potentially reassign it to you.
 
-Be sure to check the [`-next release-`](https://github.com/scribe-org/scribe-i18n/labels/-next%20release-) and [`-priority-`](https://github.com/scribe-org/scribe-i18n/labels/-priority-) labels in the [issues](https://github.com/scribe-org/scribe-i18n/issues) for those that are most important, as well as those marked [`good first issue`](https://github.com/scribe-org/scribe-i18n/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that are tailored for first time contributors.
+Be sure to check the [`-next release-`](https://github.com/scribe-org/Scribe-i18n/labels/-next%20release-) and [`-priority-`](https://github.com/scribe-org/Scribe-i18n/labels/-priority-) labels in the [issues](https://github.com/scribe-org/Scribe-i18n/issues) for those that are most important, as well as those marked [`good first issue`](https://github.com/scribe-org/Scribe-i18n/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that are tailored for first time contributors.
 
 <a id="bug-reports"></a>
 
@@ -63,7 +63,7 @@ Guidelines for bug reports:
 - What actually happens
 - Notes (why this might be happening, things tried that didn't work, etc)
 
-To make the above steps easier, the Scribe team asks that contributors report bugs using the [bug report](https://github.com/scribe-org/scribe-i18n/issues/new?assignees=&labels=feature&template=bug_report.yml) template, with these issues further being marked with the [`bug`](https://github.com/scribe-org/scribe-i18n/issues?q=is%3Aopen+is%3Aissue+label%3Abug) label.
+To make the above steps easier, the Scribe team asks that contributors report bugs using the [bug report](https://github.com/scribe-org/Scribe-i18n/issues/new?assignees=&labels=feature&template=bug_report.yml) template, with these issues further being marked with the [`bug`](https://github.com/scribe-org/Scribe-i18n/issues?q=is%3Aopen+is%3Aissue+label%3Abug) label.
 
 Again, thank you for your time in reporting issues!
 
@@ -71,13 +71,13 @@ Again, thank you for your time in reporting issues!
 
 # Feature requests [`⇧`](#contents)
 
-Feature requests are more than welcome! Please take a moment to find out whether your idea fits with the scope and aims of the project. When making a suggestion, provide as much detail and context as possible, and further make clear the degree to which you would like to contribute in its development. Feature requests are marked with the [`feature`](https://github.com/scribe-org/scribe-i18n/issues?q=is%3Aopen+is%3Aissue+label%3Afeature) label, and can be made using the [feature request](https://github.com/scribe-org/scribe-i18n/issues/new?assignees=&labels=feature&template=feature_request.yml) template.
+Feature requests are more than welcome! Please take a moment to find out whether your idea fits with the scope and aims of the project. When making a suggestion, provide as much detail and context as possible, and further make clear the degree to which you would like to contribute in its development. Feature requests are marked with the [`feature`](https://github.com/scribe-org/Scribe-i18n/issues?q=is%3Aopen+is%3Aissue+label%3Afeature) label, and can be made using the [feature request](https://github.com/scribe-org/Scribe-i18n/issues/new?assignees=&labels=feature&template=feature_request.yml) template.
 
 <a id="pull-requests"></a>
 
 # Pull requests [`⇧`](#contents)
 
-Good pull requests - patches, improvements and new features - are a fantastic help. They should remain focused in scope and avoid containing unrelated commits. Note that all contributions to this project will be made under [the specified license](https://github.com/scribe-org/scribe-i18n/blob/main/LICENSE.txt) and should follow the code style standards ([contact us](https://matrix.to/#/#scribe_community:matrix.org) if unsure).
+Good pull requests - patches, improvements and new features - are a fantastic help. They should remain focused in scope and avoid containing unrelated commits. Note that all contributions to this project will be made under [the specified license](https://github.com/scribe-org/Scribe-i18n/blob/main/LICENSE.txt) and should follow the code style standards ([contact us](https://matrix.to/#/#scribe_community:matrix.org) if unsure).
 
 **Please ask first** before embarking on any significant pull request (implementing features, refactoring code, etc), otherwise you risk spending a lot of time working on something that the developers might not want to merge into the project. With that being said, major additions are very appreciated!
 
@@ -129,4 +129,4 @@ Thank you in advance for your contributions!
 
 # Documentation [`⇧`](#contents)
 
-Documentation is an invaluable way to contribute to coding projects as it allows others to more easily understand the project structure and contribute. Issues related to documentation are marked with the [`documentation`](https://github.com/scribe-org/scribe-i18n/labels/documentation) label.
+Documentation is an invaluable way to contribute to coding projects as it allows others to more easily understand the project structure and contribute. Issues related to documentation are marked with the [`documentation`](https://github.com/scribe-org/Scribe-i18n/labels/documentation) label.

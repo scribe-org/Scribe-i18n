@@ -1,6 +1,6 @@
 # Changelog
 
-See the [releases for scribe-i18n](https://github.com/scribe-org/scribe-i18n/releases) for an up to date list of versions and their release dates.
+See the [releases for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/releases) for an up to date list of versions and their release dates.
 
 Scribe tries to follow [semantic versioning](https://semver.org/), a MAJOR.MINOR.PATCH version where increments are made of the:
 
@@ -10,4 +10,4 @@ Scribe tries to follow [semantic versioning](https://semver.org/), a MAJOR.MINOR
 
 Emojis for the following are chosen based on [gitmoji](https://gitmoji.dev/).
 
-# [Upcoming] scribe-i18n 1.0.0
+# [Upcoming] Scribe-i18n 1.0.0
