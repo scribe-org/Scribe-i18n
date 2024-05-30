@@ -1,1 +1,222 @@
-{}
+{
+  "about.appHints" : {
+    "translation" : "Reset app hints",
+    "comment" : "Title for the button to reset hints"
+  },
+  "about.bugReport" : {
+    "translation" : "Report a bug",
+    "comment" : "Title for the bug report button"
+  },
+  "about.community" : {
+    "translation" : "Community",
+    "comment" : "Heading for the community category"
+  },
+  "about.email" : {
+    "translation" : "Send us an email",
+    "comment" : "Title for the email button"
+  },
+  "about.feedback" : {
+    "translation" : "Feedback and support",
+    "comment" : "Heading for the feedback category"
+  },
+  "about.github" : {
+    "translation" : "See the code on GitHub",
+    "comment" : "Title for the GitHub button"
+  },
+  "about.legal" : {
+    "translation" : "Legal",
+    "comment" : "Title for the legal category"
+  },
+  "about.matrix" : {
+    "translation" : "Chat with the team on Matrix",
+    "comment" : "Title for the Matrix button"
+  },
+  "about.privacyPolicy" : {
+    "translation" : "Privacy policy",
+    "comment" : "Title for the privacy policy"
+  },
+  "about.privacyPolicy.body" : {
+    "translation" : "Please note that the English version of this policy takes precedence over all other versions.\n\nThe Scribe developers (SCRIBE) built the iOS application \"Scribe - Language Keyboards\" (SERVICE) as an open-source application. This SERVICE is provided by SCRIBE at no cost and is intended for use as is.\n\nThis privacy policy (POLICY) is used to inform the reader of the policies for the access, tracking, collection, retention, use, and disclosure of personal information (USER INFORMATION) and usage data (USER DATA) for all individuals who make use of this SERVICE (USERS).\n\nUSER INFORMATION is specifically defined as any information related to the USERS themselves or the devices they use to access the SERVICE.\n\nUSER DATA is specifically defined as any text that is typed or actions that are done by the USERS while using the SERVICE.\n\n1. Policy Statement\n\nThis SERVICE does not access, track, collect, retain, use, or disclose any USER INFORMATION or USER DATA.\n\n2. Do Not Track\n\nUSERS contacting SCRIBE to ask that their USER INFORMATION and USER DATA not be tracked will be provided with a copy of this POLICY as well as a link to all source codes as proof that they are not being tracked.\n\n3. Third-Party Data\n\nThis SERVICE makes use of third-party data. All data used in the creation of this SERVICE comes from sources that allow its full use in the manner done so by the SERVICE. Specifically, the data for this SERVICE comes from Wikidata, Wikipedia and Unicode. Wikidata states that, \"All structured data in the main, property and lexeme namespaces is made available under the Creative Commons CC0 License; text in other namespaces is made available under the Creative Commons Attribution-Share Alike License.\" The policy detailing Wikidata data usage can be found at https://www.wikidata.org/wiki/Wikidata:Licensing. Wikipedia states that text data, the type of data used by the SERVICE, \"... can be used under the terms of the Creative Commons Attribution Share-Alike license\". The policy detailing Wikipedia data usage can be found at https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content. Unicode provides permission, \"... free of charge, to any person obtaining a copy of the Unicode data files and any associated documentation (the \"Data Files\") or Unicode software and any associated documentation (the \"Software\") to deal in the Data Files or Software without restriction...\" The policy detailing Unicode data usage can be found at https://www.unicode.org/license.txt.\n\n4. Third-Party Source Code\n\nThis SERVICE was based on third-party code. All source code used in the creation of this SERVICE comes from sources that allow its full use in the manner done so by the SERVICE. Specifically, the basis of this project was the project CustomKeyboard by Ethan Sarif-Kattan. CustomKeyboard was released under an MIT license, with this license being available at https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE.\n\n5. Third-Party Services\n\nThis SERVICE makes use of third-party services to manipulate some of the third-party data. Specifically, data has been translated using models from Hugging Face transformers. This service is covered by an Apache License 2.0, which states that it is available for commercial use, modification, distribution, patent use, and private use. The license for the aforementioned service can be found at https://github.com/huggingface/transformers/blob/master/LICENSE.\n\n6. Third-Party Links\n\nThis SERVICE contains links to external websites. If USERS click on a third-party link, they will be directed to a website. Note that these external websites are not operated by this SERVICE. Therefore, USERS are strongly advised to review the privacy policy of these websites. This SERVICE has no control over and assumes no responsibility for the content, privacy policies, or practices of any third-party sites or services.\n\n7. Third-Party Images\n\nThis SERVICE contains images that are copyrighted by third-parties. Specifically, this app includes a copy of the logos of GitHub, Inc and Wikidata, trademarked by Wikimedia Foundation, Inc. The terms by which the GitHub logo can be used are found on https://github.com/logos, and the terms for the Wikidata logo are found on the following Wikimedia page: https://foundation.wikimedia.org/wiki/Policy:Trademark_policy. This SERVICE uses the copyrighted images in a way that matches these criteria, with the only deviation being a rotation of the GitHub logo that is common in the open-source community to indicate that there is a link to the GitHub website.\n\n8. Content Notice\n\nThis SERVICE allows USERS to access linguistic content (CONTENT). Some of this CONTENT could be deemed inappropriate for children and legal minors. Accessing CONTENT using the SERVICE is done in a way that the information is unavailable unless explicitly known. Specifically, USERS \"can\" translate words, conjugate verbs, and access other grammatical features of CONTENT that may be sexual, violent, or otherwise inappropriate in nature. USERS \"cannot\" translate words, conjugate verbs, and access other grammatical features of CONTENT that may be sexual, violent, or otherwise inappropriate in nature if they do not already know about the nature of this CONTENT. SCRIBE takes no responsibility for the access of such CONTENT.\n\n9. Changes\n\nThis POLICY is subject to change. Updates to this POLICY will replace all prior instances, and if deemed material will further be clearly stated in the next applicable update to the SERVICE. SCRIBE encourages USERS to periodically review this POLICY for the latest information on our privacy practices and to familiarize themselves with any changes.\n\n10. Contact\n\nIf you have any questions, concerns, or suggestions about this POLICY, do not hesitate to visit https://github.com/scribe-org or contact SCRIBE at scribe.langauge@gmail.com. The person responsible for such inquiries is Andrew Tavis McAllister.\n\n11. Effective Date\n\nThis POLICY is effective as of the 24th of May, 2022.",
+    "comment" : "Main text body of the privacy policy"
+  },
+  "about.privacyPolicy.caption" : {
+    "translation" : "Keeping you safe",
+    "comment" : "Caption for the privacy policy"
+  },
+  "about.rate" : {
+    "translation" : "Rate Scribe",
+    "comment" : "Title for the rate button"
+  },
+  "about.scribe" : {
+    "translation" : "View all Scribe apps",
+    "comment" : "Title for the Scribe Apps section"
+  },
+  "about.share" : {
+    "translation" : "Share Scribe",
+    "comment" : "Title for the share button"
+  },
+  "about.thirdParty" : {
+    "translation" : "Third-party licenses",
+    "comment" : "Title for the third party licenses"
+  },
+  "about.thirdParty.author" : {
+    "translation" : "Author",
+    "comment" : "Author of third party code"
+  },
+  "about.thirdParty.body" : {
+    "translation" : "The Scribe developers (SCRIBE) built\nthe iOS application \"Scribe - Language Keyboards\" (SERVICE) using third party code. All source code used in the creation of this SERVICE comes from sources that allow its full use in the manner done so by the SERVICE. This section lists the source code on which the SERVICE was based as well as the coinciding licenses of each.\n\nThe following is a list of all used source code, the main author or authors of the code, the license under which it was released at time of usage, and a link to the license.\n\n1. Custom Keyboard\n• Author: EthanSK\n• License: MIT\n• Link: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE",
+    "comment" : "Main text body for the third party license"
+  },
+  "about.thirdParty.caption" : {
+    "translation" : "Whose code we used",
+    "comment" : "Caption for the third party license"
+  },
+  "about.thirdParty.license" : {
+    "translation" : "License",
+    "comment" : "License of third party code"
+  },
+  "about.thirdParty.link" : {
+    "translation" : "Link",
+    "comment" : "Link to license of third party code"
+  },
+  "about.title" : {
+    "translation" : "About",
+    "comment" : "The title of the about tab"
+  },
+  "about.wikimedia" : {
+    "translation" : "Wikimedia and Scribe",
+    "comment" : "Title for the Wikimedia explanation"
+  },
+  "about.wikimedia.caption" : {
+    "translation" : "How we work together",
+    "comment" : "Caption for the Wikimedia explanation"
+  },
+  "about.wikimedia.text1" : {
+    "translation" : "Scribe would not be possible without countless contributions by Wikimedia contributors to the many projects that they support. Specifically Scribe makes use of data from the Wikidata Lexicographical data community, as well as data from Wikipedia for each language that Scribe supports.",
+    "comment" : "First paragraph of the Wikimedia explanation"
+  },
+  "about.wikimedia.text2" : {
+    "translation" : "Wikidata is a collaboratively edited multilingual knowledge graph hosted by the Wikimedia Foundation. It provides freely available data that anyone can use under a Creative Commons Public Domain license (CC0).  Scribe uses language data from Wikidata to provide users with verb conjugations, noun-form annotations, noun plurals, and many other features.",
+    "comment" : "Second paragraph of the Wikimedia explanation"
+  },
+  "about.wikimedia.text3" : {
+    "translation" : "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Scribe uses data from Wikipedia to produce autosuggestions by deriving the most common words in a language as well as the most common words that follow them.",
+    "comment" : "Third paragraph of the Wikimedia explanation"
+  },
+  "install.settingsLink" : {
+    "translation" : "Open Scribe settings",
+    "comment" : "Text for the link to the scribe section in the settings"
+  },
+  "install.settingsLinkOld" : {
+    "translation" : "Open Settings",
+    "comment" : "Text for the link to the scribe section in the settings on older iOS versions"
+  },
+  "install.text" : {
+    "translation" : "Select",
+    "comment" : "Main text for the installation screen"
+  },
+  "install.text2" : {
+    "translation" : "3. Activate keyboards that you want to use\n\n4. When typing press ",
+    "comment" : "Main text for the installation screen 2"
+  },
+  "install.text3" : {
+    "translation" : " to select keyboards",
+    "comment" : "Main text for the installation screen 3"
+  },
+  "install.textOld" : {
+    "translation" : "In",
+    "comment" : "Main text for the installation screen on older iOS versions"
+  },
+  "install.textOld2" : {
+    "translation" : "do the following",
+    "comment" : "Main text for the installation screen on older iOS versions 2"
+  },
+  "install.textOld3" : {
+    "translation" : "Add New Keyboard\n\n3. Select",
+    "comment" : "Main text for the installation screen on older iOS versions 3"
+  },
+  "install.textOld4" : {
+    "translation" : "and then activate keyboards\n\n4. When typing, press ",
+    "comment" : "Main text for the installation screen on older iOS versions 4"
+  },
+  "install.textOld5" : {
+    "translation" : "to select keyboards",
+    "comment" : "Main text for the installation screen on older iOS versions 5"
+  },
+  "install.title" : {
+    "translation" : "Keyboard installation",
+    "comment" : "Title of the keyboard installation screen"
+  },
+  "keyboard" : {
+    "translation" : "Keyboard",
+    "comment" : "Keyboard button in the settings"
+  },
+  "keyboards" : {
+    "translation" : "Keyboards",
+    "comment" : "Keyboards button in the settings"
+  },
+  "settings.appSettings" : {
+    "translation" : "App settings",
+    "comment" : "The title of the app settings section"
+  },
+  "settings.appSettings.appLanguage" : {
+    "translation" : "App language",
+    "comment" : "Change the language of the Scribe App"
+  },
+  "settings.functionality" : {
+    "translation" : "Functionality",
+    "comment" : "The title of the functionality section"
+  },
+  "settings.functionality.autoSuggestEmoji" : {
+    "translation" : "Autosuggest emojis",
+    "comment" : "Toggles the suggestion of Emoji"
+  },
+  "settings.general" : {
+    "translation" : "General",
+    "comment" : "General section of system settings"
+  },
+  "settings.installedKeyboards" : {
+    "translation" : "Select installed keyboard",
+    "comment" : "The title of the installed keyboards section"
+  },
+  "settings.layout" : {
+    "translation" : "Layout",
+    "comment" : "The title of the layout section"
+  },
+  "settings.layout.autoSuggestEmoji.description" : {
+    "translation" : "Turn on emoji suggestions and completions for more expressive typing.",
+    "comment" : ""
+  },
+  "settings.layout.disableAccentCharacters" : {
+    "translation" : "Disable accent characters",
+    "comment" : "Toggles accented characters for the selected keyboard"
+  },
+  "settings.layout.disableAccentCharacters.description" : {
+    "translation" : "Include accented letter keys on the primary keyboard layout.",
+    "comment" : ""
+  },
+  "settings.layout.periodAndComma" : {
+    "translation" : "Period and comma on ABC",
+    "comment" : "Toggles period and commas for the selected keyboard"
+  },
+  "settings.layout.periodAndComma.description" : {
+    "translation" : "Include comma and period keys on the main keyboard for convenient typing.",
+    "comment" : ""
+  },
+  "settings.title" : {
+    "translation" : "Settings",
+    "comment" : "The title for the settings screen"
+  },
+  "wikidataExplanation1" : {
+    "translation" : "Wikidata is a collaboratively edited knowledge graph that's maintained by the Wikimedia Foundation. It serves as a source of open data for projects like Wikipedia and countless others.",
+    "comment" : "First page of the wikidata explanation for missing words/conjugations"
+  },
+  "wikidataExplanation2" : {
+    "translation" : "Scribe uses Wikidata's language data for many of its core features. We get information like noun genders, verb conjugations and much more!",
+    "comment" : "Second page of the wikidata explanation for missing words/conjugations"
+  },
+  "wikidataExplanation3" : {
+    "translation" : "You can make an account at wikidata.org to join the community that's supporting Scribe and so many other projects. Help us bring free information to the world!",
+    "comment" : "Last page of the wikidata explanation for missing words/conjugations"
+  }
+}
