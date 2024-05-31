@@ -51,4 +51,4 @@ for key in file:
 data += (f'  }},\n'
          f'  "version" : "1.0"\n'
          f'}}\n')
-open('/Users/marcelmehl/GitHub/Scribe-iOS/Scribe/Resources/Localizable.xcstrings', 'w').write(data)
+open('placeholder', 'w').write(data)
