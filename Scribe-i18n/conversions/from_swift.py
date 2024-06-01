@@ -2,7 +2,8 @@ import os
 import json
 import requests
 
-url = 'https://github.com/scribe-org/Scribe-iOS/raw/606a67a0fa3f665349f2402ef265e743c015b588/Scribe/Resources/Localizable.xcstrings'
+url = ('https://github.com/scribe-org/Scribe-iOS/raw/606a67a0fa3f665349f2402ef265e743c015b588/Scribe/Resources'
+       '/Localizable.xcstrings')
 response = requests.get(url)
 
 if response.status_code == 200:
