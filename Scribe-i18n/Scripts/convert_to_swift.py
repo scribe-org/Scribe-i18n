@@ -51,4 +51,4 @@ for key in file:
 data += (f'  }},\n'
          f'  "version" : "1.0"\n'
          f'}}\n')
-open('placeholder', 'w').write(data)
+open(os.path.join(directory, "Localizable.xcstrings"), 'w').write(data)
