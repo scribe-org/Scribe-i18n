@@ -26,17 +26,21 @@ for key in file:
         translation = (langfile[key]["translation"]
                        .replace('"', '\\"')
                        .replace('\n', '\\n'))
-        if translation != '':
-            data += (f'        "{lang}" : {{\n'
-                     f'          "stringUnit" : {{\n'
-                     f'            "state" : "translated",\n'
-                     f'            "value" : "{translation}"\n'
-                     f'          }}\n'
-                     f'        }}')
-            if lang != langlist[len(langlist) - 1]:
-                data += ',\n'
-            else:
-                data += '\n'
+        if translation == '':
+            state = ''
+            translation = key
+        else:
+            state = 'translated'
+        data += (f'        "{lang}" : {{\n'
+                 f'          "stringUnit" : {{\n'
+                 f'            "state" : "{state}",\n'
+                 f'            "value" : "{translation}"\n'
+                 f'          }}\n'
+                 f'        }}')
+        if lang != langlist[len(langlist) - 1]:
+            data += ',\n'
+        else:
+            data += '\n'
 
     if pos < len(file):
         data += ('      }\n'
