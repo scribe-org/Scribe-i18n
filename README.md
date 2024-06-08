@@ -172,7 +172,7 @@ The Scribe road map can be followed in the organization's [project board](https:
 > [!NOTE]\
 > Consider joining our [bi-weekly developer syncs](https://etherpad.wikimedia.org/p/scribe-dev-sync)!
 
-# Powered By
+# Powered By [`⇧`](#contents)
 
 ### Contributors
 
