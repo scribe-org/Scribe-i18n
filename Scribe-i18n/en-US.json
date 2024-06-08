@@ -1,1 +1,4 @@
-{ "hello-world": "Hello, world!" }
+{
+    "hello-world": "Hello, world!",
+    "hello-world1": "Hello, world!"
+}
