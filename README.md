@@ -11,7 +11,7 @@
 
 ## Application text localization files for Scribe apps
 
-**Scribe-i18n** is the home of the localization files that are included in each Scribe application. Scribe uses [Weblate](https://weblate.org/en/) for localization! Head over to [weblate.org/projects/scribe/scribe-i18n](https://hosted.weblate.org/projects/scribe/scribe-i18n) to localize the applications. Changes in this directory will be merged into other Scribe applications via this repo being a [Git Subtree](https://docs.github.com/en/get-started/using-git/about-git-subtree-merges).
+**Scribe-i18n** is the home of the localization files that are included in each Scribe application. Scribe uses [Weblate](https://weblate.org/en/) for localization! Head over to [weblate.org/projects/scribe/scribe-i18n](https://hosted.weblate.org/projects/scribe/scribe-i18n) to localize the applications. Changes in this directory will be merged into other Scribe applications via this repo being a [Git subtree](https://docs.github.com/en/get-started/using-git/about-git-subtree-merges).
 
 > [!NOTE]\
 > The [contributing](#contributing) section has information for those interested.
@@ -72,7 +72,7 @@ The [issue tracker for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/is
 
    - You can also make use of Automatic suggestions to see machine translations if you need help
 
-5. Hit `Save and continue` when you're ready to move to the next
+5. Hit `Save and continue` when you're ready to move to the next string
 
 6. Maintainers will open up pull requests from [Weblate](https://weblate.org/en/) to this repo
 
@@ -170,7 +170,7 @@ After your first few pull requests organization members would be happy to discus
 The Scribe road map can be followed in the organization's [project board](https://github.com/orgs/scribe-org/projects/1) where we list the most important issues along with their priority, status and an indication of which sub projects they're included in (if applicable).
 
 > [!NOTE]\
-> Consider joining our [bi-weekly developer sync](https://etherpad.wikimedia.org/p/scribe-dev-sync)!
+> Consider joining our [bi-weekly developer syncs](https://etherpad.wikimedia.org/p/scribe-dev-sync)!
 
 # Powered By
 
