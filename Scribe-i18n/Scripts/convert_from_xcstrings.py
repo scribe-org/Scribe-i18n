@@ -18,19 +18,13 @@ for lang in langlist:
     for key in strings:
         pos += 1
         translation = ''
-        if lang in json_file["strings"][key]["localizations"]:
+        if (lang in json_file["strings"][key]["localizations"]
+                and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"] != ""
+                and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"] != key):
             translation = (json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"]
                            .replace('"', '\\"')
                            .replace('\n', '\\n'))
-        comment = ''
-        if "comment" in json_file["strings"][key]:
-            comment = (json_file["strings"][key]["comment"]
-                       .replace('"', '\\"')
-                       .replace('\n', '\\n'))
-        data += (f'  "{key}" : {{\n'
-                 f'    "translation" : "{translation}",\n'
-                 f'    "comment" : "{comment}"\n'
-                 f'  }}')
+        data += f'  "{key}" : "{translation}"'
         if pos < len(json_file["strings"]):
             data += ',\n'
         else:

@@ -15,32 +15,32 @@ pos = 0
 for key in file:
     pos += 1
     data += (f'    "{key}" : {{\n'
-             f'      "comment" : "{(file[key]["comment"]
-                                    .replace('"', '\\"')
-                                    .replace('\n', '\\n'))}",\n'
+             f'      "comment" : "",\n'
              f'      "localizations" : {{\n')
     for lang in langlist:
-        langfile = json.loads(open(os.path.join(directory, f'{lang}.json'), 'r').read())
-        if lang == 'en-US':
-            lang = 'en'
-        translation = (langfile[key]["translation"]
-                       .replace('"', '\\"')
-                       .replace('\n', '\\n'))
-        if translation == '':
-            state = ''
-            translation = key
-        else:
-            state = 'translated'
-        data += (f'        "{lang}" : {{\n'
-                 f'          "stringUnit" : {{\n'
-                 f'            "state" : "{state}",\n'
-                 f'            "value" : "{translation}"\n'
-                 f'          }}\n'
-                 f'        }}')
-        if lang != langlist[len(langlist) - 1]:
-            data += ',\n'
-        else:
-            data += '\n'
+        if lang != 'en-US':
+            langfile = json.loads(open(os.path.join(directory, f'{lang}.json'), 'r').read())
+            translation = (langfile[key]
+                           .replace('"', '\\"')
+                           .replace('\n', '\\n'))
+            if translation != '':
+                data += (f'        "{lang}" : {{\n'
+                         f'          "stringUnit" : {{\n'
+                         f'            "state" : "",\n'
+                         f'            "value" : "{translation}"\n'
+                         f'          }}\n'
+                         f'        }},\n')
+
+    langfile = json.loads(open(os.path.join(directory, f'en-US.json'), 'r').read())
+    translation = (langfile[key]
+                   .replace('"', '\\"')
+                   .replace('\n', '\\n'))
+    data += (f'        "en" : {{\n'
+             f'          "stringUnit" : {{\n'
+             f'            "state" : "",\n'
+             f'            "value" : "{translation}"\n'
+             f'          }}\n'
+             f'        }}\n')
 
     if pos < len(file):
         data += ('      }\n'
@@ -51,5 +51,5 @@ for key in file:
 
 data += (f'  }},\n'
          f'  "version" : "1.0"\n'
-         f'}}\n')
+         f'}}')
 open(os.path.join(directory, "Localizable.xcstrings"), 'w').write(data)
