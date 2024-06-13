@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
       - shell: pwsh
         id: check_file_changed
         run: |
@@ -22,7 +24,7 @@ jobs:
           $SourceDiff = $diff | Where-Object { $_ -match '^Scribe-i18n/' -and $_ -match '.json$' }
           $HasDiff = $SourceDiff.Length -gt 0
 
-          Write-Host "::set-output name=json_changed::$HasDiff"
+          Write-Host "json_changed=$HasDiff >> $GITHUB_OUTPUT"
 
   # Run xcstrings conversion script if needed.
   conditional_job:
