@@ -45,7 +45,7 @@
     "settings.layout": "Layout",
     "settings.layout.autoSuggestEmoji.description": "Turn on emoji suggestions and completions for more expressive typing.",
     "settings.layout.disableAccentCharacters": "Disable accent characters",
-    "settings.layout.disableAccentCharacters.description": "Include accented letter keys on the primary keyboard layout.",
+    "settings.layout.disableAccentCharacters.description": "Remove accented letter keys on the primary keyboard layout.",
     "settings.layout.periodAndComma": "Period and comma on ABC",
     "settings.layout.periodAndComma.description": "Include comma and period keys on the main keyboard for convenient typing.",
     "settings.title": "Settings",
@@ -53,5 +53,14 @@
     "swedish": "Swedish",
     "wikidataExplanation1": "Wikidata is a collaboratively edited knowledge graph that's maintained by the Wikimedia Foundation. It serves as a source of open data for projects like Wikipedia and countless others.",
     "wikidataExplanation2": "Scribe uses Wikidata's language data for many of its core features. We get information like noun genders, verb conjugations and much more!",
-    "wikidataExplanation3": "You can make an account at wikidata.org to join the community that's supporting Scribe and so many other projects. Help us bring free information to the world!"
+    "wikidataExplanation3": "You can make an account at wikidata.org to join the community that's supporting Scribe and so many other projects. Help us bring free information to the world!",
+    "installation": {
+        "appHint": "Follow the directions below to install Scribe keyboards on your device."
+    },
+    "settings": {
+        "appHint": "Settings for the app and installed language keyboards are found here."
+    },
+    "about": {
+        "appHint": "Here's where you can learn more about Scribe and its community."
+    }
 }
