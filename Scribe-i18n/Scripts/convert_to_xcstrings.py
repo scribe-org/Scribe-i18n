@@ -24,7 +24,10 @@ for pos, key in enumerate(file, start=1):
             lang_json = json.loads(
                 open(os.path.join(directory, f"{lang}.json"), "r").read()
             )
-            translation = lang_json[key].replace('"', '\\"').replace("\n", "\\n")
+            if key in lang_json:
+                translation = lang_json[key].replace('"', '\\"').replace("\n", "\\n")
+            else:
+                translation = ""
             if translation != "":
                 data += (
                     f'        "{lang}" : {{\n'
