@@ -350,7 +350,7 @@
         }
       }
     },
-    "install.settingsLink" : {
+    "installation.settingsLink" : {
       "comment" : "",
       "localizations" : {
         "en" : {
@@ -361,7 +361,7 @@
         }
       }
     },
-    "install.text" : {
+    "installation.text" : {
       "comment" : "",
       "localizations" : {
         "en" : {
@@ -372,7 +372,7 @@
         }
       }
     },
-    "install.text2" : {
+    "installation.text2" : {
       "comment" : "",
       "localizations" : {
         "en" : {
@@ -383,7 +383,7 @@
         }
       }
     },
-    "install.text3" : {
+    "installation.text3" : {
       "comment" : "",
       "localizations" : {
         "en" : {
@@ -394,7 +394,7 @@
         }
       }
     },
-    "install.title" : {
+    "installation.title" : {
       "comment" : "",
       "localizations" : {
         "en" : {
