@@ -1,4 +1,5 @@
 {
+    "_global.english": "Engelska",
     "_global.french": "Franska",
     "_global.german": "Tyska",
     "_global.italian": "Italienska",
@@ -6,6 +7,7 @@
     "_global.russian": "Ryska",
     "_global.spanish": "Spanska",
     "_global.swedish": "Svenska",
+    "app.about.appHint": "Här kan du lära dig mer om Scribe och dess community.",
     "app.about.appHints": "Återställ app-tips",
     "app.about.bugReport": "Rapportera ett fel",
     "app.about.community": "Community",
@@ -33,12 +35,14 @@
     "app.about.wikimedia.text2": "Wikidata är en flerspråkig kunskapsgraf som underhålls kollektivt. Den hostas av Wikimedia Foundation. Den tillhandahåller data som kan användas under Creative Commons Public Domain-licensen (CC0). Scribe använder sig av språk-relaterad data från Wikidata för att ge användare tillgång till diverse grammatiska funktioner.",
     "app.about.wikimedia.text3": "Wikipedia är en flerspråkig gratis online-encyklopedi skriven och underhållen av en gemenskap av volontärer genom öppet samarbete och ett wiki-baserat redigeringssystem. Scribe använder data från Wikipedia för att producera autoförslag genom att härleda de vanligaste orden i ett språk samt de vanligaste orden som följer dem.",
     "app.install": "Installation",
+    "app.installation.appHint": "Följ instruktionerna nedan för att installera Scribe-tangentbord på din enhet.",
     "app.installation.settingsLink": "Öppna Scribe-inställningar",
     "app.installation.text1": "Välj",
     "app.installation.text2": "Aktivera tangenbort som du vill använda\n\n4. Medans du skriver, tryck",
     "app.installation.text3": "För att välja tangentbord",
     "app.installation.title": "Tangentbords-installation",
     "app.keyboards": "Tangentbord",
+    "app.settings.appHint": "Inställningar för appen och installerade tangentbord finns här.",
     "app.settings.appSettings": "App-inställningar",
     "app.settings.appSettings.appLanguage": "App-språk",
     "app.settings.functionality": "Funktionalitet",
@@ -51,10 +55,10 @@
     "app.settings.layout.periodAndComma": "Punk och komma på ABC",
     "app.settings.layout.periodAndComma.description": "Inkludera komma- och punkttangenter på huvudtangentbordet för att underlätta skrivandet.",
     "app.settings.title": "Inställningar",
+    "app.settings.translation": "Översättning",
+    "app.settings.translation.translateLang": "Språk för översättning",
+    "app.settings.translation.translateLang.caption": "Välj ett språk att översätta ifrån",
     "app.wikidataExplanation1": "Wikidata är en gemensamt redigerad kunskapsgraf som underhålls av Wikimedia Foundation. Det fungerar som en källa till öppen data för projekt som Wikipedia och flera andra.",
     "app.wikidataExplanation2": "Scribe använder Wikidatas språkdata för många av sina kärnfunktioner. Vi får information som substantiv, genus, verbböjningar och mycket mer!",
-    "app.wikidataExplanation3": "Du kan skapa ett konto på wikidata.org för att gå med i communityn som stöder Scribe och så många andra projekt. Hjälp oss att ge gratis information till världen!",
-    "app.about.appHint": "Här kan du lära dig mer om Scribe och dess community.",
-    "app.installation.appHint": "Följ instruktionerna nedan för att installera Scribe-tangentbord på din enhet.",
-    "app.settings.appHint": "Inställningar för appen och installerade tangentbord finns här."
+    "app.wikidataExplanation3": "Du kan skapa ett konto på wikidata.org för att gå med i communityn som stöder Scribe och så många andra projekt. Hjälp oss att ge gratis information till världen!"
 }
