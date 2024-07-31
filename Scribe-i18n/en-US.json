@@ -55,7 +55,6 @@
   "app.settings.layout.periodAndComma": "Period and comma on ABC",
   "app.settings.layout.periodAndComma.description": "Include comma and period keys on the main keyboard for convenient typing.",
   "app.settings.noLocales.message": "You only have one language installed on your device. Please install more languages in Settings and then you can select different localizations of Scribe.",
-  "app.settings.noLocales.title": "No locales installed",
   "app.settings.title": "Settings",
   "app.settings.translation": "Translation",
   "app.settings.translation.translateLang": "Translation language",
