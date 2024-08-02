@@ -1649,7 +1649,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Du har bara ett språk installerat på din enhet. Installera fler språk i Inställningar och sedan kan du välja olika lokaliseringar av Scribe."
+            "value" : "Du har bara ett språk installerat på din enhet. Installera fler språk i Inställningar och efter det kan du välja olika lokaliseringar av Scribe."
           }
         }
       }
