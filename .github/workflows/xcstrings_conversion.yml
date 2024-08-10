@@ -23,7 +23,8 @@ jobs:
           $SourceDiff = $diff | Where-Object { $_ -match '^Scribe-i18n/' -and $_ -match '.json$' }
           $HasDiff = $SourceDiff.Length -gt 0
           Write-Host "json_changed=$HasDiff" >> "$GITHUB_OUTPUT"
-  # Run xcstrings conversion script if needed.
+
+  # Run JSON to app strings conversion scripts if needed.
   conditional_job:
     runs-on: ubuntu-latest
     needs:
@@ -36,4 +37,5 @@ jobs:
           python-version: 3.12
       - name: Execute script to convert JSON to xcstrings
         run: |
-          python ./Scripts/convert_to_xcstrings.py
+          python ./Scripts/convert_jsons_to_strings.py
+          python ./Scripts/convert_jsons_to_xcstrings.py
