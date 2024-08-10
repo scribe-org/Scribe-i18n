@@ -5,6 +5,7 @@ Usage:
     python3 Scribe-i18n/Scripts/convert_strings_to_json.py
 """
 
+
 import os
 import json
 import re
@@ -18,12 +19,10 @@ regex = re.compile(r'<string name="(.*?)">(.*?)</string>', re.DOTALL)
 values_directory = os.path.join(directory, 'values')
 for lang in languages:
     path = os.path.join(values_directory, lang)
-    result = {}
     with open(f'{path}/string.xml', 'r') as file:
         content = file.read()
     matches = regex.findall(content)
-    for key, value in matches:
-        result[key] = value
+    result = dict(matches)
     with open(os.path.join(directory,f'{lang}.json'), 'w',encoding='utf-8') as file:
         json.dump(result, file, indent=4,ensure_ascii=False)
 
