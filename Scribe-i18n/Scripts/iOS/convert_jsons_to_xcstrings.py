@@ -3,13 +3,13 @@ Converts from Scribe-i18n localization JSON files to the Localizable.xcstrings f
 
 
 Usage:
-    python3 Scribe-i18n/Scripts/convert_jsons_to_xcstrings.py
+    python3 Scribe-i18n/Scripts/iOS/convert_jsons_to_xcstrings.py
 """
 
 import json
 import os
 
-directory = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 files = os.listdir(directory)
 languages = sorted(
     [file.replace(".json", "") for file in files if file.endswith(".json")]

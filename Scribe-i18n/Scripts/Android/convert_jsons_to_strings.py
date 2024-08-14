@@ -1,8 +1,8 @@
 """
-Converts from Scribe-i18n localization JSON files to the Strings files.
+Converts from Scribe-i18n localization JSON files to string.xml files.
 
 Usage:
-    python3 Scribe-i18n/Scripts/convert_jsons_to_strings.py
+    python3 Scribe-i18n/Scripts/Android/convert_jsons_to_strings.py
 """
 import os
 import json
@@ -15,7 +15,8 @@ def replace_special_characters(string):
     string = string.replace(">", "&gt;")
     return string
 
-directory = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 dir_list = os.listdir(directory)
 languages = sorted(
     [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
