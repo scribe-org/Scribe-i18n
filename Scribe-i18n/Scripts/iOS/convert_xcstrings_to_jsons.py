@@ -22,28 +22,19 @@ for lang in languages:
     json_file = json.loads(file)
     strings = json_file["strings"]
 
-    data = "{\n"
+    data = {}
     for pos, key in enumerate(strings, start=1):
         translation = ""
         if (
             lang in json_file["strings"][key]["localizations"]
-            and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"]
-            != ""
-            and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"]
-            != key
+            and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"] != ""
+            and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"] != key
         ):
-            translation = (
-                json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"]
-                .replace('"', '\\"')
-                .replace("\n", "\\n")
-            )
+            translation = json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"]
 
-        data += f'  "{key}" : "{translation}"'
-        data += ",\n" if pos < len(json_file["strings"]) else "\n"
+        data.update({key: translation})
 
-    data += "}\n"
-
-    dest.write(data)
+    json.dump(data, dest, indent=2, ensure_ascii=False)
 
 print(
     "Scribe-i18n Localizable.xcstrings file successfully converted to the localization JSON files."

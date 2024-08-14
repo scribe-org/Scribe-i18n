@@ -18,11 +18,10 @@ path = os.path.join(directory, "en-US.json")
 file = open(path, "r").read()
 file = json.loads(file)
 
-data = "{\n" '  "sourceLanguage" : "en",\n' '  "strings" : {\n'
-for pos, key in enumerate(file, start=1):
-    data += (
-        f'    "{key}" : {{\n' f'      "comment" : "",\n' f'      "localizations" : {{\n'
-    )
+data = {"sourceLanguage": "en"}
+strings = {}
+for key in file:
+    language = {}
 
     for lang in languages:
         lang_json = json.loads(
@@ -30,27 +29,19 @@ for pos, key in enumerate(file, start=1):
         )
 
         if key in lang_json:
-            translation = lang_json[key].replace('"', '\\"').replace("\n", "\\n")
+            translation = lang_json[key]
         else:
             translation = ""
 
         if lang == "en-US":
             lang = "en"
         if translation != "":
-            data += (
-                f'        "{lang}" : {{\n'
-                f'          "stringUnit" : {{\n'
-                f'            "state" : "",\n'
-                f'            "value" : "{translation}"\n'
-                f"          }}\n"
-                f"        }},\n"
-            )
+            language.update({lang: {"stringUnit": {"state": "", "value": translation}}})
+    strings.update({key: {"comment": "", "localizations": language}})
 
-    data = data[:-2]
-    data += "\n      }\n" "    },\n" if pos < len(file) else "      }\n" "    }\n"
-
-data += "  },\n" '  "version" : "1.0"\n' "}"
-open(os.path.join(directory, "Localizable.xcstrings"), "w").write(data)
+data.update({"strings": strings, "version": "1.0"})
+file = open(os.path.join(directory, "Localizable.xcstrings"), "w")
+json.dump(data, file, indent=2, ensure_ascii=False, separators=(',', ' : '))
 
 print(
     "Scribe-i18n localization JSON files successfully converted to the Localizable.xcstrings file."
