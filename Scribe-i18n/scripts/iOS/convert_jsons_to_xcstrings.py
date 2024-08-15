@@ -10,11 +10,11 @@ import json
 import os
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-files = os.listdir(directory)
+json_dir_list = os.listdir(os.path.join(directory, "jsons"))
 languages = sorted(
-    [file.replace(".json", "") for file in files if file.endswith(".json")]
+    [file.replace(".json", "") for file in json_dir_list if file.endswith(".json")]
 )
-path = os.path.join(directory, "en-US.json")
+path = os.path.join(os.path.join(directory, "jsons"), "en-US.json")
 file = open(path, "r").read()
 file = json.loads(file)
 
@@ -25,23 +25,20 @@ for key in file:
 
     for lang in languages:
         lang_json = json.loads(
-            open(os.path.join(directory, f"{lang}.json"), "r").read()
+            open(os.path.join(os.path.join(directory, "jsons"), f"{lang}.json"), "r").read()
         )
 
-        if key in lang_json:
-            translation = lang_json[key]
-        else:
-            translation = ""
-
+        translation = lang_json[key] if key in lang_json else ""
         if lang == "en-US":
             lang = "en"
         if translation != "":
-            language.update({lang: {"stringUnit": {"state": "", "value": translation}}})
-    strings.update({key: {"comment": "", "localizations": language}})
+            language[lang] = {"stringUnit": {"state": "", "value": translation}}
 
-data.update({"strings": strings, "version": "1.0"})
+    strings[key] = {"comment": "", "localizations": language}
+
+data |= {"strings": strings, "version": "1.0"}
 file = open(os.path.join(directory, "Localizable.xcstrings"), "w")
-json.dump(data, file, indent=2, ensure_ascii=False, separators=(',', ' : '))
+json.dump(data, file, indent=2, ensure_ascii=False, separators=(",", " : "))
 
 print(
     "Scribe-i18n localization JSON files successfully converted to the Localizable.xcstrings file."

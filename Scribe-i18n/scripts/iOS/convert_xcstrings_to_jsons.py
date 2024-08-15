@@ -5,14 +5,14 @@ Usage:
     python3 Scribe-i18n/scripts/ios/convert_xcstrings_to_jsons.py
 """
 
+
 import json
 import os
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 file = open(os.path.join(directory, "Localizable.xcstrings"), "r").read()
-files = os.listdir(directory)
-
-languages = [file.replace(".json", "") for file in files if file.endswith(".json")]
+dir_list = os.listdir(directory)
+languages = [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
 
 for lang in languages:
     dest = open(f"{directory}/{lang}.json", "w")
@@ -27,15 +27,19 @@ for lang in languages:
         translation = ""
         if (
             lang in json_file["strings"][key]["localizations"]
-            and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"] != ""
-            and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"] != key
+            and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"]
+            != ""
+            and json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"]
+            != key
         ):
-            translation = json_file["strings"][key]["localizations"][lang]["stringUnit"]["value"]
+            translation = json_file["strings"][key]["localizations"][lang][
+                "stringUnit"
+            ]["value"]
 
-        data.update({key: translation})
+        data[key] = translation
 
     json.dump(data, dest, indent=2, ensure_ascii=False)
-    dest.write('\n')
+    dest.write("\n")
 
 print(
     "Scribe-i18n Localizable.xcstrings file successfully converted to the localization JSON files."
