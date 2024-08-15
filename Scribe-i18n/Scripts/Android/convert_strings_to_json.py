@@ -34,6 +34,7 @@ for lang in languages:
     result = {key: unescape_special_characters(value) for key, value in result.items()}
     with open(os.path.join(directory, f'{lang}.json'), 'w', encoding='utf-8') as file:
         json.dump(result, file, indent=2, ensure_ascii=False)
+        file.write('\n')
 
 print(
     "Scribe-i18n localization strings files successfully converted to the JSON files."

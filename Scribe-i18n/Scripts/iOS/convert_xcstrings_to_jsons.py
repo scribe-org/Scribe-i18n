@@ -35,6 +35,7 @@ for lang in languages:
         data.update({key: translation})
 
     json.dump(data, dest, indent=2, ensure_ascii=False)
+    dest.write('\n')
 
 print(
     "Scribe-i18n Localizable.xcstrings file successfully converted to the localization JSON files."
