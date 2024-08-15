@@ -2,7 +2,7 @@
 Converts from string.xml files to Scribe-i18n localization JSON files.
 
 Usage:
-    python3 Scribe-i18n/Scripts/Android/convert_strings_to_json.py
+    python3 Scribe-i18n/scripts/android/convert_strings_to_json.py
 """
 
 import os

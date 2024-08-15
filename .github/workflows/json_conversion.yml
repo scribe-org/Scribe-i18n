@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'Scribe-i18n/**.json'
+      - "Scribe-i18n/jsons/**.json"
 
 jobs:
   # Run JSON to app strings conversion scripts if needed.
@@ -18,5 +18,5 @@ jobs:
           python-version: 3.12
       - name: Execute script to convert JSON to string files
         run: |
-          python ./Scripts/Android/convert_jsons_to_strings.py
-          python ./Scripts/iOS/convert_jsons_to_xcstrings.py
+          python scripts/android/convert_jsons_to_strings.py
+          python scripts/ios/convert_jsons_to_xcstrings.py

@@ -2,7 +2,7 @@
 Converts from the Scribe-i18n Localizable.xcstrings file to localization JSON files.
 
 Usage:
-    python3 Scribe-i18n/Scripts/iOS/convert_xcstrings_to_jsons.py
+    python3 Scribe-i18n/scripts/ios/convert_xcstrings_to_jsons.py
 """
 
 import json
