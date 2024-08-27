@@ -15,6 +15,7 @@ def unescape_special_characters(string):
     string = string.replace("&lt;", "<")
     string = string.replace("&amp;", "&")
     string = string.replace("\\'", "'")
+    string = string.replace("\\n", "\n")
     return string
 
 
