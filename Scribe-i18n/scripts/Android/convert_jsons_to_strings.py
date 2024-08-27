@@ -14,6 +14,7 @@ def replace_special_characters(string):
     string = string.replace("&", "&amp;")
     string = string.replace("<", "&lt;")
     string = string.replace(">", "&gt;")
+    string = string.replace("\n", "\\n")
     return string
 
 
