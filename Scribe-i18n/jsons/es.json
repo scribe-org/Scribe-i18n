@@ -33,6 +33,8 @@
   "app.about.legal.third_party": "Licencias de terceros",
   "app.about.legal.third_party.author": "Autor",
   "app.about.legal.third_party.caption": "¿De quién es el código que utilizamos?",
+  "app.about.legal.third_party.entry_custom_keyboard": "Teclado personalizado\n- Autor: EthanSK\n- Licencia: MIT\n- Enlace: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE",
+  "app.about.legal.third_party.entry_simple_keyboard": "Teclado simple \n- Autor :Simple Mobile Tools\n- Licencia: GPL-3.0\n- Enlace: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE",
   "app.about.legal.third_party.license": "Licencia",
   "app.about.legal.third_party.link": "Enlace",
   "app.about.legal.third_party.text": "Los desarrolladores de Scribe (SCRIBE) han creado la aplicación iOS \"Scribe - Language Keyboards\" (SERVICIO) utilizando código de terceros. Todo el código fuente utilizado en la creación de este SERVICIO proviene de fuentes que permiten su uso completo en la forma en que lo hace el SERVICIO. En esta sección se enumera el código fuente en el que se basó el SERVICIO, así como las licencias coincidentes de cada uno.\n\nA continuación se muestra una lista de todo el código fuente utilizado, el autor o autores principales del código, la licencia bajo la cual fue publicado en el momento de su uso y un enlace a la licencia.\n\n1. Teclado personalizado\n• Autor: EthanSK\n• Licencia: MIT\n• Enlace: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE",
