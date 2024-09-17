@@ -9,7 +9,7 @@
 [![mastodon](https://img.shields.io/badge/Mastodon-6364FF.svg?logo=mastodon&logoColor=ffffff)](https://wikis.world/@scribe)
 [![matrix](https://img.shields.io/badge/Matrix-000000.svg?logo=matrix&logoColor=ffffff)](https://matrix.to/#/#scribe_community:matrix.org)
 
-## Application text localization files for Scribe apps
+### Application text localization files for Scribe apps
 
 **Scribe-i18n** is the home of the localization files that are included in each Scribe application. Scribe uses [Weblate](https://weblate.org/en/) for localization! Head over to [weblate.org/projects/scribe/scribe-i18n](https://hosted.weblate.org/projects/scribe/scribe-i18n) to localize the applications. Changes in this directory will be merged into other Scribe applications via this repo being a [Git subtree](https://docs.github.com/en/get-started/using-git/about-git-subtree-merges).
 
