@@ -95,7 +95,7 @@
   "app.settings.keyboard.layout.disable_accent_characters": "Deshabilitar caracteres acentuados",
   "app.settings.keyboard.layout.disable_accent_characters_description": "Elimine las teclas de los letras acentuadas en la distribución del teclado principal.",
   "app.settings.keyboard.layout.period_and_comma": "Punto y coma en ABC",
-  "app.settings.keyboard.layout.period_and_comma_description": "Agrega teclas de punto y coma al teclado principal para escribir más cómodamente.",
+  "app.settings.keyboard.layout.period_and_comma_description": "Incluye teclas de punto y coma en el teclado principal para escribir cómodamente.",
   "app.settings.keyboard.layout.title": "Disposición",
   "app.settings.keyboard.title": "Seleccionar el teclado instalado",
   "app.settings.keyboard.translation.select_source": "Seleccionar idioma",
