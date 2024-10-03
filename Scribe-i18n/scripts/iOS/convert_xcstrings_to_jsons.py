@@ -23,9 +23,12 @@ except FileNotFoundError:
 dir_list = os.listdir(directory)
 languages = [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
 
+# Ensure the destination directory exists
+if not os.path.exists(directory):
+    os.makedirs(directory)
+
 for lang in languages:
-    if lang == "en-US":
-        lang = "en"
+    lang = "en" if lang == "en-US" else lang
 
     # Attempt to load the JSON data
     try:
