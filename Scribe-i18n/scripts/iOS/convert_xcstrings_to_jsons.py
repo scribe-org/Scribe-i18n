@@ -28,7 +28,13 @@ for lang in languages:
     if lang == "en-US":
         lang = "en"
 
-    json_file = json.loads(file)
+    # Attempt to load the JSON data
+    try:
+        json_file = json.loads(file)
+    except json.JSONDecodeError:
+        print("Error: The Localizable.xcstrings file is not valid JSON.")
+        exit(1)
+
     strings = json_file["strings"]
 
     data = {}
