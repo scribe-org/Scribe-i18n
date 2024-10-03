@@ -24,7 +24,6 @@ dir_list = os.listdir(directory)
 languages = [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
 
 for lang in languages:
-    dest = open(f"{directory}/{lang}.json", "w")
     if lang == "en-US":
         lang = "en"
 
@@ -53,8 +52,11 @@ for lang in languages:
 
         data[key] = translation
 
-    json.dump(data, dest, indent=2, ensure_ascii=False)
-    dest.write("\n")
+    # Write to the destination JSON file using a context manager
+    with open(f"{directory}/{lang}.json", "w") as dest:
+        json.dump(data, dest, indent=2, ensure_ascii=False)
+        dest.write("\n")
+
 
 print(
     "Scribe-i18n Localizable.xcstrings file successfully converted to the localization JSON files."
