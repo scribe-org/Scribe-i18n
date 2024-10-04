@@ -12,20 +12,21 @@ import os
 # Determine the directory
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+# Ensure the "jsons" folder exists inside the directory
+jsons_folder = os.path.join(directory, "jsons")
+if not os.path.exists(jsons_folder):
+    os.makedirs(jsons_folder)
+
 # Read the Localizable.xcstrings file
 try:
-    with open(os.path.join(directory, "Localizable.xcstrings"), "r") as f:
+    with open(os.path.join(jsons_folder, "Localizable.xcstrings"), "r") as f:
         file = f.read()
 except FileNotFoundError:
     print("Error: Localizable.xcstrings file not found.")
     exit(1)
 
-dir_list = os.listdir(directory)
+dir_list = os.listdir(jsons_folder)
 languages = [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
-
-# Ensure the destination directory exists
-if not os.path.exists(directory):
-    os.makedirs(directory)
 
 for lang in languages:
     lang = "en" if lang == "en-US" else lang
@@ -56,7 +57,7 @@ for lang in languages:
         data[key] = translation
 
     # Write to the destination JSON file using a context manager
-    with open(f"{directory}/{lang}.json", "w") as dest:
+    with open(f"{jsons_folder}/{lang}.json", "w") as dest:
         json.dump(data, dest, indent=2, ensure_ascii=False)
         dest.write("\n")
 
