@@ -40,7 +40,7 @@ Check out Scribe's [architecture diagrams](https://github.com/scribe-org/Organiz
 
 # Contributing [`⇧`](#contents)
 
-Thank you for your interest in contributing to Scribe-i18n! We look forward to welcoming you to the community and working with you to build an tools for language learners to communicate effectively :) The following are some suggested steps for people interested in joining our community.
+Thank you for your interest in contributing to Scribe-i18n! We look forward to welcoming you to the community and working with you to build tools for language learners to communicate effectively :) The following are some suggested steps for people interested in joining our community.
 
 Following these guidelines helps to communicate that you respect the time of the developers managing and developing this open-source project. In return, and in accordance with this project's [code of conduct](https://github.com/scribe-org/Scribe-i18n/blob/main/.github/CODE_OF_CONDUCT.md), other contributors will reciprocate that respect in addressing your issue or assessing changes and features.
 
