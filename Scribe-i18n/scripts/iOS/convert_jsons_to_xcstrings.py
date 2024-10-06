@@ -28,18 +28,20 @@ with open(os.path.join(jsons_folder, "en-US.json"), "r") as json_file:
 
 data = {"sourceLanguage": "en"}
 strings = {}
-for key in file:
+
+# Pre-load all JSON files into a dictionary
+lang_data = {}
+for lang in languages:
+    with open(os.path.join(jsons_folder, f"{lang}.json"), "r") as lang_file:
+        lang_data[lang] = json.load(lang_file)
+
+for key in file:          # Iterate over each key in the base language file
     language = {}
-
-    for lang in languages:
-        with open(os.path.join(jsons_folder, f"{lang}.json"), "r") as lang_file:
-            lang_json = json.load(lang_file)
-
-
-        translation = lang_json[key] if key in lang_json else ""
+    for lang, lang_json in lang_data.items():  # Use already loaded language data
+        translation = lang_json.get(key, "")   # Access the translation
         if lang == "en-US":
             lang = "en"
-        if translation != "":
+        if translation:
             language[lang] = {"stringUnit": {"state": "", "value": translation}}
 
     strings[key] = {"comment": "", "localizations": language}
