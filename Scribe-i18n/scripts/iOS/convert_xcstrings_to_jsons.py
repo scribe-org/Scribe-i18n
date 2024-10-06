@@ -9,18 +9,18 @@ Usage:
 import json
 import os
 
-# Determine the directory
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-# Ensure the "jsons" folder exists inside the directory
+# Ensure the "jsons" folder exists inside the directory.
 jsons_folder = os.path.join(directory, "jsons")
 if not os.path.exists(jsons_folder):
     os.makedirs(jsons_folder)
 
-# Read the Localizable.xcstrings file
+# Read the Localizable.xcstrings file.
 try:
-    with open(os.path.join(jsons_folder, "Localizable.xcstrings"), "r") as f:
+    with open(os.path.join(directory, "Localizable.xcstrings"), "r") as f:
         file = f.read()
+
 except FileNotFoundError:
     print("Error: Localizable.xcstrings file not found.")
     exit(1)
@@ -31,9 +31,10 @@ languages = [file.replace(".json", "") for file in dir_list if file.endswith(".j
 for lang in languages:
     lang = "en" if lang == "en-US" else lang
 
-    # Attempt to load the JSON data
+    # Attempt to load the JSON data.
     try:
         json_file = json.loads(file)
+
     except json.JSONDecodeError:
         print("Error: The Localizable.xcstrings file is not valid JSON.")
         exit(1)
@@ -56,11 +57,11 @@ for lang in languages:
 
         data[key] = translation
 
-    # Write to the destination JSON file using a context manager
+    lang = "en-US" if lang == "en" else lang
+    # Write to the destination JSON file using a context manager.
     with open(f"{jsons_folder}/{lang}.json", "w") as dest:
         json.dump(data, dest, indent=2, ensure_ascii=False)
         dest.write("\n")
-
 
 print(
     "Scribe-i18n Localizable.xcstrings file successfully converted to the localization JSON files."
