@@ -27,7 +27,7 @@ languages = sorted(
 # Load the base language file safely
 try:
     with open(os.path.join(jsons_folder, "en-US.json"), "r") as json_file:
-        file = json.load(json_file)
+        base_language_data = json.load(json_file)
 except FileNotFoundError:
     print("Error: The base language file 'en-US.json' does not exist.")
     exit(1)
@@ -42,7 +42,7 @@ for lang in languages:
     with open(os.path.join(jsons_folder, f"{lang}.json"), "r") as lang_file:
         lang_data[lang] = json.load(lang_file)
 
-for key in file:          # Iterate over each key in the base language file
+for key in base_language_data:          # Iterate over each key in the base language file
     language = {}
     for lang, lang_json in lang_data.items():  # Use already loaded language data
         translation = lang_json.get(key, "")   # Access the translation
