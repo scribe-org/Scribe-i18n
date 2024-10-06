@@ -10,13 +10,20 @@ import json
 import os
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-json_dir_list = os.listdir(os.path.join(directory, "jsons"))
+# Define the path to the "jsons" folder
+jsons_folder = os.path.join(directory, "jsons")
+
+# Ensure the "jsons" folder exists inside the directory
+if not os.path.exists(jsons_folder):
+    os.makedirs(jsons_folder)
+
+json_dir_list = os.listdir(jsons_folder)
 languages = sorted(
     [file.replace(".json", "") for file in json_dir_list if file.endswith(".json")]
 )
-path = os.path.join(os.path.join(directory, "jsons"), "en-US.json")
 
-with open(path, "r") as json_file:
+# Load the base language file safely
+with open(os.path.join(jsons_folder, "en-US.json"), "r") as json_file:
     file = json.load(json_file)
 
 data = {"sourceLanguage": "en"}
@@ -25,9 +32,9 @@ for key in file:
     language = {}
 
     for lang in languages:
-        lang_json = json.loads(
-            open(os.path.join(os.path.join(directory, "jsons"), f"{lang}.json"), "r").read()
-        )
+        with open(os.path.join(jsons_folder, f"{lang}.json"), "r") as lang_file:
+            lang_json = json.load(lang_file)
+
 
         translation = lang_json[key] if key in lang_json else ""
         if lang == "en-US":
