@@ -25,8 +25,13 @@ languages = sorted(
 )
 
 # Load the base language file safely
-with open(os.path.join(jsons_folder, "en-US.json"), "r") as json_file:
-    file = json.load(json_file)
+try:
+    with open(os.path.join(jsons_folder, "en-US.json"), "r") as json_file:
+        file = json.load(json_file)
+except FileNotFoundError:
+    print("Error: The base language file 'en-US.json' does not exist.")
+    exit(1)
+
 
 data = {"sourceLanguage": "en"}
 strings = {}
