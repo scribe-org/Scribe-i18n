@@ -15,8 +15,9 @@ languages = sorted(
     [file.replace(".json", "") for file in json_dir_list if file.endswith(".json")]
 )
 path = os.path.join(os.path.join(directory, "jsons"), "en-US.json")
-file = open(path, "r").read()
-file = json.loads(file)
+
+with open(path, "r") as json_file:
+    file = json.load(json_file)
 
 data = {"sourceLanguage": "en"}
 strings = {}
@@ -37,8 +38,9 @@ for key in file:
     strings[key] = {"comment": "", "localizations": language}
 
 data |= {"strings": strings, "version": "1.0"}
-file = open(os.path.join(directory, "Localizable.xcstrings"), "w")
-json.dump(data, file, indent=2, ensure_ascii=False, separators=(",", " : "))
+
+with open(os.path.join(directory, "Localizable.xcstrings"), "w") as outfile:
+    json.dump(data, outfile, indent=2, ensure_ascii=False, separators=(",", " : "))
 
 print(
     "Scribe-i18n localization JSON files successfully converted to the Localizable.xcstrings file."
