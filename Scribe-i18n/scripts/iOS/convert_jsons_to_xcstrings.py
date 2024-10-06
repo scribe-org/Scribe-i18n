@@ -15,7 +15,9 @@ jsons_folder = os.path.join(directory, "jsons")
 
 # Ensure the "jsons" folder exists inside the directory
 if not os.path.exists(jsons_folder):
-    os.makedirs(jsons_folder)
+    print(f"Error: The folder '{jsons_folder}' does not exist. Please ensure the path is correct.")
+    exit(1)
+
 
 json_dir_list = os.listdir(jsons_folder)
 languages = sorted(
