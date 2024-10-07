@@ -10,10 +10,10 @@ import json
 import os
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 # Define the path to the "jsons" folder.
 jsons_folder = os.path.join(directory, "jsons")
 
-# Ensure the "jsons" folder exists inside the directory.
 if not os.path.exists(jsons_folder):
     print(f"Error: The folder '{jsons_folder}' does not exist. Please ensure the path is correct.")
     exit(1)
@@ -28,6 +28,7 @@ languages = sorted(
 try:
     with open(os.path.join(jsons_folder, "en-US.json"), "r") as json_file:
         base_language_data = json.load(json_file)
+
 except FileNotFoundError:
     print("Error: The base language file 'en-US.json' does not exist.")
     exit(1)
@@ -42,12 +43,13 @@ for lang in languages:
     with open(os.path.join(jsons_folder, f"{lang}.json"), "r") as lang_file:
         lang_data[lang] = json.load(lang_file)
 
-for key in base_language_data:          # iterate over each key in the base language file
+for key in base_language_data:
     language = {}
     for lang, lang_json in lang_data.items():  # use already loaded language data
-        translation = lang_json.get(key, "")   # access the translation
+        translation = lang_json.get(key, "")
         if lang == "en-US":
             lang = "en"
+
         if translation:
             language[lang] = {"stringUnit": {"state": "", "value": translation}}
 

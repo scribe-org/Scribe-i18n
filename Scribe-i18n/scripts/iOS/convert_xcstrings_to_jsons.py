@@ -58,7 +58,7 @@ for lang in languages:
         data[key] = translation
 
     lang = "en-US" if lang == "en" else lang
-    # Write to the destination JSON file using a context manager.
+
     with open(f"{jsons_folder}/{lang}.json", "w") as dest:
         json.dump(data, dest, indent=2, ensure_ascii=False)
         dest.write("\n")
