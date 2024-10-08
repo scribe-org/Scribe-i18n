@@ -43,7 +43,7 @@ for lang in languages:
 # Write each language to its corresponding string.xml file.
 for lang, translations in lang_data.items():
     # Define the directory for the current language.
-    lang_dir = os.path.join(values_directory, f"values-{lang}" if lang != "en" else "values")
+    lang_dir = os.path.join(values_directory, lang)
     os.makedirs(lang_dir, exist_ok=True)
 
     # Create and write to the string.xml file.
