@@ -10,11 +10,15 @@ import json
 
 
 def replace_special_characters(string):
+    """
+    Replaces special characters with those needed for XML file formatting.
+    """
     string = string.replace("'", "\\'")
     string = string.replace("&", "&amp;")
     string = string.replace("<", "&lt;")
     string = string.replace(">", "&gt;")
     string = string.replace("\n", "\\n")
+
     return string
 
 
