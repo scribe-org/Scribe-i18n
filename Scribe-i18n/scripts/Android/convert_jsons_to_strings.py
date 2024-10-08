@@ -19,7 +19,15 @@ def replace_special_characters(string):
 
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-json_dir_list = os.listdir(os.path.join(directory, "jsons"))
+
+# Define the path to the "jsons" folder.
+jsons_folder = os.path.join(directory, "jsons")
+
+if not os.path.exists(jsons_folder):
+    print(f"Error: The folder '{jsons_folder}' does not exist. Please ensure the path is correct.")
+    exit(1)
+
+json_dir_list = os.listdir(jsons_folder)
 languages = sorted(
     [file.replace(".json", "") for file in json_dir_list if file.endswith(".json")]
 )
@@ -35,7 +43,7 @@ for lang in languages:
         xml_file.write('<?xml version="1.0" encoding="utf-8"?>\n')
         xml_file.write("<resources>\n")
 
-        json_path = os.path.join(os.path.join(directory, "jsons"), f"{lang}.json")
+        json_path = os.path.join(jsons_folder, f"{lang}.json")
         with open(json_path, "r") as json_file:
             json_data = json_file.read()
             json_data = json.loads(json_data)
