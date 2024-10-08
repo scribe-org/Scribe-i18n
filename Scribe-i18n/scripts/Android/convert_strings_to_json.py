@@ -11,11 +11,15 @@ import re
 
 
 def unescape_special_characters(string):
+    """
+    Replaces escaped special characters with those needed for JSON file formatting.
+    """
     string = string.replace("&gt;", ">")
     string = string.replace("&lt;", "<")
     string = string.replace("&amp;", "&")
     string = string.replace("\\'", "'")
     string = string.replace("\\n", "\n")
+
     return string
 
 
