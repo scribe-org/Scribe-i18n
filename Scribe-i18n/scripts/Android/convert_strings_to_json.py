@@ -37,8 +37,11 @@ languages = sorted(
     [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
 )
 regex = re.compile(r'<string name="(.*?)">(.*?)</string>', re.DOTALL)
-values_directory = os.path.join(directory, "values")
 
+values_directory = os.path.join(directory, "values")
+if not os.path.exists(values_directory):
+    print(f"Error: The folder '{values_directory}' does not exist. Please ensure the path is correct.")
+    exit(1)
 for lang in languages:
     path = os.path.join(values_directory, lang)
     try:
