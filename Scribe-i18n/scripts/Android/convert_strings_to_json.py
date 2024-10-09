@@ -42,17 +42,17 @@ values_directory = os.path.join(directory, "values")
 if not os.path.exists(values_directory):
     print(f"Error: The folder '{values_directory}' does not exist. Please ensure the path is correct.")
     exit(1)
+
 for lang in languages:
     path = os.path.join(values_directory, lang)
     try:
         with open(f"{path}/string.xml", "r") as file:
             content = file.read()
+
     except FileNotFoundError:
         print(f"Error: {path}/string.xml file not found.")
         exit(1)
-    except PermissionError:
-        print(f"Error: Insufficient permissions to write to '{path}/string.xml'.")
-        exit(1)
+
     except Exception as e:
         print(f"Error: An unexpected error occurred while writing to ' {path}/string.xml: {e}")
         exit(1)
@@ -68,12 +68,11 @@ for lang in languages:
         ) as file:
             json.dump(result, file, indent=2, ensure_ascii=False)
             file.write("\n")
+
     except FileNotFoundError:
         print(f"Error: The folder '{jsons_folder}' does not exist or cannot be accessed for writing.")
         exit(1)
-    except PermissionError:
-        print(f"Error: Insufficient permissions to write to '{jsons_folder}/{lang}.json'.")
-        exit(1)
+
     except Exception as e:
         print(f"Error: An unexpected error occurred while writing to '{jsons_folder}/{lang}.json: {e}")
         exit(1)
