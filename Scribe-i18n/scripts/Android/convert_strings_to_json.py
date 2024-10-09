@@ -24,7 +24,15 @@ def unescape_special_characters(string):
 
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-dir_list = os.listdir(os.path.join(directory, "jsons"))
+
+# Define the path to the "jsons" folder.
+jsons_folder = os.path.join(directory, "jsons")
+
+if not os.path.exists(jsons_folder):
+    print(f"Error: The folder '{jsons_folder}' does not exist. Please ensure the path is correct.")
+    exit(1)
+
+dir_list = os.listdir(jsons_folder)
 languages = sorted(
     [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
 )
@@ -39,7 +47,7 @@ for lang in languages:
     result = dict(matches)
     result = {key: unescape_special_characters(value) for key, value in result.items()}
     with open(
-        os.path.join(os.path.join(directory, "jsons"), f"{lang}.json"),
+        os.path.join(jsons_folder, f"{lang}.json"),
         "w",
         encoding="utf-8",
     ) as file:
