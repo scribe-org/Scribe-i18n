@@ -64,4 +64,4 @@ for lang, translations in lang_data.items():
 
         xml_file.write("</resources>\n")
 
-print("Scribe-i18n localization JSON files successfully converted to the strings file.")
+print("Scribe-i18n localization JSON files successfully converted to the strings files.")
