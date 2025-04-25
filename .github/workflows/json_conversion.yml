@@ -22,7 +22,7 @@ jobs:
           python-version: 3.12
 
       - name: Execute scripts to convert JSONs to app files
-        working-directory: ./Scribe-i18n/scripts
+        working-directory: scripts
         run: |
           python android/convert_jsons_to_strings.py
           python ios/convert_jsons_to_xcstrings.py
