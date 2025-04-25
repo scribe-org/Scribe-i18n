@@ -1,6 +1,7 @@
 name: json_conversion
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -18,7 +19,7 @@ jobs:
           python-version: 3.12
 
       - name: Execute scripts to convert JSONs to app files
-        working-directory: ./Scribe-i18n/scripts
+        working-directory: Scribe-i18n/scripts
         run: |
           python android/convert_jsons_to_strings.py
           python ios/convert_jsons_to_xcstrings.py
