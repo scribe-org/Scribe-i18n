@@ -64,6 +64,12 @@
             "value" : "इंग्रजी"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Inglês"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -139,6 +145,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "फ्रेंच"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Francês"
           }
         },
         "sv" : {
@@ -218,6 +230,12 @@
             "value" : "जर्मन"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Alemão"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -293,6 +311,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "इटालियन"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Italiano"
           }
         },
         "sv" : {
@@ -372,6 +396,12 @@
             "value" : "पोर्तुगीज"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Português"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -447,6 +477,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "रशियन"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Russo"
           }
         },
         "sv" : {
@@ -526,6 +562,12 @@
             "value" : "स्पॅनिश"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Espanhol"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -601,6 +643,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्वीडिश"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Sueco"
           }
         },
         "sv" : {
@@ -680,6 +728,12 @@
             "value" : "इथे तुम्ही स्क्राइब आणि त्याच्या समुदायाबद्दल अधिक जाणून घेऊ शकता."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Saiba mais sobre este aplicativo e a nossa comunidade."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -755,6 +809,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "गिटहबवर कोड पहा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Veja o código no GitHub"
           }
         },
         "sv" : {
@@ -834,6 +894,12 @@
             "value" : "आम्हाला मॅस्टोडॉनवर फॉलो करा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Siga-nos no Mastodon"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -909,6 +975,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "मॅट्रिक्सवर टीमशी बोला"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Converse conosco no Matrix"
           }
         },
         "sv" : {
@@ -988,6 +1060,12 @@
             "value" : "स्क्राइब कॉन्जुगेट शेअर करा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Compartilhe o Scribe Conjugate"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -1063,6 +1141,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइब शेअर करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Compartilhe o Scribe"
           }
         },
         "sv" : {
@@ -1142,6 +1226,12 @@
             "value" : "समुदाय"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Comunidade"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -1217,6 +1307,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "सर्व स्क्राइब अ‍ॅप्स पहा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Veja todos os aplicativos Scribe"
           }
         },
         "sv" : {
@@ -1296,6 +1392,12 @@
             "value" : "विकिमीडियाचे योगदान आणि स्क्राइब"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wikimedia e Scribe"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -1371,6 +1473,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "आम्ही एकत्र कसे काम करतो"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Como nós trabalhamos juntos"
           }
         },
         "sv" : {
@@ -1450,6 +1558,12 @@
             "value" : "विकिमीडिया योगदानकर्त्यांच्या समर्थनाशिवाय स्क्राइब शक्य झाले नसते. विशेषतः स्क्राइब विकिडेटा शब्दकोशीय डेटा आणि विविध भाषांसाठी विकिपीडियाच्या डेटाचा वापर करतो."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "O Scribe não seria possível sem as incontáveis contribuições feitas pelos contribuidores da Wikimedia aos diversos projetos que ela apoia. O Scribe usa dados da comunidade de dados lexográficos da Wikidata, bem como dados da Wikipédia, para cada idioma ofertado pelo Scribe."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -1525,6 +1639,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "विकिडेटा हा विकिमीडिया फाउंडेशनद्वारे होस्ट केलेला एक सहयोगी संपादित बहुभाषिक ज्ञान ग्राफ आहे. याचा डेटा क्रिएटिव्ह कॉमन्स पब्लिक डोमेन (CC0) अंतर्गत उपलब्ध आहे."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "A Wikidata é um grafo de conhecimento multilíngue editado colaborativamente e hospedado pela Fundação Wikimedia. A Wikidata fornece dados de uso gratuito por qualquer pessoa sob a licença Creative Commons de Domínio Público (CC0). O Scribe usa dados linguísticos da Wikidata para fornecer aos seus usuários conjugações de verbos, anotações de substantivos, plurais, e muitas outras funcionalidades."
           }
         },
         "sv" : {
@@ -1604,6 +1724,12 @@
             "value" : "विकिपीडिया हे एक बहुभाषिक मुक्त ऑनलाइन विश्वकोश आहे. स्क्राइब शब्दांच्या सुचवण्या करण्यासाठी विकिपीडियाच्या डेटाचा वापर करतो."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "A Wikipédia é uma enciclopédia multilíngue online e gratuita, escrita e mantida por uma comunidade de voluntários através de colaboração aberta e um sistema de edição baseado em wiki. O Scribe usa dados da Wikiédia para fornecer sugestões automáticas das palavras mais comuns em um idioma, bem como as palavras que mais comumente as sucedem."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -1679,6 +1805,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अ‍ॅप सूचनांचे पुनरावलोकन करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Restaurar as dicas"
           }
         },
         "sv" : {
@@ -1758,6 +1890,12 @@
             "value" : "बग रिपोर्ट करा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Reportar um bug"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -1833,6 +1971,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "आम्हाला ईमेल पाठवा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Fale conosco"
           }
         },
         "sv" : {
@@ -1912,6 +2056,12 @@
             "value" : "स्क्राइब कॉन्जुगेटला रेट करा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Avaliar o Scribe Conjugar"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -1987,6 +2137,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइबला रेट करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Avaliar o Scribe"
           }
         },
         "sv" : {
@@ -2066,6 +2222,12 @@
             "value" : "प्रतिक्रिया आणि समर्थन"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Feedback e suporte"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -2141,6 +2303,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "आवृत्ती"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Versão"
           }
         },
         "sv" : {
@@ -2220,6 +2388,12 @@
             "value" : "गोपनीयता धोरण"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Política de privacidade"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -2295,6 +2469,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तुमच्या सुरक्षेची काळजी"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Sua segurança é nossa prioridade"
           }
         },
         "sv" : {
@@ -2374,6 +2554,12 @@
             "value" : "कृपया लक्षात ठेवा की या धोरणाचा इंग्रजी आवृत्ती इतर सर्व आवृत्त्यांवर प्राधान्य देते.\n\nस्क्राइब डेव्हलपर्सनी (स्क्राइब) आयओएस अ‍ॅप्लिकेशन \"स्क्राइब - भाषा कीबोर्ड्स\" हे खुले-स्रोत अ‍ॅप्लिकेशन म्हणून तयार केले आहे. हे सेवा स्क्राइबद्वारे विनामूल्य प्रदान केली जाते."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Esteja ciente de que a versão em inglês desta política prevalece sobre todas as outras versões.\n\nOs desenvolvedores do Scribe (SCRIBE) criaram o aplicativo iOS \"Scribe - Teclados de Idiomas\" (SERVIÇO) como um aplicativo de código aberto. Este SERVIÇO é fornecido pelo SCRIBE sem custo e para ser utilizado como está.\n\nEsta política de privacidade (POLÍTICA) serve para informar sobre as políticas de acesso, rastreamento, coleta, retenção, uso e divulgação de informações pessoais (INFORMAÇÕES DO USUÁRIO) e dados de uso (DADOS DO USUÁRIO) para todos os indivíduos que utilizam este SERVIÇO (USUÁRIOS).\n\nAs INFORMAÇÕES DO USUÁRIO são especificamente definidas como quaisquer informações relacionadas aos próprios USUÁRIOS ou aos dispositivos que eles utilizam para acessar o SERVIÇO.\n\nOs DADOS DO USUÁRIO são especificamente definidos como qualquer texto digitado ou ações realizadas pelos USUÁRIOS durante o uso do SERVIÇO.\n\n1. Declaração de Política\n\nEste SERVIÇO não acessa, rastreia, coleta, retém, usa ou divulga quaisquer INFORMAÇÕES DO USUÁRIO ou DADOS DO USUÁRIO.\n\n2. Não Rastreamento\n\nOs USUÁRIOS que entrarem em contato com o SCRIBE para solicitar que suas INFORMAÇÕES DE USUÁRIO e DADOS DE USUÁRIO não sejam rastreados receberão uma cópia desta POLÍTICA, bem como um link para todos os códigos-fonte como prova de que não estão sendo rastreados.\n\n3. Dados de Terceiros\n\nEste SERVIÇO utiliza dados de terceiros. Todos os dados utilizados na criação deste SERVIÇO provêm de fontes que permitem seu uso integral na forma como é feito pelo SERVIÇO. Especificamente, os dados para este SERVIÇO provêm da Wikidata, Wikipédia e Unicode. A Wikidata declara que \"Todos os dados estruturados do espaço nominal principal e do de propriedade são disponibilizados ao abrigo da Licença Creative Commons CC0; o texto nos restantes espaços nominais é disponibilizado ao abrigo da Licença Atribuição-CompartilhaIgual da Creative Commons\". A política que detalha o uso de dados do Wikidata pode ser encontrada em https://www.wikidata.org/wiki/Wikidata:Licensing. A Wikipédia declara que dados de texto, o tipo de dado utilizado pelo SERVIÇO, \"... podem ser utilizados sob os termos da licença Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0) da Creative Commons\". A política que detalha o uso de dados da Wikipédia pode ser encontrada em https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content. O Unicode concede permissão, \"... gratuitamente, a qualquer pessoa que obtenha uma cópia dos arquivos de dados Unicode e qualquer documentação associada (os \"Arquivos de Dados\") ou software Unicode e qualquer documentação associada (o \"Software\") para lidar com os Arquivos de Dados ou Software sem restrições...\" A política que detalha o uso de dados Unicode pode ser encontrada em https://www.unicode.org/license.txt.\n\n4. Código-fonte de terceiros\n\nEste SERVIÇO é baseado em código de terceiros. Todo o código-fonte utilizado na criação deste SERVIÇO provém de fontes que permitem seu pleno uso da forma como é feito pelo SERVIÇO. Especificamente, a base deste projeto foi o projeto Teclado Personalizado de Ethan Sarif-Kattan. O Teclado Personalizado foi lançado sob uma licença MIT, disponível em https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE.\n\n5. Serviços de Terceiros\n\nEste SERVIÇO utiliza serviços de terceiros para manipular alguns dos dados de terceiros. Especificamente, os dados foram traduzidos usando modelos de transformadores da Hugging Face. Este serviço é coberto pela Licença Apache 2.0, que declara que está disponível para uso comercial, modificação, distribuição, uso de patentes e uso privado. A licença para o serviço mencionado pode ser encontrada em https://github.com/huggingface/transformers/blob/master/LICENSE.\n\n6. Links de Terceiros\n\nEste SERVIÇO contém links para sites externos. Se os USUÁRIOS clicarem em um link de terceiros, serão direcionados para um site. Esteja ciente de que esses sites externos não são operados por este SERVIÇO. Portanto, é altamente recomendável que os USUÁRIOS revisem a política de privacidade desses sites. Este SERVIÇO não tem controle e não assume qualquer responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.\n\n7. Imagens de Terceiros\n\nEste SERVIÇO contém imagens de terceiros protegidas por direitos autorais. Especificamente, este aplicativo inclui uma cópia dos logotipos do GitHub, Inc., e da Wikidata, marca registrada da Wikimedia Foundation, Inc. Os termos pelos quais o logotipo do GitHub pode ser usado podem ser encontrados em https://github.com/logos, e os termos para o uso do logotipo da Wikidata podem ser encontrados na seguinte página da Wikimedia: https://foundation.wikimedia.org/wiki/Policy:Trademark_policy. Este SERVIÇO usa as imagens protegidas por direitos autorais de uma forma que atende a esses critérios, com a única diferença sendo uma rotação do logotipo do GitHub, comum na comunidade de código aberto, para indicar que contém um link para o site do GitHub.\n\n8. Aviso de Conteúdo\n\nEste SERVIÇO permite que os USUÁRIOS acessem conteúdo linguístico (CONTEÚDO). Parte deste CONTEÚDO pode ser considerada inapropriada para crianças e menores de idade. O acesso ao CONTEÚDO por meio do SERVIÇO é feito de forma que as informações não se façam disponíveis a menos que sejam explicitamente conhecidas. Especificamente, os USUÁRIOS \"podem\" traduzir palavras, conjugar verbos e acessar outras características gramaticais do CONTEÚDO que possam ser de natureza sexual, violenta, ou de alguma forma inapropriada. Os USUÁRIOS \"não podem\" traduzir palavras, conjugar verbos e acessar outras características gramaticais do CONTEÚDO que possam ser de natureza sexual, violenta, ou de alguma forma inapropriada, se ainda não tiverem conhecimento da natureza deste CONTEÚDO. O SCRIBE não se responsabiliza pelo acesso a tal CONTEÚDO.\n\n9. Alterações\n\nEsta POLÍTICA está sujeita a alterações. As atualizações desta POLÍTICA substituirão todas as ocorrências anteriores e, se consideradas relevantes, serão claramente declaradas na próxima atualização aplicável do SERVIÇO. O SCRIBE incentiva os USUÁRIOS a revisarem periodicamente esta POLÍTICA para obter as informações mais recentes sobre nossas práticas de privacidade e se familiarizarem com quaisquer alterações.\n\n10. Contato\n\nCaso tenha alguma dúvida, preocupação, ou sugestão sobre esta POLÍTICA, não hesite em visitar https://github.com/scribe-org ou entrar em contato com o SCRIBE pelo e-mail scribe.langauge@gmail.com. O responsável pelos canais de contato é Andrew Tavis McAllister.\n\n11. Data de Vigência\n\nEsta POLÍTICA entra em vigor em 24 de maio de 2022."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -2449,6 +2635,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तृतीय-पक्ष परवाने"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Licenças de terceiros"
           }
         },
         "sv" : {
@@ -2528,6 +2720,12 @@
             "value" : "ज्यांचा कोड आम्ही वापरला आहे"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Fontes dos códigos que utilizamos"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -2603,6 +2801,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कस्टम कीबोर्ड\n• लेखक: एथेन एस के\n• परवाना: एमआयटी\n• लिंक: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Teclado Personalizado\n• Autor: EthanSK\n• Licença: MIT\n• Link: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE"
           }
         },
         "sv" : {
@@ -2682,6 +2886,12 @@
             "value" : "सिंपल कीबोर्ड\n• लेखक: सिंपल मोबाईल टूल्स\n• परवाना: GPL-3.0\n• लिंक: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Teclado Simples\n• Autor: Simple Mobile Tools\n• Licença: GPL-3.0\n• Link: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -2757,6 +2967,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइब डेव्हलपर्सनी आयओएस अ‍ॅप्लिकेशन 'स्क्राइब - भाषा कीबोर्ड्स' तृतीय-पक्ष कोडचा वापर करून तयार केले आहे."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Os desenvolvedores do Scribe (SCRIBE) criaram o aplicativo iOS \"Scribe - Teclados de Idiomas\" (SERVIÇO) usando código de terceiros. Todo o código-fonte usado na criação deste SERVIÇO vem de fontes que permitem o seu uso por completo da forma como é feito pelo SERVIÇO. Esta seção lista o código-fonte no qual o SERVIÇO se baseia, bem como suas respectivas licenças.\n\nA seguir você encontrará uma lista de todos os códigos-fontes utilizados, seus autores, suas licenças de uso no momento em que foram disponibilizados, e links para suas licenças."
           }
         },
         "sv" : {
@@ -2836,6 +3052,12 @@
             "value" : "कायदेशीर"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Legalidades"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -2911,6 +3133,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "बद्दल"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Sobre"
           }
         },
         "sv" : {
@@ -2990,6 +3218,12 @@
             "value" : "काल निवडा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecionar tempo verbal"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -3065,6 +3299,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "खालीलपैकी एक संयोजन निवडा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Escolha uma conjugação abaixo"
           }
         },
         "sv" : {
@@ -3144,6 +3384,12 @@
             "value" : "अलीकडे संयोजित केलेले"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Recentemente conjugado"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -3219,6 +3465,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "संयोजन"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Conjugar"
           }
         },
         "sv" : {
@@ -3298,6 +3550,12 @@
             "value" : "क्रियापद शोधा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Busque um verbo"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -3373,6 +3631,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "क्रियापद संयोजन"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Conjugar verbos"
           }
         },
         "sv" : {
@@ -3452,6 +3716,12 @@
             "value" : "स्क्राइब संयोजनात नवीन डेटा जोडा."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Adicionar novos dados ao Scribe Conjugate."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -3527,6 +3797,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "क्रियापद डेटा डाउनलोड करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Baixar dados do verbo"
           }
         },
         "sv" : {
@@ -3606,6 +3882,12 @@
             "value" : "संयोजन करण्यासाठी डेटा डाउनलोड करा!"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Baixe os dados para começar a conjugar!"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -3681,6 +3963,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "क्रियापद डेटा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Dados dos verbos"
           }
         },
         "sv" : {
@@ -3760,6 +4048,12 @@
             "value" : "स्क्राइब कीबोर्डमध्ये नवीन डेटा जोडा."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Adicionar novos dados aos teclados Scribe."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -3835,6 +4129,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कीबोर्ड डेटा डाउनलोड करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Baixar dados do teclado"
           }
         },
         "sv" : {
@@ -3914,6 +4214,12 @@
             "value" : "भाषा डेटा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Dados do idioma"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -3989,6 +4295,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "सर्व भाषा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Todos os idiomas"
           }
         },
         "sv" : {
@@ -4068,6 +4380,12 @@
             "value" : "डाउनलोड करण्यासाठी डेटा निवडा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecionar dados para baixar"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -4143,6 +4461,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "डेटा डाउनलोड करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Baixar dados"
           }
         },
         "sv" : {
@@ -4222,6 +4546,12 @@
             "value" : "नवीन डेटाची तपासणी करा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Verificar se há novos dados"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -4297,6 +4627,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "नियमित डेटा अद्ययावत करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Atualizar dados continuamente"
           }
         },
         "sv" : {
@@ -4376,6 +4712,12 @@
             "value" : "डेटा अद्ययावत करा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Atualizar dados"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -4451,6 +4793,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तुमच्या डिव्हाइसवर स्क्राइब कीबोर्ड इंस्टॉल करण्यासाठी खालील सूचनांचे पालन करा."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Siga as instruções abaixo para instalar teclados Scribe no seu dispositivo."
           }
         },
         "sv" : {
@@ -4530,6 +4878,12 @@
             "value" : "त्वरित ट्युटोरियल"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutorial rápido"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -4605,6 +4959,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कीबोर्ड सेटिंग्ज उघडा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Acesse as configurações de teclado"
           }
         },
         "sv" : {
@@ -4684,6 +5044,12 @@
             "value" : "कीबोर्ड"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Teclados"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -4759,6 +5125,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइब सेटिंग्ज उघडा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Acesse as configurações do Scribe"
           }
         },
         "sv" : {
@@ -4838,6 +5210,12 @@
             "value" : "निवडा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecione"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -4913,6 +5291,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तुम्हाला वापरायचे असलेले कीबोर्ड सक्रिय करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ative os teclados que você deseja usar"
           }
         },
         "sv" : {
@@ -4992,6 +5376,12 @@
             "value" : "टाइप करताना दाबा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ao digitar, aperte"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -5067,6 +5457,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कीबोर्ड निवडण्यासाठी"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "para selecionar teclados"
           }
         },
         "sv" : {
@@ -5146,6 +5542,12 @@
             "value" : "कीबोर्ड इंस्टॉलेशन"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Como instalar um teclado"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -5221,6 +5623,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "इंस्टॉलेशन"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Instalação"
           }
         },
         "sv" : {
@@ -5300,6 +5708,12 @@
             "value" : "अ‍ॅप आणि इंस्टॉल केलेल्या भाषा कीबोर्डची सेटिंग्ज इथे मिळतील."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Aqui você encontra as configurações do aplicativo e teclados de idioma instalados."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -5375,6 +5789,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कीबोर्ड इंस्टॉल करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Instalar teclados"
           }
         },
         "sv" : {
@@ -5454,6 +5874,12 @@
             "value" : "सुचवण्या/समाप्ति वर्णन करा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Sugestões e autocompletar"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -5529,6 +5955,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "टाइप करताना सुचवण्या आणि समाप्ति रेखांकित करा जेणेकरून त्यांच्या लिंगाची माहिती मिळू शकेल."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Sublinhar sugestões para indicar o gênero enquanto você digita."
           }
         },
         "sv" : {
@@ -5608,6 +6040,12 @@
             "value" : "इमोजीचा स्वयंचलित सुचवण्या"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Sugerir emojis"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -5683,6 +6121,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अधिक अभिव्यक्तीपूर्ण टाइपिंगसाठी इमोजीच्या सुचवण्या आणि समाप्ति सक्षम करा."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ativa sugestões de emoji e autocompletar para digitar de maneira mais expressiva."
           }
         },
         "sv" : {
@@ -5762,6 +6206,12 @@
             "value" : "डिफॉल्ट इमोजी त्वचा रंग"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tom de pele padrão dos emojis"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -5837,6 +6287,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "वापरल्या जाणाऱ्या त्वचेचा रंग"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tom de pele a ser usado"
           }
         },
         "sv" : {
@@ -5916,6 +6372,12 @@
             "value" : "इमोजीच्या सुचवण्या आणि समाप्ति साठी डिफॉल्ट त्वचा रंग सेट करा."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Defina um tom de pele padrão para as sugestões de emoji."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -5991,6 +6453,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "शब्द दर शब्द हटवा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Deletar palavra por palavra"
           }
         },
         "sv" : {
@@ -6070,6 +6538,12 @@
             "value" : "डिलीट की थांबून धरल्यास शब्द दर शब्द हटवा."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Apagar texto palavra por palavra ao manter a tecla \"deletar\" pressionada."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -6145,6 +6619,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "दुहेरी स्पेससाठी अवधि"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ponto via espaço duplo"
           }
         },
         "sv" : {
@@ -6224,6 +6704,12 @@
             "value" : "स्पेस की दोनदा दाबल्यावर स्वयंचलितपणे अवधि घाला."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Inserir um ponto automaticamente ao pressionar a tecla de espaço duas vezes."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -6299,6 +6785,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "वैकल्पिक अक्षरांसाठी थांबा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Segurar tecla para acentos"
           }
         },
         "sv" : {
@@ -6378,6 +6870,12 @@
             "value" : "कुञ्जी धरून इच्छित अक्षरावर खीचून वैकल्पिक अक्षर निवडा."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecione caracteres alternativos ao manter uma tecla pressionada."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -6453,6 +6951,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कुञ्जी दाबण्यावर पॉपअप दाखवा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Mostrar pop-up ao teclar"
           }
         },
         "sv" : {
@@ -6532,6 +7036,12 @@
             "value" : "कुञ्जी दाबण्यावर पॉपअप दाखवा."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Mostrar um pop-up de cada tecla à medida que você digita."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -6607,6 +7117,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "विरामचिन्ह स्थान काढा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Deletar espaço de pontuação"
           }
         },
         "sv" : {
@@ -6686,6 +7202,12 @@
             "value" : "विरामचिन्हांपूर्वीचे अतिरिक्त स्थान काढा."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Eliminar espaços em excesso antes de pontuação."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -6761,6 +7283,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कार्यक्षमता"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Funcionalidade"
           }
         },
         "sv" : {
@@ -6840,6 +7368,12 @@
             "value" : "कुञ्जी दाबण्यावर कंपन"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Vibrar ao digitar"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -6915,6 +7449,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कुञ्जी दाबल्यावर डिव्हाइस कंपन करेल."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Fazer o dispositivo vibrar ao pressionar as teclas."
           }
         },
         "sv" : {
@@ -6994,6 +7534,12 @@
             "value" : "डिफॉल्ट चलन चिन्ह"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Símbolo de moeda padrão"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -7069,6 +7615,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "123 किजसाठी चिन्ह"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Símbolo para as teclas 123"
           }
         },
         "sv" : {
@@ -7148,6 +7700,12 @@
             "value" : "संक्येत कुञ्जींवर कोणते चलन चिन्ह दिसेल ते निवडा."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecione qual símbolo de moeda aparecerá nas teclas de número."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -7223,6 +7781,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "डिफॉल्ट कीबोर्ड"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Teclado padrão"
           }
         },
         "sv" : {
@@ -7302,6 +7866,12 @@
             "value" : "वापरले जाणारे लेआउट"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Layout a ser usado"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -7377,6 +7947,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तुमच्या टाइपिंग आवडीनुसार आणि भाषा गरजेनुसार कीबोर्ड लेआउट निवडा."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecione um layout de teclado conforme suas preferências de digitação e idioma."
           }
         },
         "sv" : {
@@ -7456,6 +8032,12 @@
             "value" : "अक्सेंट अक्षरे अक्षम करा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Desativar caracteres de acentos"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -7531,6 +8113,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "प्राथमिक कीबोर्ड लेआउटवर अक्सेंट अक्षरे काढा."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Remove os caracteres com acento do seu layout de teclado padrão."
           }
         },
         "sv" : {
@@ -7610,6 +8198,12 @@
             "value" : "ABC वर अवधि आणि कॉमा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ponto e vírgula no ABC"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -7685,6 +8279,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "सुलभ टाइपिंगसाठी मुख्य कीबोर्डवर अवधि आणि कॉमा कुञ्जी समाविष्ट करा."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Inclui teclas de ponto e vírgula no seu teclado principal para facilitar a digitação."
           }
         },
         "sv" : {
@@ -7764,6 +8364,12 @@
             "value" : "लेआउट"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Layout"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -7839,6 +8445,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "इंस्टॉल केलेले कीबोर्ड निवडा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecionar o teclado instalado"
           }
         },
         "sv" : {
@@ -7918,6 +8530,12 @@
             "value" : "भाषा निवडा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecionar idioma"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -7993,6 +8611,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्रोत भाषा काय आहे"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "O idioma de origem"
           }
         },
         "sv" : {
@@ -8072,6 +8696,12 @@
             "value" : "अनुवाद भाषा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Idioma da tradução"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -8147,6 +8777,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अनुवाद करायची भाषा बदला."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Altere o idioma a ser traduzido."
           }
         },
         "sv" : {
@@ -8226,6 +8862,12 @@
             "value" : "अनुवाद स्रोत भाषा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Idioma de origem da tradução"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -8301,6 +8943,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "डार्क मोड"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Modo escuro"
           }
         },
         "sv" : {
@@ -8380,6 +9028,12 @@
             "value" : "अ‍ॅप डिस्प्ले डार्क मोडमध्ये बदला."
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Muda o visual do aplicativo para o modo escuro."
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -8455,6 +9109,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अ‍ॅपची भाषा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Idioma do aplicativo"
           }
         },
         "sv" : {
@@ -8534,6 +9194,12 @@
             "value" : "अ‍ॅप टेक्स्टसाठी भाषा निवडा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Selecione o idioma para os textos do aplicativo"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -8609,6 +9275,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तुमच्या डिव्हाइसवर फक्त एक भाषा स्थापित आहे. कृपया सेटिंग्जमध्ये अधिक भाषांचे संयोजन स्थापित करा आणि नंतर तुम्ही स्क्राइबच्या वेगवेगळ्या स्थानिकीकरण निवडू शकता."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Você tem apenas um idioma instalado no seu dispositivo. Por favor, instale mais idiomas nas Configurações para então selecionar diferentes versões de idioma do Scribe."
           }
         },
         "sv" : {
@@ -8688,6 +9360,12 @@
             "value" : "फक्त एक डिव्हाइस भाषा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Apenas um idioma no dispositivo"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -8763,6 +9441,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइब अ‍ॅप कोणत्या भाषेत असेल ते बदला."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Altere o idioma do aplicativo Scribe."
           }
         },
         "sv" : {
@@ -8842,6 +9526,12 @@
             "value" : "उच्च रंग कंट्रास्ट"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Alto contraste de cor"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -8917,6 +9607,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "चांगली दृश्यमानता आणि स्पष्ट पाहण्याच्या अनुभवासाठी रंग कंट्रास्ट वाढवा."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Aumenta o contraste de cor para melhor nitidez e acessibilidade."
           }
         },
         "sv" : {
@@ -8996,6 +9692,12 @@
             "value" : "अ‍ॅप टेक्स्टचा आकार वाढवा"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Aumentar tamanho do texto"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -9071,6 +9773,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "चांगली वाचनीयता मिळवण्यासाठी मेनू टेक्स्टचा आकार वाढवा."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Aumenta o tamanho dos textos no menu para melhor leitura."
           }
         },
         "sv" : {
@@ -9150,6 +9858,12 @@
             "value" : "अ‍ॅप सेटिंग्ज"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Configurações do aplicativo"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -9225,6 +9939,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "सेटिंग्ज"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Configurações"
           }
         },
         "sv" : {
@@ -9304,6 +10024,12 @@
             "value" : "अनुवाद"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tradução"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -9379,6 +10105,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "विकिडाटा हे सहयोगाने संपादित ज्ञान ग्राफ आहे, जे विकिमीडिया फाउंडेशनद्वारे देखभाल केले जाते. हे विकिपीडिया आणि इतर अनेक प्रकल्पांसाठी खुला डेटा स्रोत आहे."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "A Wikidata é um grafo de conhecimento editado colaborativamente e mantivo pela Fundação Wikimedia. A Wikidata é uma fonte de dados públicos para projetos como a Wikipédia e muitos outros."
           }
         },
         "sv" : {
@@ -9458,6 +10190,12 @@
             "value" : "स्क्राइब विकिडाटाच्या भाषा डेटाचा वापर त्याच्या अनेक मुख्य वैशिष्ट्यांसाठी करतो. आम्हाला या डेटामधून संज्ञा लिंग, क्रियापद रूपांतरण आणि इतर माहिती मिळते!"
           }
         },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "O Scribe usa dados linguísticos da Wikidata para muitas de suas funcionalidades. Temos informações sobre gêneros de substantivos, conjugações de verbos, e muito mais!"
+          }
+        },
         "sv" : {
           "stringUnit" : {
             "state" : "",
@@ -9533,6 +10271,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तुम्ही wikidata.org वर खाती बनवून त्या समुदायात सामील होऊ शकता, जो स्क्राइब आणि इतर अनेक प्रकल्पांना समर्थन देत आहे. आमच्यासोबत मोफत माहिती जगभर पोहचविण्यात मदत करा!"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Você pode criar uma conta em wikidata.org e se juntar à comunidade que apoia o Scribe e muitos outros projetos. Ajude-nos a fornecer dados gratuitos para o mundo!"
           }
         },
         "sv" : {
