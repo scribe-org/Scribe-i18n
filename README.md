@@ -89,6 +89,13 @@ The [issue tracker for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/is
 
    - From the above command, two commits are then auto-generated. Finally, create the PR to the given project to bring in the Scribe-i18n updates.
 
+8. If the Git subtree does need to be recreated, the subtree can be removed in projects via the following command:
+
+   ```bash
+   git rm -r <subtree-directory>
+   # Then remake the subtree via the process above.
+   ```
+
 Thanks so much for your interest in supporting Scribe's localization!
 
 ### Adding Source Strings [`⇧`](#contents)

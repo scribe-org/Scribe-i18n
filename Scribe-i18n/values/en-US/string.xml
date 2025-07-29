@@ -88,6 +88,8 @@
     <string name="app.settings.keyboard.functionality.punctuation_spacing">Delete punctuation spacing</string>
     <string name="app.settings.keyboard.functionality.punctuation_spacing_description">Remove excess spaces before punctuation marks.</string>
     <string name="app.settings.keyboard.functionality.title">Functionality</string>
+    <string name="app.settings.keyboard.keypress_sound">Play sound on key press</string>
+    <string name="app.settings.keyboard.keypress_sound_description">Have the device play a sound when keys are pressed.</string>
     <string name="app.settings.keyboard.keypress_vibration">Vibrate on key press</string>
     <string name="app.settings.keyboard.keypress_vibration_description">Have the device vibrate when keys are pressed.</string>
     <string name="app.settings.keyboard.layout.default_currency">Default currency symbol</string>

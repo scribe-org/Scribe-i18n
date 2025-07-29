@@ -7305,6 +7305,28 @@
         }
       }
     },
+    "app.settings.keyboard.keypress_sound" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Play sound on key press"
+          }
+        }
+      }
+    },
+    "app.settings.keyboard.keypress_sound_description" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Have the device play a sound when keys are pressed."
+          }
+        }
+      }
+    },
     "app.settings.keyboard.keypress_vibration" : {
       "comment" : "",
       "localizations" : {
