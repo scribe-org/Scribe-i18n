@@ -112,7 +112,7 @@
   "app.settings.menu.app_color_mode_description": "ಅಪ್ಲಿಕೇಶನ್ ಪ್ರದರ್ಶನವನ್ನು ಡಾರ್ಕ್ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಿ.",
   "app.settings.menu.app_language": "ಆಪ್ ಭಾಷೆ",
   "app.settings.menu.app_language.caption": "ಆಪ್ ಪಠ್ಯಗಳಿಗಾಗಿ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
-  "app.settings.menu.app_language.one_device_language_warning.message": "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಕೇವಲ ಒಂದು ಭಾಷೆಯನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲಾಗಿದೆ. ದಯವಿಟ್ಟು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಭಾಷೆಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ ಮತ್ತು ನಂತರ ನೀವು Scribe ನ ವಿಭಿನ್ನ ಸ್ಥಳೀಕರಣಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು.",
+  "app.settings.menu.app_language.one_device_language_warning.message": "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಕೇವಲ ಒಂದು ಭಾಷೆಯನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲಾಗಿದೆ. ದಯವಿಟ್ಟು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಭಾಷೆಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ ಮತ್ತು ನಂತರ ನೀವು Scribe ನ ವಿಭಿನ್ನ ಭಾಷೆಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು.",
   "app.settings.menu.app_language.one_device_language_warning.title": "ಕೇವಲ ಒಂದು ಸಾಧನ ಭಾಷೆ",
   "app.settings.menu.app_language_description": "Scribe ಆಪ್ ಯಾವ ಭಾಷೆಯಲ್ಲಿ ಇರಬೇಕು ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಿ.",
   "app.settings.menu.high_color_contrast": "ಹೆಚ್ಚಿನ ಬಣ್ಣದ ಕಾಂಟ್ರಾಸ್ಟ್",
@@ -124,5 +124,5 @@
   "app.settings.translation": "ಅನುವಾದ",
   "keyboard.not_in_wikidata.explanation_1": "ವಿಕಿಡೇಟಾವು ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಶನ್‌ನಿಂದ ನಿರ್ವಹಿಸಲ್ಪಡುವ ಸಹಯೋಗದೊಂದಿಗೆ ಸಂಪಾದಿಸಲಾದ ಜ್ಞಾನ ನಕ್ಷೆ. ಇದು ವಿಕಿಪೀಡಿಯಾ ಮತ್ತು ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಇತರ ಯೋಜನೆಗಳಿಗೆ ಮುಕ್ತ ದತ್ತಾಂಶದ ಮೂಲವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.",
   "keyboard.not_in_wikidata.explanation_2": "Scribe ತನ್ನ ಅನೇಕ ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯಗಳಿಗಾಗಿ ವಿಕಿಡೇಟಾದ ಭಾಷಾ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ. ನಾವು ನಾಮಪದ ಲಿಂಗಗಳು, ಕ್ರಿಯಾಪದ ಸಂಯೋಜನೆಗಳು ಮತ್ತು ಇನ್ನೂ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯುತ್ತೇವೆ!",
-  "keyboard.not_in_wikidata.explanation_3": "Scribe ಮತ್ತು ಇನ್ನೂ ಅನೇಕ ಯೋಜನೆಗಳನ್ನು ಬೆಂಬಲಿಸುವ ಸಮುದಾಯವನ್ನು ಸೇರಲು wikidata.org ನಲ್ಲಿ ಖಾತೆಯನ್ನು ರಚಿಸಿ. ಜಗತ್ತಿಗೆ ಉಚಿತ ಮಾಹಿತಿಯನ್ನು ತರಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಿ!"
+  "keyboard.not_in_wikidata.explanation_3": "Scribe ಮತ್ತು ಇನ್ನೂ ಅನೇಕ ಯೋಜನೆಗಳನ್ನು ಬೆಂಬಲಿಸುವ ಸಮುದಾಯವನ್ನು ಸೇರಲು wikidata.org ನಲ್ಲಿ ಖಾತೆಯನ್ನು ರಚಿಸಿ. ಜಗತ್ತಿಗೆ ಉಚಿತ ಮಾಹಿತಿ ನೀಡಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಿ!"
 }
