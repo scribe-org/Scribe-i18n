@@ -59,11 +59,11 @@ for lang, translations in lang_data.items():
         # Write the string for each key in the language file.
         for key, value in translations.items():
             if not key.startswith("i18n.app"):
-                continue 
+                continue
+
             sanitized_value = replace_special_characters(value)
             xml_file.write(f'    <string name="{key}">{sanitized_value}</string>\n')
 
         xml_file.write("</resources>\n")
 
 print("Scribe-i18n localization JSON files successfully converted to the strings files.")
-
