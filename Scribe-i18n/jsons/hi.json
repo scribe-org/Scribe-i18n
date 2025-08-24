@@ -67,6 +67,9 @@
   "i18n.app.installation.keyboard.text_4": "कीबोर्ड चुनने के लिए",
   "i18n.app.installation.keyboard.title": "कीबोर्ड इंस्टॉलेशन",
   "i18n.app.installation.title": "इंस्टॉलेशन",
+  "i18n.app.keyboard.not_in_wikidata.explanation_1": "विकिडाटा एक सहयोगात्मक रूप से संपादित ज्ञान ग्राफ है जिसे विकिमीडिया फाउंडेशन द्वारा बनाए रखा जाता है। यह विकिपीडिया और अन्य कई परियोजनाओं के लिए ओपन डेटा का स्रोत है।",
+  "i18n.app.keyboard.not_in_wikidata.explanation_2": "स्क्राइब  विकिडाटा की भाषा डेटा का उपयोग करता है अपने कई मुख्य विशेषताओं के लिए। हमें इस डेटा से संज्ञा के लिंग, क्रिया रूपांतरण और बहुत कुछ जानकारी मिलती है!",
+  "i18n.app.keyboard.not_in_wikidata.explanation_3": "आप wikidata.org पर खाता बनाकर उस समुदाय में शामिल हो सकते हैं जो स्क्राइब  और कई अन्य परियोजनाओं का समर्थन कर रहा है। हमारी मदद करें मुफ्त जानकारी दुनिया तक पहुँचाने में!",
   "i18n.app.settings.app_hint": "ऐप और इंस्टॉल किए गए भाषा कीबोर्ड की सेटिंग्स यहाँ मिलेंगी।",
   "i18n.app.settings.button_install_keyboards": "कीबोर्ड इंस्टॉल करें",
   "i18n.app.settings.keyboard.functionality.annotate_suggestions": "अनोटेट सुझाव/समाप्ति",
@@ -119,8 +122,5 @@
   "i18n.app.settings.menu.increase_text_size_description": "बेहतर पठनीयता के लिए मेनू टेक्स्ट का आकार बढ़ाएँ।",
   "i18n.app.settings.menu.title": "ऐप सेटिंग्स",
   "i18n.app.settings.title": "सेटिंग्स",
-  "i18n.app.settings.translation": "अनुवाद",
-  "i18n.app.keyboard.not_in_wikidata.explanation_1": "विकिडाटा एक सहयोगात्मक रूप से संपादित ज्ञान ग्राफ है जिसे विकिमीडिया फाउंडेशन द्वारा बनाए रखा जाता है। यह विकिपीडिया और अन्य कई परियोजनाओं के लिए ओपन डेटा का स्रोत है।",
-  "i18n.app.keyboard.not_in_wikidata.explanation_2": "स्क्राइब  विकिडाटा की भाषा डेटा का उपयोग करता है अपने कई मुख्य विशेषताओं के लिए। हमें इस डेटा से संज्ञा के लिंग, क्रिया रूपांतरण और बहुत कुछ जानकारी मिलती है!",
-  "i18n.app.keyboard.not_in_wikidata.explanation_3": "आप wikidata.org पर खाता बनाकर उस समुदाय में शामिल हो सकते हैं जो स्क्राइब  और कई अन्य परियोजनाओं का समर्थन कर रहा है। हमारी मदद करें मुफ्त जानकारी दुनिया तक पहुँचाने में!"
+  "i18n.app.settings.translation": "अनुवाद"
 }
