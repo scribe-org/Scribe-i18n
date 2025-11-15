@@ -22,7 +22,7 @@ Check out Scribe's [architecture diagrams](https://github.com/scribe-org/Organiz
 
 <a id="contents"></a>
 
-# **Contents**
+### **Contents**
 
 - [Localization Coverage](#localization-coverage)
 - [Contributing](#contributing)
@@ -31,7 +31,7 @@ Check out Scribe's [architecture diagrams](https://github.com/scribe-org/Organiz
 
 <a id="localization-coverage"></a>
 
-# Localization Coverage [`⇧`](#contents)
+## Localization Coverage [`⇧`](#contents)
 
 <a href="https://hosted.weblate.org/projects/scribe/scribe-i18n">
     <img src="https://hosted.weblate.org/widget/scribe/scribe-i18n/multi-auto.svg" alt="Translation status" />
@@ -39,7 +39,7 @@ Check out Scribe's [architecture diagrams](https://github.com/scribe-org/Organiz
 
 <a id="contributing"></a>
 
-# Contributing [`⇧`](#contents)
+## Contributing [`⇧`](#contents)
 
 Thank you for your interest in contributing to Scribe-i18n! We look forward to welcoming you to the community and working with you to build tools for language learners to communicate effectively :) The following are some suggested steps for people interested in joining our community.
 
@@ -194,7 +194,7 @@ Thank you in advance for your contributions!
 
 <a id="check-files"></a>
 
-# Check Files [`⇧`](#contents)
+## Check Files [`⇧`](#contents)
 
 The following sets up the [i18n-check](https://github.com/activist-org/i18n-check) based validation for your local copy of Scribe-i18n:
 
@@ -230,7 +230,7 @@ pre-commit run --all-files
 
 <a id="community"></a>
 
-# Community [`⇧`](#contents)
+## Community [`⇧`](#contents)
 
 ### Joining In [`⇧`](#contents)
 
@@ -243,7 +243,7 @@ The Scribe road map can be followed in the organization's [project board](https:
 > [!NOTE]\
 > Consider joining our [bi-weekly developer syncs](https://etherpad.wikimedia.org/p/scribe-dev-sync)!
 
-# Powered By [`⇧`](#contents)
+## Powered By [`⇧`](#contents)
 
 ### Contributors
 
