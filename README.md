@@ -16,7 +16,7 @@
 > [!NOTE]\
 > The [contributing](#contributing) section has information for those interested.
 
-Scribe apps are available on [iOS](https://github.com/scribe-org/Scribe-iOS), [Android](https://github.com/scribe-org/Scribe-Android) (planned) and [Desktop](https://github.com/scribe-org/Scribe-Desktop) (planned). For the data formatting processes see [Scribe-Data](https://github.com/scribe-org/Scribe-Data) and for our data download API see [Scribe-Server](https://github.com/scribe-org/Scribe-Data).
+Scribe apps are available on [iOS](https://github.com/scribe-org/Scribe-iOS), [Android](https://github.com/scribe-org/Scribe-Android) and [Desktop](https://github.com/scribe-org/Scribe-Desktop). For the data formatting processes see [Scribe-Data](https://github.com/scribe-org/Scribe-Data) and for our data API see [Scribe-Server](https://github.com/scribe-org/Scribe-Data).
 
 Check out Scribe's [architecture diagrams](https://github.com/scribe-org/Organization/blob/main/ARCHITECTURE.md) for an overview of the organization including our applications, services and processes. It depicts the projects that [Scribe](https://github.com/scribe-org) is developing as well as the relationships between them and the external systems with which they interact.
 
