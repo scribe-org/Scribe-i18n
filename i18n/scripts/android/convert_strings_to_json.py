@@ -3,7 +3,7 @@
 Converts from string.xml files to Scribe-i18n localization JSON files.
 
 Usage:
-    python3 Scribe-i18n/scripts/android/convert_strings_to_json.py
+    python3 i18n/scripts/android/convert_strings_to_json.py
 """
 
 import os
@@ -26,14 +26,12 @@ def unescape_special_characters(string):
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-# Define the path to the "jsons" folder.
-jsons_folder = os.path.join(directory, "jsons")
+# Define the path to the "locales" folder.
+locales_folder = os.path.join(directory, "locales")
+if not os.path.exists(locales_folder):
+    os.makedirs(locales_folder)
 
-if not os.path.exists(jsons_folder):
-    print(f"Error: The folder '{jsons_folder}' does not exist. Please ensure the path is correct.")
-    exit(1)
-
-dir_list = os.listdir(jsons_folder)
+dir_list = os.listdir(locales_folder)
 languages = sorted(
     [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
 )
@@ -63,19 +61,19 @@ for lang in languages:
     result = {key: unescape_special_characters(value) for key, value in result.items()}
     try:
         with open(
-            os.path.join(jsons_folder, f"{lang}.json"),
+            os.path.join(locales_folder, f"{lang}.json"),
             "w",
             encoding="utf-8",
-        ) as file:
-            json.dump(result, file, indent=2, ensure_ascii=False)
-            file.write("\n")
+        ) as json_file:
+            json.dump(result, json_file, indent=2, ensure_ascii=False)
+            json_file.write("\n")
 
     except FileNotFoundError:
-        print(f"Error: The folder '{jsons_folder}' does not exist or cannot be accessed for writing.")
+        print(f"Error: The folder '{locales_folder}' does not exist or cannot be accessed for writing.")
         exit(1)
 
     except Exception as e:
-        print(f"Error: An unexpected error occurred while writing to '{jsons_folder}/{lang}.json: {e}")
+        print(f"Error: An unexpected error occurred while writing to '{locales_folder}/{lang}.json: {e}")
         exit(1)
 
 print(

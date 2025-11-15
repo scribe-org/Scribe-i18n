@@ -3,7 +3,7 @@
 Converts from Scribe-i18n localization JSON files to string.xml files.
 
 Usage:
-    python3 Scribe-i18n/scripts/android/convert_jsons_to_strings.py
+    python3 i18n/scripts/android/convert_jsons_to_strings.py
 """
 
 import os
@@ -24,14 +24,14 @@ def replace_special_characters(string):
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-# Define the path to the "jsons" folder.
-jsons_folder = os.path.join(directory, "jsons")
+# Define the path to the "locales" folder.
+locales_folder = os.path.join(directory, "locales")
 
-if not os.path.exists(jsons_folder):
-    print(f"Error: The folder '{jsons_folder}' does not exist. Please ensure the path is correct.")
+if not os.path.exists(locales_folder):
+    print(f"Error: The folder '{locales_folder}' does not exist. Please ensure the path is correct.")
     exit(1)
 
-json_dir_list = os.listdir(jsons_folder)
+json_dir_list = os.listdir(locales_folder)
 languages = sorted(
     [file.replace(".json", "") for file in json_dir_list if file.endswith(".json")]
 )
@@ -41,7 +41,7 @@ os.makedirs(values_directory, exist_ok=True)
 # Pre-load all JSON files into a dictionary.
 lang_data = {}
 for lang in languages:
-    with open(os.path.join(jsons_folder, f"{lang}.json"), "r") as lang_file:
+    with open(os.path.join(locales_folder, f"{lang}.json"), "r") as lang_file:
         lang_data[lang] = json.load(lang_file)
 
 # Write each language to its corresponding string.xml file.

@@ -3,7 +3,7 @@
 Converts from the Scribe-i18n Localizable.xcstrings file to localization JSON files.
 
 Usage:
-    python3 Scribe-i18n/scripts/ios/convert_xcstrings_to_jsons.py
+    python3 i18n/scripts/ios/convert_xcstrings_to_jsons.py
 """
 
 
@@ -12,10 +12,10 @@ import os
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-# Ensure the "jsons" folder exists inside the directory.
-jsons_folder = os.path.join(directory, "jsons")
-if not os.path.exists(jsons_folder):
-    os.makedirs(jsons_folder)
+# Ensure the "locales" folder exists inside the directory.
+locales_folder = os.path.join(directory, "locales")
+if not os.path.exists(locales_folder):
+    os.makedirs(locales_folder)
 
 # Read the Localizable.xcstrings file.
 try:
@@ -26,7 +26,7 @@ except FileNotFoundError:
     print("Error: Localizable.xcstrings file not found.")
     exit(1)
 
-dir_list = os.listdir(jsons_folder)
+dir_list = os.listdir(locales_folder)
 languages = [file.replace(".json", "") for file in dir_list if file.endswith(".json")]
 
 for lang in languages:
@@ -60,9 +60,9 @@ for lang in languages:
 
     lang = "en-US" if lang == "en" else lang
 
-    with open(f"{jsons_folder}/{lang}.json", "w") as dest:
-        json.dump(data, dest, indent=2, ensure_ascii=False)
-        dest.write("\n")
+    with open(f"{locales_folder}/{lang}.json", "w") as json_file:
+        json.dump(data, json_file, indent=2, ensure_ascii=False)
+        json_file.write("\n")
 
 print(
     "Scribe-i18n Localizable.xcstrings file successfully converted to the localization JSON files."

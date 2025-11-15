@@ -1,21 +1,22 @@
 # Configuration file for i18n-check validation.
 # See https://github.com/activist-org/i18n-check for details.
 
-# Check Key Sorting
-# -----------------
-# >>> python3 -m venv venv
-# >>> source venv/bin/activate
-# >>> pip install --upgrade pip
-# >>> pip install i18n-check
-# >>> i18n-check --sorted-keys  # (-sk)
-# >>> i18n-check --sorted-keys --fix # (-sk -f)
+src-dir: i18n
+i18n-dir: i18n/locales
+i18n-src: i18n/locales/en-US.json
 
-src-dir: Scribe-i18n
-i18n-dir: Scribe-i18n/jsons
-i18n-src: Scribe-i18n/jsons/en-US.json
-
-file-types-to-check: []  # not needed for sorted keys
+file-types-to-check: []  # not needed
 
 checks:
+  repeat-keys:
+    active: true
+  repeat-values:
+    active: true
   sorted-keys:
+    active: true
+  nested-files:
+    active: true
+  aria-labels:
+    active: true
+  alt-texts:
     active: true

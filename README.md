@@ -26,6 +26,7 @@ Check out Scribe's [architecture diagrams](https://github.com/scribe-org/Organiz
 
 - [Localization Coverage](#localization-coverage)
 - [Contributing](#contributing)
+- [Check Files](#check-files)
 - [Community](#community)
 
 <a id="localization-coverage"></a>
@@ -136,7 +137,7 @@ If all looks good, then you're ready to start adding localizable key-string pair
 
 ### File Conversion
 
-The files in the [Scribe-i18n/scripts](https://github.com/scribe-org/Scribe-i18n/tree/main/Scribe-i18n/scripts) directory can be used to convert base localization JSON files into the filetypes that are needed for an application as well as the same in reverse. JSON files are automatically converted to their target files for Scribe applications after commits to the main branch, and their opposites can be used to update the JSON files when strings are first changed in the applications.
+The files in the [i18n/scripts](https://github.com/scribe-org/Scribe-i18n/tree/main/i18n/scripts) directory can be used to convert base localization JSON files into the filetypes that are needed for an application as well as the same in reverse. JSON files are automatically converted to their target files for Scribe applications after commits to the main branch, and their opposites can be used to update the JSON files when strings are first changed in the applications.
 
 ### Adding Scribe-i18n to Projects [`⇧`](#contents)
 
@@ -190,6 +191,42 @@ When making a contribution, adhering to the [GitHub flow](https://guides.github.
 6. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description.
 
 Thank you in advance for your contributions!
+
+<a id="check-files"></a>
+
+# Check Files [`⇧`](#contents)
+
+The following sets up the [i18n-check](https://github.com/activist-org/i18n-check) based validation for your local copy of Scribe-i18n:
+
+- Create a virtual environment for the developer tools, activate it and install dependencies:
+
+  ```bash
+  # Unix or MacOS:
+  python3 -m venv venv
+  source venv/bin/activate
+
+  # Windows:
+  python -m venv venv
+  venv\Scripts\activate.bat
+
+  # After activating venv:
+  pip install --upgrade pip
+  pip install -r requirements-dev.txt
+  ```
+
+- You can now run [i18n-check](https://github.com/activist-org/i18n-check) checks to validate the localization files (see [.i18n-check.yaml](./.i18n-check.yaml) for the enabled checks):
+
+```bash
+i18n-check --all  # (-a)
+i18n-check --all --fix # (-a -f)
+```
+
+- And finally you can enable the [pre-commit](https://pre-commit.com/) hooks to ensure that each of your commits is properly checked
+
+```bash
+pre-commit install
+pre-commit run --all-files
+```
 
 <a id="community"></a>
 

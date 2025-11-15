@@ -1,0 +1,41 @@
+name: pr_ci_i18n
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - main
+    types:
+      - opened
+      - reopened
+      - synchronize
+    paths:
+      - "i18n/**"
+  push:
+    branches:
+      - main
+    paths:
+      - "i18n/**"
+
+jobs:
+  i18n_check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Project
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Create Environment and Install Dependencies
+        run: |
+          python -m pip install --upgrade uv
+          uv venv
+          . .venv/bin/activate
+          uv pip install -r requirements-dev.txt
+          echo "$PWD/.venv/bin" >> $GITHUB_PATH
+
+      - name: Execute All i18n-check Key-Value Checks
+        run: |
+          i18n-check -a
