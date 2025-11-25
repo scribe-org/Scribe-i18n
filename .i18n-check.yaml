@@ -8,6 +8,10 @@ i18n-src: i18n/locales/en-US.json
 file-types-to-check: []  # not needed
 
 checks:
+  key-formatting:
+    active: true
+  non-source-keys:
+    active: true
   repeat-keys:
     active: true
   repeat-values:

@@ -10,19 +10,19 @@ certifi==2025.11.12
     # via
     #   i18n-check
     #   requests
-cfgv==3.4.0
+cfgv==3.5.0
     # via pre-commit
 charset-normalizer==3.4.4
     # via
     #   i18n-check
     #   requests
-click==8.3.0
+click==8.3.1
     # via pip-tools
 distlib==0.4.0
     # via virtualenv
 filelock==3.20.0
     # via virtualenv
-i18n-check==1.14.0
+i18n-check==1.15.0
     # via -r requirements-dev.in
 identify==2.6.15
     # via pre-commit
@@ -48,7 +48,7 @@ pip-tools==7.5.2
     # via -r requirements-dev.in
 platformdirs==4.5.0
     # via virtualenv
-pre-commit==4.4.0
+pre-commit==4.5.0
     # via -r requirements-dev.in
 pygments==2.19.2
     # via
