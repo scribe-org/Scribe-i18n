@@ -22,7 +22,7 @@ distlib==0.4.0
     # via virtualenv
 filelock==3.20.0
     # via virtualenv
-i18n-check==1.15.2
+i18n-check==1.15.3
     # via -r requirements-dev.in
 identify==2.6.15
     # via pre-commit
