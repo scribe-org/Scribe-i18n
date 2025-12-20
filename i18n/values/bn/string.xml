@@ -28,7 +28,6 @@
     <string name="i18n.app.about.feedback.rate_scribe">Scribe মূল্যায়ন করুন</string>
     <string name="i18n.app.about.feedback.title">প্রতিক্রিয়া এবং সহায়তা</string>
     <string name="i18n.app.about.feedback.version">সংস্করণ</string>
-    <string name="i18n.app.about.legal.privacy_policy">গোপনীয়তা নীতি</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">আপনাকে নিরাপদ রাখতে</string>
     <string name="i18n.app.about.legal.privacy_policy.text">দয়া করে মনে রাখবেন যে এই নীতির ইংরেজি সংস্করণটি সমস্ত অন্যান্য সংস্করণের উপরে প্রাধান্য পাবে।\n\nScribe ডেভেলপাররা (SCRIBE) iOS অ্যাপ "Scribe - Language Keyboards" (সেবা) একটি ওপেন সোর্স অ্যাপ হিসাবে তৈরি করেছে। এই সেবা SCRIBE দ্বারা কোনো খরচ ছাড়াই সরবরাহ করা হয় এবং এটি যেভাবে আছে সেভাবেই ব্যবহারের জন্য প্রস্তুত।\n\nএই গোপনীয়তা নীতি (নীতি) ব্যবহারকারীকে তথ্য প্রাপ্তি, ট্র্যাকিং, সংগ্রহ, সংরক্ষণ, ব্যবহার এবং ব্যক্তিগত তথ্যের প্রকাশ (USER INFORMATION) এবং ব্যবহার তথ্য (USER DATA) সম্পর্কিত নীতিগুলোর ব্যাপারে অবগত করতে ব্যবহৃত হয়।</string>
     <string name="i18n.app.about.legal.third_party">তৃতীয় পক্ষের লাইসেন্স</string>
@@ -36,7 +35,6 @@
     <string name="i18n.app.about.legal.third_party.entry_custom_keyboard">কাস্টম কীবোর্ড\n• লেখক: EthanSK\n• লাইসেন্স: MIT\n• লিঙ্ক: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE</string>
     <string name="i18n.app.about.legal.third_party.entry_simple_keyboard">সিম্পল কীবোর্ড\n• লেখক: Simple Mobile Tools\n• লাইসেন্স: GPL-3.0\n• লিঙ্ক: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE</string>
     <string name="i18n.app.about.legal.third_party.text">Scribe ডেভেলপাররা (SCRIBE) iOS অ্যাপ্লিকেশন "Scribe - Language Keyboards" (SERVICE) তৃতীয় পক্ষের কোড ব্যবহার করে তৈরি করেছেন। এই SERVICE তৈরিতে ব্যবহৃত সমস্ত সোর্স কোড এমন উৎস থেকে এসেছে যা SERVICE দ্বারা সম্পূর্ণভাবে ব্যবহারের অনুমতি দেয়। এই অংশে SERVICE ভিত্তি করে যে সোর্স কোড ব্যবহার করা হয়েছে এবং প্রতিটি কোডের লাইসেন্স তালিকাভুক্ত করা হয়েছে।\n\nনিম্নলিখিত হল সমস্ত ব্যবহৃত সোর্স কোড, কোডের প্রধান লেখক বা লেখকদের নাম, ব্যবহারকালে কোডটির প্রকাশিত লাইসেন্স এবং লাইসেন্সের লিঙ্ক।</string>
-    <string name="i18n.app.about.legal.title">আইনি</string>
     <string name="i18n.app.about.title">সম্পর্কে</string>
     <string name="i18n.app.conjugate.choose_conjugation.select_tense">কাল নির্বাচন করুন</string>
     <string name="i18n.app.conjugate.choose_conjugation.title">নিচের একটি conjugation নির্বাচন করুন</string>
@@ -51,12 +49,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">Scribe কীবোর্ডে নতুন ডেটা যোগ করুন।</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">কীবোর্ড ডেটা ডাউনলোড করুন</string>
     <string name="i18n.app.download.menu_option.scribe_title">ভাষার ডেটা</string>
+    <string name="i18n.app.download.menu_ui.download_data">ডেটা ডাউনলোড করুন</string>
     <string name="i18n.app.download.menu_ui.select.all_languages">সমস্ত ভাষা</string>
     <string name="i18n.app.download.menu_ui.select.title">ডাউনলোড করার জন্য ডেটা নির্বাচন করুন</string>
-    <string name="i18n.app.download.menu_ui.title">ডেটা ডাউনলোড করুন</string>
+    <string name="i18n.app.download.menu_ui.update_data">ডেটা আপডেট করুন</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">নতুন ডেটার জন্য চেক করুন</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">নিয়মিত ডেটা আপডেট করুন</string>
-    <string name="i18n.app.download.menu_ui.update_data.title">ডেটা আপডেট করুন</string>
     <string name="i18n.app.installation.app_hint">আপনার ডিভাইসে Scribe কীবোর্ড ইনস্টল করতে নিচের নির্দেশনাগুলি অনুসরণ করুন।</string>
     <string name="i18n.app.installation.button_quick_tutorial">দ্রুত টিউটোরিয়াল</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">কীবোর্ড সেটিংস খুলুন</string>

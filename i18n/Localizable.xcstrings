@@ -2678,101 +2678,6 @@
         }
       }
     },
-    "i18n.app.about.legal.privacy_policy" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "سياسة الخصوصية"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "গোপনীয়তা নীতি"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Datenschutzrichtlinie"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Privacy policy"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Política de privacidad"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Politique de confidentialité"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "गोपनीयता नीति"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Kebijakan privasi"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಗೌಪ್ಯತಾ ನೀತಿ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "제3자 정책"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "गोपनीयता धोरण"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Política de privacidade"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Integritetspolicy"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "தனியுரிமைக் கொள்கை"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Gizlilik politikası"
-          }
-        }
-      }
-    },
     "i18n.app.about.legal.privacy_policy.caption" : {
       "comment" : "",
       "localizations" : {
@@ -3434,101 +3339,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe geliştiricileri (SCRIBE), \"Scribe - Language Keyboards\" adlı iOS uygulamasını (HİZMET) üçüncü taraf kodları kullanarak oluşturdu. Bu HİZMET'in oluşturulmasında kullanılan tüm kaynak kodları, bu HİZMET tarafından yapılan şekilde tamamen kullanılmasına izin veren kaynaklardan gelmektedir. Bu bölüm, HİZMET'in temel aldığı kaynak kodları ve her birinin denk gelen lisanslarını listeler.\n\nAşağıda kullanılan tüm kaynak kodlarının, kodun ana yazarı veya yazarlarının, kullanım sırasında yayınlanan lisansının ve lisansın bir bağlantısının bir listesi bulunmaktadır."
-          }
-        }
-      }
-    },
-    "i18n.app.about.legal.title" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "قانوني"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "আইনি"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Rechtliches"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Legal"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Legal"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Mentions légales"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "कानूनी"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Legal"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಕಾನೂನು"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "법률"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "कायदेशीर"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Legalidades"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Legalitet"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "சட்டம்"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Yasal"
           }
         }
       }
@@ -4863,6 +4673,101 @@
         }
       }
     },
+    "i18n.app.download.menu_ui.download_data" : {
+      "comment" : "",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "تنزيل البيانات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ডেটা ডাউনলোড করুন"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Daten herunterladen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Download data"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Descargar datos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Télécharger les données"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा डाउनलोड करें"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Unduh data"
+          }
+        },
+        "kan" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "다운로드"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा डाउनलोड करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Baixar dados"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ladda ner data"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "தரவைப் பதிவிறக்கம் செய்யுங்கள்"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Veri indir"
+          }
+        }
+      }
+    },
     "i18n.app.download.menu_ui.select.all_languages" : {
       "comment" : "",
       "localizations" : {
@@ -4954,6 +4859,17 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Tüm diller"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.select.downloading" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Downloading"
           }
         }
       }
@@ -5053,97 +4969,108 @@
         }
       }
     },
-    "i18n.app.download.menu_ui.title" : {
+    "i18n.app.download.menu_ui.select.up_to_date" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Up to date"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.update_data" : {
       "comment" : "",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "تنزيل البيانات"
+            "value" : "تحديث البيانات"
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ডেটা ডাউনলোড করুন"
+            "value" : "ডেটা আপডেট করুন"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Daten herunterladen"
+            "value" : "Daten aktualisieren"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Download data"
+            "value" : "Update data"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Descargar datos"
+            "value" : "Actualizar datos"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Télécharger les données"
+            "value" : "Mettre à jour les données"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "डेटा डाउनलोड करें"
+            "value" : "डेटा अपडेट करें"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Unduh data"
+            "value" : "Perbarui data"
           }
         },
         "kan" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+            "value" : "ದತ್ತಾಂಶವನ್ನು ನವೀಕರಿಸಿ"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "다운로드"
+            "value" : "업데이트"
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "डेटा डाउनलोड करा"
+            "value" : "डेटा अद्ययावत करा"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Baixar dados"
+            "value" : "Atualizar dados"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Ladda ner data"
+            "value" : "Uppdatera data"
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "தரவைப் பதிவிறக்கம் செய்யுங்கள்"
+            "value" : "தரவைப் புதுப்பிக்கவும்"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Veri indir"
+            "value" : "Veriyi güncelle"
           }
         }
       }
@@ -5334,101 +5261,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Veriyi düzenli olarak güncelle"
-          }
-        }
-      }
-    },
-    "i18n.app.download.menu_ui.update_data.title" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "تحديث البيانات"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ডেটা আপডেট করুন"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Daten aktualisieren"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Update data"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Actualizar datos"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Mettre à jour les données"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "डेटा अपडेट करें"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Perbarui data"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ದತ್ತಾಂಶವನ್ನು ನವೀಕರಿಸಿ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "업데이트"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "डेटा अद्ययावत करा"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Atualizar dados"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Uppdatera data"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "தரவைப் புதுப்பிக்கவும்"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Veriyi güncelle"
           }
         }
       }

@@ -28,7 +28,6 @@
     <string name="i18n.app.about.feedback.rate_scribe">स्क्राइबला रेट करा</string>
     <string name="i18n.app.about.feedback.title">प्रतिक्रिया आणि समर्थन</string>
     <string name="i18n.app.about.feedback.version">आवृत्ती</string>
-    <string name="i18n.app.about.legal.privacy_policy">गोपनीयता धोरण</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">तुमच्या सुरक्षेची काळजी</string>
     <string name="i18n.app.about.legal.privacy_policy.text">कृपया लक्षात ठेवा की या धोरणाचा इंग्रजी आवृत्ती इतर सर्व आवृत्त्यांवर प्राधान्य देते.\n\nस्क्राइब डेव्हलपर्सनी (स्क्राइब) आयओएस अ‍ॅप्लिकेशन "स्क्राइब - भाषा कीबोर्ड्स" हे खुले-स्रोत अ‍ॅप्लिकेशन म्हणून तयार केले आहे. हे सेवा स्क्राइबद्वारे विनामूल्य प्रदान केली जाते.</string>
     <string name="i18n.app.about.legal.third_party">तृतीय-पक्ष परवाने</string>
@@ -36,7 +35,6 @@
     <string name="i18n.app.about.legal.third_party.entry_custom_keyboard">कस्टम कीबोर्ड\n• लेखक: एथेन एस के\n• परवाना: एमआयटी\n• लिंक: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE</string>
     <string name="i18n.app.about.legal.third_party.entry_simple_keyboard">सिंपल कीबोर्ड\n• लेखक: सिंपल मोबाईल टूल्स\n• परवाना: GPL-3.0\n• लिंक: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE</string>
     <string name="i18n.app.about.legal.third_party.text">स्क्राइब डेव्हलपर्सनी आयओएस अ‍ॅप्लिकेशन \'स्क्राइब - भाषा कीबोर्ड्स\' तृतीय-पक्ष कोडचा वापर करून तयार केले आहे.</string>
-    <string name="i18n.app.about.legal.title">कायदेशीर</string>
     <string name="i18n.app.about.title">बद्दल</string>
     <string name="i18n.app.conjugate.choose_conjugation.select_tense">काल निवडा</string>
     <string name="i18n.app.conjugate.choose_conjugation.title">खालीलपैकी एक संयोजन निवडा</string>
@@ -51,12 +49,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">स्क्राइब कीबोर्डमध्ये नवीन डेटा जोडा.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">कीबोर्ड डेटा डाउनलोड करा</string>
     <string name="i18n.app.download.menu_option.scribe_title">भाषा डेटा</string>
+    <string name="i18n.app.download.menu_ui.download_data">डेटा डाउनलोड करा</string>
     <string name="i18n.app.download.menu_ui.select.all_languages">सर्व भाषा</string>
     <string name="i18n.app.download.menu_ui.select.title">डाउनलोड करण्यासाठी डेटा निवडा</string>
-    <string name="i18n.app.download.menu_ui.title">डेटा डाउनलोड करा</string>
+    <string name="i18n.app.download.menu_ui.update_data">डेटा अद्ययावत करा</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">नवीन डेटाची तपासणी करा</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">नियमित डेटा अद्ययावत करा</string>
-    <string name="i18n.app.download.menu_ui.update_data.title">डेटा अद्ययावत करा</string>
     <string name="i18n.app.installation.app_hint">तुमच्या डिव्हाइसवर स्क्राइब कीबोर्ड इंस्टॉल करण्यासाठी खालील सूचनांचे पालन करा.</string>
     <string name="i18n.app.installation.button_quick_tutorial">त्वरित ट्युटोरियल</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">कीबोर्ड सेटिंग्ज उघडा</string>
