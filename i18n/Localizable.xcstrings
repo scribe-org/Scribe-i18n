@@ -1,6 +1,101 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "i18n.app._global.download_data" : {
+      "comment" : "",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "تنزيل البيانات"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ডেটা ডাউনলোড করুন"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Daten herunterladen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Download data"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Descargar datos"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Télécharger les données"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा डाउनलोड करें"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Unduh data"
+          }
+        },
+        "kan" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "다운로드"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा डाउनलोड करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Baixar dados"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ladda ner data"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "தரவைப் பதிவிறக்கம் செய்யுங்கள்"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Veri indir"
+          }
+        }
+      }
+    },
     "i18n.app._global.english" : {
       "comment" : "",
       "localizations" : {
@@ -778,7 +873,7 @@
         }
       }
     },
-    "i18n.app.about.app_hint" : {
+    "i18n.app.about.app_hint_tooltip" : {
       "comment" : "",
       "localizations" : {
         "ar" : {
@@ -2013,101 +2108,6 @@
         }
       }
     },
-    "i18n.app.about.feedback.app_hints" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "إعادة تعيين تلميحات التطبيق"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "অ্যাপ টিপস রিসেট করুন"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "App-Hinweise zurücksetzen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Reset app hints"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Restablecer notificaciones de aplicaciones"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Réinitialiser les astuces de l'application"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ऐप सुझाव रीसेट करें"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Reset petunjuk aplikasi"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಆಪ್ ಸುಳಿವುಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "앱 도움말 초기화"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "अ‍ॅप सूचनांचे पुनरावलोकन करा"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Restaurar as dicas"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Återställ app-tips"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "பயன்பாட்டு குறிப்புகளை மீட்டமை"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Uygulama ipuçlarını sıfırla"
-          }
-        }
-      }
-    },
     "i18n.app.about.feedback.bug_report" : {
       "comment" : "",
       "localizations" : {
@@ -2199,101 +2199,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Hata bildir"
-          }
-        }
-      }
-    },
-    "i18n.app.about.feedback.email" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "أرسل لنا بريدًا إلكترونيًا"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "আমাদের একটি ইমেল পাঠান"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Schicke uns eine E-Mail"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Send us an email"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Envianos un correo electrónico"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Nous envoyer un e-mail"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "हमें ईमेल भेजें"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Kirimi kami email"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ನಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಿ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "이메일 보내기"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "आम्हाला ईमेल पाठवा"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Fale conosco"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Skicka ett e-mail till oss"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "எங்களுக்கு மின்னஞ்சல் அனுப்புங்கள்"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Bize e-posta gönder"
           }
         }
       }
@@ -2484,6 +2389,196 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe'ı değerlendir"
+          }
+        }
+      }
+    },
+    "i18n.app.about.feedback.reset_app_hints" : {
+      "comment" : "",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "إعادة تعيين تلميحات التطبيق"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "অ্যাপ টিপস রিসেট করুন"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "App-Hinweise zurücksetzen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Reset app hints"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Restablecer notificaciones de aplicaciones"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Réinitialiser les astuces de l'application"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ऐप सुझाव रीसेट करें"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Reset petunjuk aplikasi"
+          }
+        },
+        "kan" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಆಪ್ ಸುಳಿವುಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "앱 도움말 초기화"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अ‍ॅप सूचनांचे पुनरावलोकन करा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Restaurar as dicas"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Återställ app-tips"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "பயன்பாட்டு குறிப்புகளை மீட்டமை"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Uygulama ipuçlarını sıfırla"
+          }
+        }
+      }
+    },
+    "i18n.app.about.feedback.send_email" : {
+      "comment" : "",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "أرسل لنا بريدًا إلكترونيًا"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "আমাদের একটি ইমেল পাঠান"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Schicke uns eine E-Mail"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Send us an email"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Envianos un correo electrónico"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Nous envoyer un e-mail"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "हमें ईमेल भेजें"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Kirimi kami email"
+          }
+        },
+        "kan" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಿ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "이메일 보내기"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "आम्हाला ईमेल पाठवा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Fale conosco"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Skicka ett e-mail till oss"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "எங்களுக்கு மின்னஞ்சல் அனுப்புங்கள்"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Bize e-posta gönder"
           }
         }
       }
@@ -4673,102 +4768,7 @@
         }
       }
     },
-    "i18n.app.download.menu_ui.download_data" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "تنزيل البيانات"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ডেটা ডাউনলোড করুন"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Daten herunterladen"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Download data"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Descargar datos"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Télécharger les données"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "डेटा डाउनलोड करें"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Unduh data"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "다운로드"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "डेटा डाउनलोड करा"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Baixar dados"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Ladda ner data"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "தரவைப் பதிவிறக்கம் செய்யுங்கள்"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Veri indir"
-          }
-        }
-      }
-    },
-    "i18n.app.download.menu_ui.select.all_languages" : {
+    "i18n.app.download.menu_ui.download_data.all_languages" : {
       "comment" : "",
       "localizations" : {
         "ar" : {
@@ -4863,7 +4863,7 @@
         }
       }
     },
-    "i18n.app.download.menu_ui.select.downloading" : {
+    "i18n.app.download.menu_ui.download_data.downloading" : {
       "comment" : "",
       "localizations" : {
         "en" : {
@@ -4874,7 +4874,7 @@
         }
       }
     },
-    "i18n.app.download.menu_ui.select.title" : {
+    "i18n.app.download.menu_ui.download_data.title" : {
       "comment" : "",
       "localizations" : {
         "ar" : {
@@ -4969,13 +4969,57 @@
         }
       }
     },
-    "i18n.app.download.menu_ui.select.up_to_date" : {
+    "i18n.app.download.menu_ui.download_data.up_to_date" : {
       "comment" : "",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Up to date"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.no_keyboards_installed" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "You currently do not have any Scribe keyboard installed. Please click the Install keyboards button below to install a Scribe keyboard and then come back to download the needed data."
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.translation_source_tooltip.change_language" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Change language"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.translation_source_tooltip.download_warning" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "The data you will download will allow you to translate from {source_language} to {target_language}. Do you want to change the language you'll translate  from?"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.translation_source_tooltip.use_source_language" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Use {source_language}"
           }
         }
       }
@@ -5265,7 +5309,7 @@
         }
       }
     },
-    "i18n.app.installation.app_hint" : {
+    "i18n.app.installation.app_hint_tooltip" : {
       "comment" : "",
       "localizations" : {
         "ar" : {
@@ -6595,7 +6639,7 @@
         }
       }
     },
-    "i18n.app.settings.app_hint" : {
+    "i18n.app.settings.app_hint_tooltip" : {
       "comment" : "",
       "localizations" : {
         "ar" : {
@@ -9879,6 +9923,28 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Yüklenen klavyeyi seçin"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard.translation.change_source_tooltip.download_warning" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "You've changed your source translation language. Would you like to download new data so that you can translate from {source_language}?"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard.translation.change_source_tooltip.keep_source_language" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Keep {source_language}"
           }
         }
       }

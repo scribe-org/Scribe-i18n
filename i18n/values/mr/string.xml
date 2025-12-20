@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">डेटा डाउनलोड करा</string>
     <string name="i18n.app._global.english">इंग्रजी</string>
     <string name="i18n.app._global.french">फ्रेंच</string>
     <string name="i18n.app._global.german">जर्मन</string>
@@ -8,7 +9,7 @@
     <string name="i18n.app._global.russian">रशियन</string>
     <string name="i18n.app._global.spanish">स्पॅनिश</string>
     <string name="i18n.app._global.swedish">स्वीडिश</string>
-    <string name="i18n.app.about.app_hint">इथे तुम्ही स्क्राइब आणि त्याच्या समुदायाबद्दल अधिक जाणून घेऊ शकता.</string>
+    <string name="i18n.app.about.app_hint_tooltip">इथे तुम्ही स्क्राइब आणि त्याच्या समुदायाबद्दल अधिक जाणून घेऊ शकता.</string>
     <string name="i18n.app.about.community.github">गिटहबवर कोड पहा</string>
     <string name="i18n.app.about.community.mastodon">आम्हाला मॅस्टोडॉनवर फॉलो करा</string>
     <string name="i18n.app.about.community.matrix">मॅट्रिक्सवर टीमशी बोला</string>
@@ -21,11 +22,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">विकिमीडिया योगदानकर्त्यांच्या समर्थनाशिवाय स्क्राइब शक्य झाले नसते. विशेषतः स्क्राइब विकिडेटा शब्दकोशीय डेटा आणि विविध भाषांसाठी विकिपीडियाच्या डेटाचा वापर करतो.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">विकिडेटा हा विकिमीडिया फाउंडेशनद्वारे होस्ट केलेला एक सहयोगी संपादित बहुभाषिक ज्ञान ग्राफ आहे. याचा डेटा क्रिएटिव्ह कॉमन्स पब्लिक डोमेन (CC0) अंतर्गत उपलब्ध आहे.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">विकिपीडिया हे एक बहुभाषिक मुक्त ऑनलाइन विश्वकोश आहे. स्क्राइब शब्दांच्या सुचवण्या करण्यासाठी विकिपीडियाच्या डेटाचा वापर करतो.</string>
-    <string name="i18n.app.about.feedback.app_hints">अ‍ॅप सूचनांचे पुनरावलोकन करा</string>
     <string name="i18n.app.about.feedback.bug_report">बग रिपोर्ट करा</string>
-    <string name="i18n.app.about.feedback.email">आम्हाला ईमेल पाठवा</string>
     <string name="i18n.app.about.feedback.rate_conjugate">स्क्राइब कॉन्जुगेटला रेट करा</string>
     <string name="i18n.app.about.feedback.rate_scribe">स्क्राइबला रेट करा</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">अ‍ॅप सूचनांचे पुनरावलोकन करा</string>
+    <string name="i18n.app.about.feedback.send_email">आम्हाला ईमेल पाठवा</string>
     <string name="i18n.app.about.feedback.title">प्रतिक्रिया आणि समर्थन</string>
     <string name="i18n.app.about.feedback.version">आवृत्ती</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">तुमच्या सुरक्षेची काळजी</string>
@@ -49,13 +50,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">स्क्राइब कीबोर्डमध्ये नवीन डेटा जोडा.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">कीबोर्ड डेटा डाउनलोड करा</string>
     <string name="i18n.app.download.menu_option.scribe_title">भाषा डेटा</string>
-    <string name="i18n.app.download.menu_ui.download_data">डेटा डाउनलोड करा</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">सर्व भाषा</string>
-    <string name="i18n.app.download.menu_ui.select.title">डाउनलोड करण्यासाठी डेटा निवडा</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">सर्व भाषा</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">डाउनलोड करण्यासाठी डेटा निवडा</string>
     <string name="i18n.app.download.menu_ui.update_data">डेटा अद्ययावत करा</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">नवीन डेटाची तपासणी करा</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">नियमित डेटा अद्ययावत करा</string>
-    <string name="i18n.app.installation.app_hint">तुमच्या डिव्हाइसवर स्क्राइब कीबोर्ड इंस्टॉल करण्यासाठी खालील सूचनांचे पालन करा.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">तुमच्या डिव्हाइसवर स्क्राइब कीबोर्ड इंस्टॉल करण्यासाठी खालील सूचनांचे पालन करा.</string>
     <string name="i18n.app.installation.button_quick_tutorial">त्वरित ट्युटोरियल</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">कीबोर्ड सेटिंग्ज उघडा</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">कीबोर्ड</string>
@@ -69,7 +69,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">विकिडाटा हे सहयोगाने संपादित ज्ञान ग्राफ आहे, जे विकिमीडिया फाउंडेशनद्वारे देखभाल केले जाते. हे विकिपीडिया आणि इतर अनेक प्रकल्पांसाठी खुला डेटा स्रोत आहे.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">स्क्राइब विकिडाटाच्या भाषा डेटाचा वापर त्याच्या अनेक मुख्य वैशिष्ट्यांसाठी करतो. आम्हाला या डेटामधून संज्ञा लिंग, क्रियापद रूपांतरण आणि इतर माहिती मिळते!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">तुम्ही wikidata.org वर खाती बनवून त्या समुदायात सामील होऊ शकता, जो स्क्राइब आणि इतर अनेक प्रकल्पांना समर्थन देत आहे. आमच्यासोबत मोफत माहिती जगभर पोहचविण्यात मदत करा!</string>
-    <string name="i18n.app.settings.app_hint">अ‍ॅप आणि इंस्टॉल केलेल्या भाषा कीबोर्डची सेटिंग्ज इथे मिळतील.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">अ‍ॅप आणि इंस्टॉल केलेल्या भाषा कीबोर्डची सेटिंग्ज इथे मिळतील.</string>
     <string name="i18n.app.settings.button_install_keyboards">कीबोर्ड इंस्टॉल करा</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">सुचवण्या/समाप्ति वर्णन करा</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">टाइप करताना सुचवण्या आणि समाप्ति रेखांकित करा जेणेकरून त्यांच्या लिंगाची माहिती मिळू शकेल.</string>

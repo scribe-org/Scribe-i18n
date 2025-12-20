@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
     <string name="i18n.app._global.english">ಇಂಗ್ಲಿಷ್</string>
     <string name="i18n.app._global.french">ಫ್ರೆಂಚ್</string>
     <string name="i18n.app._global.german">ಜರ್ಮನ್</string>
@@ -8,7 +9,7 @@
     <string name="i18n.app._global.russian">ರಷ್ಯನ್</string>
     <string name="i18n.app._global.spanish">ಸ್ಪ್ಯಾನಿಷ್</string>
     <string name="i18n.app._global.swedish">ಸ್ವೀಡಿಷ್</string>
-    <string name="i18n.app.about.app_hint">Scribe ಮತ್ತು ಅದರ ಸಮುದಾಯದ ಬಗ್ಗೆ ನೀವು ಇಲ್ಲಿ ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಬಹುದು.</string>
+    <string name="i18n.app.about.app_hint_tooltip">Scribe ಮತ್ತು ಅದರ ಸಮುದಾಯದ ಬಗ್ಗೆ ನೀವು ಇಲ್ಲಿ ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಬಹುದು.</string>
     <string name="i18n.app.about.community.github">GitHub ನಲ್ಲಿ ಕೋಡ್ ನೋಡಿ</string>
     <string name="i18n.app.about.community.mastodon">Mastodon ನಲ್ಲಿ ನಮ್ಮನ್ನು ಅನುಸರಿಸಿ</string>
     <string name="i18n.app.about.community.matrix">Matrix ನಲ್ಲಿ ತಂಡದೊಂದಿಗೆ ಚಾಟ್ ಮಾಡಿ</string>
@@ -21,11 +22,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">Scribe, ವಿಕಿಮೀಡಿಯಾ ಕೊಡುಗೆದಾರರು ಅವರು ಬೆಂಬಲಿಸುವ ಅನೇಕ ಯೋಜನೆಗಳಿಗೆ ಮಾಡಿದ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಕೊಡುಗೆಗಳಿಲ್ಲದೆ ಸಾಧ್ಯವಾಗುತ್ತಿರಲಿಲ್ಲ. Scribe, Wikidata Lexicographical data ಸಮುದಾಯದಿಂದ ದತ್ತಾಂಶವನ್ನು, ಹಾಗೆಯೇ Scribe ಬೆಂಬಲಿಸುವ ಪ್ರತಿಯೊಂದು ಭಾಷೆಗೆ ವಿಕಿಪೀಡಿಯಾದಿಂದ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">ವಿಕಿಡೇಟಾವು ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಶನ್ ಮೂಲಕ ಹೋಸ್ಟ್ ಮಾಡಲಾದ ಸಹಯೋಗದಲ್ಲಿ ಸಂಪಾದಿಸಲಾದ ಬಹುಭಾಷಾ ಜ್ಞಾನ ನಕ್ಷೆ. ಇದು ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಪಬ್ಲಿಕ್ ಡೊಮೇನ್ ಲೈಸೆನ್ಸ್ (CC0) ಅಡಿಯಲ್ಲಿ ಯಾರಾದರೂ ಬಳಸಬಹುದಾದ ಉಚಿತ ದತ್ತಾಂಶವನ್ನು ಒದಗಿಸುತ್ತದೆ. Scribe, ಬಳಕೆದಾರರಿಗೆ ಕ್ರಿಯಾ ಸಂಯೋಜನೆಗಳು, ನಾಮಪದ ರೂಪದ ಉಲ್ಲೇಖಗಳು, ನಾಮಪದ ಬಹುವಚನಗಳು ಮತ್ತು ಇತರ ಹಲವು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಒದಗಿಸಲು ವಿಕಿಡೇಟಾದಿಂದ ಭಾಷಾ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">ವಿಕಿಪೀಡಿಯಾವು ಸ್ವಯಂಸೇವಕರ ಸಮುದಾಯದಿಂದ ಮುಕ್ತ ಸಹಯೋಗ ಮತ್ತು ವಿಕಿ-ಆಧಾರಿತ ಸಂಪಾದನಾ ವ್ಯವಸ್ಥೆಯ ಮೂಲಕ ಬರೆಯಲಾದ ಮತ್ತು ನಿರ್ವಹಿಸಲ್ಪಡುವ ಬಹುಭಾಷಾ ಉಚಿತ ಆನ್‌ಲೈನ್ ಎನ್‌ಸೈಕ್ಲೋಪೀಡಿಯಾ. Scribe, ಒಂದು ಭಾಷೆಯಲ್ಲಿನ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಮತ್ತು ಅವುಗಳನ್ನು ಅನುಸರಿಸುವ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಹುಡುಕುವ ಮೂಲಕ ಸ್ವಯಂ-ಸೂಚನೆಗಳನ್ನು ಸೃಷ್ಟಿಸಲು ವಿಕಿಪೀಡಿಯಾದಿಂದ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ.</string>
-    <string name="i18n.app.about.feedback.app_hints">ಆಪ್ ಸುಳಿವುಗಳನ್ನು ಮರುಹೊಂದಿಸಿ</string>
     <string name="i18n.app.about.feedback.bug_report">ದೋಷ ವರದಿ ಮಾಡಿ</string>
-    <string name="i18n.app.about.feedback.email">ನಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಿ</string>
     <string name="i18n.app.about.feedback.rate_conjugate">Scribe Conjugate ಅನ್ನು ರೇಟ್ ಮಾಡಿ</string>
     <string name="i18n.app.about.feedback.rate_scribe">Scribe ಅನ್ನು ರೇಟ್ ಮಾಡಿ</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">ಆಪ್ ಸುಳಿವುಗಳನ್ನು ಮರುಹೊಂದಿಸಿ</string>
+    <string name="i18n.app.about.feedback.send_email">ನಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಿ</string>
     <string name="i18n.app.about.feedback.title">ಅಭಿಪ್ರಾಯ ಮತ್ತು ಬೆಂಬಲ</string>
     <string name="i18n.app.about.feedback.version">ಆವೃತ್ತಿ</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">ನಿಮ್ಮನ್ನು ಸುರಕ್ಷಿತವಾಗಿರಿಸುವುದು</string>
@@ -49,13 +50,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">Scribe ಕೀಬೋರ್ಡ್‌ಗಳಿಗೆ ಹೊಸ ದತ್ತಾಂಶವನ್ನು ಸೇರಿಸಿ.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">ಕೀಬೋರ್ಡ್ ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
     <string name="i18n.app.download.menu_option.scribe_title">ಭಾಷಾ ದತ್ತಾಂಶ</string>
-    <string name="i18n.app.download.menu_ui.download_data">ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">ಎಲ್ಲಾ ಭಾಷೆಗಳು</string>
-    <string name="i18n.app.download.menu_ui.select.title">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ದತ್ತಾಂಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">ಎಲ್ಲಾ ಭಾಷೆಗಳು</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ದತ್ತಾಂಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
     <string name="i18n.app.download.menu_ui.update_data">ದತ್ತಾಂಶವನ್ನು ನವೀಕರಿಸಿ</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">ಹೊಸ ದತ್ತಾಂಶಕ್ಕಾಗಿ ಪರಿಶೀಲಿಸಿ</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">ದತ್ತಾಂಶವನ್ನು ನಿಯಮಿತವಾಗಿ ನವೀಕರಿಸಿ</string>
-    <string name="i18n.app.installation.app_hint">ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ Scribe ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಕೆಳಗಿನ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ Scribe ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಕೆಳಗಿನ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ.</string>
     <string name="i18n.app.installation.button_quick_tutorial">ತ್ವರಿತ ಟ್ಯುಟೋರಿಯಲ್</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">ಕೀಬೋರ್ಡ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">ಕೀಬೋರ್ಡ್‌ಗಳು</string>
@@ -69,7 +69,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">ವಿಕಿಡೇಟಾವು ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಶನ್‌ನಿಂದ ನಿರ್ವಹಿಸಲ್ಪಡುವ ಸಹಯೋಗದೊಂದಿಗೆ ಸಂಪಾದಿಸಲಾದ ಜ್ಞಾನ ನಕ್ಷೆ. ಇದು ವಿಕಿಪೀಡಿಯಾ ಮತ್ತು ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಇತರ ಯೋಜನೆಗಳಿಗೆ ಮುಕ್ತ ದತ್ತಾಂಶದ ಮೂಲವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">Scribe ತನ್ನ ಅನೇಕ ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯಗಳಿಗಾಗಿ ವಿಕಿಡೇಟಾದ ಭಾಷಾ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ. ನಾವು ನಾಮಪದ ಲಿಂಗಗಳು, ಕ್ರಿಯಾಪದ ಸಂಯೋಜನೆಗಳು ಮತ್ತು ಇನ್ನೂ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯುತ್ತೇವೆ!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">Scribe ಮತ್ತು ಇನ್ನೂ ಅನೇಕ ಯೋಜನೆಗಳನ್ನು ಬೆಂಬಲಿಸುವ ಸಮುದಾಯವನ್ನು ಸೇರಲು wikidata.org ನಲ್ಲಿ ಖಾತೆಯನ್ನು ರಚಿಸಿ. ಜಗತ್ತಿಗೆ ಉಚಿತ ಮಾಹಿತಿ ನೀಡಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಿ!</string>
-    <string name="i18n.app.settings.app_hint">ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ಭಾಷಾ ಕೀಬೋರ್ಡ್‌ಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿದೆ.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ಭಾಷಾ ಕೀಬೋರ್ಡ್‌ಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿದೆ.</string>
     <string name="i18n.app.settings.button_install_keyboards">ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">ಸೂಚನೆಗಳನ್ನು ಎದ್ದುಕಾಣುವಂತೆ ಮಾಡಿ</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">ನೀವು ಟೈಪ್ ಮಾಡುವಾಗ ಅವುಗಳ ಲಿಂಗಗಳನ್ನು ತೋರಿಸಲು ಸೂಚನೆಗಳು ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ಅಂಡರ್‌ಲೈನ್ ಮಾಡಿ.</string>

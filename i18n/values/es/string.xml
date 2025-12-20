@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">Descargar datos</string>
     <string name="i18n.app._global.english">Inglés</string>
     <string name="i18n.app._global.french">Francés</string>
     <string name="i18n.app._global.german">Alemán</string>
@@ -8,7 +9,7 @@
     <string name="i18n.app._global.russian">Ruso</string>
     <string name="i18n.app._global.spanish">Español</string>
     <string name="i18n.app._global.swedish">Sueco</string>
-    <string name="i18n.app.about.app_hint">Aquí puedes obtener más información sobre Scribe y su comunidad.</string>
+    <string name="i18n.app.about.app_hint_tooltip">Aquí puedes obtener más información sobre Scribe y su comunidad.</string>
     <string name="i18n.app.about.community.github">Ver el código en GitHub</string>
     <string name="i18n.app.about.community.mastodon">Siguenos en Mastodon</string>
     <string name="i18n.app.about.community.matrix">Chatea con el equipo en Matrix</string>
@@ -21,11 +22,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">Scribe no sería posible sin las innumerables contribuciones de los colaboradores de Wikimedia a los numerosos proyectos que apoya. Scribe utiliza datos de la comunidad de datos lexicográficos de Wikidata, así como datos de Wikipedia para cada idioma que Scribe admite.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">Wikidata es un gráfico de conocimiento colaborativo y multilingüe alojado por la Fundación Wikimedia. Proporciona datos disponibles gratuitamente bajo una licencia de dominio público Creative Commons (CC0). Scribe utiliza datos de idioma de Wikidata para proporcionar a los usuarios conjugaciones verbales, anotaciones de casos, plurales y muchas otras características.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">La Wikipedia es una enciclopedia libre multilingüe escrita y mantenida por una comunidad de voluntarios mediante una colaboración abierta y un sistema de edición basado en wiki. Scribe utiliza datos de la Wikipedia para generar autosugestiones derivando las palabras más comunes de un idioma, así como las palabras más comunes que las siguen.</string>
-    <string name="i18n.app.about.feedback.app_hints">Restablecer notificaciones de aplicaciones</string>
     <string name="i18n.app.about.feedback.bug_report">Reportar un error</string>
-    <string name="i18n.app.about.feedback.email">Envianos un correo electrónico</string>
     <string name="i18n.app.about.feedback.rate_conjugate">Valorar Scribe Conjugate</string>
     <string name="i18n.app.about.feedback.rate_scribe">Puntúa a Scribe</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">Restablecer notificaciones de aplicaciones</string>
+    <string name="i18n.app.about.feedback.send_email">Envianos un correo electrónico</string>
     <string name="i18n.app.about.feedback.title">Comentarios y soporte</string>
     <string name="i18n.app.about.feedback.version">Versión</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">Velamos por tu seguridad</string>
@@ -49,13 +50,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">Agregar nuevos datos a los teclados Scribe.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">Descargar datos del teclado</string>
     <string name="i18n.app.download.menu_option.scribe_title">Datos del idioma</string>
-    <string name="i18n.app.download.menu_ui.download_data">Descargar datos</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">Todos los idiomas</string>
-    <string name="i18n.app.download.menu_ui.select.title">Selecciona los datos que deseas descargar</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">Todos los idiomas</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">Selecciona los datos que deseas descargar</string>
     <string name="i18n.app.download.menu_ui.update_data">Actualizar datos</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">Verificar si hay nuevos datos</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">Actualizar datos periódicamente</string>
-    <string name="i18n.app.installation.app_hint">Sigue las instrucciones para instalar los teclados Scribe en tu dispositivo.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">Sigue las instrucciones para instalar los teclados Scribe en tu dispositivo.</string>
     <string name="i18n.app.installation.button_quick_tutorial">Tutorial rápido</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">Abrir los ajustes del teclado</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">Teclados</string>
@@ -69,7 +69,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">Wikidata es un gráfico de conocimiento editado de forma colaborativa y mantenido por la Fundación Wikimedia. Sirve como fuente de datos abiertos para proyectos como Wikipedia y muchos otros.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">Scribe utiliza los datos lingüísticos de Wikidata para muchas de sus funciones principales. ¡Obtenemos información como géneros de sustantivos, conjugaciones de verbos y mucho más!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">Puedes crear una cuenta en wikidata.org para unirte a la comunidad que apoya a Scribe y a muchos otros proyectos. ¡Ayúdanos a llevar información gratuita al mundo!</string>
-    <string name="i18n.app.settings.app_hint">La configuración de la aplicación y los teclados de idiomas instalados se encuentran aquí.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">La configuración de la aplicación y los teclados de idiomas instalados se encuentran aquí.</string>
     <string name="i18n.app.settings.button_install_keyboards">Instalar teclados</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">Anotar, sugerir/completar</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">Subraya sugerencias y terminaciones para mostrar sus géneros mientras escribes.</string>

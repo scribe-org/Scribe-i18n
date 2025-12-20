@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">다운로드</string>
     <string name="i18n.app._global.english">영어</string>
     <string name="i18n.app._global.french">프랑스어</string>
     <string name="i18n.app._global.german">독일어</string>
@@ -8,7 +9,7 @@
     <string name="i18n.app._global.russian">러시아어</string>
     <string name="i18n.app._global.spanish">스페인어</string>
     <string name="i18n.app._global.swedish">스웨덴어</string>
-    <string name="i18n.app.about.app_hint">여기서 Scribe와 커뮤니티에 대해 더 알아볼 수 있습니다.</string>
+    <string name="i18n.app.about.app_hint_tooltip">여기서 Scribe와 커뮤니티에 대해 더 알아볼 수 있습니다.</string>
     <string name="i18n.app.about.community.github">GitHub에서 코드보러 가기</string>
     <string name="i18n.app.about.community.mastodon">Mastodon 팔로우하러 가기</string>
     <string name="i18n.app.about.community.matrix">Matrix 채팅하러 가기</string>
@@ -21,11 +22,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">Scribe는 수많은 위키미디어 기여자들의 도움 없이는 불가능했을 것입니다. 특히 Scribe는 위키데이터의 어휘 데이터와 Scribe가 지원하는 각 언어의 위키피디아 데이터를 사용하고 있습니다.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">위키데이터는 위키미디어 재단이 운영하는 다국어 협업 지식 그래프 입니다. 누구나 사용할 수 있는 자유로운 데이터로, CC0(Creative Commons Public Domain license) 하에 제공됩니다. Scribe는 위키데이터의 언어 데이터를 활용하여 사용자에게 동사 활용, 명사 형태, 명사 복수형 등 다양한 기능을 제공합니다.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">위키피디아는 자원봉사자 커뮤니티가 개방형 협업과 위키 기반 편집 시스템을 통해 작성하고 유지하는 다국어 무료 온라인 백과사전입니다. Scribe는 위키피디아의 데이터를 활용하여 언어에서 가장 일반적인 단어와 그 뒤에 오는 가장 일반적인 단어를 기반으로 자동 추천을 생성합니다.</string>
-    <string name="i18n.app.about.feedback.app_hints">앱 도움말 초기화</string>
     <string name="i18n.app.about.feedback.bug_report">버그 제보하기</string>
-    <string name="i18n.app.about.feedback.email">이메일 보내기</string>
     <string name="i18n.app.about.feedback.rate_conjugate">Scribe 활용 평가하기</string>
     <string name="i18n.app.about.feedback.rate_scribe">Scribe 평가하기</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">앱 도움말 초기화</string>
+    <string name="i18n.app.about.feedback.send_email">이메일 보내기</string>
     <string name="i18n.app.about.feedback.title">피드백 및 지원</string>
     <string name="i18n.app.about.feedback.version">버전</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">안전 유지</string>
@@ -49,13 +50,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">Scribe 키보드에 새로운 데이터를 추가합니다.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">키보드 데이터 다운로드</string>
     <string name="i18n.app.download.menu_option.scribe_title">언어 데이터</string>
-    <string name="i18n.app.download.menu_ui.download_data">다운로드</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">모든 언어</string>
-    <string name="i18n.app.download.menu_ui.select.title">다운로드 할 데이터 선택</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">모든 언어</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">다운로드 할 데이터 선택</string>
     <string name="i18n.app.download.menu_ui.update_data">업데이트</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">새로운 데이터 확인하기</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">정기적으로 데이터 업데이트히기</string>
-    <string name="i18n.app.installation.app_hint">아래 지침에 따라 Scribe 키보드를 기기에 설치하세요.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">아래 지침에 따라 Scribe 키보드를 기기에 설치하세요.</string>
     <string name="i18n.app.installation.button_quick_tutorial">빠른 튜토리얼</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">키보드 설정 열기</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">키보드</string>
@@ -69,7 +69,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">위키데이터는 위키미디어 재단에 의해 유지되는 협업 편집 지식 그래프입니다. 이는 위키백과와 수많은 다른 프로젝트를 위한 개방형 데이터의 출처로 사용됩니다.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">Scribe는 많은 핵심 기능에서 위키데이터의 언어 데이터를 사용합니다. 우리는 명사의 성별, 동사의 활용 등 다양한 정보를 얻습니다!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">wikidata.org에서 계정을 만들면 Scribe와 많은 다른 프로젝트를 지원하는 커뮤니티에 참여할 수 있습니다. 함께 세상에 유용한 정보를 나누는 데 도움을 주세요!</string>
-    <string name="i18n.app.settings.app_hint">앱 설정과 설치된 언어 키보드는 여기서 찾을 수 있습니다.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">앱 설정과 설치된 언어 키보드는 여기서 찾을 수 있습니다.</string>
     <string name="i18n.app.settings.button_install_keyboards">키보드 설치하기</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">추천 및 완성 설명</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">입력 시 성별에 따라 다른 단어가 제안될 때, 해당 단어에 밑줄 쳐서 성별을 나타낸다.</string>

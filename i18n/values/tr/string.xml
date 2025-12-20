@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">Veri indir</string>
     <string name="i18n.app._global.english">İngilizce</string>
     <string name="i18n.app._global.french">Fransızca</string>
     <string name="i18n.app._global.german">Almanca</string>
@@ -9,7 +10,7 @@
     <string name="i18n.app._global.russian">Rusça</string>
     <string name="i18n.app._global.spanish">İspanyolca</string>
     <string name="i18n.app._global.swedish">İsveççe</string>
-    <string name="i18n.app.about.app_hint">Scribe ve topluluğu hakkında daha fazla bilgi edinebileceğiniz yer burası.</string>
+    <string name="i18n.app.about.app_hint_tooltip">Scribe ve topluluğu hakkında daha fazla bilgi edinebileceğiniz yer burası.</string>
     <string name="i18n.app.about.community.github">GitHub\'da kodu gör</string>
     <string name="i18n.app.about.community.mastodon">Mastodon\'da bizi takip et</string>
     <string name="i18n.app.about.community.matrix">Matrix\'te ekiple sohbet et</string>
@@ -22,11 +23,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">Scribe, Wikimedia projelerine katkıda bulunan sayısız katkıcının desteği olmadan mümkün olamazdı. Scribe, desteklediği her dil için Wikidata Lexicographical veri topluluğundan ve Wikipedia\'dan veri kullanır.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">Wikimedia Vakfı tarafından barındırılan Wikidata, kolaboratif çok dilli bir bilgi grafiğidir. Herkesin ücretsiz olarak kullanabileceği verileri, Creative Commons Kamu Malı lisansı (CC0) altında erişebilir kılar. Scribe, kullanıcılarına fiil çekimleri, isim formları açıklamaları, isim çoğulları ve daha birçok özellik sağlamak için Wikidata\'nın dil verilerini kullanır.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">Wikipedia, topluluğu gönüllülerden oluşan ve toplu işbirlik yoluyla yazılan ve sürdürülen, çok dilli bir ücretsiz çevrimiçi ansiklopedidir. Scribe, bir dildeki en yaygın kelimeleri ve onları takip eden en yaygın kelimeleri kullanarak otomatik öneriler üretmek için Wikipedia\'dan veri kullanır.</string>
-    <string name="i18n.app.about.feedback.app_hints">Uygulama ipuçlarını sıfırla</string>
     <string name="i18n.app.about.feedback.bug_report">Hata bildir</string>
-    <string name="i18n.app.about.feedback.email">Bize e-posta gönder</string>
     <string name="i18n.app.about.feedback.rate_conjugate">Scribe Conjugate\'i değerlendir</string>
     <string name="i18n.app.about.feedback.rate_scribe">Scribe\'ı değerlendir</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">Uygulama ipuçlarını sıfırla</string>
+    <string name="i18n.app.about.feedback.send_email">Bize e-posta gönder</string>
     <string name="i18n.app.about.feedback.title">Geri bildirim ve destek</string>
     <string name="i18n.app.about.feedback.version">Sürüm</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">Sizi güvende tutmak</string>
@@ -50,13 +51,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">Scribe klavyelerine yeni veri ekle.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">Klavye verilerini indir</string>
     <string name="i18n.app.download.menu_option.scribe_title">Dil verisi</string>
-    <string name="i18n.app.download.menu_ui.download_data">Veri indir</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">Tüm diller</string>
-    <string name="i18n.app.download.menu_ui.select.title">İndirilecek veriyi seç</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">Tüm diller</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">İndirilecek veriyi seç</string>
     <string name="i18n.app.download.menu_ui.update_data">Veriyi güncelle</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">Yeni verileri kontrol et</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">Veriyi düzenli olarak güncelle</string>
-    <string name="i18n.app.installation.app_hint">Scribe klavyelerini cihazına yüklemek için aşağıdaki talimatları izleyin.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">Scribe klavyelerini cihazına yüklemek için aşağıdaki talimatları izleyin.</string>
     <string name="i18n.app.installation.button_quick_tutorial">Hızlı eğitim</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">Klavye ayarlarını aç</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">Klavye</string>
@@ -70,7 +70,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">Wikimedia Vakfı tarafından barındırılan Wikidata, kolaboratif çok dilli bir bilgi grafiğidir. Wikipedia ve diğer birçok projeler için açık veri kaynağı olarak hizmet eder.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">Scribe, birçok temel özelliği için Wikidata\'nın dil verilerini kullanır. İsim cinsiyetleri, fiil çekimleri ve çok daha fazlasını Wikidata\'dan alırız!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">wikidata.org adresinde bir hesap oluşturabilir, Scribe\'ı ve diğer birçok projeyi destekleyen bu topluluğa katılabilirsiniz. Dünya\'ya ücretsiz bilgi getirmemize yardımcı olun!</string>
-    <string name="i18n.app.settings.app_hint">Uygulama ve yüklenmiş dil klavyelerinin ayarlarını burada bulun.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">Uygulama ve yüklenmiş dil klavyelerinin ayarlarını burada bulun.</string>
     <string name="i18n.app.settings.button_install_keyboards">Klavye yükle</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">Önerileri/otomatik tamamlamayı etkinleştir</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">Yazarken önerilerin ve otomatik tamamlamaların altını çizerek cinsiyetlerini gösterin.</string>

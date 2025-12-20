@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">தரவைப் பதிவிறக்கம் செய்யுங்கள்</string>
     <string name="i18n.app._global.english">ஆங்கிலம்</string>
     <string name="i18n.app._global.french">பிரெஞ்சு</string>
     <string name="i18n.app._global.german">ஜெர்மன்</string>
@@ -8,7 +9,7 @@
     <string name="i18n.app._global.russian">ரஷ்ய</string>
     <string name="i18n.app._global.spanish">ஸ்பானிஷ்</string>
     <string name="i18n.app._global.swedish">ஸ்வீடிஷ்</string>
-    <string name="i18n.app.about.app_hint">Scribe மற்றும் அதன் சமூகத்தைப் பற்றி மேலும் அறிய இங்கே வரலாம்.</string>
+    <string name="i18n.app.about.app_hint_tooltip">Scribe மற்றும் அதன் சமூகத்தைப் பற்றி மேலும் அறிய இங்கே வரலாம்.</string>
     <string name="i18n.app.about.community.github">GitHub இல் குறியீட்டைப் பார்க்க</string>
     <string name="i18n.app.about.community.mastodon">Mastodon இல் எங்களைப் பின்தொடருங்கள்</string>
     <string name="i18n.app.about.community.matrix">Matrix இல் குழுவுடன் அரட்டையடிக்க</string>
@@ -21,11 +22,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">விக்கிமீடியா பங்களிப்பாளர்கள் ஆதரிக்கும் பல திட்டங்களுக்கு செய்த எண்ணற்ற பங்களிப்புகள் இல்லையென்றால் Scribe சாத்தியமாகியிருக்காது. Scribe, விக்கிடேட்டா அகராதி தரவு சமூகத்தின் தரவுகளையும், Scribe ஆதரிக்கும் ஒவ்வொரு மொழிக்கும் விக்கிபீடியாவின் தரவுகளையும் பயன்படுத்துகிறது.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">விக்கிடேட்டா என்பது விக்கிமீடியா அறக்கட்டளையால் நடத்தப்படும் கூட்டுறவு முறையில் திருத்தப்படும் பன்மொழி அறிவுக் கோவை ஆகும். இது Creative Commons பொது டொமைன் உரிமம் (CC0) கீழ் எவரும் பயன்படுத்தக்கூடிய இலவச தரவுகளை வழங்குகிறது. Scribe, பயனர்களுக்கு வினைச்சொல் இணைப்புகள், பெயர்ச்சொல் குறிப்புகள், பெயர்ச்சொல் பன்மைகள் மற்றும் பல அம்சங்களை வழங்க விக்கிடேட்டாவின் மொழித் தரவுகளைப் பயன்படுத்துகிறது.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">விக்கிபீடியா என்பது தன்னார்வலர்களின் சமூகத்தால் திறந்த ஒத்துழைப்பு மற்றும் விக்கி-அடிப்படையிலான திருத்தும் முறையின் மூலம் எழுதப்பட்டு பராமரிக்கப்படும் பன்மொழி இலவச ஆன்லைன் கலைக்களஞ்சியம் ஆகும். Scribe, ஒரு மொழியின் மிகவும் பொதுவான சொற்கள் மற்றும் அவற்றைத் தொடரும் மிகவும் பொதுவான சொற்களைக் கண்டறிந்து தானியங்கு பரிந்துரைகளை உருவாக்க விக்கிபீடியாவின் தரவுகளைப் பயன்படுத்துகிறது.</string>
-    <string name="i18n.app.about.feedback.app_hints">பயன்பாட்டு குறிப்புகளை மீட்டமை</string>
     <string name="i18n.app.about.feedback.bug_report">பிழையை புகாரளி</string>
-    <string name="i18n.app.about.feedback.email">எங்களுக்கு மின்னஞ்சல் அனுப்புங்கள்</string>
     <string name="i18n.app.about.feedback.rate_conjugate">Scribe Conjugate ஐ மதிப்பிடுங்கள்</string>
     <string name="i18n.app.about.feedback.rate_scribe">Scribe ஐ மதிப்பிடுங்கள்</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">பயன்பாட்டு குறிப்புகளை மீட்டமை</string>
+    <string name="i18n.app.about.feedback.send_email">எங்களுக்கு மின்னஞ்சல் அனுப்புங்கள்</string>
     <string name="i18n.app.about.feedback.title">கருத்து மற்றும் ஆதரவு</string>
     <string name="i18n.app.about.feedback.version">பதிப்பு</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">உங்களைப் பாதுகாப்பாக வைத்திருத்தல்</string>
@@ -49,13 +50,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">Scribe விசைப்பலகைகளில் புதிய தரவைச் சேர்க்கவும்.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">விசைப்பலகை தரவைப் பதிவிறக்கம் செய்யுங்கள்</string>
     <string name="i18n.app.download.menu_option.scribe_title">மொழித் தரவு</string>
-    <string name="i18n.app.download.menu_ui.download_data">தரவைப் பதிவிறக்கம் செய்யுங்கள்</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">அனைத்து மொழிகள்</string>
-    <string name="i18n.app.download.menu_ui.select.title">பதிவிறக்க வேண்டிய தரவைத் தேர்ந்தெடுங்கள்</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">அனைத்து மொழிகள்</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">பதிவிறக்க வேண்டிய தரவைத் தேர்ந்தெடுங்கள்</string>
     <string name="i18n.app.download.menu_ui.update_data">தரவைப் புதுப்பிக்கவும்</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">புதிய தரவைச் சரிபார்க்கவும்</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">தரவை வழக்கமாக புதுப்பிக்கவும்</string>
-    <string name="i18n.app.installation.app_hint">உங்கள் சாధனத்தில் Scribe விசைப்பலகைகளை நிறுவ கீழே உள்ள வழிமுறைகளைப் பின்பற்றுங்கள்.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">உங்கள் சாధனத்தில் Scribe விசைப்பலகைகளை நிறுவ கீழே உள்ள வழிமுறைகளைப் பின்பற்றுங்கள்.</string>
     <string name="i18n.app.installation.button_quick_tutorial">விரைவு பயிற்சி</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">விசைப்பலகை அமைப்புகளைத் திறக்கவும்</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">விசைப்பலகைகள்</string>
@@ -69,7 +69,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">விக்கிடேட்டா என்பது விக்கிமீடியா அறக்கட்டளையால் பராமரிக்கப்படும் கூட்டுறவு முறையில் திருத்தப்படும் அறிவுக் கோவை ஆகும். இது விக்கிபீடியா போன்ற திட்டங்களுக்கும் எண்ணற்ற பிற திட்டங்களுக்கும் திறந்த தரவின் மூலமாக செயல்படுகிறது.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">Scribe அதன் பல முக்கிய அம்சங்களுக்காக விக்கிடேட்டாவின் மொழித் தரவுகளைப் பயன்படுத்துகிறது. பெயர்ச்சொல் பாலினங்கள், வினைச்சொல் இணைப்புகள் மற்றும் பலவற்றைப் பற்றிய தகவல்களை நாங்கள் பெறுகிறோம்!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">wikidata.org இல் கணக்கு உருவாக்கி Scribe மற்றும் பல பிற திட்டங்களை ஆதரிக்கும் சமூகத்தில் சேரலாம். உலகிற்கு இலவச தகவல்களைக் கொண்டு வர எங்களுக்கு உதவுங்கள்!</string>
-    <string name="i18n.app.settings.app_hint">பயன்பாடு மற்றும் நிறுவப்பட்ட மொழி விசைப்பலகைகளுக்கான அமைப்புகள் இங்கே காணப்படுகின்றன.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">பயன்பாடு மற்றும் நிறுவப்பட்ட மொழி விசைப்பலகைகளுக்கான அமைப்புகள் இங்கே காணப்படுகின்றன.</string>
     <string name="i18n.app.settings.button_install_keyboards">விசைப்பலகைகளை நிறுவுங்கள்</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">பரிந்துரை/நிறைவுகளைக் குறிப்பிடுங்கள்</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">நீங்கள் தட்டச்சு செய்யும் போது அவற்றின் பாலினத்தைக் காட்ட பரிந்துரைகள் மற்றும் நிறைவுகளுக்கு அடிக்கோடு இடுங்கள்.</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">Ladda ner data</string>
     <string name="i18n.app._global.english">Engelska</string>
     <string name="i18n.app._global.french">Franska</string>
     <string name="i18n.app._global.german">Tyska</string>
@@ -8,7 +9,7 @@
     <string name="i18n.app._global.russian">Ryska</string>
     <string name="i18n.app._global.spanish">Spanska</string>
     <string name="i18n.app._global.swedish">Svenska</string>
-    <string name="i18n.app.about.app_hint">Här kan du lära dig mer om Scribe och dess community.</string>
+    <string name="i18n.app.about.app_hint_tooltip">Här kan du lära dig mer om Scribe och dess community.</string>
     <string name="i18n.app.about.community.github">See koden på GitHub</string>
     <string name="i18n.app.about.community.mastodon">Följ oss på Mastodon</string>
     <string name="i18n.app.about.community.matrix">Chatta med teamet på Matrix</string>
@@ -21,11 +22,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">Scribe skulle inte vara möjligt utan de otaliga bidrag som görs till de olika Wikimedia-projekten. Scribe använder sig av data från Wikidata Lexicographical data gemenskapen, och data från Wikipedia för de olika språk som Scribe stöder.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">Wikidata är en flerspråkig kunskapsgraf som underhålls kollektivt. Den hostas av Wikimedia Foundation. Den tillhandahåller data som kan användas under Creative Commons Public Domain-licensen (CC0). Scribe använder sig av språk-relaterad data från Wikidata för att ge användare tillgång till diverse grammatiska funktioner.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">Wikipedia är en flerspråkig gratis online-encyklopedi skriven och underhållen av en gemenskap av volontärer genom öppet samarbete och ett wiki-baserat redigeringssystem. Scribe använder data från Wikipedia för att producera autoförslag genom att härleda de vanligaste orden i ett språk samt de vanligaste orden som följer dem.</string>
-    <string name="i18n.app.about.feedback.app_hints">Återställ app-tips</string>
     <string name="i18n.app.about.feedback.bug_report">Rapportera ett fel</string>
-    <string name="i18n.app.about.feedback.email">Skicka ett e-mail till oss</string>
     <string name="i18n.app.about.feedback.rate_conjugate">Betygsätt Scribe</string>
     <string name="i18n.app.about.feedback.rate_scribe">Betygsätt Scribe</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">Återställ app-tips</string>
+    <string name="i18n.app.about.feedback.send_email">Skicka ett e-mail till oss</string>
     <string name="i18n.app.about.feedback.title">Feedback och support</string>
     <string name="i18n.app.about.feedback.version">Version</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">Håller dig säker</string>
@@ -49,13 +50,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">Lägg till ny data för Scribe-tangentbord.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">Ladda ner tangentbords-data</string>
     <string name="i18n.app.download.menu_option.scribe_title">Språk-data</string>
-    <string name="i18n.app.download.menu_ui.download_data">Ladda ner data</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">Alla språk</string>
-    <string name="i18n.app.download.menu_ui.select.title">Välj data att ladda ner</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">Alla språk</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">Välj data att ladda ner</string>
     <string name="i18n.app.download.menu_ui.update_data">Uppdatera data</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">Kolla efter ny data</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">Uppdatera regelbundet data</string>
-    <string name="i18n.app.installation.app_hint">Följ instruktionerna nedan för att installera Scribe-tangentbord på din enhet.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">Följ instruktionerna nedan för att installera Scribe-tangentbord på din enhet.</string>
     <string name="i18n.app.installation.button_quick_tutorial">Snabb genomgång</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">Öppna tangentbords-inställningar</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">Tangentbord</string>
@@ -69,7 +69,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">Wikidata är en gemensamt redigerad kunskapsgraf som underhålls av Wikimedia Foundation. Det fungerar som en källa till öppen data för projekt som Wikipedia och flera andra.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">Scribe använder Wikidatas språkdata för många av sina kärnfunktioner. Vi får information som substantiv, genus, verbböjningar och mycket mer!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">Du kan skapa ett konto på wikidata.org för att gå med i communityn som stöder Scribe och så många andra projekt. Hjälp oss att ge gratis information till världen!</string>
-    <string name="i18n.app.settings.app_hint">Inställningar för appen och installerade tangentbord finns här.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">Inställningar för appen och installerade tangentbord finns här.</string>
     <string name="i18n.app.settings.button_install_keyboards">Installera tangentbord</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">Kommentera förslag/kompletteringar</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">Stryk under förslag och kompletteringar och visa deras genus medan du skriver.</string>

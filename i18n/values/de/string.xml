@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">Daten herunterladen</string>
     <string name="i18n.app._global.english">Englisch</string>
     <string name="i18n.app._global.french">Französisch</string>
     <string name="i18n.app._global.german">Deutsch</string>
@@ -8,7 +9,7 @@
     <string name="i18n.app._global.russian">Russisch</string>
     <string name="i18n.app._global.spanish">Spanisch</string>
     <string name="i18n.app._global.swedish">Schwedisch</string>
-    <string name="i18n.app.about.app_hint">Hier kannst du mehr über Scribe und seine Community erfahren.</string>
+    <string name="i18n.app.about.app_hint_tooltip">Hier kannst du mehr über Scribe und seine Community erfahren.</string>
     <string name="i18n.app.about.community.github">Den Code auf GitHub ansehen</string>
     <string name="i18n.app.about.community.mastodon">Folge uns auf Mastodon</string>
     <string name="i18n.app.about.community.matrix">Chatte mit dem Team auf Matrix</string>
@@ -21,11 +22,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">Scribe wäre ohne die etlichen Mitwirkungen von Wikimedia Mitwirkenden, den Projekten, die sie unterstützen, gegenüber, nicht möglich. Scribe benutzt Daten der Lexikografischen Datencommunity in Wikidata, sowie solche von Wikipedia für jede von Scribe unterstützte Sprache.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">Wikidata ist ein kollaborativ gestalteter, mehrsprachiger Wissensgraf, der von der Wikimedia Foundation gehostet wird. Sie stellt frei verfügbare Daten, die unter einer Creative Commons Public Domain Lizenz (CC0) stehen, zur Verfügung. Scribe benutzt Sprachdaten von Wikidata, um Nutzern Verbkonjugationen, Kasusannotationen, Plurale und viele andere Funktionen zu bieten.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">Wikipedia ist eine mehrsprachige, freie, Online-Enzyklopädie, die von einer Community an Freiwilligen durch offene Kollaboration und einem Wiki-basierten Bearbeitungssystem geschrieben und aufrechterhalten wird. Scribe nutzt Wikipedia-Daten, um automatische Empfehlungen zu erstellen, indem die häufigsten Wörter und Folgewörter einer Sprache erlangt werden.</string>
-    <string name="i18n.app.about.feedback.app_hints">App-Hinweise zurücksetzen</string>
     <string name="i18n.app.about.feedback.bug_report">Bug melden</string>
-    <string name="i18n.app.about.feedback.email">Schicke uns eine E-Mail</string>
     <string name="i18n.app.about.feedback.rate_conjugate">Scribe Conjugate bewerten</string>
     <string name="i18n.app.about.feedback.rate_scribe">Scribe bewerten</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">App-Hinweise zurücksetzen</string>
+    <string name="i18n.app.about.feedback.send_email">Schicke uns eine E-Mail</string>
     <string name="i18n.app.about.feedback.title">Feedback und Support</string>
     <string name="i18n.app.about.feedback.version">Version</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">Wir sorgen für Ihre Sicherheit</string>
@@ -49,13 +50,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">Neue Daten zu Scribe-Tastaturen hinzufügen.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">Tastaturdaten hinzufügen</string>
     <string name="i18n.app.download.menu_option.scribe_title">Sprachdaten</string>
-    <string name="i18n.app.download.menu_ui.download_data">Daten herunterladen</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">Alle Sprachen</string>
-    <string name="i18n.app.download.menu_ui.select.title">Herunterzuladende Daten auswählen</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">Alle Sprachen</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">Herunterzuladende Daten auswählen</string>
     <string name="i18n.app.download.menu_ui.update_data">Daten aktualisieren</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">Nach neuen Daten prüfen</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">Regelmäßig Daten aktualisieren</string>
-    <string name="i18n.app.installation.app_hint">Folge den Anweisungen unten, um Scribe-Tastaturen auf deinem Gerät zu installieren.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">Folge den Anweisungen unten, um Scribe-Tastaturen auf deinem Gerät zu installieren.</string>
     <string name="i18n.app.installation.button_quick_tutorial">Schnelltutorial</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">Tastatureinstellungen öffnen</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">Tastaturen</string>
@@ -69,7 +69,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">Wikidata ist ein kollaborativ gestalteter, mehrsprachiger Wissensgraf, der von der Wikimedia Foundation gehostet wird. Sie dient als Quelle für offene Daten für unzählige Projekte, beispielsweise Wikipedia.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">Scribe nutzt Sprachdaten von Wikidata für viele Kernfunktionen. Von dort erhalten wir Informationen wie Genera, Verbkonjugationen und viele mehr!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">Du kannst auf wikidata.org einen Account erstellen, um der Community, die Scribe und viele andere Projekte unterstützt, beizutreten. Hilf uns dabei, der Welt freie Informationen zu geben!</string>
-    <string name="i18n.app.settings.app_hint">Hier sind die Einstellungen der App und installierte Tastaturen zu finden.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">Hier sind die Einstellungen der App und installierte Tastaturen zu finden.</string>
     <string name="i18n.app.settings.button_install_keyboards">Tastaturen installieren</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">Vorschläge annotieren</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">Vorschläge unterstreichen, um ihr Genus beim Tippen anzuzeigen.</string>

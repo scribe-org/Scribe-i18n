@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="i18n.app._global.download_data">تنزيل البيانات</string>
     <string name="i18n.app._global.english">الإنجليزية</string>
     <string name="i18n.app._global.french">الفرنسية</string>
     <string name="i18n.app._global.german">الألمانية</string>
@@ -8,7 +9,7 @@
     <string name="i18n.app._global.russian">الروسية</string>
     <string name="i18n.app._global.spanish">الإسبانية</string>
     <string name="i18n.app._global.swedish">السويدية</string>
-    <string name="i18n.app.about.app_hint">هنا يمكنك معرفة المزيد عن Scribe ومجتمعه.</string>
+    <string name="i18n.app.about.app_hint_tooltip">هنا يمكنك معرفة المزيد عن Scribe ومجتمعه.</string>
     <string name="i18n.app.about.community.github">انظر إلى الشيفرة على GitHub</string>
     <string name="i18n.app.about.community.mastodon">تابعنا على Mastodon</string>
     <string name="i18n.app.about.community.matrix">تحدث مع الفريق على Matrix</string>
@@ -21,11 +22,11 @@
     <string name="i18n.app.about.community.wikimedia.text_1">لن يكون Scribe ممكنًا بدون مساهمات لا حصر لها من مساهمي ويكيميديا في العديد من المشاريع التي يدعمونها. على وجه التحديد، يستخدم Scribe بيانات من مجتمع بيانات ويكيدا المعجمية، بالإضافة إلى بيانات من ويكيبديا لكل لغة يدعمها Scribe.</string>
     <string name="i18n.app.about.community.wikimedia.text_2">ويكيدا هو رسم بياني متعدد اللغات للمعرفة يتم تحريره بشكل تعاوني ويستضيفه مؤسسة ويكيميديا. يوفر بيانات متاحة للجميع يمكن لأي شخص استخدامها بموجب ترخيص المشاع الإبداعي (CC0). يستخدم Scribe بيانات اللغة من ويكيدا لتزويد المستخدمين بتصريفات الأفعال، وتعليقات شكل الاسم، وجمع الأسماء، والعديد من الميزات الأخرى.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">ويكيبيديا هي موسوعة حرة متعددة اللغات عبر الإنترنت، يتم كتابتها وصيانتها من قبل مجتمع من المتطوعين من خلال التعاون المفتوح ونظام تحرير قائم على ويكي. يستخدم Scribe بيانات من ويكيبديا لإنتاج الاقتراحات التلقائية من خلال اشتقاق أكثر الكلمات شيوعًا في لغة ما، بالإضافة إلى أكثر الكلمات شيوعًا التي تتبعها.</string>
-    <string name="i18n.app.about.feedback.app_hints">إعادة تعيين تلميحات التطبيق</string>
     <string name="i18n.app.about.feedback.bug_report">الإبلاغ عن خطأ</string>
-    <string name="i18n.app.about.feedback.email">أرسل لنا بريدًا إلكترونيًا</string>
     <string name="i18n.app.about.feedback.rate_conjugate"> قيم تصريف Scribe</string>
     <string name="i18n.app.about.feedback.rate_scribe">قيم Scribe</string>
+    <string name="i18n.app.about.feedback.reset_app_hints">إعادة تعيين تلميحات التطبيق</string>
+    <string name="i18n.app.about.feedback.send_email">أرسل لنا بريدًا إلكترونيًا</string>
     <string name="i18n.app.about.feedback.title">التعليقات والدعم</string>
     <string name="i18n.app.about.feedback.version">الإصدار</string>
     <string name="i18n.app.about.legal.privacy_policy.caption">حمايتك</string>
@@ -49,13 +50,12 @@
     <string name="i18n.app.download.menu_option.scribe_description">أضف بيانات جديدة إلى لوحات مفاتيح Scribe.</string>
     <string name="i18n.app.download.menu_option.scribe_download_data">تنزيل بيانات اللوحة</string>
     <string name="i18n.app.download.menu_option.scribe_title">بيانات اللغة</string>
-    <string name="i18n.app.download.menu_ui.download_data">تنزيل البيانات</string>
-    <string name="i18n.app.download.menu_ui.select.all_languages">جميع اللغات</string>
-    <string name="i18n.app.download.menu_ui.select.title">اختر البيانات للتنزيل</string>
+    <string name="i18n.app.download.menu_ui.download_data.all_languages">جميع اللغات</string>
+    <string name="i18n.app.download.menu_ui.download_data.title">اختر البيانات للتنزيل</string>
     <string name="i18n.app.download.menu_ui.update_data">تحديث البيانات</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">تحقق من البيانات الجديدة</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">تحديث البيانات بانتظام</string>
-    <string name="i18n.app.installation.app_hint">اتبع التعليمات أدناه لتثبيت لوحات مفاتيح Scribe على جهازك.</string>
+    <string name="i18n.app.installation.app_hint_tooltip">اتبع التعليمات أدناه لتثبيت لوحات مفاتيح Scribe على جهازك.</string>
     <string name="i18n.app.installation.button_quick_tutorial">دليل سريع</string>
     <string name="i18n.app.installation.keyboard.keyboard_settings">افتح إعدادات لوحة المفاتيح</string>
     <string name="i18n.app.installation.keyboard.keyboards_bold">لوحات المفاتيح</string>
@@ -69,7 +69,7 @@
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_1">Wikidata هي قاعدة بيانات معرفية يتم تحريرها بشكل تعاوني ويتم إدارتها من قبل مؤسسة ويكيميديا. تعمل كمصدر للبيانات المفتوحة لمشاريع مثل ويكيبيديا والعديد من المشاريع الأخرى.</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_2">يستخدم Scribe بيانات اللغة من Wikidata للعديد من ميزاته الأساسية. نحصل على معلومات مثل أجناس الأسماء، وتصريف الأفعال والمزيد!</string>
     <string name="i18n.app.keyboard.not_in_wikidata.explanation_3">يمكنك إنشاء حساب في wikidata.org للانضمام إلى المجتمع الذي يدعم Scribe والعديد من المشاريع الأخرى. ساعدنا في تقديم المعلومات المجانية للعالم!</string>
-    <string name="i18n.app.settings.app_hint">توجد إعدادات التطبيق ولوحات المفاتيح اللغوية المثبتة هنا.</string>
+    <string name="i18n.app.settings.app_hint_tooltip">توجد إعدادات التطبيق ولوحات المفاتيح اللغوية المثبتة هنا.</string>
     <string name="i18n.app.settings.button_install_keyboards">تثبيت لوحات المفاتيح</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">توضيح الاقتراحات/الاكتمال</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">تسطير الاقتراحات والاكتملات لإظهار جنسها أثناء الكتابة.</string>
