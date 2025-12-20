@@ -208,7 +208,7 @@ To use Scribe-i18n within another repository, run the following command from the
 git subtree add --prefix <subtree-directory> git@github.com:scribe-org/Scribe-i18n.git main --squash
 ```
 
-In the command, the value for `<subtree-directory>` is a directory within the repo structure of the project. Which directory to use will be dependent on the stack of the project and how i18n files will be consumed. Typically, this is the path for a directory named `i18n` that will be created somewhere in the repo structure upon command execution. Refer to documentation of the tool that will consume the i18n files to determine what it should be.
+In the command, the value for `<subtree-directory>` is a directory within the repo structure of the project. Which directory to use will be dependent on the stack of the project and how i18n files will be consumed. Typically, this is the path for a directory named `Scribe-i18n` that will be created somewhere in the repo structure upon command execution. Refer to documentation of the tool that will consume the i18n files to determine what it should be.
 
 <a id="check-files"></a>
 
