@@ -26,6 +26,12 @@ Check out Scribe's [architecture diagrams](https://github.com/scribe-org/Organiz
 
 - [Localization Coverage](#localization-coverage)
 - [Contributing](#contributing)
+  - [Issues](#issues)
+  - [Localizing via Weblate](#localizing-via-weblate)
+  - [Adding Source Strings](#adding-source-strings)
+  - [File Conversion](#file-conversion)
+  - [Pull Requests](#pull-requests)
+- [Adding to Projects](#adding-to-projects)
 - [Check Files](#check-files)
 - [Community](#community)
 
@@ -49,11 +55,15 @@ Following these guidelines helps to communicate that you respect the time of the
 
 If you have questions or would like to communicate with the team, please [join us in our public Matrix chat rooms](https://matrix.to/#/#scribe_community:matrix.org). Scribe would suggest that you use the [Element](https://element.io/) client. We'd be happy to hear from you!
 
+<a id="issues"></a>
+
 ### Issues [`⇧`](#contents)
 
 The [issue tracker for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/issues) is the preferred channel to let the team know if there are problems with localizations or to ask to work on new ones. Those interested in helping can check the [`-next release-`](https://github.com/scribe-org/Scribe-i18n/labels/-next%20release-) and [`-priority-`](https://github.com/scribe-org/Scribe-i18n/labels/-priority-) labels in the [issues](https://github.com/scribe-org/Scribe-i18n/issues) for those that are most important, as well as those marked [`good first issue`](https://github.com/scribe-org/Scribe-i18n/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) that are tailored for first-time contributors. Generally issues in this repository will be marked with the [`localization`](https://github.com/scribe-org/Scribe-i18n/issues?q=is%3Aopen+is%3Aissue+label%3Alocalization) label.
 
-### Localizing Via Weblate [`⇧`](#contents)
+<a id="localizing-via-weblate"></a>
+
+### Localizing via Weblate [`⇧`](#contents)
 
 <a href="https://hosted.weblate.org/projects/scribe/scribe-i18n"><img src="https://raw.githubusercontent.com/scribe-org/Organization/main/resources/images/logos/WeblateLogo.png" width="125" alt="Visit Weblate project" align="right"></a>
 
@@ -99,6 +109,8 @@ The [issue tracker for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/is
 
 Thanks so much for your interest in supporting Scribe's localization!
 
+<a id="adding-source-strings"></a>
+
 ### Adding Source Strings [`⇧`](#contents)
 
 The base language for all Scribe applications is US English. If you'd like to edit the [en-US.json](https://github.com/scribe-org/Scribe-i18n/blob/main/Scribe-i18n/en-US.json) file, please [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repo, clone your fork, and configure the remotes:
@@ -135,19 +147,13 @@ git remote add upstream https://github.com/scribe-org/Scribe-i18n.git
 
 If all looks good, then you're ready to start adding localizable key-string pairs via pull requests!
 
+<a id="file-conversion"></a>
+
 ### File Conversion [`⇧`](#contents)
 
 The files in the [i18n/scripts](https://github.com/scribe-org/Scribe-i18n/tree/main/i18n/scripts) directory can be used to convert base localization JSON files into the filetypes that are needed for an application as well as the same in reverse. JSON files are automatically converted to their target files for Scribe applications after commits to the main branch, and their opposites can be used to update the JSON files when strings are first changed in the applications.
 
-### Adding Scribe-i18n to Projects [`⇧`](#contents)
-
-To use Scribe-i18n within another repository, run the following command from the root directory of the project to add Scribe-i18n as a subtree:
-
-```bash
-git subtree add --prefix <subtree-directory> git@github.com:scribe-org/Scribe-i18n.git main --squash
-```
-
-In the command, the value for `<subtree-directory>` is a directory within the repo structure of the project. Which directory to use will be dependent on the stack of the project and how i18n files will be consumed. Typically, this is the path for a directory named `i18n` that will be created somewhere in the repo structure upon command execution. Refer to documentation of the tool that will consume the i18n files to determine what it should be.
+<a id="pull-requests"></a>
 
 ### Pull Requests [`⇧`](#contents)
 
@@ -191,6 +197,18 @@ When making a contribution, adhering to the [GitHub flow](https://guides.github.
 6. [Open a Pull Request](https://help.github.com/articles/using-pull-requests/) with a clear title and description.
 
 Thank you in advance for your contributions!
+
+<a id="adding-to-projects"></a>
+
+## Adding to Projects [`⇧`](#contents)
+
+To use Scribe-i18n within another repository, run the following command from the root directory of the project to add Scribe-i18n as a subtree:
+
+```bash
+git subtree add --prefix <subtree-directory> git@github.com:scribe-org/Scribe-i18n.git main --squash
+```
+
+In the command, the value for `<subtree-directory>` is a directory within the repo structure of the project. Which directory to use will be dependent on the stack of the project and how i18n files will be consumed. Typically, this is the path for a directory named `i18n` that will be created somewhere in the repo structure upon command execution. Refer to documentation of the tool that will consume the i18n files to determine what it should be.
 
 <a id="check-files"></a>
 
