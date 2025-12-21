@@ -22,7 +22,7 @@ distlib==0.4.0
     # via virtualenv
 filelock==3.20.1
     # via virtualenv
-i18n-check==1.15.5
+i18n-check==1.16.0
     # via -r requirements-dev.in
 identify==2.6.15
     # via pre-commit
@@ -38,7 +38,7 @@ mdurl==0.1.2
     # via
     #   i18n-check
     #   markdown-it-py
-nodeenv==1.9.1
+nodeenv==1.10.0
     # via pre-commit
 packaging==25.0
     # via
