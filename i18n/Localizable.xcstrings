@@ -384,6 +384,12 @@
     "i18n.app._global.indonesian" : {
       "comment" : "",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Indonesisch"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -4866,6 +4872,12 @@
     "i18n.app.download.menu_ui.download_data.downloading" : {
       "comment" : "",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wird heruntergeladen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -4972,6 +4984,12 @@
     "i18n.app.download.menu_ui.download_data.up_to_date" : {
       "comment" : "",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Auf dem neuesten Stand"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -4994,6 +5012,12 @@
     "i18n.app.download.menu_ui.translation_source_tooltip.change_language" : {
       "comment" : "",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Sprache ändern"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5016,6 +5040,12 @@
     "i18n.app.download.menu_ui.translation_source_tooltip.use_source_language" : {
       "comment" : "",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{source_language} verwenden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -8542,6 +8572,12 @@
     "i18n.app.settings.keyboard.keypress_sound" : {
       "comment" : "",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ton bei Tastendruck abspielen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -9941,6 +9977,12 @@
     "i18n.app.settings.keyboard.translation.change_source_tooltip.keep_source_language" : {
       "comment" : "",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{source_language} beibehalten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",

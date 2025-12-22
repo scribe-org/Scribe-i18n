@@ -4,6 +4,7 @@
     <string name="i18n.app._global.english">Englisch</string>
     <string name="i18n.app._global.french">Französisch</string>
     <string name="i18n.app._global.german">Deutsch</string>
+    <string name="i18n.app._global.indonesian">Indonesisch</string>
     <string name="i18n.app._global.italian">Italienisch</string>
     <string name="i18n.app._global.portuguese">Portugiesisch</string>
     <string name="i18n.app._global.russian">Russisch</string>
@@ -51,7 +52,11 @@
     <string name="i18n.app.download.menu_option.scribe_download_data">Tastaturdaten hinzufügen</string>
     <string name="i18n.app.download.menu_option.scribe_title">Sprachdaten</string>
     <string name="i18n.app.download.menu_ui.download_data.all_languages">Alle Sprachen</string>
+    <string name="i18n.app.download.menu_ui.download_data.downloading">Wird heruntergeladen</string>
     <string name="i18n.app.download.menu_ui.download_data.title">Herunterzuladende Daten auswählen</string>
+    <string name="i18n.app.download.menu_ui.download_data.up_to_date">Auf dem neuesten Stand</string>
+    <string name="i18n.app.download.menu_ui.translation_source_tooltip.change_language">Sprache ändern</string>
+    <string name="i18n.app.download.menu_ui.translation_source_tooltip.use_source_language">{source_language} verwenden</string>
     <string name="i18n.app.download.menu_ui.update_data">Daten aktualisieren</string>
     <string name="i18n.app.download.menu_ui.update_data.check_new">Nach neuen Daten prüfen</string>
     <string name="i18n.app.download.menu_ui.update_data.regular_update">Regelmäßig Daten aktualisieren</string>
@@ -89,6 +94,7 @@
     <string name="i18n.app.settings.keyboard.functionality.punctuation_spacing">Leerzeichen bei Zeichensetzung löschen</string>
     <string name="i18n.app.settings.keyboard.functionality.punctuation_spacing_description">Überflüssige Leerzeichen vor Zeichensetzung automatisch entfernen.</string>
     <string name="i18n.app.settings.keyboard.functionality.title">Funktionalität</string>
+    <string name="i18n.app.settings.keyboard.keypress_sound">Ton bei Tastendruck abspielen</string>
     <string name="i18n.app.settings.keyboard.keypress_vibration">Bei Tastendruck vibrieren</string>
     <string name="i18n.app.settings.keyboard.keypress_vibration_description">Das Gerät vibrieren lassen, wenn Tasten gedrückt werden.</string>
     <string name="i18n.app.settings.keyboard.layout.default_currency">Standardwährungssymbol</string>
@@ -103,6 +109,7 @@
     <string name="i18n.app.settings.keyboard.layout.period_and_comma_description">Füge der Haupttastatur Punkt- und Komma-Tasten für bequemeres Schreiben hinzu.</string>
     <string name="i18n.app.settings.keyboard.layout.title">Layout</string>
     <string name="i18n.app.settings.keyboard.title">Wähle installierte Tastatur aus</string>
+    <string name="i18n.app.settings.keyboard.translation.change_source_tooltip.keep_source_language">{source_language} beibehalten</string>
     <string name="i18n.app.settings.keyboard.translation.select_source">Sprache auswählen</string>
     <string name="i18n.app.settings.keyboard.translation.select_source.caption">Die verwendete Ausgangssprache</string>
     <string name="i18n.app.settings.keyboard.translation.select_source.title">Übersetzungssprache</string>
