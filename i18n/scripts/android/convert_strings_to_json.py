@@ -9,6 +9,7 @@ Usage:
 import os
 import json
 import re
+import shutil
 
 
 def unescape_special_characters(string):
@@ -75,7 +76,14 @@ for lang in languages:
     except Exception as e:
         print(f"Error: An unexpected error occurred while writing to '{locales_folder}/{lang}.json: {e}")
         exit(1)
+     
+# Copy Indonesian translations to 'in' locale
+src = os.path.join(locales_folder, "id.json")
+dst = os.path.join(locales_folder, "in.json")
 
+if os.path.exists(src):
+    shutil.copy2(src, dst)
+    print("Identified 'id' locale; mirrored to 'in' for Android compatibility.")
 print(
     "Scribe-i18n localization strings files successfully converted to the JSON files."
 )

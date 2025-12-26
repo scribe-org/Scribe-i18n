@@ -8,6 +8,7 @@ Usage:
 
 import os
 import json
+import shutil
 
 
 def replace_special_characters(string):
@@ -66,4 +67,11 @@ for lang, translations in lang_data.items():
 
         xml_file.write("</resources>\n")
 
+# Copy Indonesian translations to 'in' locale
+src = os.path.join(values_directory, 'id')
+dst = os.path.join(values_directory, 'in')
+
+if os.path.exists(src):
+    shutil.copytree(src, dst, dirs_exist_ok=True)
+    print("Identified 'id' locale; mirrored to 'in' for Android compatibility.")
 print("Scribe-i18n localization JSON files successfully converted to the strings files.")
