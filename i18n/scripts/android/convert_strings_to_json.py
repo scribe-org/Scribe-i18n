@@ -9,7 +9,6 @@ Usage:
 import os
 import json
 import re
-import shutil
 
 
 def unescape_special_characters(string):
