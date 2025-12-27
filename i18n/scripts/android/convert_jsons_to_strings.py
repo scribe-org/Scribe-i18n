@@ -67,11 +67,16 @@ for lang, translations in lang_data.items():
 
         xml_file.write("</resources>\n")
 
-# Copy Indonesian translations to 'in' locale
-src = os.path.join(values_directory, 'id')
-dst = os.path.join(values_directory, 'in')
 
-if os.path.exists(src):
-    shutil.copytree(src, dst, dirs_exist_ok=True)
-    print("Identified 'id' locale; mirrored to 'in' for Android compatibility.")
+# Copy locales that are equivalent.
+locale_mirror_dict = {"id": "in"}
+
+for k in locale_mirror_dict:
+    src = os.path.join(values_directory, k)
+    dst = os.path.join(values_directory, locale_mirror_dict[k])
+
+    if os.path.exists(src):
+        shutil.copytree(src, dst, dirs_exist_ok=True)
+        print(f"Identified '{k}' locale; mirrored to '{locale_mirror_dict[k]}' for Android compatibility.")
+
 print("Scribe-i18n localization JSON files successfully converted to the strings files.")
