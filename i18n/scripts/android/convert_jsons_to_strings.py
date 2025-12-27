@@ -8,6 +8,7 @@ Usage:
 
 import os
 import json
+import shutil
 
 
 def replace_special_characters(string):
@@ -65,5 +66,17 @@ for lang, translations in lang_data.items():
             xml_file.write(f'    <string name="{key}">{sanitized_value}</string>\n')
 
         xml_file.write("</resources>\n")
+
+
+# Copy locales that are equivalent.
+locale_mirror_dict = {"id": "in"}
+
+for k in locale_mirror_dict:
+    src = os.path.join(values_directory, k)
+    dst = os.path.join(values_directory, locale_mirror_dict[k])
+
+    if os.path.exists(src):
+        shutil.copytree(src, dst, dirs_exist_ok=True)
+        print(f"Identified '{k}' locale; mirrored to '{locale_mirror_dict[k]}' for Android compatibility.")
 
 print("Scribe-i18n localization JSON files successfully converted to the strings files.")
