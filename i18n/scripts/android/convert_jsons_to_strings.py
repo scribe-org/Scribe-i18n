@@ -59,7 +59,7 @@ for lang, translations in lang_data.items():
 
         # Write the string for each key in the language file.
         for key, value in translations.items():
-            if not key.startswith(("i18n.app", "i18n.global")):
+            if not key.startswith(("i18n.app", "i18n._global")):
                 continue
 
             sanitized_value = replace_special_characters(value)

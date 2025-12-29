@@ -1,6 +1,654 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "i18n._global.about_scribe" : {
+      "comment" : "",
+      "localizations" : {
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "সম্পর্কে"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Über Scribe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "About Scribe"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "परिचय"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "കുറിച്ച്"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "बारेमा"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "பற்றி"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "గురించి"
+          }
+        }
+      }
+    },
+    "i18n._global.android_changelog" : {
+      "comment" : "",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Android-Änderungsprotokoll"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Android Changelog"
+          }
+        }
+      }
+    },
+    "i18n._global.available_data" : {
+      "comment" : "",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Verfügbare Daten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Available Data"
+          }
+        }
+      }
+    },
+    "i18n._global.blog_posts" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Blog Posts"
+          }
+        }
+      }
+    },
+    "i18n._global.changelog" : {
+      "comment" : "",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Änderungsprotokoll"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Changelog"
+          }
+        }
+      }
+    },
+    "i18n._global.conjugate_apps" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Conjugate Apps"
+          }
+        }
+      }
+    },
+    "i18n._global.data_extraction" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Data Extraction"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इन्फ्रास्ट्रक्चर"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ഇൻഫ്രാസ്ട്രക്ചർ"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "पूर्वाधार"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "கட்டமைப்பு"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "అవస్థాపన"
+          }
+        }
+      }
+    },
+    "i18n._global.data_server" : {
+      "comment" : "",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Datenserver"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Data Server"
+          }
+        }
+      }
+    },
+    "i18n._global.imprint" : {
+      "comment" : "",
+      "localizations" : {
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ইমপ্রিন্ট"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Imprint"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "छाप"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "മുദ്ര"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "छाप"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "முத்திரை"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ముద్రణ"
+          }
+        }
+      }
+    },
+    "i18n._global.ios_changelog" : {
+      "comment" : "",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "iOS-Änderungsprotokoll"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "iOS Changelog"
+          }
+        }
+      }
+    },
+    "i18n._global.keyboard_apps" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Keyboard Apps"
+          }
+        }
+      }
+    },
+    "i18n._global.learn_more" : {
+      "comment" : "",
+      "localizations" : {
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "আরও জানুন"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Mehr erfahren"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Learn More"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "और जानें"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "കൂടുതൽ അറിയുക"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "थप जान्नुहोस्"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "மேலும் அறியுங்கள்"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "మరింత తెలుసుకోండి"
+          }
+        }
+      }
+    },
+    "i18n._global.legal" : {
+      "comment" : "",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "قانوني"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "আইনি"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Rechtliches"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Legal"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Legal"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Mentions légales"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कानूनी"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Legal"
+          }
+        },
+        "kan" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕಾನೂನು"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "법률"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कायदेशीर"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Legalidades"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Legalitet"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "சட்டம்"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Yasal"
+          }
+        }
+      }
+    },
+    "i18n._global.our_community" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Our Community"
+          }
+        }
+      }
+    },
+    "i18n._global.privacy_policy" : {
+      "comment" : "",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "سياسة الخصوصية"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "গোপনীয়তা নীতি"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Datenschutzrichtlinie"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Privacy Policy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Política de privacidad"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Politique de confidentialité"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "गोपनीयता नीति"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Kebijakan privasi"
+          }
+        },
+        "kan" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಗೌಪ್ಯತಾ ನೀತಿ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "제3자 정책"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "സ്വകാര്യതാ നയം"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "गोपनीयता धोरण"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "गोपनीयता नीति"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Política de privacidade"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Integritetspolicy"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "தனியுரிமைக் கொள்கை"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "గోప్యతా విధానం"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Gizlilik politikası"
+          }
+        }
+      }
+    },
+    "i18n._global.support_scribe" : {
+      "comment" : "",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe unterstützen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Support Scribe"
+          }
+        }
+      }
+    },
+    "i18n._global.supporters" : {
+      "comment" : "",
+      "localizations" : {
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "সমর্থক"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Unterstützer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Supporters"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "समर्थक"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "പിന്തുണക്കാർ"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "समर्थकहरू"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ஆதரவாளர்கள்"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "మద్దతుదారులు"
+          }
+        }
+      }
+    },
+    "i18n._global.trademark_policy" : {
+      "comment" : "",
+      "localizations" : {
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ট্রেডমার্ক নীতি"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Trademark Policy"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ट्रेडमार्क नीति"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "വ്യാപാരമുദ്ര നയം"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ट्रेडमार्क नीति"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "வர்த்தக முத்திரைக் கொள்கை"
+          }
+        },
+        "te" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ట్రేడ్‌మార్క్ విధానం"
+          }
+        }
+      }
+    },
     "i18n.app._global.download_data" : {
       "comment" : "",
       "localizations" : {
