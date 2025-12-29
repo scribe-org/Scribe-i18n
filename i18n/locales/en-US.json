@@ -72,6 +72,7 @@
   "i18n.app.download.menu_ui.download_data.downloading": "Downloading",
   "i18n.app.download.menu_ui.download_data.title": "Select data to download",
   "i18n.app.download.menu_ui.download_data.up_to_date": "Up to date",
+  "i18n.app.download.menu_ui.download_data.update": "Update",
   "i18n.app.download.menu_ui.no_keyboards_installed": "You currently do not have any Scribe keyboard installed. Please click the Install keyboards button below to install a Scribe keyboard and then come back to download the needed data.",
   "i18n.app.download.menu_ui.translation_source_tooltip.change_language": "Change language",
   "i18n.app.download.menu_ui.translation_source_tooltip.download_warning": "The data you will download will allow you to translate from {source_language} to {target_language}. Do you want to change the language you'll translate  from?",

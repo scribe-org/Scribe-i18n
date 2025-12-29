@@ -4998,6 +4998,17 @@
         }
       }
     },
+    "i18n.app.download.menu_ui.download_data.update" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Update"
+          }
+        }
+      }
+    },
     "i18n.app.download.menu_ui.no_keyboards_installed" : {
       "comment" : "",
       "localizations" : {
