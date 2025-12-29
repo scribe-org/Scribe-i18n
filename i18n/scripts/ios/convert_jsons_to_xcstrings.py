@@ -45,7 +45,7 @@ for lang in languages:
         lang_data[lang] = json.load(lang_file)
 
 for key in base_language_data:
-    if not key.startswith("i18n.app"):
+    if not key.startswith(("i18n.app", "i18n.global")):
         continue
 
     language = {}
