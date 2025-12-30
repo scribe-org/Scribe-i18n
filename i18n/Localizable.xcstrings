@@ -12454,6 +12454,28 @@
           }
         }
       }
+    },
+    "i18n.app.word_for_word" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Word for word deletion on long press"
+          }
+        }
+      }
+    },
+    "i18n.app.word_for_word.description" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Word for word deletion."
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

@@ -151,6 +151,8 @@
   "i18n.app.settings.menu.title": "App settings",
   "i18n.app.settings.title": "Settings",
   "i18n.app.settings.translation": "Translation",
+  "i18n.app.word_for_word": "Word for word deletion on long press",
+  "i18n.app.word_for_word.description": "Word for word deletion.",
   "i18n.components._global.documentation": "Documentation",
   "i18n.components._global.github": "GitHub",
   "i18n.components._global.mastodon": "Mastodon",
