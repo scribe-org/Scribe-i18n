@@ -8207,7 +8207,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Hold delete is word by word"
+            "value" : "Word for word deletion on long press"
           }
         },
         "es" : {
@@ -12451,28 +12451,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Çeviri"
-          }
-        }
-      }
-    },
-    "i18n.app.word_for_word" : {
-      "comment" : "",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Word for word deletion on long press"
-          }
-        }
-      }
-    },
-    "i18n.app.word_for_word.description" : {
-      "comment" : "",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Word for word deletion."
           }
         }
       }
