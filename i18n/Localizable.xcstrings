@@ -8207,7 +8207,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Hold delete is word by word"
+            "value" : "Word for word deletion on long press"
           }
         },
         "es" : {
