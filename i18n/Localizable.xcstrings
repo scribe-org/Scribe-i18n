@@ -3,6 +3,7 @@
   "strings" : {
     "i18n._global.about_scribe" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "bn" : {
           "stringUnit" : {
@@ -56,6 +57,7 @@
     },
     "i18n._global.android_changelog" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -73,6 +75,7 @@
     },
     "i18n._global.available_data" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -90,6 +93,7 @@
     },
     "i18n._global.blog_posts" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -101,6 +105,7 @@
     },
     "i18n._global.changelog" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -118,6 +123,7 @@
     },
     "i18n._global.conjugate_apps" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -129,6 +135,7 @@
     },
     "i18n._global.data_extraction" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -170,6 +177,7 @@
     },
     "i18n._global.data_server" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -187,6 +195,7 @@
     },
     "i18n._global.imprint" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "bn" : {
           "stringUnit" : {
@@ -234,6 +243,7 @@
     },
     "i18n._global.ios_changelog" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -251,6 +261,7 @@
     },
     "i18n._global.keyboard_apps" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -262,6 +273,7 @@
     },
     "i18n._global.learn_more" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "bn" : {
           "stringUnit" : {
@@ -364,7 +376,7 @@
             "value" : "Legal"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕಾನೂನು"
@@ -410,6 +422,7 @@
     },
     "i18n._global.our_community" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -470,7 +483,7 @@
             "value" : "Kebijakan privasi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಗೌಪ್ಯತಾ ನೀತಿ"
@@ -534,6 +547,7 @@
     },
     "i18n._global.support_scribe" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -551,6 +565,7 @@
     },
     "i18n._global.supporters" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "bn" : {
           "stringUnit" : {
@@ -604,6 +619,7 @@
     },
     "i18n._global.trademark_policy" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "bn" : {
           "stringUnit" : {
@@ -700,7 +716,7 @@
             "value" : "Unduh data"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
@@ -795,7 +811,7 @@
             "value" : "Bahasa Inggris"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಇಂಗ್ಲಿಷ್"
@@ -890,7 +906,7 @@
             "value" : "Bahasa Prancis"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಫ್ರೆಂಚ್"
@@ -985,7 +1001,7 @@
             "value" : "Bahasa Jerman"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಜರ್ಮನ್"
@@ -1103,7 +1119,7 @@
             "value" : "Bahasa Italia"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಇಟಾಲಿಯನ್"
@@ -1143,6 +1159,17 @@
           "stringUnit" : {
             "state" : "",
             "value" : "İtalyanca"
+          }
+        }
+      }
+    },
+    "i18n.app._global.norwegian" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Norwegian"
           }
         }
       }
@@ -1198,7 +1225,7 @@
             "value" : "Bahasa Portugis"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಪೋರ್ಚುಗೀಸ್"
@@ -1293,7 +1320,7 @@
             "value" : "Bahasa Rusia"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ರಷ್ಯನ್"
@@ -1388,7 +1415,7 @@
             "value" : "Bahasa Spanyol"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸ್ಪ್ಯಾನಿಷ್"
@@ -1483,7 +1510,7 @@
             "value" : "Bahasa Swedia"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸ್ವೀಡಿಷ್"
@@ -1578,7 +1605,7 @@
             "value" : "Di sini kamu bisa mengetahui lebih banyak tentang Scribe dan komunitasnya."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe ಮತ್ತು ಅದರ ಸಮುದಾಯದ ಬಗ್ಗೆ ನೀವು ಇಲ್ಲಿ ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಬಹುದು."
@@ -1673,7 +1700,7 @@
             "value" : "Lihat kode di GitHub"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "GitHub ನಲ್ಲಿ ಕೋಡ್ ನೋಡಿ"
@@ -1768,7 +1795,7 @@
             "value" : "Ikuti kami di Mastodon"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Mastodon ನಲ್ಲಿ ನಮ್ಮನ್ನು ಅನುಸರಿಸಿ"
@@ -1863,7 +1890,7 @@
             "value" : "Mengobrol dengan tim di Matrix"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Matrix ನಲ್ಲಿ ತಂಡದೊಂದಿಗೆ ಚಾಟ್ ಮಾಡಿ"
@@ -1909,6 +1936,7 @@
     },
     "i18n.app.about.community.share_conjugate" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -1958,7 +1986,7 @@
             "value" : "Bagikan Konjugasi Scribe"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe Conjugate ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
@@ -2053,7 +2081,7 @@
             "value" : "Bagikan Scribe"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe ಅನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
@@ -2148,7 +2176,7 @@
             "value" : "Komunitas"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸಮುದಾಯ"
@@ -2243,7 +2271,7 @@
             "value" : "Tampilkan semua aplikasi Scribe"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಎಲ್ಲಾ Scribe ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
@@ -2338,7 +2366,7 @@
             "value" : "Wikimedia dan Scribe"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Wikimedia ಮತ್ತು Scribe"
@@ -2433,7 +2461,7 @@
             "value" : "Bagaimana kami bekerjasama"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನಾವು ಹೇಗೆ ಒಟ್ಟಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತೇವೆ"
@@ -2528,7 +2556,7 @@
             "value" : "Scribe tidak akan mungkin ada tanpa kontribusi yang tak terhitung jumlahnya oleh kontributor Wikimedia dan proyek-proyek yang didukungnya. Secara khusus, Scribe memanfaatkan data dari komunitas data Lexicographical Wikidata, serta data dari Wikipedia untuk setiap bahasa yang didukung oleh Scribe."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe, ವಿಕಿಮೀಡಿಯಾ ಕೊಡುಗೆದಾರರು ಅವರು ಬೆಂಬಲಿಸುವ ಅನೇಕ ಯೋಜನೆಗಳಿಗೆ ಮಾಡಿದ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಕೊಡುಗೆಗಳಿಲ್ಲದೆ ಸಾಧ್ಯವಾಗುತ್ತಿರಲಿಲ್ಲ. Scribe, Wikidata Lexicographical data ಸಮುದಾಯದಿಂದ ದತ್ತಾಂಶವನ್ನು, ಹಾಗೆಯೇ Scribe ಬೆಂಬಲಿಸುವ ಪ್ರತಿಯೊಂದು ಭಾಷೆಗೆ ವಿಕಿಪೀಡಿಯಾದಿಂದ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ."
@@ -2623,7 +2651,7 @@
             "value" : "Wikidata adalah grafik pengetahuan multibahasa yang disunting secara kolaboratif dan diselenggarakan oleh Wikimedia Foundation. Wikidata menyediakan data yang tersedia secara bebas yang dapat digunakan oleh siapa saja di bawah lisensi Creative Commons Public Domain (CC0). Scribe menggunakan data bahasa dari Wikidata untuk menyediakan konjugasi kata kerja, anotasi bentuk kata benda, bentuk jamak kata benda, dan banyak fitur lainnya kepada pengguna."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ವಿಕಿಡೇಟಾವು ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಶನ್ ಮೂಲಕ ಹೋಸ್ಟ್ ಮಾಡಲಾದ ಸಹಯೋಗದಲ್ಲಿ ಸಂಪಾದಿಸಲಾದ ಬಹುಭಾಷಾ ಜ್ಞಾನ ನಕ್ಷೆ. ಇದು ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಪಬ್ಲಿಕ್ ಡೊಮೇನ್ ಲೈಸೆನ್ಸ್ (CC0) ಅಡಿಯಲ್ಲಿ ಯಾರಾದರೂ ಬಳಸಬಹುದಾದ ಉಚಿತ ದತ್ತಾಂಶವನ್ನು ಒದಗಿಸುತ್ತದೆ. Scribe, ಬಳಕೆದಾರರಿಗೆ ಕ್ರಿಯಾ ಸಂಯೋಜನೆಗಳು, ನಾಮಪದ ರೂಪದ ಉಲ್ಲೇಖಗಳು, ನಾಮಪದ ಬಹುವಚನಗಳು ಮತ್ತು ಇತರ ಹಲವು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಒದಗಿಸಲು ವಿಕಿಡೇಟಾದಿಂದ ಭಾಷಾ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ."
@@ -2718,7 +2746,7 @@
             "value" : "Wikipedia adalah ensiklopedia multibahasa online gratis yang ditulis dan dikelola oleh komunitas sukarelawan memalui kolaborase terbuka dan sistem penyuntingan berbasis wiki. Scribe menggunakan data dari Wikipedia untuk menghasilkan saran otomatis dengan cara menghasilkan daftar kata yang paling umum dalam suatu bahasa, termasuk kata-kata yang umum muncul setelahnya."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ವಿಕಿಪೀಡಿಯಾವು ಸ್ವಯಂಸೇವಕರ ಸಮುದಾಯದಿಂದ ಮುಕ್ತ ಸಹಯೋಗ ಮತ್ತು ವಿಕಿ-ಆಧಾರಿತ ಸಂಪಾದನಾ ವ್ಯವಸ್ಥೆಯ ಮೂಲಕ ಬರೆಯಲಾದ ಮತ್ತು ನಿರ್ವಹಿಸಲ್ಪಡುವ ಬಹುಭಾಷಾ ಉಚಿತ ಆನ್‌ಲೈನ್ ಎನ್‌ಸೈಕ್ಲೋಪೀಡಿಯಾ. Scribe, ಒಂದು ಭಾಷೆಯಲ್ಲಿನ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಮತ್ತು ಅವುಗಳನ್ನು ಅನುಸರಿಸುವ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಹುಡುಕುವ ಮೂಲಕ ಸ್ವಯಂ-ಸೂಚನೆಗಳನ್ನು ಸೃಷ್ಟಿಸಲು ವಿಕಿಪೀಡಿಯಾದಿಂದ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ."
@@ -2813,7 +2841,7 @@
             "value" : "Laporkan masalah"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ದೋಷ ವರದಿ ಮಾಡಿ"
@@ -2859,6 +2887,7 @@
     },
     "i18n.app.about.feedback.rate_conjugate" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -2908,7 +2937,7 @@
             "value" : "Nilai Konjugasi Scribe"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe Conjugate ಅನ್ನು ರೇಟ್ ಮಾಡಿ"
@@ -3003,7 +3032,7 @@
             "value" : "Nilai Scribe"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe ಅನ್ನು ರೇಟ್ ಮಾಡಿ"
@@ -3098,7 +3127,7 @@
             "value" : "Reset petunjuk aplikasi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಆಪ್ ಸುಳಿವುಗಳನ್ನು ಮರುಹೊಂದಿಸಿ"
@@ -3193,7 +3222,7 @@
             "value" : "Kirimi kami email"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನಮಗೆ ಇಮೇಲ್ ಕಳುಹಿಸಿ"
@@ -3288,7 +3317,7 @@
             "value" : "Umpan balik dan dukungan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಅಭಿಪ್ರಾಯ ಮತ್ತು ಬೆಂಬಲ"
@@ -3383,7 +3412,7 @@
             "value" : "Versi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಆವೃತ್ತಿ"
@@ -3478,7 +3507,7 @@
             "value" : "Menjaga kamu tetap aman"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನಿಮ್ಮನ್ನು ಸುರಕ್ಷಿತವಾಗಿರಿಸುವುದು"
@@ -3573,7 +3602,7 @@
             "value" : "Harap diperhatikan bahwa versi Bahasa Inggris dari kebijakan ini memiliki prioritas dibandingkan semua versi lainnya.\n\nPengembang Scribe (SCRIBE) membuat aplikasi iOS \"Scribe - Keyboard Bahasa\" (LAYANAN) sebagai aplikasi sumber terbuka. LAYANAN ini disediakan oleh SCRIBE tanpa biaya dan ditujukan untuk digunakan sebagaimana adanya.\n\nKebijakan privasi (KEBIJAKAN) digunakan untuk menginformasikan kepada pembaca kebijakan akan akses, pelacakan, pengumpulan, penyimpanan, penggunaan, dan pengungkapan informasi pribadi (INFORMASI PENGGUNA) dan penggunaan data (DATA PENGGUNA) untuk semua individu yang menggunakan LAYANAN ini (PENGGUNA).\n\nINFORMASI PENGGUNA secara khusus didefinisikan sebagai segala informasi yang berkaitan dengan PENGGUNA atau perangkat yang mereka gunakan untuk mengakses LAYANAN.\n\nDATA PENGGUNA secara khusus didefinisikan sebagai segala teks yang diketik atau tindakan yang dilakukan oleh PENGGUNA ketika menggunakan LAYANAN.\n\n1. Pernyataan Kebijakan\n\nLAYANAN ini tidak mengakses, melacak, mengumpulkan, menyimpan, menggunakan, atau membocorkan INFORMASI PENGGUNA atau DATA PENGGUNA apapun.\n\n2. Tidak Melacak\n\nPENGGUNA yang menghubungi SCRIBE untuk meminta agar INFORMASI PENGGUNA dan DATA PENGGUNA mereka tidak dilacak akan menerima salinan KEBIJAKAN ini beserta tautan ke seluruh kode sumber sebagai bukti bahwa pelacakan tidak dilakukan.\n\n3. Data Pihak Ketiga\n\nLayanan ini memanfaatkan data pihak ketiga. Semua data yang digunakan dalam pembuatan LAYANAN ini berasal dari sumber yang memperbolehkan penggunaan secara penuh sebagaimana dilakukan oleh LAYANAN. Secara khusus, data untuk LAYANAN ini berasal dari Wikidata, Wikipedia dan Unicode. Wikidata menyatakan, \"Semua data yang terstruktur di namespace utama, properti dan lexeme tersedia di bawah Lisensi Creative Commons CC0; teks di namespace lain tersedia di bawah Lisensi Creative Commons Attribution-Share Alike.\" Kebijakan yang menguraikan penggunaan data Wikidata dapat ditemukan di https://www.wikidata.org/wiki/Wikidata:Licensing. Wikipedia menyatakan bahwa data teks, tipe data yang digunakan oleh LAYANAN, \"… dapat digunakan di bawah ketentuan lisensi Creative Commons Attribution Share-Alike\". Kebijakan yang menguraikan penggunaan data Wikipedia bisa ditemukan di https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content. Unicode menyedikan izin, \"… bebas biaya, untuk siapapun memperoleh salinan dari berkas data Unicode dan dokumentasi terkait (\"Berkas Data\") atau perangkat lunak Unicode dan dokumentasi terkait (\"Perangkat Lunak\") untuk mengelola Berkas Data atau Perangkat Lunak tanpa pembatasan…\" Kebijakan yang menguraikan penggunaan data Unicode bisa ditemukan di https://www.unicode.org/license.txt.\n\n4. Sumber Kode Pihak Ketiga\n\nLAYANAN ini berbasis pada kode pihak ketiga. Seluruh kode sumber yang digunakan dalam pembuatan LAYANAN ini berasal dari sumber yang mengizinkan penggunaannya secara penuh sebagaimana dilakukan oleh LAYANAN ini. Secara khusus, dasar dari proyek ini adalah proyek Custom Keyboard oleh Ethan Sarif-Kattan. Custom Keyboard dirilis di bawah lisensi MIT,lisensi ini tersedia di https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE.\n\n5. Layanan Pihak Ketiga\n\nLAYANAN ini menggunakan layanan pihak ketiga untuk memproses sebagian data pihak ketiga. Secara khusus, data telah diterjemahkan menggunakan model dari Hugging Face transformers. Layanan ini dilindungi oleh Lisensi Apache 2.0, yang menyatakan bahwa ia tersedia untuk penggunaan komersil, modifikasi, distribusi, penggunaan paten, dan penggunaan pribadi. Lisensi untuk layanan tersebut di atas dapat ditemukan di https://github.com/huggingface/transformers/blob/master/LICENSE.\n\n6. Tautan Pihak Ketiga\n\nLAYANAN ini mengandung tautan-tautan ke situs web eksternal. Jika PENGGUNA mengeklik tautan pihak ketiga, ia akan diarahkan ke sebuah situs web. Perlu dicatat bahwa situs web eksternal ini tidak dioperasikan oleh LAYANAN ini. Oleh karena itu, PENGGUNA sangat disarankan untuk membaca dan meninjau kebijakan privasi situs web tersebut. LAYANAN ini tidak memiliki kendali dan tidak bertanggung jawab atas konten, kebijakan privasi, atau praktik-praktik dari situs-situs atau layanan-layanan pihak ketiga.\n\n7. Gambar Pihak Ketiga\n\nLAYANAN ini berisi gambar-gambar yang dilindungi hak cipta oleh pihak ketiga. Secara khusus, aplikasi ini menyertakan salinan dari logo-logo GitHub, Inc dan Wikidata, terdaftar sebagai merek dagang oleh Wikimedia Foundation, Inc. Ketentuan penggunaan logo Github bisa ditemukan di https://github.com/logos, dan ketentuan untuk logo Wikidata bisa ditemukan di halaman Wikimedia berikut: https://foundation.wikimedia.org/wiki/Policy:Trademark_policy. LAYANAN ini menggunakan gambar-gambar berhak cipta sesuai dengan ketentuan tersebut, dengan satu-satunya pengecualian yaitu rotasi logo GitHub yang umum digunakan dalam komunitas open-source untuk menandakan adanya tautan ke situs web GitHub.\n\n8. Pemberitahuan Konten\n\nLAYANAN ini memperbolehkan PENGGUNA untuk mengakses konten linguistik (KONTEN). Sebagian dari KONTEN ini mungkin dianggap tidak pantas untuk anak-anak dan remaja di bawah umur. Mengakses KONTEN menggunakan LAYANAN dilakukan sedemikian rupa sehingga informasi tersebut tidak dapat diakses kecuali jika diketahui secara jelas. Secara khusus, PENGGUNA \"dapat\" menerjemahkan kata, mengkonjugasi kata kerja, dan mengakses fitur gramatikal lainnya dari KONTEN yang mungkin bersifat seksual, kekerasan, atau dengan cara lain yang tidak pantas. PENGGUNA \"tidak dapat\" menerjemahkan kata, mengkonjugasi kata kerja, dan mengakses fitur gramatikal lainnya dari KONTEN yang mungkin bersifat seksual, kekerasan, atau dengan cara lain yang tidak pantas jika mereka belum mengetahui tentang sifat dari KONTEN ini. SCRIBE tidak bertanggung jawab atas akses terhadap KONTEN tersebut.\n\n9. Perubahan\n\nKEBIJAKAN ini dapat berubah sewaktu-waktu. Perubahan pada KEBIJAKAN ini akan menggantikan semua ketentuan sebelumnya, dan jika dianggap penting, akan disampaikan dengan jelas dalam pembaruan LAYANAN berikutnya. SCRIBE menyarankan para PENGGUNA agar secara berkala memeriksa KEBIJAKAN ini demi mendapatkan informasi terkini mengenai praktik privasi kami serta membiasakan diri dengan perubahan yang mungkin berlaku.\n\n10. KONTAK\n\nJika kamu memiliki pertanyaan, kekhawatiran, atau saran terkait KEBIJAKAN ini, jangan ragu untuk mengunjungi https://github.com/scribe-org atau kontak SCRIBE di security[at]scri.be. Orang yang bertanggung jawab atas pertanyaan tersebut adalah Andrew Tavis McAllister.\n\n11.Tanggal Efektif\n\nKEBIJAKAN ini berlaku efektif sejak 24 Mei 2022."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ದಯವಿಟ್ಟು ಈ ನೀತಿಯ ಇಂಗ್ಲಿಷ್ ಆವೃತ್ತಿಯು ಇತರ ಎಲ್ಲ ಆವೃತ್ತಿಗಳಿಗಿಂತ ಪ್ರಾಧಾನ್ಯತೆಯನ್ನು ಹೊಂದಿದೆ ಎಂಬುದನ್ನು ಗಮನಿಸಿ.\n\nScribe ಡೆವಲಪರ್‌ಗಳು (SCRIBE) iOS ಅಪ್ಲಿಕೇಶನ್ \"Scribe - Language Keyboards\" (SERVICE) ಅನ್ನು ಓಪನ್-ಸೋರ್ಸ್ ಅಪ್ಲಿಕೇಶನ್ ಆಗಿ ನಿರ್ಮಿಸಿದ್ದಾರೆ. ಈ ಸೇವೆಯನ್ನು SCRIBE ಉಚಿತವಾಗಿ ಒದಗಿಸುತ್ತದೆ ಮತ್ತು ಅದನ್ನು ಇರುವ ರೂಪದಲ್ಲಿ ಬಳಸಲು ಉದ್ದೇಶಿಸಲಾಗಿದೆ.\n\nಈ ಗೌಪ್ಯತಾ ನೀತಿ (POLICY) ಈ ಸೇವೆಯನ್ನು (SERVICE) ಬಳಸುವ ಎಲ್ಲಾ ವ್ಯಕ್ತಿಗಳಿಗೆ (USERS) ವೈಯಕ್ತಿಕ ಮಾಹಿತಿ (USER INFORMATION) ಮತ್ತು ಬಳಕೆ ದತ್ತಾಂಶ (USER DATA)ದ ಪ್ರವೇಶ, ಟ್ರ್ಯಾಕಿಂಗ್, ಸಂಗ್ರಹಣೆ, ಧಾರಣೆ, ಬಳಕೆ ಮತ್ತು ಬಹಿರಂಗಪಡಿಸುವಿಕೆಗಾಗಿ ನೀತಿಗಳನ್ನು ತಿಳಿಸಲು ಉದ್ದೇಶಿಸಲಾಗಿದೆ.\n\nUSER INFORMATION ಎಂದರೆ ನಿರ್ದಿಷ್ಟವಾಗಿ ಬಳಕೆದಾರರಿಗೆ ಅಥವಾ ಅವರು ಸೇವೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಬಳಸುವ ಸಾಧನಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಯಾವುದೇ ಮಾಹಿತಿ.\n\nUSER DATA ಎಂದರೆ ನಿರ್ದಿಷ್ಟವಾಗಿ ಸೇವೆಯನ್ನು ಬಳಸುವಾಗ ಬಳಕೆದಾರರು ಟೈಪ್ ಮಾಡುವ ಯಾವುದೇ ಪಠ್ಯ ಅಥವಾ ಮಾಡುವ ಕ್ರಿಯೆಗಳು.\n\n1. ನೀತಿಯ ಹೇಳಿಕೆ\n\nಈ ಸೇವೆಯು ಯಾವುದೇ USER INFORMATION ಅಥವಾ USER DATA ಅನ್ನು ಪ್ರವೇಶಿಸುವುದಿಲ್ಲ, ಟ್ರ್ಯಾಕ್ ಮಾಡುವುದಿಲ್ಲ, ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ, ಉಳಿಸಿಕೊಳ್ಳುವುದಿಲ್ಲ, ಬಳಸುವುದಿಲ್ಲ ಅಥವಾ ಬಹಿರಂಗಪಡಿಸುವುದಿಲ್ಲ.\n\n2. ಟ್ರ್ಯಾಕ್ ಮಾಡಬೇಡಿ\n\nತಮ್ಮ USER INFORMATION ಮತ್ತು USER DATA ಅನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಬಾರದು ಎಂದು SCRIBE ಅನ್ನು ಸಂಪರ್ಕಿಸುವ ಬಳಕೆದಾರರಿಗೆ ಈ ನೀತಿಯ ಪ್ರತಿಯನ್ನು ಹಾಗೂ ಅವರು ಟ್ರ್ಯಾಕ್ ಆಗುವುದಿಲ್ಲ ಎಂಬುದಕ್ಕೆ ಪುರಾವೆಯಾಗಿ ಎಲ್ಲಾ ಮೂಲ ಕೋಡ್‌ಗಳಿಗೆ ಲಿಂಕ್ ಅನ್ನು ಒದಗಿಸಲಾಗುತ್ತದೆ.\n\n3. ಮೂರನೇ ಪಕ್ಷದ ದತ್ತಾಂಶ\n\nಈ ಸೇವೆಯು ಮೂರನೇ ಪಕ್ಷದ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ. ಈ ಸೇವೆಯನ್ನು ರಚಿಸಲು ಬಳಸಲಾದ ಎಲ್ಲಾ ದತ್ತಾಂಶವು ಸೇವೆ ಮಾಡುವ ರೀತಿಯಲ್ಲಿ ಅದರ ಸಂಪೂರ್ಣ ಬಳಕೆಯನ್ನು ಅನುಮತಿಸುವ ಮೂಲಗಳಿಂದ ಬರುತ್ತದೆ. ನಿರ್ದಿಷ್ಟವಾಗಿ, ಈ ಸೇವೆಗಾಗಿ ದತ್ತಾಂಶವು ವಿಕಿಡೇಟಾ, ವಿಕಿಪೀಡಿಯಾ ಮತ್ತು ಯುನಿಕೋಡ್‌ನಿಂದ ಬರುತ್ತದೆ..."
@@ -3668,7 +3697,7 @@
             "value" : "Lisensi pihak ketiga"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಮೂರನೇ ಪಕ್ಷದ ಲೈಸೆನ್ಸ್‌ಗಳು"
@@ -3763,7 +3792,7 @@
             "value" : "Kode siapa yang kami gunakan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನಾವು ಯಾರ ಕೋಡ್ ಬಳಸಿದ್ದೇವೆ"
@@ -3858,7 +3887,7 @@
             "value" : "Custom Keyboard\n• Penulis: EthanSK\n• License: MIT\n• Link: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕಸ್ಟಮ್ ಕೀಬೋರ್ಡ್\n• ಲೇಖಕರು: EthanSK\n• ಲೈಸೆನ್ಸ್: MIT\n• ಲಿಂಕ್: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE"
@@ -3953,7 +3982,7 @@
             "value" : "Simple Keyboard\n• Penulis: Simple Mobile Tools\n• License: GPL-3.0\n• Link: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Simple Keyboard\n• ಲೇಖಕರು: Simple Mobile Tools\n• ಲೈಸೆನ್ಸ್: GPL-3.0\n• ಲಿಂಕ್: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE"
@@ -4048,7 +4077,7 @@
             "value" : "Pengembang Scribe (SCRIBE) membuat aplikasi iOS application \"Scribe - Language Keyboards\" (SERVICE) menggunakan kode pihak ketiga. Semua kode sumber yang digunakan dalam pembuatan LAYANAN ini berasal dari sumber yang memperbolehkan penggunaan sepenuhnya sesuai dengan cara yang dilakukan oleh LAYANAN. Bagian ini mencantumkan semua kode sumber yang menjadi dasar LAYANAN serta lisensi yang sesuai dari masing-masing.\n\nBerikut adalah daftar semua kode sumber yang digunakan, penulis-penulis utama kode, lisensi yang digunakan pada saat penggunaan, dan tautan ke lisensi tersebut."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe ಡೆವಲಪರ್‌ಗಳು (SCRIBE) iOS ಅಪ್ಲಿಕೇಶನ್ \"Scribe - Language Keyboards\" (SERVICE) ಅನ್ನು ಮೂರನೇ ಪಕ್ಷದ ಕೋಡ್ ಬಳಸಿ ನಿರ್ಮಿಸಿದ್ದಾರೆ. ಈ ಸೇವೆಯನ್ನು ರಚಿಸಲು ಬಳಸಲಾದ ಎಲ್ಲಾ ಮೂಲ ಕೋಡ್, ಸೇವೆ ಮಾಡುವ ರೀತಿಯಲ್ಲಿ ಅದರ ಸಂಪೂರ್ಣ ಬಳಕೆಯನ್ನು ಅನುಮತಿಸುವ ಮೂಲಗಳಿಂದ ಬರುತ್ತದೆ. ಈ ವಿಭಾಗವು ಸೇವೆ ಆಧರಿಸಿರುವ ಕೆಲವು ಮೂಲ ಕೋಡ್ ಹಾಗೂ ಪ್ರತಿ ಅದರ ಸಂಬಂಧಿತ ಲೈಸೆನ್ಸ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡುತ್ತದೆ.\n\nಕೆಳಗೆ ಬಳಸಲಾದ ಎಲ್ಲಾ ಮೂಲ ಕೋಡ್, ಕೋಡ್‌ನ ಮುಖ್ಯ ಲೇಖಕ ಅಥವಾ ಲೇಖಕರು, ಬಳಕೆಯ ಸಮಯದಲ್ಲಿ ಬಿಡುಗಡೆಯಾದ ಲೈಸೆನ್ಸ್ ಮತ್ತು ಲೈಸೆನ್ಸ್‌ಗೆ ಲಿಂಕ್ ಅನ್ನು ಪಟ್ಟಿ ಮಾಡಲಾಗಿದೆ:"
@@ -4143,7 +4172,7 @@
             "value" : "Tentang"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಬಗ್ಗೆ"
@@ -4189,6 +4218,7 @@
     },
     "i18n.app.conjugate.choose_conjugation.select_tense" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4238,7 +4268,7 @@
             "value" : "Pilih tense"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕಾಲವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
@@ -4284,6 +4314,7 @@
     },
     "i18n.app.conjugate.choose_conjugation.title" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4333,7 +4364,7 @@
             "value" : "Pilih konjugasi di bawah"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೆಳಗೆ ಒಂದು ಸಂಯೋಜನೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
@@ -4379,6 +4410,7 @@
     },
     "i18n.app.conjugate.recently_conjugated.title" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4428,7 +4460,7 @@
             "value" : "Baru saja dikonjugasi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಇತ್ತೀಚಿನ ಸಂಯೋಜನೆಗಳು"
@@ -4474,6 +4506,7 @@
     },
     "i18n.app.conjugate.title" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4523,7 +4556,7 @@
             "value" : "Konjugasi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸಂಯೋಜನೆಗಳು"
@@ -4569,6 +4602,7 @@
     },
     "i18n.app.conjugate.verbs_search.placeholder" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4618,7 +4652,7 @@
             "value" : "Cari kata kerja"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕ್ರಿಯಾಪದಗಳಿಗಾಗಿ ಹುಡುಕಿ"
@@ -4664,6 +4698,7 @@
     },
     "i18n.app.conjugate.verbs_search.title" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4713,7 +4748,7 @@
             "value" : "Konjugasi kata kerja"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕ್ರಿಯಾಪದಗಳನ್ನು ಸಂಯೋಜಿಸಿ"
@@ -4759,6 +4794,7 @@
     },
     "i18n.app.download.menu_option.conjugate_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4808,7 +4844,7 @@
             "value" : "Tambahkan data baru untuk Konjugasi Scribe."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe Conjugate ಗೆ ಹೊಸ ದತ್ತಾಂಶವನ್ನು ಸೇರಿಸಿ."
@@ -4854,6 +4890,7 @@
     },
     "i18n.app.download.menu_option.conjugate_download_data" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4903,7 +4940,7 @@
             "value" : "Unduh data kata kerja"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕ್ರಿಯಾಪದ ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
@@ -4949,6 +4986,7 @@
     },
     "i18n.app.download.menu_option.conjugate_download_data_start" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -4998,7 +5036,7 @@
             "value" : "Unduh data untuk mulai mengkonjugasi!"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸಂಯೋಜನೆಗಳನ್ನು ಪ್ರಾರಂಭಿಸಲು ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ!"
@@ -5044,6 +5082,7 @@
     },
     "i18n.app.download.menu_option.conjugate_title" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5093,7 +5132,7 @@
             "value" : "Data kata kerja"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕ್ರಿಯಾಪದ ದತ್ತಾಂಶ"
@@ -5139,6 +5178,7 @@
     },
     "i18n.app.download.menu_option.scribe_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5188,7 +5228,7 @@
             "value" : "Tambahkan data baru untuk keyboard Scribe."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe ಕೀಬೋರ್ಡ್‌ಗಳಿಗೆ ಹೊಸ ದತ್ತಾಂಶವನ್ನು ಸೇರಿಸಿ."
@@ -5234,6 +5274,7 @@
     },
     "i18n.app.download.menu_option.scribe_download_data" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5283,7 +5324,7 @@
             "value" : "Unduh data keyboard"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಬೋರ್ಡ್ ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ"
@@ -5329,6 +5370,7 @@
     },
     "i18n.app.download.menu_option.scribe_title" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5378,7 +5420,7 @@
             "value" : "Data bahasa"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಭಾಷಾ ದತ್ತಾಂಶ"
@@ -5424,6 +5466,7 @@
     },
     "i18n.app.download.menu_ui.download_data.all_languages" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5473,7 +5516,7 @@
             "value" : "Semua bahasa"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಎಲ್ಲಾ ಭಾಷೆಗಳು"
@@ -5519,6 +5562,7 @@
     },
     "i18n.app.download.menu_ui.download_data.downloading" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -5536,6 +5580,7 @@
     },
     "i18n.app.download.menu_ui.download_data.title" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5585,7 +5630,7 @@
             "value" : "Pilih data yang ingin diunduh"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ದತ್ತಾಂಶವನ್ನು ಆಯ್ಕೆಮಾಡಿ"
@@ -5631,6 +5676,7 @@
     },
     "i18n.app.download.menu_ui.download_data.up_to_date" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -5648,6 +5694,7 @@
     },
     "i18n.app.download.menu_ui.download_data.update" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5659,6 +5706,7 @@
     },
     "i18n.app.download.menu_ui.no_keyboards_installed" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5715,6 +5763,7 @@
     },
     "i18n.app.download.menu_ui.update_data" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5764,7 +5813,7 @@
             "value" : "Perbarui data"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ದತ್ತಾಂಶವನ್ನು ನವೀಕರಿಸಿ"
@@ -5810,6 +5859,7 @@
     },
     "i18n.app.download.menu_ui.update_data.check_new" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5859,7 +5909,7 @@
             "value" : "Periksa data baru"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಹೊಸ ದತ್ತಾಂಶಕ್ಕಾಗಿ ಪರಿಶೀಲಿಸಿ"
@@ -5905,6 +5955,7 @@
     },
     "i18n.app.download.menu_ui.update_data.regular_update" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5954,7 +6005,7 @@
             "value" : "Perbarui data secara rutin"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ದತ್ತಾಂಶವನ್ನು ನಿಯಮಿತವಾಗಿ ನವೀಕರಿಸಿ"
@@ -6049,7 +6100,7 @@
             "value" : "Ikuti petunjuk di bawah untuk memasang keyboard Scribe di perangkatmu."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ Scribe ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಕೆಳಗಿನ ಸೂಚನೆಗಳನ್ನು ಅನುಸರಿಸಿ."
@@ -6095,6 +6146,7 @@
     },
     "i18n.app.installation.button_quick_tutorial" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6144,7 +6196,7 @@
             "value" : "Tutorial singkat"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ತ್ವರಿತ ಟ್ಯುಟೋರಿಯಲ್"
@@ -6190,6 +6242,7 @@
     },
     "i18n.app.installation.keyboard.keyboard_settings" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6239,7 +6292,7 @@
             "value" : "Buka pengaturan keyboard"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಬೋರ್ಡ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ"
@@ -6334,7 +6387,7 @@
             "value" : "Keyboard"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಬೋರ್ಡ್‌ಗಳು"
@@ -6429,7 +6482,7 @@
             "value" : "Buka pengaturan Scribe"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯಿರಿ"
@@ -6524,7 +6577,7 @@
             "value" : "Pilih"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಆಯ್ಕೆಮಾಡಿ"
@@ -6619,7 +6672,7 @@
             "value" : "Aktifkan keyboard yang ingin kamu gunakan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನೀವು ಬಳಸಲು ಬಯಸುವ ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
@@ -6714,7 +6767,7 @@
             "value" : "Saat mengetik, tekan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಟೈಪ್ ಮಾಡುವಾಗ, ಒತ್ತಿರಿ"
@@ -6809,7 +6862,7 @@
             "value" : "untuk memilih keyboard"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲು"
@@ -6904,7 +6957,7 @@
             "value" : "Instalasi Keyboard"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಬೋರ್ಡ್ ಇನ್‌ಸ್ಟಾಲೇಷನ್"
@@ -6999,7 +7052,7 @@
             "value" : "Instalasi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಇನ್‌ಸ್ಟಾಲೇಷನ್"
@@ -7094,7 +7147,7 @@
             "value" : "Wikidata adalah grafik pengetahuan yang disunting secara kolaboratif yang dikelola oleh Wikimedia Foundation. Ia berfungsi sebagai sumber data terbuka bagi proyek seperti Wikipedia dan berbagai proyek lainnya."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ವಿಕಿಡೇಟಾವು ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಶನ್‌ನಿಂದ ನಿರ್ವಹಿಸಲ್ಪಡುವ ಸಹಯೋಗದೊಂದಿಗೆ ಸಂಪಾದಿಸಲಾದ ಜ್ಞಾನ ನಕ್ಷೆ. ಇದು ವಿಕಿಪೀಡಿಯಾ ಮತ್ತು ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಇತರ ಯೋಜನೆಗಳಿಗೆ ಮುಕ್ತ ದತ್ತಾಂಶದ ಮೂಲವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ."
@@ -7189,7 +7242,7 @@
             "value" : "Scribe menggunakan data bahasa milik Wikidata untuk banyak fitur utama. Kami mendapatkan informasi seperti kata benda bergender, konjugasi kata kerja, dan banyak lagi!"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe ತನ್ನ ಅನೇಕ ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯಗಳಿಗಾಗಿ ವಿಕಿಡೇಟಾದ ಭಾಷಾ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ. ನಾವು ನಾಮಪದ ಲಿಂಗಗಳು, ಕ್ರಿಯಾಪದ ಸಂಯೋಜನೆಗಳು ಮತ್ತು ಇನ್ನೂ ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ಪಡೆಯುತ್ತೇವೆ!"
@@ -7284,7 +7337,7 @@
             "value" : "Kamu bisa membuat akun di wikidata.org untuk bergabung dengan komunitas yang mendukung Scribe dan banyak proyek lainnya. Bantu kami membawakan informasi secara gratis untuk dunia!"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe ಮತ್ತು ಇನ್ನೂ ಅನೇಕ ಯೋಜನೆಗಳನ್ನು ಬೆಂಬಲಿಸುವ ಸಮುದಾಯವನ್ನು ಸೇರಲು wikidata.org ನಲ್ಲಿ ಖಾತೆಯನ್ನು ರಚಿಸಿ. ಜಗತ್ತಿಗೆ ಉಚಿತ ಮಾಹಿತಿ ನೀಡಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಿ!"
@@ -7379,7 +7432,7 @@
             "value" : "Pengaturan aplikasi dan keyboard bahasa yang terpasang bisa ditemukan di sini."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ಭಾಷಾ ಕೀಬೋರ್ಡ್‌ಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿದೆ."
@@ -7474,7 +7527,7 @@
             "value" : "Pasang keyboard"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ"
@@ -7520,6 +7573,7 @@
     },
     "i18n.app.settings.keyboard.functionality.annotate_suggestions" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7569,7 +7623,7 @@
             "value" : "Anotasi saran/pelengkapan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸೂಚನೆಗಳನ್ನು ಎದ್ದುಕಾಣುವಂತೆ ಮಾಡಿ"
@@ -7615,6 +7669,7 @@
     },
     "i18n.app.settings.keyboard.functionality.annotate_suggestions_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7664,7 +7719,7 @@
             "value" : "Garis bawahi saran dan pelengkapan kata untuk menunjukkan gender saat kamu mengetik."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನೀವು ಟೈಪ್ ಮಾಡುವಾಗ ಅವುಗಳ ಲಿಂಗಗಳನ್ನು ತೋರಿಸಲು ಸೂಚನೆಗಳು ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ಅಂಡರ್‌ಲೈನ್ ಮಾಡಿ."
@@ -7759,7 +7814,7 @@
             "value" : "Saran emoji otomatis"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಎಮೋಜಿಗಳನ್ನು ಸ್ವಯಂ ಸೂಚಿಸಿ"
@@ -7854,7 +7909,7 @@
             "value" : "Aktifkan saran dan penyelesaian emoji untuk mengetik yang lebih ekspresif."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಹೆಚ್ಚು ಅಭಿವ್ಯಕ್ತಿಶೀಲ ಟೈಪಿಂಗ್‌ಗಾಗಿ ಎಮೋಜಿ ಸೂಚನೆಗಳು ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಗಳನ್ನು ಆನ್ ಮಾಡಿ."
@@ -7900,6 +7955,7 @@
     },
     "i18n.app.settings.keyboard.functionality.default_emoji_tone" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -7949,7 +8005,7 @@
             "value" : "Warna kulit emoji default"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಡೀಫಾಲ್ಟ್ ಎಮೋಜಿ ಚರ್ಮದ ಬಣ್ಣ"
@@ -7993,103 +8049,9 @@
         }
       }
     },
-    "i18n.app.settings.keyboard.functionality.default_emoji_tone.caption" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "لون البشرة المستخدم"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ব্যবহার করা স্কিন টোন"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Die zu benutzende Hautfarbe"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Skin tone to be used"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Color de piel a utilizar"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Couleur de peau à utiliser"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "उपयोग होने वाला त्वचा का रंग"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Warna kulit yang digunakan"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಬಳಸಬೇಕಾದ ಚರ್ಮದ ಬಣ್ಣ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "사용할 피부 톤"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "वापरल्या जाणाऱ्या त्वचेचा रंग"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tom de pele a ser usado"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Hudton som ska användas"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "பயன்படுத்த வேண்டிய தோல் நிறம்"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Kullanılacak cilt tonu"
-          }
-        }
-      }
-    },
     "i18n.app.settings.keyboard.functionality.default_emoji_tone_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8139,7 +8101,7 @@
             "value" : "Atur warna kulit default untuk saran otomatis dan pelengkapan emoji."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಎಮೋಜಿ ಸ್ವಯಂ ಸೂಚನೆಗಳು ಮತ್ತು ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಗಳಿಗಾಗಿ ಡೀಫಾಲ್ಟ್ ಚರ್ಮದ ಬಣ್ಣವನ್ನು ಹೊಂದಿಸಿ."
@@ -8179,6 +8141,102 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Emoji önerileri ve otomatik tamamlama için varsayılan cilt tonunu ayarlayın."
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard.functionality.default_emoji_tone.caption" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "لون البشرة المستخدم"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ব্যবহার করা স্কিন টোন"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Die zu benutzende Hautfarbe"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Skin tone to be used"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Color de piel a utilizar"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Couleur de peau à utiliser"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "उपयोग होने वाला त्वचा का रंग"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Warna kulit yang digunakan"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಬಳಸಬೇಕಾದ ಚರ್ಮದ ಬಣ್ಣ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "사용할 피부 톤"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "वापरल्या जाणाऱ्या त्वचेचा रंग"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tom de pele a ser usado"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Hudton som ska användas"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "பயன்படுத்த வேண்டிய தோல் நிறம்"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Kullanılacak cilt tonu"
           }
         }
       }
@@ -8234,7 +8292,7 @@
             "value" : "Tekan dan tahan tombol hapus untuk menghapus per kata"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಪದ-ಪದವಾಗಿ ಅಳಿಸಲು ಹಿಡಿದುಕೊಳ್ಳಿ"
@@ -8329,7 +8387,7 @@
             "value" : "Hapus teks kata demi kata saat tombol hapus ditekan dan ditahan."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಅಳಿಸುವ ಕೀ ಅನ್ನು ಹಿಡಿದುಕೊಂಡಾಗ ಪಠ್ಯವನ್ನು ಪದ-ಪದವಾಗಿ ಅಳಿಸಿ."
@@ -8424,7 +8482,7 @@
             "value" : "Spasi dua kali = titik"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಡಬಲ್ ಸ್ಪೇಸ್ ಪಿರಿಯಡ್ಸ್"
@@ -8519,7 +8577,7 @@
             "value" : "Secara otomatis menambahkan tanda titik jika tombol spasi ditekan dua kali."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸ್ಪೇಸ್ ಕೀಯನ್ನು ಎರಡು ಬಾರಿ ಒತ್ತಿದಾಗ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪಿರಿಯಡ್ ಸೇರಿಸಿ."
@@ -8565,6 +8623,7 @@
     },
     "i18n.app.settings.keyboard.functionality.hold_for_alt_chars" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8614,7 +8673,7 @@
             "value" : "Tahan untuk karakter alternatif"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಪರ್ಯಾಯ ಅಕ್ಷರಗಳಿಗಾಗಿ ಹಿಡಿದುಕೊಳ್ಳಿ"
@@ -8660,6 +8719,7 @@
     },
     "i18n.app.settings.keyboard.functionality.hold_for_alt_chars_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8709,7 +8769,7 @@
             "value" : "Pilih karakter alternatif dengan menekan tombol dan menggesernya ke karakter yang diinginkan."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಗಳನ್ನು ಹಿಡಿದುಕೊಂಡು ಬಯಸಿದ ಅಕ್ಷರಕ್ಕೆ ಎಳೆಯುವ ಮೂಲಕ ಪರ್ಯಾಯ ಅಕ್ಷರಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ."
@@ -8755,6 +8815,7 @@
     },
     "i18n.app.settings.keyboard.functionality.popup_on_keypress" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8804,7 +8865,7 @@
             "value" : "Tampilkan pop-up saat tombol ditekan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀ ಒತ್ತಿದಾಗ ಪಾಪ್ಅಪ್ ತೋರಿಸಿ"
@@ -8850,6 +8911,7 @@
     },
     "i18n.app.settings.keyboard.functionality.popup_on_keypress_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8899,7 +8961,7 @@
             "value" : "Menampilkan pop-up saat tombol ditekan."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಗಳನ್ನು ಒತ್ತಿದಾಗ ಅವುಗಳ ಪಾಪ್ಅಪ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸಿ."
@@ -8945,6 +9007,7 @@
     },
     "i18n.app.settings.keyboard.functionality.punctuation_spacing" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8994,7 +9057,7 @@
             "value" : "Hapus spasi di sekitar tanda baca"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ವಿರಾಮ ಚಿಹ್ನೆಗಳ ಸ್ಪೇಸಿಂಗ್ ಅಳಿಸಿ"
@@ -9040,6 +9103,7 @@
     },
     "i18n.app.settings.keyboard.functionality.punctuation_spacing_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9089,7 +9153,7 @@
             "value" : "Menghilangkan spasi berlebih sebelum tanda baca."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ವಿರಾಮ ಚಿಹ್ನೆಗಳ ಮೊದಲು ಹೆಚ್ಚುವರಿ ಸ್ಥಳಗಳನ್ನು ಅಳಿಸಿ."
@@ -9184,7 +9248,7 @@
             "value" : "Fungsionalitas"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕಾರ್ಯಶೀಲತೆ"
@@ -9230,6 +9294,7 @@
     },
     "i18n.app.settings.keyboard.keypress_sound" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -9243,7 +9308,7 @@
             "value" : "Play sound on key press"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀ ಒತ್ತಿದಾಗ ಶಬ್ದ ಮಾಡಿ"
@@ -9265,6 +9330,7 @@
     },
     "i18n.app.settings.keyboard.keypress_sound_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -9272,7 +9338,7 @@
             "value" : "Have the device play a sound when keys are pressed."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಗಳನ್ನು ಒತ್ತಿದಾಗ ಸಾಧನವು ಶಬ್ದ ಮಾಡಲಿ."
@@ -9294,6 +9360,7 @@
     },
     "i18n.app.settings.keyboard.keypress_vibration" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9343,7 +9410,7 @@
             "value" : "Getar saat tombol ditekan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀ ಒತ್ತಿದಾಗ ವೈಬ್ರೇಟ್ ಮಾಡಿ"
@@ -9389,6 +9456,7 @@
     },
     "i18n.app.settings.keyboard.keypress_vibration_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9438,7 +9506,7 @@
             "value" : "Buat perangkat bergetar saat tombol ditekan."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಗಳನ್ನು ಒತ್ತಿದಾಗ ಸಾಧನವು ವೈಬ್ರೇಟ್ ಆಗಲಿ."
@@ -9484,6 +9552,7 @@
     },
     "i18n.app.settings.keyboard.layout.default_currency" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9533,7 +9602,7 @@
             "value" : "Simbol mata uang default"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಡೀಫಾಲ್ಟ್ ಕರೆನ್ಸಿ ಚಿಹ್ನೆ"
@@ -9577,103 +9646,9 @@
         }
       }
     },
-    "i18n.app.settings.keyboard.layout.default_currency.caption" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "رمز لمفاتيح 123"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "১২৩ কীগুলির জন্য প্রতীক"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Symbol für Nummerntasten"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Symbol for the 123 keys"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Símbolo para las teclas 123"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Symbole pour les touches 123"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "123 कुंजियों के लिए प्रतीक"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Simbol untuk tombol 123"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "123 ಕೀಲಿಗಾಗಿ ಚಿಹ್ನೆ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "숫자 키 기호"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "123 किजसाठी चिन्ह"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Símbolo para as teclas 123"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Symbol för 123-tangenter"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "123 விசைகளுக்கான சின்னம்"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "123 tuşları için sembol"
-          }
-        }
-      }
-    },
     "i18n.app.settings.keyboard.layout.default_currency_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9723,7 +9698,7 @@
             "value" : "Pilih simbol mata uang yang ingin ditampilkan di tombol angka."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸಂಖ್ಯಾ ಕೀಗಳ ಮೇಲೆ ಯಾವ ಕರೆನ್ಸಿ ಚಿಹ್ನೆ ಕಾಣಿಸಿಕೊಳ್ಳಬೇಕು ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ."
@@ -9767,8 +9742,105 @@
         }
       }
     },
+    "i18n.app.settings.keyboard.layout.default_currency.caption" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "رمز لمفاتيح 123"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "১২৩ কীগুলির জন্য প্রতীক"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Symbol für Nummerntasten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Symbol for the 123 keys"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Símbolo para las teclas 123"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Symbole pour les touches 123"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "123 कुंजियों के लिए प्रतीक"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Simbol untuk tombol 123"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "123 ಕೀಲಿಗಾಗಿ ಚಿಹ್ನೆ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "숫자 키 기호"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "123 किजसाठी चिन्ह"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Símbolo para as teclas 123"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Symbol för 123-tangenter"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "123 விசைகளுக்கான சின்னம்"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "123 tuşları için sembol"
+          }
+        }
+      }
+    },
     "i18n.app.settings.keyboard.layout.default_layout" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -9818,7 +9890,7 @@
             "value" : "Default keyboard"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಡೀಫಾಲ್ಟ್ ಕೀಬೋರ್ಡ್"
@@ -9862,103 +9934,9 @@
         }
       }
     },
-    "i18n.app.settings.keyboard.layout.default_layout.caption" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "التخطيط المستخدم"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ব্যবহার করার জন্য লেআউট"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Zu benutzendes Layout"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Layout to use"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Disposición de uso"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Disposition à utiliser"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "उपयोग होने वाला लेआउट"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Layout yang digunakan"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಬಳಸಬೇಕಾದ ಲೇಔಟ್"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "적용할 레이아웃"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "वापरले जाणारे लेआउट"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Layout a ser usado"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Layout som ska användas"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "பயன்படுத்த வேண்டிய தளவமைப்பு"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Kullanılacak klavye düzeni"
-          }
-        }
-      }
-    },
     "i18n.app.settings.keyboard.layout.default_layout_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -10008,7 +9986,7 @@
             "value" : "Pilih layout keyboard sesuai preferensi mengetik dan kebutuhan bahasamu."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನಿಮ್ಮ ಟೈಪಿಂಗ್ ಆದ್ಯತೆ ಮತ್ತು ಭಾಷಾ ಅಗತ್ಯಗಳಿಗೆ ಸೂಕ್ತವಾದ ಕೀಬೋರ್ಡ್ ಲೇಔಟ್ ಅನ್ನು ಆಯ್ಕೆಮಾಡಿ."
@@ -10048,6 +10026,102 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Yazma tercihlerinize ve dil ihtiyaçlarınıza uygun bir klavye düzeni seçin."
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard.layout.default_layout.caption" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "التخطيط المستخدم"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ব্যবহার করার জন্য লেআউট"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Zu benutzendes Layout"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Layout to use"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Disposición de uso"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Disposition à utiliser"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "उपयोग होने वाला लेआउट"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Layout yang digunakan"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಬಳಸಬೇಕಾದ ಲೇಔಟ್"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "적용할 레이아웃"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "वापरले जाणारे लेआउट"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Layout a ser usado"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Layout som ska användas"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "பயன்படுத்த வேண்டிய தளவமைப்பு"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Kullanılacak klavye düzeni"
           }
         }
       }
@@ -10103,7 +10177,7 @@
             "value" : "Nonaktifkan karakter aksen"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಆಕ್ಸೆಂಟ್ ಅಕ್ಷರಗಳನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
@@ -10198,7 +10272,7 @@
             "value" : "Sembunyikan karakter beraksen pada keyboard utama."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಪ್ರಾಥಮಿಕ ಕೀಬೋರ್ಡ್ ಲೇಔಟ್‌ನಲ್ಲಿ ಆಕ್ಸೆಂಟ್ ಇರುವ ಅಕ್ಷರ ಕೀಗಳನ್ನು ತೆಗೆದುಹಾಕಿ."
@@ -10293,7 +10367,7 @@
             "value" : "Titik dan koma di ABC"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ABC ನಲ್ಲಿ ಪಿರಿಯಡ್ ಮತ್ತು ಕಾಮಾ"
@@ -10388,7 +10462,7 @@
             "value" : "Sertakan tombol titik dan koma pada keyboard utama untuk kemudahan mengetik."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಅನುಕೂಲಕರ ಟೈಪಿಂಗ್‌ಗಾಗಿ ಮುಖ್ಯ ಕೀಬೋರ್ಡ್‌ನಲ್ಲಿ ಪಿರಿಯಡ್ ಮತ್ತು ಕಾಮಾ ಕೀಗಳನ್ನು ಸೇರಿಸಿ."
@@ -10483,7 +10557,7 @@
             "value" : "Tata Letak Keyboard"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಲೇಔಟ್"
@@ -10578,7 +10652,7 @@
             "value" : "Pilih keyboard terpasang"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ಕೀಬೋರ್ಡ್ ಆಯ್ಕೆಮಾಡಿ"
@@ -10701,7 +10775,7 @@
             "value" : "Pilih bahasa"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
@@ -10741,196 +10815,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Dili seçin"
-          }
-        }
-      }
-    },
-    "i18n.app.settings.keyboard.translation.select_source.caption" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ما هي اللغة المصدر"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "উৎস ভাষা কী"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Die verwendete Ausgangssprache"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "What the source language is"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "¿Cuál es idioma de origen?"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Langue source"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "स्रोत भाषा क्या है"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Apa bahasa asalnya"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಮೂಲ ಭಾಷೆ ಯಾವುದು"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "원본 언어는 무엇인가요"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "स्रोत भाषा काय आहे"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "O idioma de origem"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Vilket är källspråket"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "மூல மொழி என்ன"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Kaynak dil nedir"
-          }
-        }
-      }
-    },
-    "i18n.app.settings.keyboard.translation.select_source.title" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "لغة الترجمة"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "অনুবাদ ভাষা"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Übersetzungssprache"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Translation language"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Idioma de la traducción"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Langue de traduction"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "अनुवाद भाषा"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Bahasa terjemahan"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಅನುವಾದ ಭಾಷೆ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "번역 언어"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "अनुवाद भाषा"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Idioma da tradução"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Språk för översättning"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "மொழிபெயர்ப்பு மொழி"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Çeviri dili"
           }
         }
       }
@@ -10986,7 +10870,7 @@
             "value" : "Ubah bahasa untuk diterjemahkan dari."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಯಾವ ಭಾಷೆಯಿಂದ ಅನುವಾದಿಸಬೇಕು ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಿ."
@@ -11026,6 +10910,197 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Çevrilecek dili değiştirin."
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard.translation.select_source.caption" : {
+      "comment" : "",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ما هي اللغة المصدر"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "উৎস ভাষা কী"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Die verwendete Ausgangssprache"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "What the source language is"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "¿Cuál es idioma de origen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Langue source"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्रोत भाषा क्या है"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Apa bahasa asalnya"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಮೂಲ ಭಾಷೆ ಯಾವುದು"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "원본 언어는 무엇인가요"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्रोत भाषा काय आहे"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "O idioma de origem"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Vilket är källspråket"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "மூல மொழி என்ன"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Kaynak dil nedir"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard.translation.select_source.title" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "لغة الترجمة"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "অনুবাদ ভাষা"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Übersetzungssprache"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Translation language"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Idioma de la traducción"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Langue de traduction"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अनुवाद भाषा"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Bahasa terjemahan"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅನುವಾದ ಭಾಷೆ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "번역 언어"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अनुवाद भाषा"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Idioma da tradução"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Språk för översättning"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "மொழிபெயர்ப்பு மொழி"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Çeviri dili"
           }
         }
       }
@@ -11081,7 +11156,7 @@
             "value" : "Bahasa asal terjemahan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಅನುವಾದ ಮೂಲ ಭಾಷೆ"
@@ -11127,6 +11202,7 @@
     },
     "i18n.app.settings.menu.app_color_mode" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11176,7 +11252,7 @@
             "value" : "Mode gelap"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಡಾರ್ಕ್ ಮೋಡ್"
@@ -11222,6 +11298,7 @@
     },
     "i18n.app.settings.menu.app_color_mode_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11271,7 +11348,7 @@
             "value" : "Aktifkan mode gelap untuk tampilan aplikasi."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಅಪ್ಲಿಕೇಶನ್ ಪ್ರದರ್ಶನವನ್ನು ಡಾರ್ಕ್ ಮೋಡ್‌ಗೆ ಬದಲಾಯಿಸಿ."
@@ -11366,7 +11443,7 @@
             "value" : "Bahasa aplikasi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಆಪ್ ಭಾಷೆ"
@@ -11410,8 +11487,105 @@
         }
       }
     },
+    "i18n.app.settings.menu.app_language_description" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "تغيير اللغة التي يتم بها عرض تطبيق Scribe."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe অ্যাপ কোন ভাষায় থাকবে তা পরিবর্তন করুন।"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ändern, welche Sprache für die Scribe-App benutzt wird."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Change which language the Scribe app is in."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Cambiar el idioma de la aplicación Scribe."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Modifier la langue de l'application Scribe."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब  ऐप किस भाषा में होगा, उसे बदलें।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ubah bahasa yang digunakan pada aplikasi Scribe"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ಆಪ್ ಯಾವ ಭಾಷೆಯಲ್ಲಿ ಇರಬೇಕು ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಿ."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe 앱에서 사용할 언어를 변경합니다."
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब अ‍ॅप कोणत्या भाषेत असेल ते बदला."
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Altere o idioma do aplicativo Scribe."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ändra vilket språk Scribe-appen är på."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe பயன்பாடு எந்த மொழியில் இருக்க வேண்டும் என்பதை மாற்றவும்."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe uygulamasının hangi dilde olduğunu değiştirin."
+          }
+        }
+      }
+    },
     "i18n.app.settings.menu.app_language.caption" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11461,7 +11635,7 @@
             "value" : "Pilih bahasa untuk tampilan teks aplikasi. "
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಆಪ್ ಪಠ್ಯಗಳಿಗಾಗಿ ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
@@ -11556,7 +11730,7 @@
             "value" : "Kamu hanya memiliki satu bahasa yang terpasang di perangkatmu. Silakan pasang lebih banyak bahasa di Pengaturan dan kamu akan bisa memilih lokalisasi Scribe yang berbeda."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಕೇವಲ ಒಂದು ಭಾಷೆಯನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲಾಗಿದೆ. ದಯವಿಟ್ಟು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಹೆಚ್ಚಿನ ಭಾಷೆಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ ಮತ್ತು ನಂತರ ನೀವು Scribe ನ ವಿಭಿನ್ನ ಭಾಷೆಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಬಹುದು."
@@ -11651,7 +11825,7 @@
             "value" : "Hanya satu bahasa perangkat"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೇವಲ ಒಂದು ಸಾಧನ ಭಾಷೆ"
@@ -11695,103 +11869,9 @@
         }
       }
     },
-    "i18n.app.settings.menu.app_language_description" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "تغيير اللغة التي يتم بها عرض تطبيق Scribe."
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Scribe অ্যাপ কোন ভাষায় থাকবে তা পরিবর্তন করুন।"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Ändern, welche Sprache für die Scribe-App benutzt wird."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Change which language the Scribe app is in."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Cambiar el idioma de la aplicación Scribe."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Modifier la langue de l'application Scribe."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "स्क्राइब  ऐप किस भाषा में होगा, उसे बदलें।"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Ubah bahasa yang digunakan pada aplikasi Scribe"
-          }
-        },
-        "kan" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Scribe ಆಪ್ ಯಾವ ಭಾಷೆಯಲ್ಲಿ ಇರಬೇಕು ಎಂಬುದನ್ನು ಬದಲಾಯಿಸಿ."
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Scribe 앱에서 사용할 언어를 변경합니다."
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "स्क्राइब अ‍ॅप कोणत्या भाषेत असेल ते बदला."
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Altere o idioma do aplicativo Scribe."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Ändra vilket språk Scribe-appen är på."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Scribe பயன்பாடு எந்த மொழியில் இருக்க வேண்டும் என்பதை மாற்றவும்."
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Scribe uygulamasının hangi dilde olduğunu değiştirin."
-          }
-        }
-      }
-    },
     "i18n.app.settings.menu.high_color_contrast" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11841,7 +11921,7 @@
             "value" : "Kontras warna tinggi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಹೆಚ್ಚಿನ ಬಣ್ಣದ ಕಾಂಟ್ರಾಸ್ಟ್"
@@ -11887,6 +11967,7 @@
     },
     "i18n.app.settings.menu.high_color_contrast_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11936,7 +12017,7 @@
             "value" : "Tingkatkan kontras warna untuk kemudahan akses dan tampilan yang lebih jelas."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸುಧಾರಿತ ಪ್ರವೇಶಸಾಧ್ಯತೆ ಮತ್ತು ಸ್ಪಷ್ಟ ವೀಕ್ಷಣಾ ಅನುಭವಕ್ಕಾಗಿ ಬಣ್ಣದ ಕಾಂಟ್ರಾಸ್ಟ್ ಹೆಚ್ಚಿಸಿ."
@@ -11982,6 +12063,7 @@
     },
     "i18n.app.settings.menu.increase_text_size" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12031,7 +12113,7 @@
             "value" : "Perbesar ukuran teks app"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಆಪ್ ಪಠ್ಯ ಗಾತ್ರ ಹೆಚ್ಚಿಸಿ"
@@ -12077,6 +12159,7 @@
     },
     "i18n.app.settings.menu.increase_text_size_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12126,7 +12209,7 @@
             "value" : "Perbesar ukuran teks agar lebih mudah dibaca."
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಉತ್ತಮ ಓದಲು ಸಾಧ್ಯವಾಗುವಂತೆ ಮೆನು ಪಠ್ಯಗಳ ಗಾತ್ರವನ್ನು ಹೆಚ್ಚಿಸಿ."
@@ -12221,7 +12304,7 @@
             "value" : "Pengaturan aplikasi"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಆಪ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
@@ -12316,7 +12399,7 @@
             "value" : "Pengaturan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"
@@ -12411,7 +12494,7 @@
             "value" : "Pengaturan Terjemahan"
           }
         },
-        "kan" : {
+        "kn" : {
           "stringUnit" : {
             "state" : "",
             "value" : "ಅನುವಾದ"
