@@ -2220,97 +2220,97 @@
         }
       }
     },
-    "i18n.app.about.community.view_apps" : {
+    "i18n.app.about.community.visit_website" : {
       "comment" : "",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "عرض جميع تطبيقات Scribe"
+            "value" : "قم بزيارة موقع Scribe الإلكتروني"
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "সব Scribe অ্যাপ গুলো দেখুন"
+            "value" : "Scribe ওয়েবসাইটটি দেখুন"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Alle Scribe Apps anzeigen"
+            "value" : "Besuchen Sie die Scribe-Website"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "View all Scribe apps"
+            "value" : "Visit the Scribe website"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Ver todas las aplicaciones de Scribe"
+            "value" : "Visita el sitio web de Scribe"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Voir toutes les applications Scribe"
+            "value" : "Visitez le site web de Scribe"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "सभी स्क्राइब ऐप्स देखें"
+            "value" : "स्क्राइब वेबसाइट पर जाएँ"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Tampilkan semua aplikasi Scribe"
+            "value" : "Kunjungi situs web Scribe"
           }
         },
         "kn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ಎಲ್ಲಾ Scribe ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ"
+            "value" : "Scribe ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "모든 Scribe 앱 보러 가기"
+            "value" : "Scribe 웹사이트를 방문하세요"
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "सर्व स्क्राइब अ‍ॅप्स पहा"
+            "value" : "स्क्राइब वेबसाइटला भेट द्या"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Veja todos os aplicativos Scribe"
+            "value" : "Visite o site da Scribe"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Visa all Scribe-applikationer"
+            "value" : "Besök Scribes webbplats"
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "அனைத்து Scribe பயன்பாடுகளையும் பார்க்க"
+            "value" : "Scribe வலைத்தளத்தைப் பார்வையிடவும்"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Tüm Scribe uygulamalarını görüntüle"
+            "value" : "Scribe web sitesini ziyaret edin"
           }
         }
       }
@@ -5178,7 +5178,6 @@
     },
     "i18n.app.download.menu_option.scribe_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5274,7 +5273,6 @@
     },
     "i18n.app.download.menu_option.scribe_download_data" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5370,7 +5368,6 @@
     },
     "i18n.app.download.menu_option.scribe_title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5763,7 +5760,6 @@
     },
     "i18n.app.download.menu_ui.update_data" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5859,7 +5855,6 @@
     },
     "i18n.app.download.menu_ui.update_data.check_new" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5955,7 +5950,6 @@
     },
     "i18n.app.download.menu_ui.update_data.regular_update" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -6146,7 +6140,6 @@
     },
     "i18n.app.installation.button_quick_tutorial" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8243,6 +8236,7 @@
     },
     "i18n.app.settings.keyboard.functionality.delete_word_by_word" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8338,6 +8332,7 @@
     },
     "i18n.app.settings.keyboard.functionality.delete_word_by_word_description" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
