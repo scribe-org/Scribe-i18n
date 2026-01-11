@@ -3,9 +3,8 @@
 #
 # - pip-compile --rebuild requirements-dev.in
 #
-# Make sure we use production deps for constraining installed dev packages. This
-# is important as otherwise we could be running tests with different versions
-# than production.
+# To update dependencies, please run the following in the project root:
+# - pip-compile --upgrade requirements-dev.in
 
 i18n-check
 pip-tools
