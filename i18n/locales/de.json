@@ -16,6 +16,7 @@
   "i18n.app._global.german": "Deutsch",
   "i18n.app._global.indonesian": "Indonesisch",
   "i18n.app._global.italian": "Italienisch",
+  "i18n.app._global.norwegian": "Norwegisch",
   "i18n.app._global.portuguese": "Portugiesisch",
   "i18n.app._global.russian": "Russisch",
   "i18n.app._global.spanish": "Spanisch",
@@ -142,5 +143,7 @@
   "i18n.components._global.documentation": "Dokumentation",
   "i18n.components._global.github": "GitHub",
   "i18n.components._global.mastodon": "Mastodon",
-  "i18n.components._global.matrix": "Matrix"
+  "i18n.components._global.matrix": "Matrix",
+  "i18n.components.landing_tech_banner.open_header": "Offen",
+  "i18n.components.landing_tech_banner.open_source_tagline": "Unser Code und unsere Prozesse"
 }
