@@ -1166,6 +1166,12 @@
     "i18n.app._global.norwegian" : {
       "comment" : "",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Norwegisch"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5463,7 +5469,6 @@
     },
     "i18n.app.download.menu_ui.download_data.all_languages" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5559,7 +5564,6 @@
     },
     "i18n.app.download.menu_ui.download_data.downloading" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -5577,7 +5581,6 @@
     },
     "i18n.app.download.menu_ui.download_data.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5673,7 +5676,6 @@
     },
     "i18n.app.download.menu_ui.download_data.up_to_date" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -5703,7 +5705,6 @@
     },
     "i18n.app.download.menu_ui.no_keyboards_installed" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -11006,7 +11007,6 @@
     },
     "i18n.app.settings.keyboard.translation.select_source.title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
