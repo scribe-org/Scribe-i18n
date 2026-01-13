@@ -211,6 +211,18 @@ git submodule add https://github.com/scribe-org/Scribe-i18n <submodule-directory
 
 In the command, the value for `<submodule-directory>` is a directory within the repo structure of the project. Which directory to use will be dependent on the stack of the project and how i18n files will be consumed. Typically, this is the path for a directory named `Scribe-i18n` that will be created somewhere in the repo structure upon command execution. Refer to documentation of the tool that will consume the i18n files to determine what it should be.
 
+Other Git commands for Scribe-i18n include:
+
+```bash
+# To pull new Scribe-i18n changes in:
+cd <submodule-directory>
+git pull origin main
+
+# Get version of Scribe-i18n on main:
+cd <project-root>
+git submodule update --init --recursive
+```
+
 <a id="check-files"></a>
 
 ## Check Files [`⇧`](#contents)

@@ -16,6 +16,7 @@
   "i18n.app._global.german": "Deutsch",
   "i18n.app._global.indonesian": "Indonesisch",
   "i18n.app._global.italian": "Italienisch",
+  "i18n.app._global.norwegian": "Norwegisch",
   "i18n.app._global.portuguese": "Portugiesisch",
   "i18n.app._global.russian": "Russisch",
   "i18n.app._global.spanish": "Spanisch",
@@ -27,7 +28,7 @@
   "i18n.app.about.community.share_conjugate": "Scribe Conjugate teilen",
   "i18n.app.about.community.share_scribe": "Scribe teilen",
   "i18n.app.about.community.title": "Community",
-  "i18n.app.about.community.view_apps": "Alle Scribe Apps anzeigen",
+  "i18n.app.about.community.visit_website": "Besuchen Sie die Scribe-Website",
   "i18n.app.about.community.wikimedia": "Wikimedia und Scribe",
   "i18n.app.about.community.wikimedia.caption": "Wie wir zusammenarbeiten",
   "i18n.app.about.community.wikimedia.text_1": "Scribe wäre ohne die etlichen Mitwirkungen von Wikimedia Mitwirkenden, den Projekten, die sie unterstützen, gegenüber, nicht möglich. Scribe benutzt Daten der Lexikografischen Datencommunity in Wikidata, sowie solche von Wikipedia für jede von Scribe unterstützte Sprache.",
@@ -142,5 +143,7 @@
   "i18n.components._global.documentation": "Dokumentation",
   "i18n.components._global.github": "GitHub",
   "i18n.components._global.mastodon": "Mastodon",
-  "i18n.components._global.matrix": "Matrix"
+  "i18n.components._global.matrix": "Matrix",
+  "i18n.components.landing_tech_banner.open_header": "Offen",
+  "i18n.components.landing_tech_banner.open_source_tagline": "Unser Code und unsere Prozesse"
 }
