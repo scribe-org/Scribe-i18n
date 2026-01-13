@@ -8237,7 +8237,6 @@
     },
     "i18n.app.settings.keyboard.functionality.delete_word_by_word" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -8333,7 +8332,6 @@
     },
     "i18n.app.settings.keyboard.functionality.delete_word_by_word_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
