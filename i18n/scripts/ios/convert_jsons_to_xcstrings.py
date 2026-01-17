@@ -7,10 +7,10 @@ Usage:
     python3 i18n/scripts/ios/convert_jsons_to_xcstrings.py
 """
 
+import glob
 import json
 import os
 import re
-import glob
 
 directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -18,11 +18,14 @@ directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fi
 locales_folder = os.path.join(directory, "locales")
 
 if not os.path.exists(locales_folder):
-    print(f"Error: The folder '{locales_folder}' does not exist. Please ensure the path is correct.")
+    print(
+        f"Error: The folder '{locales_folder}' does not exist. Please ensure the path is correct."
+    )
     exit(1)
 
 # Define the path to Scribe-iOS root (go up from i18n/i18n/scripts/ios to reach Scribe-iOS).
 scribe_ios_root = os.path.abspath(os.path.join(directory, "..", "..", ".."))
+
 
 def find_used_keys(root_path: os.path.abspath):
     """
@@ -39,7 +42,7 @@ def find_used_keys(root_path: os.path.abspath):
 
     for filepath in swift_files:
         try:
-            with open(filepath, 'r', encoding='utf-8') as f:
+            with open(filepath, "r", encoding="utf-8") as f:
                 content = f.read()
                 # Find all strings that look like i18n keys.
                 matches = re.findall(r'["\'](i18n\.[^"\']+)["\']', content)
@@ -96,7 +99,11 @@ for key in base_language_data:
         strings[key] = {"comment": "", "localizations": language}
 
     else:
-        strings[key] = {"comment": "", "extractionState": "stale", "localizations": language}
+        strings[key] = {
+            "comment": "",
+            "extractionState": "stale",
+            "localizations": language,
+        }
 
 
 # Sort using a custom key to match iOS/Xcode localized sorting.
@@ -107,8 +114,9 @@ sorted_strings = {
 data |= {"strings": sorted_strings, "version": "1.0"}
 
 with open(os.path.join(directory, "Localizable.xcstrings"), "w") as xcstrings_file:
-    json.dump(data, xcstrings_file, indent=2, ensure_ascii=False, separators=(",", " : "))
-    xcstrings_file.write("\n")
+    json.dump(
+        data, xcstrings_file, indent=2, ensure_ascii=False, separators=(",", " : ")
+    )
 
 print(
     "Scribe-i18n localization JSON files successfully converted to the Localizable.xcstrings file."
