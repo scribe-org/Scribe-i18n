@@ -95,6 +95,12 @@
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Blog-Beiträge"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",

@@ -6,7 +6,6 @@ Usage:
     python3 i18n/scripts/ios/convert_xcstrings_to_jsons.py
 """
 
-
 import json
 import os
 

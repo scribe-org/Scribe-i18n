@@ -6,8 +6,8 @@ Usage:
     python3 i18n/scripts/android/convert_strings_to_json.py
 """
 
-import os
 import json
+import os
 import re
 
 
@@ -39,7 +39,9 @@ regex = re.compile(r'<string name="(.*?)">(.*?)</string>', re.DOTALL)
 
 values_directory = os.path.join(directory, "values")
 if not os.path.exists(values_directory):
-    print(f"Error: The folder '{values_directory}' does not exist. Please ensure the path is correct.")
+    print(
+        f"Error: The folder '{values_directory}' does not exist. Please ensure the path is correct."
+    )
     exit(1)
 
 for lang in languages:
@@ -53,7 +55,9 @@ for lang in languages:
         exit(1)
 
     except Exception as e:
-        print(f"Error: An unexpected error occurred while writing to ' {path}/string.xml: {e}")
+        print(
+            f"Error: An unexpected error occurred while writing to ' {path}/string.xml: {e}"
+        )
         exit(1)
 
     matches = regex.findall(content)
@@ -69,11 +73,15 @@ for lang in languages:
             json_file.write("\n")
 
     except FileNotFoundError:
-        print(f"Error: The folder '{locales_folder}' does not exist or cannot be accessed for writing.")
+        print(
+            f"Error: The folder '{locales_folder}' does not exist or cannot be accessed for writing."
+        )
         exit(1)
 
     except Exception as e:
-        print(f"Error: An unexpected error occurred while writing to '{locales_folder}/{lang}.json: {e}")
+        print(
+            f"Error: An unexpected error occurred while writing to '{locales_folder}/{lang}.json: {e}"
+        )
         exit(1)
 
 print(

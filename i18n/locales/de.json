@@ -2,6 +2,7 @@
   "i18n._global.about_scribe": "Über Scribe",
   "i18n._global.android_changelog": "Android-Änderungsprotokoll",
   "i18n._global.available_data": "Verfügbare Daten",
+  "i18n._global.blog_posts": "Blog-Beiträge",
   "i18n._global.changelog": "Änderungsprotokoll",
   "i18n._global.data_server": "Datenserver",
   "i18n._global.ios_changelog": "iOS-Änderungsprotokoll",
@@ -145,5 +146,9 @@
   "i18n.components._global.mastodon": "Mastodon",
   "i18n.components._global.matrix": "Matrix",
   "i18n.components.landing_tech_banner.open_header": "Offen",
-  "i18n.components.landing_tech_banner.open_source_tagline": "Unser Code und unsere Prozesse"
+  "i18n.components.landing_tech_banner.open_source_tagline": "Unser Code und unsere Prozesse",
+  "i18n.pages._global.our_supporters": "Unsere Unterstützer",
+  "i18n.pages.docs._global.changelog.error": "Fehler: {error}",
+  "i18n.pages.docs._global.changelog.loading_changelog": "Änderungsprotokoll wird geladen...",
+  "i18n.pages.docs._global.learn_more.key_features": "Wichtigste Merkmale"
 }

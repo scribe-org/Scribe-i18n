@@ -6,8 +6,8 @@ Usage:
     python3 i18n/scripts/android/convert_jsons_to_strings.py
 """
 
-import os
 import json
+import os
 import shutil
 
 
@@ -29,7 +29,9 @@ directory = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fi
 locales_folder = os.path.join(directory, "locales")
 
 if not os.path.exists(locales_folder):
-    print(f"Error: The folder '{locales_folder}' does not exist. Please ensure the path is correct.")
+    print(
+        f"Error: The folder '{locales_folder}' does not exist. Please ensure the path is correct."
+    )
     exit(1)
 
 json_dir_list = os.listdir(locales_folder)
@@ -77,6 +79,10 @@ for k in locale_mirror_dict:
 
     if os.path.exists(src):
         shutil.copytree(src, dst, dirs_exist_ok=True)
-        print(f"Identified '{k}' locale; mirrored to '{locale_mirror_dict[k]}' for Android compatibility.")
+        print(
+            f"Identified '{k}' locale; mirrored to '{locale_mirror_dict[k]}' for Android compatibility."
+        )
 
-print("Scribe-i18n localization JSON files successfully converted to the strings files.")
+print(
+    "Scribe-i18n localization JSON files successfully converted to the strings files."
+)
