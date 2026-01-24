@@ -1,0 +1,18 @@
+[project]
+name = "Scribe-i18n"
+version = "1.0.0"
+description = "Application text localization files for Scribe apps"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    # Keep docs dependencies formatted in this way with ruff to allow for upgrades via VS Code extension.
+    "i18n-check>=1.18.0",
+    "pre-commit>=4.5.1",
+]
+
+[project.urls]
+Homepage = "https://github.com/scribe-org/Scribe-i18n"

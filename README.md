@@ -70,7 +70,6 @@ The [issue tracker for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/is
 [Weblate](https://weblate.org/en/) localization is as easy as making an account and jumping into the Scribe-i18n project!
 
 1. First [register at Weblate](https://hosted.weblate.org/accounts/register/) (you can also authenticate with GitHub or other accounts)
-
    - We suggest that you do link your GitHub account so you get credit for the localization commits!
 
 2. Navigate to the Scribe-i18n project at [weblate.org/projects/scribe/scribe-i18n](https://hosted.weblate.org/projects/scribe/scribe-i18n)
@@ -78,7 +77,6 @@ The [issue tracker for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/is
 3. Click on a language you want to start translating
 
 4. You can browse the available strings or start translating directly
-
    - When translating a word, be sure to check the glossary context if you're not sure what the string's use is
 
    - You can also make use of Automatic suggestions to see machine translations if you need help
@@ -86,11 +84,9 @@ The [issue tracker for Scribe-i18n](https://github.com/scribe-org/Scribe-i18n/is
 5. Hit `Save and continue` when you're ready to move to the next string
 
 6. Maintainers will open up pull requests from [Weblate](https://weblate.org/en/) to the Scribe-i18n repo to bring in the new strings
-
    - Changes are also automatically sent every 24 hours
 
 7. Scribe-i18n directories that are [Git submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules) in other Scribe application repos are then synched. For each project using Scribe-i18n:
-
    - Navigate to the root of the Scribe project's repo
    - To load into the project the latest Scribe-i18n updates, run the following - where `<submodule-directory>` is the directory within the repo structure with the Scribe-i18n submodule:
 
@@ -229,35 +225,37 @@ git submodule update --init --recursive
 
 The following sets up the [i18n-check](https://github.com/activist-org/i18n-check) based validation for your local copy of Scribe-i18n:
 
-- Create a virtual environment for the developer tools, activate it and install dependencies:
+- Create a virtual environment for i18n-check (Python `>=3.12`), activate it and install dependencies:
+
+  > [!NOTE]
+  > First, install `uv` if you don't already have it by following the [official installation guide](https://docs.astral.sh/uv/getting-started/installation/).
 
   ```bash
-  # Unix or MacOS:
-  python3 -m venv venv
-  source venv/bin/activate
+  uv sync --all-extras  # create .venv and install all dependencies from uv.lock
+
+  # Unix or macOS:
+  source .venv/bin/activate
 
   # Windows:
-  python -m venv venv
-  venv\Scripts\activate.bat
-
-  # After activating venv:
-  pip install --upgrade pip
-  pip install -r requirements-dev.txt
+  .venv\Scripts\activate.bat  # .venv\Scripts\activate.ps1 (PowerShell)
   ```
 
 - You can now run [i18n-check](https://github.com/activist-org/i18n-check) checks to validate the localization files (see [.i18n-check.yaml](./.i18n-check.yaml) for the enabled checks):
 
   ```bash
-  i18n-check --all  # (-a)
-  i18n-check --all --fix # (-a -f)
+  uv run i18n-check --all  # (-a)
+  uv run i18n-check --all --fix # (-a -f)
   ```
 
 - And finally you can enable the [pre-commit](https://pre-commit.com/) hooks to ensure that each of your commits is properly checked
 
   ```bash
   pre-commit install
-  pre-commit run --all-files
+  # uv run pre-commit run --all-files  # lint and fix common problems in the codebase
   ```
+
+> [!NOTE]
+> Feel free to contact the team in the [i18n room on Matrix](https://matrix.to/#/#scribe-localization:matrix.org) if you're having problems getting your environment setup!
 
 <a id="community"></a>
 
