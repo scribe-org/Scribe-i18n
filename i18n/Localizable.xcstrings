@@ -17,6 +17,12 @@
             "value" : "Über Scribe"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Σχετικά με το Scribe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -65,6 +71,12 @@
             "value" : "Android-Änderungsprotokoll"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ιστορικό αλλαγών Android"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -81,6 +93,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Verfügbare Daten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Διαθέσιμα Δεδομένα"
           }
         },
         "en" : {
@@ -101,6 +119,12 @@
             "value" : "Blog-Beiträge"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αναρτήσεις Ιστολογίου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -119,6 +143,12 @@
             "value" : "Änderungsprotokoll"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ιστορικό αλλαγών"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -131,6 +161,12 @@
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εφαρμογές Κλίσης Ρημάτων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -143,6 +179,12 @@
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εξαγωγή Δεδομένων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -191,6 +233,12 @@
             "value" : "Datenserver"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Διακομιστής Δεδομένων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -207,6 +255,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "ইমপ্রিন্ট"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Στοιχεία Εκδότη"
           }
         },
         "en" : {
@@ -257,6 +311,12 @@
             "value" : "iOS-Änderungsprotokoll"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ιστορικό αλλαγών iOS"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -269,6 +329,12 @@
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εφαρμογές Πληκτρολογίου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -291,6 +357,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Mehr erfahren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Μάθετε Περισσότερα"
           }
         },
         "en" : {
@@ -350,6 +422,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Rechtliches"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Νομικά"
           }
         },
         "en" : {
@@ -430,6 +508,12 @@
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Η Κοινότητά μας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -457,6 +541,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Datenschutzrichtlinie"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Πολιτική Απορρήτου"
           }
         },
         "en" : {
@@ -561,6 +651,12 @@
             "value" : "Scribe unterstützen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Υποστηρίξτε το Scribe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -583,6 +679,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Unterstützer"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Υποστηρικτές"
           }
         },
         "en" : {
@@ -631,6 +733,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "ট্রেডমার্ক নীতি"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Πολιτική Εμπορικών Σημάτων"
           }
         },
         "en" : {
@@ -690,6 +798,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Daten herunterladen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Λήψη δεδομένων"
           }
         },
         "en" : {
@@ -787,6 +901,12 @@
             "value" : "Englisch"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αγγλικά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -880,6 +1000,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Französisch"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γαλλικά"
           }
         },
         "en" : {
@@ -977,6 +1103,12 @@
             "value" : "Deutsch"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γερμανικά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -1060,6 +1192,12 @@
             "value" : "Indonesisch"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ινδονησιακά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -1093,6 +1231,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Italienisch"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ιταλικά"
           }
         },
         "en" : {
@@ -1178,6 +1322,12 @@
             "value" : "Norwegisch"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Νορβηγικά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -1205,6 +1355,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Portugiesisch"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Πορτογαλικά"
           }
         },
         "en" : {
@@ -1302,6 +1458,12 @@
             "value" : "Russisch"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ρωσικά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -1395,6 +1557,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Spanisch"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ισπανικά"
           }
         },
         "en" : {
@@ -1492,6 +1660,12 @@
             "value" : "Schwedisch"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Σουηδικά"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -1585,6 +1759,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Hier kannst du mehr über Scribe und seine Community erfahren."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εδώ μπορείτε να μάθετε περισσότερα για το Scribe και την κοινότητά του."
           }
         },
         "en" : {
@@ -1682,6 +1862,12 @@
             "value" : "Den Code auf GitHub ansehen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Δείτε τον κώδικα στο GitHub"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -1777,6 +1963,12 @@
             "value" : "Folge uns auf Mastodon"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ακολουθήστε μας στο Mastodon"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -1870,6 +2062,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Chatte mit dem Team auf Matrix"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Μιλήστε με την ομάδα στο Matrix"
           }
         },
         "en" : {
@@ -1968,6 +2166,12 @@
             "value" : "Scribe Conjugate teilen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Μοιραστείτε το Scribe Conjugate"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -2061,6 +2265,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe teilen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Μοιραστείτε το Scribe"
           }
         },
         "en" : {
@@ -2158,6 +2368,12 @@
             "value" : "Community"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Κοινότητα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -2251,6 +2467,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Besuchen Sie die Scribe-Website"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επισκεφθείτε την ιστοσελίδα του Scribe"
           }
         },
         "en" : {
@@ -2348,6 +2570,12 @@
             "value" : "Wikimedia und Scribe"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wikimedia και Scribe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -2441,6 +2669,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Wie wir zusammenarbeiten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Πώς συνεργαζόμαστε"
           }
         },
         "en" : {
@@ -2538,6 +2772,12 @@
             "value" : "Scribe wäre ohne die etlichen Mitwirkungen von Wikimedia Mitwirkenden, den Projekten, die sie unterstützen, gegenüber, nicht möglich. Scribe benutzt Daten der Lexikografischen Datencommunity in Wikidata, sowie solche von Wikipedia für jede von Scribe unterstützte Sprache."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Το Scribe δεν θα ήταν δυνατό χωρίς τις αμέτρητες συνεισφορές των εθελοντών του Wikimedia στα πολλά έργα που υποστηρίζουν. Το Scribe χρησιμοποιεί δεδομένα από την κοινότητα λεξικογραφικών δεδομένων των Wikidata, καθώς και δεδομένα από τη Wikipedia για κάθε γλώσσα που υποστηρίζει το Scribe."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -2631,6 +2871,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Wikidata ist ein kollaborativ gestalteter, mehrsprachiger Wissensgraf, der von der Wikimedia Foundation gehostet wird. Sie stellt frei verfügbare Daten, die unter einer Creative Commons Public Domain Lizenz (CC0) stehen, zur Verfügung. Scribe benutzt Sprachdaten von Wikidata, um Nutzern Verbkonjugationen, Kasusannotationen, Plurale und viele andere Funktionen zu bieten."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Τα Wikidata είναι ένα πολύγλωσσο γράφημα γνώσης που επεξεργάζεται συνεργατικά και φιλοξενείται από το Wikimedia Foundation. Παρέχει ελεύθερα διαθέσιμα δεδομένα που ο καθένας μπορεί να χρησιμοποιήσει υπό την άδεια Creative Commons Public Domain (CC0). Το Scribe χρησιμοποιεί γλωσσικά δεδομένα από τα Wikidata για να παρέχει στους χρήστες κλίσεις ρημάτων, σχολιασμούς μορφών ουσιαστικών, πληθυντικούς και πολλές άλλες λειτουργίες."
           }
         },
         "en" : {
@@ -2728,6 +2974,12 @@
             "value" : "Wikipedia ist eine mehrsprachige, freie, Online-Enzyklopädie, die von einer Community an Freiwilligen durch offene Kollaboration und einem Wiki-basierten Bearbeitungssystem geschrieben und aufrechterhalten wird. Scribe nutzt Wikipedia-Daten, um automatische Empfehlungen zu erstellen, indem die häufigsten Wörter und Folgewörter einer Sprache erlangt werden."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Η Wikipedia είναι μια πολύγλωσση δωρεάν διαδικτυακή εγκυκλοπαίδεια που γράφεται και συντηρείται από μια κοινότητα εθελοντών μέσω ανοιχτής συνεργασίας. Το Scribe χρησιμοποιεί δεδομένα από τη Wikipedia για να παράγει αυτόματες προτάσεις, αντλώντας τις πιο κοινές λέξεις σε μια γλώσσα καθώς και τις πιο κοινές λέξεις που τις ακολουθούν."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -2821,6 +3073,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Bug melden"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αναφορά σφάλματος"
           }
         },
         "en" : {
@@ -2919,6 +3177,12 @@
             "value" : "Scribe Conjugate bewerten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αξιολογήστε το Scribe Conjugate"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -3012,6 +3276,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe bewerten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αξιολογήστε το Scribe"
           }
         },
         "en" : {
@@ -3109,6 +3379,12 @@
             "value" : "App-Hinweise zurücksetzen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επαναφορά υποδείξεων εφαρμογής"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -3202,6 +3478,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Schicke uns eine E-Mail"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Στείλτε μας email"
           }
         },
         "en" : {
@@ -3299,6 +3581,12 @@
             "value" : "Feedback und Support"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Σχόλια και υποστήριξη"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -3392,6 +3680,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Version"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Έκδοση"
           }
         },
         "en" : {
@@ -3489,6 +3783,12 @@
             "value" : "Wir sorgen für Ihre Sicherheit"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Κρατώντας σας ασφαλείς"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -3582,6 +3882,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Bitte beachten Sie, dass die englische Version dieser Richtlinie Vorrang vor allen anderen Versionen hat.\n\nDie Scribe-Entwickler (SCRIBE) haben die iOS-App „Scribe – Language Keyboards“ (SERVICE) als Open-Source-App entwickelt. Dieser DIENST wird von SCRIBE kostenlos zur Verfügung gestellt und ist zur Verwendung so wie er ist bestimmt.\n\nDiese Datenschutzrichtlinie (RICHTLINIE) dient dazu, den Leser über die Bedingungen für den Zugriff auf, sowie die Verfolgung, Erfassung, Aufbewahrung, Verwendung und Offenlegung von persönlichen Informationen (NUTZERINFORMATIONEN) und Nutzungsdaten (NUTZERDATEN) aller Benutzer (NUTZER) dieses DIENSTES aufzuklären.\n\nNUTZERINFORMATIONEN sind insbesondere alle Informationen, die sich auf die NUTZER selbst oder die Geräte beziehen, die sie für den Zugriff auf den DIENST verwenden.\n\nNUTZERDATEN sind definiert als eingegebener Text oder Aktionen, die von den NUTZERN während der Nutzung des DIENSTES ausgeführt werden.\n\n1. Grundsatzerklärung\n\nDieser DIENST greift nicht auf NUTZERINFORMATIONEN oder NUTZERDATEN zu und verfolgt, sammelt, speichert, verwendet und gibt keine NUTZERDATEN weiter.\n\n2. Do Not Track\n\nNUTZER, die SCRIBE kontaktieren, um zu verlangen, dass ihre NUTZERINFORMATIONEN und NUTZERDATEN nicht verfolgt werden, erhalten eine Kopie dieser RICHTLINIE sowie einen Link zu allen Quellcodes als Nachweis, dass sie nicht verfolgt werden.\n\n3. Daten von Drittanbietern\n\nDieser DIENST verwendet Daten von Drittanbietern. Alle Daten, die bei der Erstellung dieses DIENSTES verwendet werden, stammen aus Quellen, die ihre vollständige Nutzung in der vom DIENST durchgeführten Weise ermöglichen. Primär stammen die Daten für diesen DIENST von Wikidata, Wikipedia und Unicode. Wikidata erklärt: „Alle strukturierten Daten in den Haupt-, Eigenschafts- und Lexem-Namespaces werden unter der Creative Commons CC0-Lizenz verfügbar gemacht; Text in anderen Namespaces wird unter der Creative Commons Attribution Share-Alike Lizenz verfügbar gemacht.“ Die Wikidata-Richtlinie zur Verwendung von Daten ist unter https://www.wikidata.org/wiki/Wikidata:Licensing zu finden. Wikipedia gibt an, dass Texte, also die Daten, die vom DIENST verwendet werden, „… unter den Bedingungen der Creative Commons Attribution Share-Alike Lizenz verwendet werden können“. Die Wikipedia-Richtlinie zur Verwendung von Daten ist unter https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content zu finden. Unicode gewährt die Erlaubnis, „… kostenlos, für alle Inhaber einer Kopie der Unicode-Daten und der zugehörigen Dokumentation (der „Data Files“) oder der Unicode-Software und der zugehörigen Dokumentation (der „Software“), die Data Files oder Software ohne Einschränkung zu verwenden …“ Die Unicode-Richtlinie zur Verwendung von Daten ist unter https://www.unicode.org/license.txt zu finden.\n\n4. Quellcode von Drittanbietern\n\nDieser DIENST basiert auf Code von Dritten. Der gesamte bei der Erstellung dieses DIENSTES verwendete Quellcode stammt von Quellen, die ihre Nutzung in der vom DIENST durchgeführten Weise gestatten. Grundlage dieses Projekts war im Besonderen das Projekt Custom Keyboard von Ethan Sarif-Kattan. Custom Keyboard wurde unter der MIT-Lizenz veröffentlicht, welche unter https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE abrufbar ist.\n\n5. Dienste von Drittanbietern\n\nDieser DIENST nutzt Drittanbieterdienste, um einige der Daten von Drittanbietern zu modifizieren. Namentlich wurden Daten unter Verwendung von Modellen von Hugging Face’ Transformers übersetzt. Dieser Dienst ist durch eine Apache 2.0 Lizenz abgedeckt, die besagt, dass er für die kommerzielle Nutzung, Änderung, Verteilung, Patent- und private Nutzung verfügbar ist. Die Lizenz für den oben genannten Dienst finden Sie unter https://github.com/huggingface/transformers/blob/master/LICENSE.\n\n6. Links zu Drittanbietern\n\nDieser DIENST enthält Links zu externen Webseiten. Wenn NUTZER auf einen Link eines Drittanbieters klicken, werden sie auf eine Webseite weitergeleitet. Beachten Sie, dass diese externen Websites nicht von diesem DIENST betrieben werden. Daher wird NUTZERN dringend empfohlen, die Datenschutzrichtlinie dieser Webseiten zu lesen. Dieser DIENST hat keine Kontrolle über und übernimmt keine Haftung für Inhalte, Datenschutzrichtlinien oder Praktiken von Webseiten oder Diensten Dritter.\n\n7. Bilder von Drittanbietern\n\nDieser SERVICE enthält Bilder, die von Dritten urheberrechtlich geschützt sind. Insbesondere enthält diese App eine Kopie der Logos von GitHub, Inc. und Wikidata, Warenzeichen von Wikimedia Foundation, Inc. Die Bedingungen, unter denen das GitHub-Logo verwendet werden kann, ist unter https://github.com/logo abrufbar. Die Bedingungen für das Wikidata-Logo ist zu finden auf der folgenden Wikimedia-Seite: https://foundation.wikimedia.org/wiki/Policy:Trademark_policy. Dieser DIENST verwendet die urheberrechtlich geschützten Bilder in einer Weise, die diesen Kriterien entspricht, wobei die einzige Abweichung eine rotierte Version des GitHub-Logos ist, was in der Open-Source-Community üblich ist, um einen Link zur GitHub-Website darzustellen.\n\n8. Inhaltshinweis\n\nDieser DIENST ermöglicht NUTZERN den Zugriff auf sprachliche Inhalte (INHALTE). Einige dieser INHALTE könnten für Kinder und Minderjährige als ungeeignet eingestuft werden. Der Zugriff auf INHALTE über den DIENST erfolgt auf eine Weise, in der die Informationen nur bekannt sind, wenn diese ausdrücklich angefragt werden. Speziell können NUTZER Wörter übersetzen, Verben konjugieren und auf andere grammatikalische Merkmale von INHALTEN zugreifen, die sexueller, gewalttätiger oder anderweitig nicht altersgerechter Natur sein können. NUTZER können keine Wörter übersetzen, Verben konjugieren und auf andere grammatikalische Merkmale von INHALTEN zugreifen, die sexueller, gewalttätiger oder anderweitig nicht altersgerechter Natur sein können, wenn sie nicht bereits über diese Art INHALTE Bescheid wissen. SCRIBE übernimmt keine Haftung für den Zugriff auf solche INHALTE.\n\n9. Änderungen\n\nDer DIENST behält sich Änderungen dieser RICHTLINIE vor. Aktualisierungen dieser RICHTLINIE ersetzen alle vorherigen Versionen, und werden, wenn sie als wesentlich erachtet werden, in der nächsten anwendbaren Aktualisierung des DIENSTES deutlich aufgeführt. SCRIBE animiert NUTZER dazu, diese RICHTLINIE regelmäßig auf die neuesten Informationen zu unseren Datenschutzpraktiken zu prüfen und sich mit etwaigen Änderungen vertraut zu machen.\n\n10. Kontakt\n\nWenn Sie Fragen, Bedenken oder Vorschläge zu dieser RICHTLINIE haben, zögern Sie nicht, https://github.com/scribe-org zu besuchen oder SCRIBE unter security[at]scri.be zu kontaktieren. Verantwortlich für solche Anfragen ist Andrew Tavis McAllister.\n\n11. Datum des Inkrafttretens\n\nDiese RICHTLINIE tritt am 24. Mai 2022 in Kraft."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Παρακαλούμε σημειώστε ότι η αγγλική έκδοση αυτής της πολιτικής υπερισχύει όλων των άλλων εκδόσεων.\n\nΟι προγραμματιστές του Scribe (SCRIBE) δημιούργησαν την εφαρμογή iOS \"Scribe - Language Keyboards\" (ΥΠΗΡΕΣΙΑ) ως εφαρμογή ανοιχτού κώδικα. Αυτή η ΥΠΗΡΕΣΙΑ παρέχεται από το SCRIBE χωρίς κόστος και προορίζεται για χρήση ως έχει.\n\nΑυτή η πολιτική απορρήτου (ΠΟΛΙΤΙΚΗ) χρησιμοποιείται για να ενημερώσει τον αναγνώστη σχετικά με τις πολιτικές πρόσβασης, παρακολούθησης, συλλογής, διατήρησης, χρήσης και αποκάλυψης προσωπικών πληροφοριών (ΠΛΗΡΟΦΟΡΙΕΣ ΧΡΗΣΤΗ) και δεδομένων χρήσης (ΔΕΔΟΜΕΝΑ ΧΡΗΣΤΗ) για όλα τα άτομα που κάνουν χρήση αυτής της ΥΠΗΡΕΣΙΑΣ (ΧΡΗΣΤΕΣ).\n\nΟι ΠΛΗΡΟΦΟΡΙΕΣ ΧΡΗΣΤΗ ορίζονται συγκεκριμένα ως οποιαδήποτε πληροφορία σχετίζεται με τους ίδιους τους ΧΡΗΣΤΕΣ ή τις συσκευές που χρησιμοποιούν για πρόσβαση στην ΥΠΗΡΕΣΙΑ.\n\nΤα ΔΕΔΟΜΕΝΑ ΧΡΗΣΤΗ ορίζονται συγκεκριμένα ως οποιοδήποτε κείμενο πληκτρολογείται ή ενέργειες που γίνονται από τους ΧΡΗΣΤΕΣ κατά τη χρήση της ΥΠΗΡΕΣΙΑΣ.\n\n1. Δήλωση Πολιτικής\n\nΑυτή η ΥΠΗΡΕΣΙΑ δεν αποκτά πρόσβαση, δεν παρακολουθεί, δεν συλλέγει, δεν διατηρεί, δεν χρησιμοποιεί και δεν αποκαλύπτει καμία ΠΛΗΡΟΦΟΡΙΑ ΧΡΗΣΤΗ ή ΔΕΔΟΜΕΝΑ ΧΡΗΣΤΗ.\n\n2. Μη Παρακολούθηση (Do Not Track)\n\nΣτους ΧΡΗΣΤΕΣ που επικοινωνούν με το SCRIBE ζητώντας να μην παρακολουθούνται οι ΠΛΗΡΟΦΟΡΙΕΣ ΧΡΗΣΤΗ και τα ΔΕΔΟΜΕΝΑ ΧΡΗΣΤΗ τους, θα παρέχεται αντίγραφο αυτής της ΠΟΛΙΤΙΚΗΣ καθώς και σύνδεσμος προς όλους τους πηγαίους κώδικες ως απόδειξη ότι δεν παρακολουθούνται.\n\n3. Δεδομένα Τρίτων\n\nΑυτή η ΥΠΗΡΕΣΙΑ κάνει χρήση δεδομένων τρίτων. Όλα τα δεδομένα που χρησιμοποιούνται στη δημιουργία αυτής της ΥΠΗΡΕΣΙΑΣ προέρχονται από πηγές που επιτρέπουν την πλήρη χρήση τους με τον τρόπο που γίνεται από την ΥΠΗΡΕΣΙΑ. Συγκεκριμένα, τα δεδομένα για αυτήν την ΥΠΗΡΕΣΙΑ προέρχονται από τα Wikidata, τη Wikipedia και το Unicode. Τα Wikidata δηλώνουν ότι \"Όλα τα δομημένα δεδομένα στους κύριους χώρους ονομάτων, ιδιοτήτων και λεξημάτων διατίθενται υπό την άδεια Creative Commons CC0. Το κείμενο σε άλλους χώρους ονομάτων διατίθεται υπό την άδεια Creative Commons Attribution-Share Alike.\" Η πολιτική που περιγράφει τη χρήση δεδομένων Wikidata βρίσκεται στη διεύθυνση https://www.wikidata.org/wiki/Wikidata:Licensing. Η Wikipedia δηλώνει ότι τα δεδομένα κειμένου, ο τύπος δεδομένων που χρησιμοποιείται από την ΥΠΗΡΕΣΙΑ, \"… μπορούν να χρησιμοποιηθούν υπό τους όρους της άδειας Creative Commons Attribution Share-Alike\". Η πολιτική που περιγράφει τη χρήση δεδομένων Wikipedia βρίσκεται στη διεύθυνση https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content. Το Unicode παρέχει άδεια, \"… δωρεάν, σε οποιοδήποτε πρόσωπο αποκτά αντίγραφο των αρχείων δεδομένων Unicode και τυχόν σχετικής τεκμηρίωσης (τα \"Αρχεία Δεδομένων\") ή λογισμικού Unicode και τυχόν σχετικής τεκμηρίωσης (το \"Λογισμικό\") να διαχειρίζεται τα Αρχεία Δεδομένων ή το Λογισμικό χωρίς περιορισμό…\" Η πολιτική που περιγράφει τη χρήση δεδομένων Unicode βρίσκεται στη διεύθυνση https://www.unicode.org/license.txt.\n\n4. Πηγαίος Κώδικας Τρίτων\n\nΑυτή η ΥΠΗΡΕΣΙΑ βασίστηκε σε κώδικα τρίτων. Όλος ο πηγαίος κώδικας που χρησιμοποιήθηκε στη δημιουργία αυτής της ΥΠΗΡΕΣΙΑΣ προέρχεται από πηγές που επιτρέπουν την πλήρη χρήση του με τον τρόπο που γίνεται από την ΥΠΗΡΕΣΙΑ. Συγκεκριμένα, η βάση αυτού του έργου ήταν το έργο Custom Keyboard του Ethan Sarif-Kattan. Το Custom Keyboard κυκλοφόρησε υπό άδεια MIT, με αυτήν την άδεια να είναι διαθέσιμη στη διεύθυνση https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE.\n\n5. Υπηρεσίες Τρίτων\n\nΑυτή η ΥΠΗΡΕΣΙΑ κάνει χρήση υπηρεσιών τρίτων για τον χειρισμό ορισμένων δεδομένων τρίτων. Συγκεκριμένα, τα δεδομένα έχουν μεταφραστεί χρησιμοποιώντας μοντέλα από το Hugging Face transformers. Αυτή η υπηρεσία καλύπτεται από άδεια Apache License 2.0, η οποία δηλώνει ότι είναι διαθέσιμη για εμπορική χρήση, τροποποίηση, διανομή, χρήση διπλωμάτων ευρεσιτεχνίας και ιδιωτική χρήση. Η άδεια για την προαναφερθείσα υπηρεσία βρίσκεται στη διεύθυνση https://github.com/huggingface/transformers/blob/master/LICENSE.\n\n6. Σύνδεσμοι Τρίτων\n\nΑυτή η ΥΠΗΡΕΣΙΑ περιέχει συνδέσμους προς εξωτερικούς ιστότοπους. Εάν οι ΧΡΗΣΤΕΣ κάνουν κλικ σε σύνδεσμο τρίτου μέρους, θα κατευθυνθούν σε έναν ιστότοπο. Σημειώστε ότι αυτοί οι εξωτερικοί ιστότοποι δεν λειτουργούν από αυτήν την ΥΠΗΡΕΣΙΑ. Επομένως, συνιστάται έντονα στους ΧΡΗΣΤΕΣ να ελέγχουν την πολιτική απορρήτου αυτών των ιστότοπων. Αυτή η ΥΠΗΡΕΣΙΑ δεν έχει κανέναν έλεγχο και δεν αναλαμβάνει καμία ευθύνη για το περιεχόμενο, τις πολιτικές απορρήτου ή τις πρακτικές τυχόν ιστότοπων ή υπηρεσιών τρίτων.\n\n7. Εικόνες Τρίτων\n\nΑυτή η ΥΠΗΡΕΣΙΑ περιέχει εικόνες που αποτελούν πνευματική ιδιοκτησία τρίτων. Συγκεκριμένα, αυτή η εφαρμογή περιλαμβάνει αντίγραφο των λογότυπων των GitHub, Inc και Wikidata, εμπορικό σήμα του Wikimedia Foundation, Inc. Οι όροι χρήσης του λογότυπου GitHub βρίσκονται στη διεύθυνση https://github.com/logos, και οι όροι για το λογότυπο Wikidata βρίσκονται στην ακόλουθη σελίδα του Wikimedia: https://foundation.wikimedia.org/wiki/Policy:Trademark_policy. Αυτή η ΥΠΗΡΕΣΙΑ χρησιμοποιεί τις προστατευόμενες εικόνες με τρόπο που ταιριάζει με αυτά τα κριτήρια, με μόνη απόκλιση την περιστροφή του λογότυπου GitHub που είναι κοινή στην κοινότητα ανοιχτού κώδικα για να υποδείξει ότι υπάρχει σύνδεσμος προς τον ιστότοπο GitHub.\n\n8. Σημείωση Περιεχομένου\n\nΑυτή η ΥΠΗΡΕΣΙΑ επιτρέπει στους ΧΡΗΣΤΕΣ να έχουν πρόσβαση σε γλωσσικό περιεχόμενο (ΠΕΡΙΕΧΟΜΕΝΟ). Μέρος αυτού του ΠΕΡΙΕΧΟΜΕΝΟΥ θα μπορούσε να θεωρηθεί ακατάλληλο για παιδιά και ανηλίκους. Η πρόσβαση στο ΠΕΡΙΕΧΟΜΕΝΟ χρησιμοποιώντας την ΥΠΗΡΕΣΙΑ γίνεται με τρόπο ώστε οι πληροφορίες να μην είναι διαθέσιμες εκτός εάν είναι ρητά γνωστές. Συγκεκριμένα, οι ΧΡΗΣΤΕΣ \"μπορούν\" να μεταφράζουν λέξεις, να κλίνουν ρήματα και να έχουν πρόσβαση σε άλλα γραμματικά χαρακτηριστικά ΠΕΡΙΕΧΟΜΕΝΟΥ που μπορεί να είναι σεξουαλικό, βίαιο ή άλλως ακατάλληλο. Οι ΧΡΗΣΤΕΣ \"δεν μπορούν\" να μεταφράζουν λέξεις, να κλίνουν ρήματα και να έχουν πρόσβαση σε άλλα γραμματικά χαρακτηριστικά ΠΕΡΙΕΧΟΜΕΝΟΥ που μπορεί να είναι σεξουαλικό, βίαιο ή άλλως ακατάλληλο εάν δεν γνωρίζουν ήδη τη φύση αυτού του ΠΕΡΙΕΧΟΜΕΝΟΥ. Το SCRIBE δεν αναλαμβάνει καμία ευθύνη για την πρόσβαση σε τέτοιο ΠΕΡΙΕΧΟΜΕΝΟ.\n\n9. Αλλαγές\n\nΑυτή η ΠΟΛΙΤΙΚΗ υπόκειται σε αλλαγές. Οι ενημερώσεις αυτής της ΠΟΛΙΤΙΚΗΣ θα αντικαταστήσουν όλα τα προηγούμενα στιγμιότυπα και εάν κριθούν ουσιώδεις θα δηλώνονται περαιτέρω με σαφήνεια στην επόμενη εφαρμοστή ενημέρωση της ΥΠΗΡΕΣΙΑΣ. Το SCRIBE ενθαρρύνει τους ΧΡΗΣΤΕΣ να ελέγχουν περιοδικά αυτήν την ΠΟΛΙΤΙΚΗ για τις τελευταίες πληροφορίες σχετικά με τις πρακτικές απορρήτου μας και να εξοικειώνονται με τυχόν αλλαγές.\n\n10. Επικοινωνία\n\nΕάν έχετε ερωτήσεις, ανησυχίες ή προτάσεις σχετικά με αυτήν την ΠΟΛΙΤΙΚΗ, μη διστάσετε να επισκεφθείτε τη διεύθυνση https://github.com/scribe-org ή να επικοινωνήσετε με το SCRIBE στο security[at]scri.be. Υπεύθυνος για τέτοια ερωτήματα είναι ο Andrew Tavis McAllister.\n\n11. Ημερομηνία Έναρξης Ισχύος\n\nΑυτή η ΠΟΛΙΤΙΚΗ ισχύει από τις 24 Μαΐου 2022."
           }
         },
         "en" : {
@@ -3679,6 +3985,12 @@
             "value" : "Lizenzen von Drittanbietern"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Άδειες τρίτων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -3772,6 +4084,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Der von uns verwendete Code"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Τίνος τον κώδικα χρησιμοποιήσαμε"
           }
         },
         "en" : {
@@ -3869,6 +4187,12 @@
             "value" : "Custom Keyboard\n• Autor: EthanSK\n• Lizenz: MIT\n• Link: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Custom Keyboard\n• Συγγραφέας: EthanSK\n• Άδεια: MIT\n• Σύνδεσμος: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -3962,6 +4286,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Simple Keyboard\n• Autor: Simple Mobile Tools\n• Lizenz: GPL-3.0\n• Link: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Simple Keyboard\n• Συγγραφέας: Simple Mobile Tools\n• Άδεια: GPL-3.0\n• Σύνδεσμος: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE"
           }
         },
         "en" : {
@@ -4059,6 +4389,12 @@
             "value" : "Die iOS-App „Scribe - Language Keyboards“ (DIENST) wurde von den Scribe-Entwicklern (SCRIBE) unter Verwendung von Code von Dritten erstellt. Der gesamte bei der Erstellung dieses DIENSTES verwendete Quellcode stammt von Quellen, die ihre Nutzung in der vom DIENST durchgeführten Weise gestatten. Dieser Abschnitt enthält den Quellcode, auf dem der DIENST basiert, sowie die zugehörigen Lizenzen.\n\nIm Folgenden ist eine Liste des benutzten Quellcodes, des oder der jeweiligen Autor:innen und der Lizenz zur Zeit der Verwendung durch SCRIBE mit einem Link zu dieser zu finden."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Οι προγραμματιστές του Scribe (SCRIBE) δημιούργησαν την εφαρμογή iOS \"Scribe - Language Keyboards\" (ΥΠΗΡΕΣΙΑ) χρησιμοποιώντας κώδικα τρίτων. Όλος ο πηγαίος κώδικας που χρησιμοποιήθηκε στη δημιουργία αυτής της ΥΠΗΡΕΣΙΑΣ προέρχεται από πηγές που επιτρέπουν την πλήρη χρήση του με τον τρόπο που γίνεται από την ΥΠΗΡΕΣΙΑ. Αυτή η ενότητα παραθέτει τον πηγαίο κώδικα στον οποίο βασίστηκε η ΥΠΗΡΕΣΙΑ καθώς και τις αντίστοιχες άδειες του καθενός.\n\nΑκολουθεί μια λίστα με όλο τον χρησιμοποιούμενο πηγαίο κώδικα, τον κύριο συγγραφέα ή συγγραφείς του κώδικα, την άδεια υπό την οποία κυκλοφόρησε κατά τη χρήση και έναν σύνδεσμο προς την άδεια."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -4152,6 +4488,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Über uns"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Σχετικά"
           }
         },
         "en" : {
@@ -4250,6 +4592,12 @@
             "value" : "Tempus auswählen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλογή χρόνου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -4344,6 +4692,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Wähle unten eine Konjugation"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλέξτε μια κλίση παρακάτω"
           }
         },
         "en" : {
@@ -4442,6 +4796,12 @@
             "value" : "Kürzlich konjugiert"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Πρόσφατες κλίσεις"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -4536,6 +4896,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Konjugieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Κλίση"
           }
         },
         "en" : {
@@ -4634,6 +5000,12 @@
             "value" : "Nach Verben suchen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αναζήτηση ρημάτων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -4728,6 +5100,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Verben konjugieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Κλίση ρημάτων"
           }
         },
         "en" : {
@@ -4826,6 +5204,12 @@
             "value" : "Neue Daten zu Scribe Conjugate hinzufügen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Προσθήκη νέων δεδομένων στο Scribe Conjugate."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -4920,6 +5304,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Daten für Verben herunterladen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Λήψη δεδομένων ρημάτων"
           }
         },
         "en" : {
@@ -5018,6 +5408,12 @@
             "value" : "Lade Daten herunter, um mit dem Konjugieren anzufangen!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Κατεβάστε δεδομένα για να ξεκινήσετε την κλίση!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5112,6 +5508,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Verbdaten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Δεδομένα ρημάτων"
           }
         },
         "en" : {
@@ -5209,6 +5611,12 @@
             "value" : "Neue Daten zu Scribe-Tastaturen hinzufügen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Προσθήκη νέων δεδομένων στα πληκτρολόγια Scribe."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5302,6 +5710,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Tastaturdaten hinzufügen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Λήψη δεδομένων πληκτρολογίου"
           }
         },
         "en" : {
@@ -5399,6 +5813,12 @@
             "value" : "Sprachdaten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Δεδομένα γλώσσας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5494,6 +5914,12 @@
             "value" : "Alle Sprachen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Όλες οι γλώσσες"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5577,6 +6003,12 @@
             "value" : "Wird heruntergeladen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γίνεται λήψη"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5604,6 +6036,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Herunterzuladende Daten auswählen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλογή δεδομένων για λήψη"
           }
         },
         "en" : {
@@ -5689,6 +6127,12 @@
             "value" : "Auf dem neuesten Stand"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ενημερωμένο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5701,6 +6145,12 @@
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ενημέρωση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5712,6 +6162,12 @@
     "i18n.app.download.menu_ui.no_keyboards_installed" : {
       "comment" : "",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αυτή τη στιγμή δεν έχετε εγκατεστημένο κανένα πληκτρολόγιο Scribe. Παρακαλούμε πατήστε το κουμπί Εγκατάσταση πληκτρολογίων παρακάτω για να εγκαταστήσετε ένα πληκτρολόγιο Scribe και μετά επιστρέψτε για να κατεβάσετε τα απαραίτητα δεδομένα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5729,6 +6185,12 @@
             "value" : "Sprache ändern"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αλλαγή γλώσσας"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5740,6 +6202,12 @@
     "i18n.app.download.menu_ui.translation_source_tooltip.download_warning" : {
       "comment" : "",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Τα δεδομένα που θα κατεβάσετε θα σας επιτρέψουν να μεταφράζετε από {source_language} σε {target_language}. Θέλετε να αλλάξετε τη γλώσσα από την οποία θα μεταφράζετε;"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5755,6 +6223,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "{source_language} verwenden"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Χρήση {source_language}"
           }
         },
         "en" : {
@@ -5784,6 +6258,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Daten aktualisieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ενημέρωση δεδομένων"
           }
         },
         "en" : {
@@ -5881,6 +6361,12 @@
             "value" : "Nach neuen Daten prüfen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Έλεγχος για νέα δεδομένα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -5974,6 +6460,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Regelmäßig Daten aktualisieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Τακτική ενημέρωση δεδομένων"
           }
         },
         "en" : {
@@ -6071,6 +6563,12 @@
             "value" : "Folge den Anweisungen unten, um Scribe-Tastaturen auf deinem Gerät zu installieren."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ακολουθήστε τις παρακάτω οδηγίες για να εγκαταστήσετε πληκτρολόγια Scribe στη συσκευή σας."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -6164,6 +6662,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Schnelltutorial"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γρήγορο μάθημα"
           }
         },
         "en" : {
@@ -6262,6 +6766,12 @@
             "value" : "Tastatureinstellungen öffnen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Άνοιγμα ρυθμίσεων πληκτρολογίου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -6355,6 +6865,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Tastaturen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Πληκτρολόγια"
           }
         },
         "en" : {
@@ -6452,6 +6968,12 @@
             "value" : "Scribe-Einstellungen öffnen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Άνοιγμα ρυθμίσεων Scribe"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -6545,6 +7067,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Drücke auf"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλέξτε"
           }
         },
         "en" : {
@@ -6642,6 +7170,12 @@
             "value" : "Wähle die Tastaturen aus, die du benutzen möchtest"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ενεργοποιήστε τα πληκτρολόγια που θέλετε να χρησιμοποιήσετε"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -6735,6 +7269,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Drücke beim Tippen auf"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Όταν πληκτρολογείτε, πατήστε"
           }
         },
         "en" : {
@@ -6832,6 +7372,12 @@
             "value" : "um Tastaturen auszuwählen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "για να επιλέξετε πληκτρολόγια"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -6925,6 +7471,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Tastaturinstallation"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εγκατάσταση πληκτρολογίου"
           }
         },
         "en" : {
@@ -7022,6 +7574,12 @@
             "value" : "Installation"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εγκατάσταση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -7115,6 +7673,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Wikidata ist ein kollaborativ gestalteter, mehrsprachiger Wissensgraf, der von der Wikimedia Foundation gehostet wird. Sie dient als Quelle für offene Daten für unzählige Projekte, beispielsweise Wikipedia."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Τα Wikidata είναι ένα συνεργατικά επεξεργασμένο γράφημα γνώσης που συντηρείται από το Wikimedia Foundation. Λειτουργεί ως πηγή ανοιχτών δεδομένων για έργα όπως η Wikipedia και αμέτρητα άλλα."
           }
         },
         "en" : {
@@ -7212,6 +7776,12 @@
             "value" : "Scribe nutzt Sprachdaten von Wikidata für viele Kernfunktionen. Von dort erhalten wir Informationen wie Genera, Verbkonjugationen und viele mehr!"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Το Scribe χρησιμοποιεί τα γλωσσικά δεδομένα των Wikidata για πολλά από τα βασικά χαρακτηριστικά του. Λαμβάνουμε πληροφορίες όπως γένη ουσιαστικών, κλίσεις ρημάτων και πολλά άλλα!"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -7305,6 +7875,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Du kannst auf wikidata.org einen Account erstellen, um der Community, die Scribe und viele andere Projekte unterstützt, beizutreten. Hilf uns dabei, der Welt freie Informationen zu geben!"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Μπορείτε να δημιουργήσετε έναν λογαριασμό στο wikidata.org για να γίνετε μέλος της κοινότητας που υποστηρίζει το Scribe και τόσα άλλα έργα. Βοηθήστε μας να φέρουμε δωρεάν πληροφορίες στον κόσμο!"
           }
         },
         "en" : {
@@ -7402,6 +7978,12 @@
             "value" : "Hier sind die Einstellungen der App und installierte Tastaturen zu finden."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Οι ρυθμίσεις για την εφαρμογή και τα εγκατεστημένα πληκτρολόγια γλώσσας βρίσκονται εδώ."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -7495,6 +8077,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Tastaturen installieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εγκατάσταση πληκτρολογίων"
           }
         },
         "en" : {
@@ -7593,6 +8181,12 @@
             "value" : "Vorschläge annotieren"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Σήμανση προτάσεων/συμπληρώσεων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -7687,6 +8281,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Vorschläge unterstreichen, um ihr Genus beim Tippen anzuzeigen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Υπογράμμιση προτάσεων και συμπληρώσεων για εμφάνιση του γένους τους καθώς πληκτρολογείτε."
           }
         },
         "en" : {
@@ -7784,6 +8384,12 @@
             "value" : "Schlage Emojis vor"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αυτόματη πρόταση emoji"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -7877,6 +8483,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Schlage für ausdrucksvolleres Schreiben Emojis vor."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ενεργοποίηση προτάσεων και συμπληρώσεων emoji για πιο εκφραστική πληκτρολόγηση."
           }
         },
         "en" : {
@@ -7975,6 +8587,12 @@
             "value" : "Hautfarbe für Emoji"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Προεπιλεγμένος τόνος δέρματος emoji"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -8069,6 +8687,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Stelle einen Standardhautton für automatische Emoji-Vorschläge ein."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ορίστε έναν προεπιλεγμένο τόνο δέρματος για αυτόματες προτάσεις και συμπληρώσεις emoji."
           }
         },
         "en" : {
@@ -8167,6 +8791,12 @@
             "value" : "Die zu benutzende Hautfarbe"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Τόνος δέρματος προς χρήση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -8260,6 +8890,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Rücktaste halten löscht Wort für Wort"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Διαγραφή λέξη προς λέξη με παρατεταμένο πάτημα"
           }
         },
         "en" : {
@@ -8357,6 +8993,12 @@
             "value" : "Den Text Wort für Wort löschen, wenn die Rücktaste länger gedrückt wird."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Διαγραφή κειμένου λέξη προς λέξη όταν το πλήκτρο διαγραφής πατηθεί παρατεταμένα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -8452,6 +9094,12 @@
             "value" : "Punkt bei doppelter Leertaste"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Τελεία με διπλό κενό"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -8545,6 +9193,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Automatisch einen Punkt einsetzen, wenn zweimal die Leertaste bedient wird."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αυτόματη εισαγωγή τελείας όταν το πλήκτρο διαστήματος πατηθεί δύο φορές."
           }
         },
         "en" : {
@@ -8643,6 +9297,12 @@
             "value" : "Für alternative Zeichen halten"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Κράτημα για εναλλακτικούς χαρακτήρες"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -8737,6 +9397,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Für alternative Zeichen eine Taste lange drücken und zum gewünschten Zeichen ziehen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλογή εναλλακτικών χαρακτήρων κρατώντας πατημένα πλήκτρα και σύροντας στον επιθυμητό χαρακτήρα."
           }
         },
         "en" : {
@@ -8835,6 +9501,12 @@
             "value" : "Pop-up bei Tastendruck anzeigen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εμφάνιση αναδυόμενου στο πάτημα πλήκτρων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -8929,6 +9601,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Ein Pop-up einer Taste anzeigen, wenn sie gedrückt wird."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εμφάνιση αναδυόμενου παραθύρου πλήκτρων καθώς πατιούνται."
           }
         },
         "en" : {
@@ -9027,6 +9705,12 @@
             "value" : "Leerzeichen bei Zeichensetzung löschen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Διαγραφή διαστημάτων στίξης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -9121,6 +9805,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Überflüssige Leerzeichen vor Zeichensetzung automatisch entfernen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αφαίρεση πλεοναζόντων διαστημάτων πριν από σημεία στίξης."
           }
         },
         "en" : {
@@ -9218,6 +9908,12 @@
             "value" : "Funktionalität"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Λειτουργικότητα"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -9302,6 +9998,12 @@
             "value" : "Ton bei Tastendruck abspielen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ήχος στο πάτημα πλήκτρου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -9332,6 +10034,12 @@
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αναπαραγωγή ήχου από τη συσκευή όταν πατιούνται τα πλήκτρα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -9378,6 +10086,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Bei Tastendruck vibrieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Δόνηση στο πάτημα πλήκτρου"
           }
         },
         "en" : {
@@ -9476,6 +10190,12 @@
             "value" : "Das Gerät vibrieren lassen, wenn Tasten gedrückt werden."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Δόνηση της συσκευής όταν πατιούνται τα πλήκτρα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -9570,6 +10290,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Standardwährungssymbol"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Προεπιλεγμένο σύμβολο νομίσματος"
           }
         },
         "en" : {
@@ -9668,6 +10394,12 @@
             "value" : "Auswählen, welches Währungssymbol bei den Nummerntasten auftaucht."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλέξτε ποιο σύμβολο νομίσματος εμφανίζεται στα αριθμητικά πλήκτρα."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -9762,6 +10494,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Symbol für Nummerntasten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Σύμβολο για τα αριθμητικά πλήκτρα"
           }
         },
         "en" : {
@@ -9860,6 +10598,12 @@
             "value" : "Standardtastatur"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Προεπιλεγμένο πληκτρολόγιο"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -9954,6 +10698,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Ein Tastaturlayout auswählen, das den eigenen Vorlieben und der Sprache entspricht."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλέξτε μια διάταξη πληκτρολογίου που ταιριάζει στην προτίμηση πληκτρολόγησης και τις γλωσσικές ανάγκες σας."
           }
         },
         "en" : {
@@ -10052,6 +10802,12 @@
             "value" : "Zu benutzendes Layout"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Διάταξη προς χρήση"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -10145,6 +10901,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Buchstaben mit Akzent deaktivieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Απενεργοποίηση τονισμένων χαρακτήρων"
           }
         },
         "en" : {
@@ -10242,6 +11004,12 @@
             "value" : "Entscheide, ob Buchstaben mit Akzenten wie Umlaute auf der Haupttastatur angezeigt werden."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αφαίρεση πλήκτρων τονισμένων γραμμάτων στην κύρια διάταξη πληκτρολογίου."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -10335,6 +11103,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Punkt und Komma auf ABC"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Τελεία και κόμμα στο ΑΒΓ"
           }
         },
         "en" : {
@@ -10432,6 +11206,12 @@
             "value" : "Füge der Haupttastatur Punkt- und Komma-Tasten für bequemeres Schreiben hinzu."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Συμπερίληψη πλήκτρων τελείας και κόμματος στο κύριο πληκτρολόγιο για άνετη πληκτρολόγηση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -10525,6 +11305,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Layout"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Διάταξη"
           }
         },
         "en" : {
@@ -10622,6 +11408,12 @@
             "value" : "Wähle installierte Tastatur aus"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλογή εγκατεστημένου πληκτρολογίου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -10699,6 +11491,12 @@
     "i18n.app.settings.keyboard.translation.change_source_tooltip.download_warning" : {
       "comment" : "",
       "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αλλάξατε τη γλώσσα πηγής μετάφρασης. Θέλετε να κατεβάσετε νέα δεδομένα ώστε να μπορείτε να μεταφράζετε από {source_language};"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -10714,6 +11512,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "{source_language} beibehalten"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Διατήρηση {source_language}"
           }
         },
         "en" : {
@@ -10743,6 +11547,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Sprache auswählen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλογή γλώσσας"
           }
         },
         "en" : {
@@ -10840,6 +11650,12 @@
             "value" : "Wähle die Sprache, von der übersetzt wird."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αλλαγή της γλώσσας από την οποία γίνεται η μετάφραση."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -10933,6 +11749,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Die verwendete Ausgangssprache"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ποια είναι η γλώσσα πηγής"
           }
         },
         "en" : {
@@ -11030,6 +11852,12 @@
             "value" : "Übersetzungssprache"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γλώσσα μετάφρασης"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -11123,6 +11951,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Ausgangssprache für die Übersetzung"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γλώσσα πηγής μετάφρασης"
           }
         },
         "en" : {
@@ -11221,6 +12055,12 @@
             "value" : "Dunkler Modus"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Σκοτεινή λειτουργία"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -11317,6 +12157,12 @@
             "value" : "Die App-Darstellung auf dunkel umstellen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αλλαγή της εμφάνισης της εφαρμογής σε σκοτεινή λειτουργία."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -11410,6 +12256,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "App-Sprache"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γλώσσα εφαρμογής"
           }
         },
         "en" : {
@@ -11508,6 +12360,12 @@
             "value" : "Ändern, welche Sprache für die Scribe-App benutzt wird."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αλλαγή της γλώσσας στην οποία εμφανίζεται η εφαρμογή Scribe."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -11602,6 +12460,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "App-Sprache auswählen"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Επιλογή γλώσσας για τα κείμενα της εφαρμογής"
           }
         },
         "en" : {
@@ -11699,6 +12563,12 @@
             "value" : "Auf Ihrem Gerät ist nur eine Sprache installiert. Bitte installieren Sie weitere Sprachen in den Einstellungen. Anschließend können Sie verschiedene Lokalisierungen von Scribe auswählen."
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Έχετε μόνο μία γλώσσα εγκατεστημένη στη συσκευή σας. Παρακαλούμε εγκαταστήστε περισσότερες γλώσσες στις Ρυθμίσεις και στη συνέχεια μπορείτε να επιλέξετε διαφορετικές τοπικές ρυθμίσεις του Scribe."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -11792,6 +12662,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Nur eine Gerätesprache"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Μόνο μία γλώσσα συσκευής"
           }
         },
         "en" : {
@@ -11890,6 +12766,12 @@
             "value" : "Hoher Farbkontrast"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Υψηλή αντίθεση χρωμάτων"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -11984,6 +12866,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Farbkontrast für eine vereinfachte Bedienung und bessere Erkennbarkeit."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αύξηση της αντίθεσης χρωμάτων για βελτιωμένη προσβασιμότητα και πιο καθαρή εμπειρία προβολής."
           }
         },
         "en" : {
@@ -12082,6 +12970,12 @@
             "value" : "Text in der App vergrößern"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αύξηση μεγέθους κειμένου"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -12176,6 +13070,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Die Menütexte in der App für bessere Lesbarkeit vergrößern."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αύξηση του μεγέθους των κειμένων μενού για καλύτερη αναγνωσιμότητα."
           }
         },
         "en" : {
@@ -12273,6 +13173,12 @@
             "value" : "App-Einstellungen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ρυθμίσεις εφαρμογής"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -12368,6 +13274,12 @@
             "value" : "Einstellungen"
           }
         },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Ρυθμίσεις"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "",
@@ -12461,6 +13373,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Übersetzung"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Μετάφραση"
           }
         },
         "en" : {
