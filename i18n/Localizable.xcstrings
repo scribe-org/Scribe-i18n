@@ -7684,7 +7684,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikidata is a collaboratively edited knowledge graph that's maintained by the Wikimedia Foundation. It serves as a source of open data for projects like Wikipedia and countless others."
+            "value" : "Wikidata is a collaboratively edited knowledge graph that's maintained by Wikimedia Foundation. It serves as a source of open data for projects like Wikipedia and countless others."
           }
         },
         "es" : {
@@ -7953,6 +7953,42 @@
           "stringUnit" : {
             "state" : "",
             "value" : "wikidata.org adresinde bir hesap oluşturabilir, Scribe'ı ve diğer birçok projeyi destekleyen bu topluluğa katılabilirsiniz. Dünya'ya ücretsiz bilgi getirmemize yardımcı olun!"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.not_in_wiktionary.explanation_1" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wiktionary is a collaboratively edited dictionary in hundreds of different languages that's maintained by Wikimedia Foundation."
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.not_in_wiktionary.explanation_2" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe uses Wiktionary's translations for our translation functionality! You can choose from multiple translations per word based on the specific meaning."
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.not_in_wiktionary.explanation_3" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "You can make an account at wiktionary.org to join the community that's supporting Scribe and so many other projects. Help us bring free information to the world!"
           }
         }
       }
