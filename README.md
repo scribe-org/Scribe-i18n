@@ -247,15 +247,28 @@ The following sets up the [i18n-check](https://github.com/activist-org/i18n-chec
   uv run i18n-check --all --fix # (-a -f)
   ```
 
-- And finally you can enable the [pre-commit](https://pre-commit.com/) hooks to ensure that each of your commits is properly checked
+> [!NOTE]
+> Feel free to contact the team in the [i18n room on Matrix](https://matrix.to/#/#scribe-localization:matrix.org) if you're having problems getting your environment setup!
+
+- And finally you can enable the [prek](https://prek.j178.dev/) hooks to ensure that each of your commits is properly checked against our linter and formatters:
 
   ```bash
-  pre-commit install
-  # uv run pre-commit run --all-files  # lint and fix common problems in the codebase
+   # In the project root:
+   prek install
+
+    # Then test the pre-commit hooks to see how it works:
+    prek run --all-files
   ```
 
 > [!NOTE]
-> Feel free to contact the team in the [i18n room on Matrix](https://matrix.to/#/#scribe-localization:matrix.org) if you're having problems getting your environment setup!
+> prek is Python package that can be installed via pip or any other Python package manager. You can also find it in our [uv.lock](backend/uv.lock) file.
+
+> [!NOTE]
+> If you are having issues with prek and want to send along your changes regardless, you can ignore the pre-commit hooks via the following:
+>
+> ```bash
+> git commit --no-verify -m "COMMIT_MESSAGE"
+> ```
 
 <a id="community"></a>
 

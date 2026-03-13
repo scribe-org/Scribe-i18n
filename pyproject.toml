@@ -10,8 +10,8 @@ dependencies = []
 [project.optional-dependencies]
 dev = [
     # Keep docs dependencies formatted in this way with ruff to allow for upgrades via VS Code extension.
-    "i18n-check>=1.18.0",
-    "pre-commit>=4.5.1",
+    "i18n-check>=1.18.1",
+    "prek>=0.3.5",
 ]
 
 [project.urls]
