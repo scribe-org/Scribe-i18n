@@ -2146,7 +2146,6 @@
     },
     "i18n.app.about.community.share_conjugate" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5182,9 +5181,98 @@
         }
       }
     },
-    "i18n.app.download.menu_option.conjugate_description" : {
+    "i18n.app.download.error.database" : {
       "comment" : "",
       "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Database error: {error}"
+          }
+        }
+      }
+    },
+    "i18n.app.download.error.decoding" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Decoding failed: {error}"
+          }
+        }
+      }
+    },
+    "i18n.app.download.error.failed" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Download failed: {error}"
+          }
+        }
+      }
+    },
+    "i18n.app.download.error.invalid_response" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Invalid server response"
+          }
+        }
+      }
+    },
+    "i18n.app.download.error.invalid_url" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Invalid URL"
+          }
+        }
+      }
+    },
+    "i18n.app.download.error.network" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Network error: {error}"
+          }
+        }
+      }
+    },
+    "i18n.app.download.error.server" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Server error: {code}"
+          }
+        }
+      }
+    },
+    "i18n.app.download.error.timeout" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Download timed out"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_option.conjugate_description" : {
+      "comment" : "",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5388,7 +5476,6 @@
     },
     "i18n.app.download.menu_option.conjugate_download_data_start" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5490,7 +5577,6 @@
     },
     "i18n.app.download.menu_option.conjugate_title" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5893,8 +5979,33 @@
         }
       }
     },
+    "i18n.app.download.menu_ui.conjugate_data.already_up_to_date" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} conjugate data is already up to date"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.conjugate_data.download_success" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} conjugate data downloaded successfully!"
+          }
+        }
+      }
+    },
     "i18n.app.download.menu_ui.download_data.all_languages" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -5994,6 +6105,28 @@
         }
       }
     },
+    "i18n.app.download.menu_ui.download_data.already_up_to_date" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} data is already up to date"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.download_data.download_success" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} data downloaded successfully!"
+          }
+        }
+      }
+    },
     "i18n.app.download.menu_ui.download_data.downloading" : {
       "comment" : "",
       "localizations" : {
@@ -6013,6 +6146,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Downloading"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.download_data.generic_already_up_to_date" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Already up to date!"
           }
         }
       }
@@ -6155,6 +6300,17 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Update"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.download_data.update_all" : {
+      "comment" : "",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Update all"
           }
         }
       }
@@ -11726,7 +11882,6 @@
     },
     "i18n.app.settings.menu.app_color_mode" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -11828,7 +11983,6 @@
     },
     "i18n.app.settings.menu.app_color_mode_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12031,7 +12185,6 @@
     },
     "i18n.app.settings.menu.app_language_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12437,7 +12590,6 @@
     },
     "i18n.app.settings.menu.high_color_contrast" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12539,7 +12691,6 @@
     },
     "i18n.app.settings.menu.high_color_contrast_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12641,7 +12792,6 @@
     },
     "i18n.app.settings.menu.increase_text_size" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -12743,7 +12893,6 @@
     },
     "i18n.app.settings.menu.increase_text_size_description" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
