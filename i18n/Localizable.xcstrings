@@ -82,6 +82,12 @@
             "state" : "",
             "value" : "Android Changelog"
           }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Android चेन्जलग"
+          }
         }
       }
     },
@@ -105,6 +111,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Available Data"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "उपलब्ध डेटा"
           }
         }
       }
@@ -130,6 +142,12 @@
             "state" : "",
             "value" : "Blog Posts"
           }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ब्लग पोस्टहरू"
+          }
         }
       }
     },
@@ -154,6 +172,12 @@
             "state" : "",
             "value" : "Changelog"
           }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "परिवर्तन लग"
+          }
         }
       }
     },
@@ -171,6 +195,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Conjugate Apps"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कन्जुगेट एप्स"
           }
         }
       }
@@ -243,6 +273,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Data Server"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा सर्भर"
           }
         }
       }
@@ -322,6 +358,12 @@
             "state" : "",
             "value" : "iOS Changelog"
           }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "iOS परिवर्तन लग"
+          }
         }
       }
     },
@@ -339,6 +381,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Keyboard Apps"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "किबोर्ड एप्स"
           }
         }
       }
@@ -478,6 +526,12 @@
             "value" : "कायदेशीर"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कानुनी"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -518,6 +572,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Our Community"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "हाम्रो समुदाय"
           }
         }
       }
@@ -661,6 +721,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Support Scribe"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइबलाई समर्थन गर्नुहोस्"
           }
         }
       }
@@ -854,6 +920,12 @@
             "value" : "डेटा डाउनलोड करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा डाउनलोड गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -953,6 +1025,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "इंग्रजी"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अंग्रेजी"
           }
         },
         "pt" : {
@@ -1056,6 +1134,12 @@
             "value" : "फ्रेंच"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "फ्रान्सेली"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -1157,6 +1241,12 @@
             "value" : "जर्मन"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "जर्मन"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -1202,6 +1292,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Indonesian"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इन्डोनेसियन"
           }
         },
         "tr" : {
@@ -1287,6 +1383,12 @@
             "value" : "इटालियन"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इटालियन"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -1332,6 +1434,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Norwegian"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "नर्वेजियन"
           }
         }
       }
@@ -1409,6 +1517,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "पोर्तुगीज"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "पोर्चुगिज"
           }
         },
         "pt" : {
@@ -1512,6 +1626,12 @@
             "value" : "रशियन"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "रसियन"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -1611,6 +1731,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्पॅनिश"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्पेनिस्"
           }
         },
         "pt" : {
@@ -1714,6 +1840,12 @@
             "value" : "स्वीडिश"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्विडिस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -1813,6 +1945,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "इथे तुम्ही स्क्राइब आणि त्याच्या समुदायाबद्दल अधिक जाणून घेऊ शकता."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "यहाँ तपाईंले स्क्राइब र यसको समुदायबारे थप जान्न सक्नुहुन्छ।"
           }
         },
         "pt" : {
@@ -1916,6 +2054,12 @@
             "value" : "गिटहबवर कोड पहा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "गिटहबमा कोड हेर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -2015,6 +2159,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "आम्हाला मॅस्टोडॉनवर फॉलो करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "मास्टोडनमा फलो गर्नुहोस्"
           }
         },
         "pt" : {
@@ -2118,6 +2268,12 @@
             "value" : "मॅट्रिक्सवर टीमशी बोला"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "म्याट्रिक्समा टिमसँग कुराकानी गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -2217,6 +2373,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइब कॉन्जुगेट शेअर करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब कन्जुगेट साझा गर्नुहोस्"
           }
         },
         "pt" : {
@@ -2320,6 +2482,12 @@
             "value" : "स्क्राइब शेअर करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब साझा गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -2416,6 +2584,12 @@
           }
         },
         "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "समुदाय"
+          }
+        },
+        "ne" : {
           "stringUnit" : {
             "state" : "",
             "value" : "समुदाय"
@@ -2522,6 +2696,12 @@
             "value" : "स्क्राइब वेबसाइटला भेट द्या"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब वेबसाइट भ्रमण गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -2621,6 +2801,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "विकिमीडियाचे योगदान आणि स्क्राइब"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विकिमिडिया र स्क्राइब"
           }
         },
         "pt" : {
@@ -2724,6 +2910,12 @@
             "value" : "आम्ही एकत्र कसे काम करतो"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "हामी कसरी साथ मिलेर काम गर्छौं"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -2823,6 +3015,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "विकिमीडिया योगदानकर्त्यांच्या समर्थनाशिवाय स्क्राइब शक्य झाले नसते. विशेषतः स्क्राइब विकिडेटा शब्दकोशीय डेटा आणि विविध भाषांसाठी विकिपीडियाच्या डेटाचा वापर करतो."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विकिमिडिया योगदानकर्ताहरूको अनगिन्ती योगदान बिना स्क्राइब सम्भव हुने थिएन। स्क्राइबले विकिडेटा शब्दकोश डेटा समुदायको डेटा र स्क्राइबले समर्थन गर्ने प्रत्येक भाषाका लागि विकिपिडियाको डेटा उपयोग गर्छ।"
           }
         },
         "pt" : {
@@ -2926,6 +3124,12 @@
             "value" : "विकिडेटा हा विकिमीडिया फाउंडेशनद्वारे होस्ट केलेला एक सहयोगी संपादित बहुभाषिक ज्ञान ग्राफ आहे. याचा डेटा क्रिएटिव्ह कॉमन्स पब्लिक डोमेन (CC0) अंतर्गत उपलब्ध आहे."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विकिडेटा विकिमिडिया फाउन्डेसनद्वारा संचालित सहयोगी रूपमा सम्पादित बहुभाषिक ज्ञान ग्राफ हो। यसले CC0 लाइसेन्स अन्तर्गत स्वतन्त्र रूपमा उपलब्ध डेटा प्रदान गर्छ।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -3027,6 +3231,12 @@
             "value" : "विकिपीडिया हे एक बहुभाषिक मुक्त ऑनलाइन विश्वकोश आहे. स्क्राइब शब्दांच्या सुचवण्या करण्यासाठी विकिपीडियाच्या डेटाचा वापर करतो."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विकिपिडिया स्वयंसेवकहरूको समुदायद्वारा लेखित र संचालित बहुभाषिक मुक्त ऑनलाइन विश्वकोश हो। स्क्राइबले भाषामा सबैभन्दा सामान्य शब्दहरू निकाल्न विकिपिडियाको डेटा उपयोग गर्छ।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -3126,6 +3336,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "बग रिपोर्ट करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "बग रिपोर्ट गर्नुहोस्"
           }
         },
         "pt" : {
@@ -3230,6 +3446,12 @@
             "value" : "स्क्राइब कॉन्जुगेटला रेट करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब कन्जुगेटलाई मूल्याङ्कन गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -3329,6 +3551,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइबला रेट करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइबलाई मूल्याङ्कन गर्नुहोस्"
           }
         },
         "pt" : {
@@ -3432,6 +3660,12 @@
             "value" : "अ‍ॅप सूचनांचे पुनरावलोकन करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप संकेतहरू रिसेट गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -3531,6 +3765,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "आम्हाला ईमेल पाठवा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "हामीलाई इमेल पठाउनुहोस्"
           }
         },
         "pt" : {
@@ -3634,6 +3874,12 @@
             "value" : "प्रतिक्रिया आणि समर्थन"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "प्रतिक्रिया र समर्थन"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -3733,6 +3979,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "आवृत्ती"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "संस्करण"
           }
         },
         "pt" : {
@@ -3836,6 +4088,12 @@
             "value" : "तुमच्या सुरक्षेची काळजी"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंलाई सुरक्षित राख्दै"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -3935,6 +4193,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कृपया लक्षात ठेवा की या धोरणाचा इंग्रजी आवृत्ती इतर सर्व आवृत्त्यांवर प्राधान्य देते.\n\nस्क्राइब डेव्हलपर्सनी (स्क्राइब) आयओएस अ‍ॅप्लिकेशन \"स्क्राइब - भाषा कीबोर्ड्स\" हे खुले-स्रोत अ‍ॅप्लिकेशन म्हणून तयार केले आहे. हे सेवा स्क्राइबद्वारे विनामूल्य प्रदान केली जाते."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कृपया ध्यान दिनुहोस् कि यस नीतिको अंग्रेजी संस्करण अन्य सबै संस्करणभन्दा माथि रहन्छ।"
           }
         },
         "pt" : {
@@ -4038,6 +4302,12 @@
             "value" : "तृतीय-पक्ष परवाने"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तृतीय-पक्ष लाइसेन्सहरू"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -4137,6 +4407,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "ज्यांचा कोड आम्ही वापरला आहे"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "हामीले कुन कोड प्रयोग गर्यौं"
           }
         },
         "pt" : {
@@ -4240,6 +4516,12 @@
             "value" : "कस्टम कीबोर्ड\n• लेखक: एथेन एस के\n• परवाना: एमआयटी\n• लिंक: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Custom Keyboard\n• लेखक: EthanSK\n• लाइसेन्स: MIT\n• लिङ्क: https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -4339,6 +4621,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "सिंपल कीबोर्ड\n• लेखक: सिंपल मोबाईल टूल्स\n• परवाना: GPL-3.0\n• लिंक: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Simple Keyboard\n• लेखक: Simple Mobile Tools\n• लाइसेन्स: GPL-3.0\n• लिङ्क: https://github.com/SimpleMobileTools/Simple-Keyboard/blob/main/LICENSE"
           }
         },
         "pt" : {
@@ -4442,6 +4730,12 @@
             "value" : "स्क्राइब डेव्हलपर्सनी आयओएस अ‍ॅप्लिकेशन 'स्क्राइब - भाषा कीबोर्ड्स' तृतीय-पक्ष कोडचा वापर करून तयार केले आहे."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब विकासकर्ताहरूले तृतीय-पक्ष कोड प्रयोग गरेर iOS एप्लिकेसन बनाएका छन्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -4541,6 +4835,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "बद्दल"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "बारेमा"
           }
         },
         "pt" : {
@@ -4645,6 +4945,12 @@
             "value" : "काल निवडा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "काल चयन गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -4745,6 +5051,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "खालीलपैकी एक संयोजन निवडा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तलको कन्जुगेसन चयन गर्नुहोस्"
           }
         },
         "pt" : {
@@ -4849,6 +5161,12 @@
             "value" : "अलीकडे संयोजित केलेले"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "हालै कन्जुगेट गरिएका"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -4949,6 +5267,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "संयोजन"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कन्जुगेट"
           }
         },
         "pt" : {
@@ -5053,6 +5377,12 @@
             "value" : "क्रियापद शोधा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्रियाहरू खोज्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -5155,6 +5485,12 @@
             "value" : "क्रियापद संयोजन"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्रियाहरू कन्जुगेट गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -5195,6 +5531,7 @@
     },
     "i18n.app.download.error.decoding" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5206,6 +5543,7 @@
     },
     "i18n.app.download.error.failed" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5217,6 +5555,7 @@
     },
     "i18n.app.download.error.invalid_response" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5228,6 +5567,7 @@
     },
     "i18n.app.download.error.invalid_url" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5239,6 +5579,7 @@
     },
     "i18n.app.download.error.network" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5250,6 +5591,7 @@
     },
     "i18n.app.download.error.server" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -5344,6 +5686,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइब संयोजनात नवीन डेटा जोडा."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब कन्जुगेटमा नयाँ डेटा थप्नुहोस्।"
           }
         },
         "pt" : {
@@ -5448,6 +5796,12 @@
             "value" : "क्रियापद डेटा डाउनलोड करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्रिया डेटा डाउनलोड गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -5547,6 +5901,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "संयोजन करण्यासाठी डेटा डाउनलोड करा!"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कन्जुगेट सुरु गर्न डेटा डाउनलोड गर्नुहोस्!"
           }
         },
         "pt" : {
@@ -5650,6 +6010,12 @@
             "value" : "क्रियापद डेटा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्रिया डेटा"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -5749,6 +6115,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइब कीबोर्डमध्ये नवीन डेटा जोडा."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब किबोर्डमा नयाँ डेटा थप्नुहोस्।"
           }
         },
         "pt" : {
@@ -5852,6 +6224,12 @@
             "value" : "कीबोर्ड डेटा डाउनलोड करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "किबोर्ड डेटा डाउनलोड गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -5948,6 +6326,12 @@
           }
         },
         "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "भाषा डेटा"
+          }
+        },
+        "ne" : {
           "stringUnit" : {
             "state" : "",
             "value" : "भाषा डेटा"
@@ -6079,6 +6463,12 @@
             "value" : "सर्व भाषा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सबै भाषाहरू"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -6107,6 +6497,7 @@
     },
     "i18n.app.download.menu_ui.download_data.already_up_to_date" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -6118,6 +6509,7 @@
     },
     "i18n.app.download.menu_ui.download_data.download_success" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -6146,6 +6538,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Downloading"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डाउनलोड हुँदैछ"
           }
         }
       }
@@ -6237,6 +6635,12 @@
             "value" : "डाउनलोड करण्यासाठी डेटा निवडा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डाउनलोड गर्न डेटा चयन गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -6283,6 +6687,12 @@
             "state" : "",
             "value" : "Up to date"
           }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अद्यावधिक"
+          }
         }
       }
     },
@@ -6300,6 +6710,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Update"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अपडेट गर्नुहोस्"
           }
         }
       }
@@ -6329,6 +6745,12 @@
             "state" : "",
             "value" : "You currently do not have any Scribe keyboard installed. Please click the Install keyboards button below to install a Scribe keyboard and then come back to download the needed data."
           }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंसँग हाल कुनै स्क्राइब किबोर्ड स्थापना गरिएको छैन। किबोर्ड स्थापना गर्न तलको बटन क्लिक गर्नुहोस्।"
+          }
         }
       }
     },
@@ -6352,6 +6774,12 @@
             "state" : "",
             "value" : "Change language"
           }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "भाषा बद्ल्नुहोस्"
+          }
         }
       }
     },
@@ -6368,6 +6796,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "The data you will download will allow you to translate from {source_language} to {target_language}. Do you want to change the language you'll translate  from?"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंले डाउनलोड गर्नुहुने डेटाले तपाईंलाई {source_language} बाट {target_language} मा अनुवाद गर्न दिनेछ। क्षमा गर्नुहोस्, कुन भाषाबाट अनुवाद गर्ने भाषा बद्ल्नुहुन्छ?"
           }
         }
       }
@@ -6391,6 +6825,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Use {source_language}"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{source_language} प्रयोग गर्नुहोस्"
           }
         }
       }
@@ -6468,6 +6908,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "डेटा अद्ययावत करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा अपडेट गर्नुहोस्"
           }
         },
         "pt" : {
@@ -6571,6 +7017,12 @@
             "value" : "नवीन डेटाची तपासणी करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "नयाँ डेटा जाँच गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -6670,6 +7122,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "नियमित डेटा अद्ययावत करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "नियमित रूपमा डेटा अपडेट गर्नुहोस्"
           }
         },
         "pt" : {
@@ -6773,6 +7231,12 @@
             "value" : "तुमच्या डिव्हाइसवर स्क्राइब कीबोर्ड इंस्टॉल करण्यासाठी खालील सूचनांचे पालन करा."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंको उपकरणमा स्क्राइब किबोर्ड स्थापना गर्न तलका निर्देशनहरू पालना गर्नुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -6872,6 +7336,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "त्वरित ट्युटोरियल"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "छिटो ट्युटोरियल"
           }
         },
         "pt" : {
@@ -6976,6 +7446,12 @@
             "value" : "कीबोर्ड सेटिंग्ज उघडा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "किबोर्ड सेटिङ्स खोल्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -7075,6 +7551,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कीबोर्ड"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "किबोर्डहरू"
           }
         },
         "pt" : {
@@ -7178,6 +7660,12 @@
             "value" : "स्क्राइब सेटिंग्ज उघडा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब सेटिङ्स खोल्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -7277,6 +7765,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "निवडा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "चयन गर्नुहोस्"
           }
         },
         "pt" : {
@@ -7380,6 +7874,12 @@
             "value" : "तुम्हाला वापरायचे असलेले कीबोर्ड सक्रिय करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंले प्रयोग गर्न चाहनुभएका किबोर्डहरू सक्रिय गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -7479,6 +7979,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "टाइप करताना दाबा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "टाइप गर्दा, थिच्नुहोस्"
           }
         },
         "pt" : {
@@ -7582,6 +8088,12 @@
             "value" : "कीबोर्ड निवडण्यासाठी"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "किबोर्ड चयन गर्न"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -7681,6 +8193,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कीबोर्ड इंस्टॉलेशन"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "किबोर्ड स्थापना"
           }
         },
         "pt" : {
@@ -7784,6 +8302,12 @@
             "value" : "इंस्टॉलेशन"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्थापना"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -7877,6 +8401,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अ‍ॅप आणि इंस्टॉल केलेल्या भाषा कीबोर्डची सेटिंग्ज इथे मिळतील."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप र स्थापित भाषा किबोर्डहरूका सेटिङ्स यहाँ पाइन्छ।"
           }
         },
         "pt" : {
@@ -7978,6 +8508,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कीबोर्ड इंस्टॉल करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "किबोर्ड स्थापना गर्नुहोस्"
           }
         },
         "pt" : {
@@ -8082,6 +8618,12 @@
             "value" : "सुचवण्या/समाप्ति वर्णन करा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सुझाव/पूर्ण गर्नुहोस् टिप्पणी गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -8182,6 +8724,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "टाइप करताना सुचवण्या आणि समाप्ति रेखांकित करा जेणेकरून त्यांच्या लिंगाची माहिती मिळू शकेल."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "टाइप गर्दा लिङ्ग देखाउन सुझाव र पूर्णताहरूलाई रेखाङ्कन गर्नुहोस्।"
           }
         },
         "pt" : {
@@ -8285,6 +8833,12 @@
             "value" : "इमोजीचा स्वयंचलित सुचवण्या"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इमोजी स्वतः सुझाव"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -8384,6 +8938,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अधिक अभिव्यक्तीपूर्ण टाइपिंगसाठी इमोजीच्या सुचवण्या आणि समाप्ति सक्षम करा."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "थप अभिव्यक्तिपूर्ण टाइपिङ्का लागि इमोजी सुझाव र पूर्णता चालू गर्नुहोस्।"
           }
         },
         "pt" : {
@@ -8488,6 +9048,12 @@
             "value" : "डिफॉल्ट इमोजी त्वचा रंग"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "पूर्वनिर्धारित इमोजी चमडाको रङ"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -8588,6 +9154,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "इमोजीच्या सुचवण्या आणि समाप्ति साठी डिफॉल्ट त्वचा रंग सेट करा."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इमोजी स्वतः सुझाव र पूर्णताका लागि पूर्वनिर्धारित चमडाको रङ सेट गर्नुहोस्।"
           }
         },
         "pt" : {
@@ -8692,6 +9264,12 @@
             "value" : "वापरल्या जाणाऱ्या त्वचेचा रंग"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "प्रयोग गरिने चमडाको रङ"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -8791,6 +9369,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "शब्द दर शब्द हटवा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "लंबो थिच्नेमा शब्द दर शब्द मेट्नुहोस्"
           }
         },
         "pt" : {
@@ -8894,6 +9478,12 @@
             "value" : "डिलीट की थांबून धरल्यास शब्द दर शब्द हटवा."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "मेट्ने कुञजी थिचिरहेको बेला शब्द दर शब्द पाठ मेट्नुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -8995,6 +9585,12 @@
             "value" : "दुहेरी स्पेससाठी अवधि"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "दोहोरो स्पेस पिरियड"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -9094,6 +9690,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्पेस की दोनदा दाबल्यावर स्वयंचलितपणे अवधि घाला."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्पेस कुञजी दुई पटक थिच्नेमा स्वतः पिरियड राख्नुहोस्।"
           }
         },
         "pt" : {
@@ -9198,6 +9800,12 @@
             "value" : "वैकल्पिक अक्षरांसाठी थांबा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "वैकल्पिक अक्षरहरूका लागि थिच्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -9298,6 +9906,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कुञ्जी धरून इच्छित अक्षरावर खीचून वैकल्पिक अक्षर निवडा."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कुञजीहरू थिचेर इच्छित अक्षरमा तानेर वैकल्पिक अक्षरहरू चयन गर्नुहोस्।"
           }
         },
         "pt" : {
@@ -9402,6 +10016,12 @@
             "value" : "कुञ्जी दाबण्यावर पॉपअप दाखवा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कुञजी थिच्नेमा पपअप देखाउनुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -9502,6 +10122,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कुञ्जी दाबण्यावर पॉपअप दाखवा."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कुञजीहरू थिचिएको बेला पपअप देखाउनुहोस्।"
           }
         },
         "pt" : {
@@ -9606,6 +10232,12 @@
             "value" : "विरामचिन्ह स्थान काढा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विराम चिह्न स्पेसिङ् मेट्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -9706,6 +10338,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "विरामचिन्हांपूर्वीचे अतिरिक्त स्थान काढा."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विराम चिह्नहरूअगाडि अतिरिक्त स्पेस हटाउनुहोस्।"
           }
         },
         "pt" : {
@@ -9809,6 +10447,12 @@
             "value" : "कार्यक्षमता"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कार्यक्षमता"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -9863,6 +10507,12 @@
             "value" : "ಕೀ ಒತ್ತಿದಾಗ ಶಬ್ದ ಮಾಡಿ"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कुञजी थिच्नेमा आवाज बजाउनुहोस्"
+          }
+        },
         "ta" : {
           "stringUnit" : {
             "state" : "",
@@ -9897,6 +10547,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "ಕೀಗಳನ್ನು ಒತ್ತಿದಾಗ ಸಾಧನವು ಶಬ್ದ ಮಾಡಲಿ."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कुञजीहरू थिचिएको बेला उपकरणले आवाज बजाउने गराउनुहोस्।"
           }
         },
         "ta" : {
@@ -9987,6 +10643,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "कुञ्जी दाबण्यावर कंपन"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कुञजी थिच्नेमा कम्पन गर्नुहोस्"
           }
         },
         "pt" : {
@@ -10091,6 +10753,12 @@
             "value" : "कुञ्जी दाबल्यावर डिव्हाइस कंपन करेल."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कुञजीहरू थिचिएको बेला उपकरणले कम्पन गर्ने गराउनुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -10191,6 +10859,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "डिफॉल्ट चलन चिन्ह"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "पूर्वनिर्धारित मुद्रा चिह्न"
           }
         },
         "pt" : {
@@ -10295,6 +10969,12 @@
             "value" : "संक्येत कुञ्जींवर कोणते चलन चिन्ह दिसेल ते निवडा."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "नंबर कुञजीमा कुन मुद्रा चिह्न देखाउने चयन गर्नुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -10395,6 +11075,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "123 किजसाठी चिन्ह"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "123 कुञजीका लागि चिह्न"
           }
         },
         "pt" : {
@@ -10499,6 +11185,12 @@
             "value" : "डिफॉल्ट कीबोर्ड"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "पूर्वनिर्धारित किबोर्ड"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -10599,6 +11291,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तुमच्या टाइपिंग आवडीनुसार आणि भाषा गरजेनुसार कीबोर्ड लेआउट निवडा."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंको टाइपिङ् प्राथमिकता र भाषा आवश्यकताअनुसार किबोर्ड लेआउट चयन गर्नुहोस्।"
           }
         },
         "pt" : {
@@ -10703,6 +11401,12 @@
             "value" : "वापरले जाणारे लेआउट"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "प्रयोग गर्ने लेआउट"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -10802,6 +11506,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अक्सेंट अक्षरे अक्षम करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "उच्चारण अक्षरहरू अक्षम गर्नुहोस्"
           }
         },
         "pt" : {
@@ -10905,6 +11615,12 @@
             "value" : "प्राथमिक कीबोर्ड लेआउटवर अक्सेंट अक्षरे काढा."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "मुख्य किबोर्ड लेआउटबाट उच्चारण अक्षर कुञजीहरू हटाउनुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -11004,6 +11720,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "ABC वर अवधि आणि कॉमा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ABC मा पिरियड र कमा"
           }
         },
         "pt" : {
@@ -11107,6 +11829,12 @@
             "value" : "सुलभ टाइपिंगसाठी मुख्य कीबोर्डवर अवधि आणि कॉमा कुञ्जी समाविष्ट करा."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सुविधाजनक टाइपिङ्का लागि मुख्य किबोर्डमा पिरियड र कमा कुञजीहरू सामेल गर्नुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -11203,6 +11931,12 @@
           }
         },
         "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "लेआउट"
+          }
+        },
+        "ne" : {
           "stringUnit" : {
             "state" : "",
             "value" : "लेआउट"
@@ -11309,6 +12043,12 @@
             "value" : "इंस्टॉल केलेले कीबोर्ड निवडा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्थापित किबोर्ड चयन गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -11349,6 +12089,12 @@
             "state" : "",
             "value" : "You've changed your source translation language. Would you like to download new data so that you can translate from {source_language}?"
           }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंले अनुवाद क्षमताको भाषा बद्ल्नुभएको छ। क्षमा गर्नुहोस्, {source_language} बाट अनुवाद गर्न नयाँ डेटा डाउनलोड गर्नुहुन्छ?"
+          }
         }
       }
     },
@@ -11371,6 +12117,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Keep {source_language}"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{source_language} राख्नुहोस्"
           }
         }
       }
@@ -11448,6 +12200,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "भाषा निवडा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "भाषा चयन गर्नुहोस्"
           }
         },
         "pt" : {
@@ -11551,6 +12309,12 @@
             "value" : "अनुवाद करायची भाषा बदला."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "जुन भाषाबाट अनुवाद गर्ने हो त्यो बद्ल्नुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -11652,6 +12416,12 @@
             "value" : "स्रोत भाषा काय आहे"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्रोत भाषा कुन हो"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -11748,6 +12518,12 @@
           }
         },
         "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अनुवाद भाषा"
+          }
+        },
+        "ne" : {
           "stringUnit" : {
             "state" : "",
             "value" : "अनुवाद भाषा"
@@ -11854,6 +12630,12 @@
             "value" : "अनुवाद स्रोत भाषा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अनुवाद स्रोत भाषा"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -11950,6 +12732,12 @@
           }
         },
         "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डार्क मोड"
+          }
+        },
+        "ne" : {
           "stringUnit" : {
             "state" : "",
             "value" : "डार्क मोड"
@@ -12056,6 +12844,12 @@
             "value" : "अ‍ॅप डिस्प्ले डार्क मोडमध्ये बदला."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप्लिकेसन प्रदर्शन डार्क मोडमा बद्ल्नुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -12157,6 +12951,12 @@
             "value" : "अ‍ॅपची भाषा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप भाषा"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -12256,6 +13056,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "स्क्राइब अ‍ॅप कोणत्या भाषेत असेल ते बदला."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइब एप कुन भाषामा छ त्यो बद्ल्नुहोस्।"
           }
         },
         "pt" : {
@@ -12360,6 +13166,12 @@
             "value" : "अ‍ॅप टेक्स्टसाठी भाषा निवडा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप पाठहरूका लागि भाषा चयन गर्नुहोस्"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -12459,6 +13271,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "तुमच्या डिव्हाइसवर फक्त एक भाषा स्थापित आहे. कृपया सेटिंग्जमध्ये अधिक भाषांचे संयोजन स्थापित करा आणि नंतर तुम्ही स्क्राइबच्या वेगवेगळ्या स्थानिकीकरण निवडू शकता."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंको उपकरणमा एउटा मात्र भाषा स्थापना गरिएको छ। कृपया सेटिङ्समा थप भाषाहरू स्थापना गर्नुहोस्।"
           }
         },
         "pt" : {
@@ -12562,6 +13380,12 @@
             "value" : "फक्त एक डिव्हाइस भाषा"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एउटा मात्र उपकरण भाषा"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -12661,6 +13485,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "उच्च रंग कंट्रास्ट"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "उच्च रङ कन्ट्रास्ट"
           }
         },
         "pt" : {
@@ -12764,6 +13594,12 @@
             "value" : "चांगली दृश्यमानता आणि स्पष्ट पाहण्याच्या अनुभवासाठी रंग कंट्रास्ट वाढवा."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सुधारित पहुँच र स्पष्ट देख्ने अनुभवका लागि रङ कन्ट्रास्ट बढाउनुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -12863,6 +13699,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अ‍ॅप टेक्स्टचा आकार वाढवा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप पाठ आकार बढाउनुहोस्"
           }
         },
         "pt" : {
@@ -12966,6 +13808,12 @@
             "value" : "चांगली वाचनीयता मिळवण्यासाठी मेनू टेक्स्टचा आकार वाढवा."
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "राम्रो पठनीयताका लागि मेनु पाठहरूको आकार बढाउनुहोस्।"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -13065,6 +13913,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "अ‍ॅप सेटिंग्ज"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप सेटिङ्स"
           }
         },
         "pt" : {
@@ -13168,6 +14022,12 @@
             "value" : "सेटिंग्ज"
           }
         },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सेटिङ्स"
+          }
+        },
         "pt" : {
           "stringUnit" : {
             "state" : "",
@@ -13264,6 +14124,12 @@
           }
         },
         "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अनुवाद"
+          }
+        },
+        "ne" : {
           "stringUnit" : {
             "state" : "",
             "value" : "अनुवाद"
