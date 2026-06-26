@@ -4869,6 +4869,18 @@
         }
       }
     },
+    "i18n.app.conjugate.app_hint_tooltip" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Download verb data with the menu below to start conjugating verbs."
+          }
+        }
+      }
+    },
     "i18n.app.conjugate.choose_conjugation.select_tense" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -8334,107 +8346,6 @@
         }
       }
     },
-    "i18n.app.settings.app_hint_tooltip" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "توجد إعدادات التطبيق ولوحات المفاتيح اللغوية المثبتة هنا."
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Hier sind die Einstellungen der App und installierte Tastaturen zu finden."
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Οι ρυθμίσεις για την εφαρμογή και τα εγκατεστημένα πληκτρολόγια γλώσσας βρίσκονται εδώ."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Settings for the app and installed language keyboards are found here."
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "La configuración de la aplicación y los teclados de idiomas instalados se encuentran aquí."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Les paramètres de l'application et des claviers linguistiques installés se trouvent ici."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ऐप और इंस्टॉल किए गए भाषा कीबोर्ड की सेटिंग्स यहाँ मिलेंगी।"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Pengaturan aplikasi dan keyboard bahasa yang terpasang bisa ditemukan di sini."
-          }
-        },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ಭಾಷಾ ಕೀಬೋರ್ಡ್‌ಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿದೆ."
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "앱 설정과 설치된 언어 키보드는 여기서 찾을 수 있습니다."
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "अ‍ॅप आणि इंस्टॉल केलेल्या भाषा कीबोर्डची सेटिंग्ज इथे मिळतील."
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "एप र स्थापित भाषा किबोर्डहरूका सेटिङ्स यहाँ पाइन्छ।"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Aqui você encontra as configurações do aplicativo e teclados de idioma instalados."
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Inställningar för appen och installerade tangentbord finns här."
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "பயன்பாடு மற்றும் நிறுவப்பட்ட மொழி விசைப்பலகைகளுக்கான அமைப்புகள் இங்கே காணப்படுகின்றன."
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Uygulama ve yüklenmiş dil klavyelerinin ayarlarını burada bulun."
-          }
-        }
-      }
-    },
     "i18n.app.settings.button_install_keyboards" : {
       "comment" : "",
       "localizations" : {
@@ -8538,6 +8449,120 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Klavye yükle"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.conjugate_app_hint_tooltip" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Settings for the app's language and interface are found here."
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard_app_hint_tooltip" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "توجد إعدادات التطبيق ولوحات المفاتيح اللغوية المثبتة هنا."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Hier sind die Einstellungen der App und installierte Tastaturen zu finden."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Οι ρυθμίσεις για την εφαρμογή και τα εγκατεστημένα πληκτρολόγια γλώσσας βρίσκονται εδώ."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Settings for the app and installed language keyboards are found here."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "La configuración de la aplicación y los teclados de idiomas instalados se encuentran aquí."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Les paramètres de l'application et des claviers linguistiques installés se trouvent ici."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ऐप और इंस्टॉल किए गए भाषा कीबोर्ड की सेटिंग्स यहाँ मिलेंगी।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Pengaturan aplikasi dan keyboard bahasa yang terpasang bisa ditemukan di sini."
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ಭಾಷಾ ಕೀಬೋರ್ಡ್‌ಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿದೆ."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "앱 설정과 설치된 언어 키보드는 여기서 찾을 수 있습니다."
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अ‍ॅप आणि इंस्टॉल केलेल्या भाषा कीबोर्डची सेटिंग्ज इथे मिळतील."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप र स्थापित भाषा किबोर्डहरूका सेटिङ्स यहाँ पाइन्छ।"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Aqui você encontra as configurações do aplicativo e teclados de idioma instalados."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Inställningar för appen och installerade tangentbord finns här."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "பயன்பாடு மற்றும் நிறுவப்பட்ட மொழி விசைப்பலகைகளுக்கான அமைப்புகள் இங்கே காணப்படுகின்றன."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Uygulama ve yüklenmiş dil klavyelerinin ayarlarını burada bulun."
           }
         }
       }
