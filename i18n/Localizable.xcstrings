@@ -1551,6 +1551,114 @@
         }
       }
     },
+    "i18n.app._global.quick_tutorial" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "دليل سريع"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "দ্রুত টিউটোরিয়াল"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Schnelltutorial"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γρήγορο μάθημα"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Quick tutorial"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutorial rápido"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutoriel rapide"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "त्वरित ट्यूटोरियल"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutorial singkat"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ತ್ವರಿತ ಟ್ಯುಟೋರಿಯಲ್"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "빠른 튜토리얼"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "त्वरित ट्युटोरियल"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "छिटो ट्युटोरियल"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutorial rápido"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Snabb genomgång"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "விரைவு பயிற்சி"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Hızlı eğitim"
+          }
+        }
+      }
+    },
     "i18n.app._global.russian" : {
       "comment" : "",
       "localizations" : {
@@ -5313,6 +5421,30 @@
         }
       }
     },
+    "i18n.app.conjugate.verbs_search.copied_to_clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Copied to clipboard"
+          }
+        }
+      }
+    },
+    "i18n.app.conjugate.verbs_search.data_not_in_wikidata" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Data not in Wikidata"
+          }
+        }
+      }
+    },
     "i18n.app.conjugate.verbs_search.placeholder" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -7275,113 +7407,6 @@
         }
       }
     },
-    "i18n.app.installation.button_quick_tutorial" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "دليل سريع"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "দ্রুত টিউটোরিয়াল"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Schnelltutorial"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Γρήγορο μάθημα"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Quick tutorial"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tutorial rápido"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tutoriel rapide"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "त्वरित ट्यूटोरियल"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tutorial singkat"
-          }
-        },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ತ್ವರಿತ ಟ್ಯುಟೋರಿಯಲ್"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "빠른 튜토리얼"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "त्वरित ट्युटोरियल"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "छिटो ट्युटोरियल"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tutorial rápido"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Snabb genomgång"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "விரைவு பயிற்சி"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Hızlı eğitim"
-          }
-        }
-      }
-    },
     "i18n.app.installation.keyboard.keyboard_settings" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -8346,6 +8371,126 @@
         }
       }
     },
+    "i18n.app.keyboard.tutorial.chapters" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutorial chapters"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.description" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "This quick tutorial will show you how to use Scribe to support writing in your second language.\nMake sure you select the desired Scribe keyboard by pressing 🌐 when typing."
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.finish_tutorial" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Finish tutorial"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.next" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Next"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.not_quite" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Not quite! Try writing {expected_word}."
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_annotation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Noun annotation"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_plurals" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Noun plurals"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.start_full_tutorial" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Start full tutorial"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.verb_conjugation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Verb conjugation"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.word_translation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Word translation"
+          }
+        }
+      }
+    },
     "i18n.app.settings.button_install_keyboards" : {
       "comment" : "",
       "localizations" : {
@@ -8467,7 +8612,6 @@
     },
     "i18n.app.settings.keyboard_app_hint_tooltip" : {
       "comment" : "",
-      "extractionState" : "stale",
       "localizations" : {
         "ar" : {
           "stringUnit" : {
@@ -14182,6 +14326,54 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Çeviri"
+          }
+        }
+      }
+    },
+    "i18n.app.share.conjugate.check_out" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Check out Scribe Conjugate!"
+          }
+        }
+      }
+    },
+    "i18n.app.share.conjugate.share_via" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Share Scribe Conjugate via..."
+          }
+        }
+      }
+    },
+    "i18n.app.share.keyboard.check_out" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Check out Scribe!"
+          }
+        }
+      }
+    },
+    "i18n.app.share.keyboard.share_via" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Share Scribe via..."
           }
         }
       }
