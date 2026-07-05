@@ -845,6 +845,30 @@
         }
       }
     },
+    "i18n.app._global.clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clipboard"
+          }
+        }
+      }
+    },
+    "i18n.app._global.copy_to_clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Copy to clipboard"
+          }
+        }
+      }
+    },
     "i18n.app._global.download_data" : {
       "comment" : "",
       "localizations" : {
@@ -8598,18 +8622,6 @@
         }
       }
     },
-    "i18n.app.settings.cancel" : {
-      "comment" : "",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Cancel"
-          }
-        }
-      }
-    },
     "i18n.app.settings.conjugate_app_hint_tooltip" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -14128,7 +14140,19 @@
         }
       }
     },
-    "i18n.app.settings.ok" : {
+    "i18n.app.settings.option.cancel" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.option.ok" : {
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
