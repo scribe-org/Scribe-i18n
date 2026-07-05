@@ -845,30 +845,6 @@
         }
       }
     },
-    "i18n.app._global.clipboard" : {
-      "comment" : "",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Clipboard"
-          }
-        }
-      }
-    },
-    "i18n.app._global.copy_to_clipboard" : {
-      "comment" : "",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Copy to clipboard"
-          }
-        }
-      }
-    },
     "i18n.app._global.download_data" : {
       "comment" : "",
       "localizations" : {
@@ -5001,6 +4977,54 @@
         }
       }
     },
+    "i18n.app.clipboard.clipboard_is_empty" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clipboard is empty"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.copied_to_clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Copied to clipboard"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.copy_to_clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Copy to clipboard"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.title" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clipboard"
+          }
+        }
+      }
+    },
     "i18n.app.conjugate.app_hint_tooltip" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -5441,18 +5465,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Çekimle"
-          }
-        }
-      }
-    },
-    "i18n.app.conjugate.verbs_search.copied_to_clipboard" : {
-      "comment" : "",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Copied to clipboard"
           }
         }
       }
