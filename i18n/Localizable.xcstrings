@@ -8598,6 +8598,18 @@
         }
       }
     },
+    "i18n.app.settings.cancel" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
     "i18n.app.settings.conjugate_app_hint_tooltip" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -14112,6 +14124,42 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Uygulama ayarları"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.ok" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.theme_override_message" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "You are selecting a theme that goes against your system default. Are you sure you want to proceed?"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.theme_override_title" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Theme override"
           }
         }
       }
