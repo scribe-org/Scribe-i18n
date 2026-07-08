@@ -4977,6 +4977,18 @@
         }
       }
     },
+    "i18n.app.clipboard.clear_all" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clear all"
+          }
+        }
+      }
+    },
     "i18n.app.clipboard.clipboard_is_empty" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -4985,6 +4997,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Clipboard is empty"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.close_clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Close clipboard"
           }
         }
       }
