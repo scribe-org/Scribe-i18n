@@ -8570,7 +8570,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Finding the plural of a noun with Scribe is easy. Tap the ➡ Scribe key on the top-left corner of your keyboard, and select {plural}.\n\nThen write the noun you want the plural for, press ▶, and the plural will be returned to you."
+            "value" : "Scribe can easily find the plural of any noun that Wikidata has. Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {plural}.\n\nThen write the noun you want the plural for, press ▶, and the plural will be returned to you."
           }
         }
       }
