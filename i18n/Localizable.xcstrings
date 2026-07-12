@@ -8618,7 +8618,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Let's translate! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {translate}.\n\nThen write the word you want to translate, press ▶, and the translation will be returned to you."
+            "value" : "Scribe can conjugate any verb on Wikidata! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {conjugate}.\n\nWrite the verb you want to conjugate, press ▶, and your will see a table with all the verb tenses. Select the one you need and it will be inserted!"
           }
         }
       }
@@ -8642,7 +8642,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe can conjugate any verb on Wikidata! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {conjugate}.\n\nWrite the verb you want to conjugate, press ▶, and your will see a table with all the verb tenses. Select the one you need and it will be inserted!"
+            "value" : "Let's translate with Wiktionary translations! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {translate}.\n\nThen write the word you want to translate, press ▶, and the translation will be returned to you."
           }
         }
       }
