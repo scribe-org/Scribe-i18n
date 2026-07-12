@@ -11014,30 +11014,6 @@
         }
       }
     },
-    "i18n.app.settings.keyboard.layout.clipboard_on_keyboard" : {
-      "comment" : "",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Clipboard key on keyboard"
-          }
-        }
-      }
-    },
-    "i18n.app.settings.keyboard.layout.clipboard_on_keyboard_description" : {
-      "comment" : "",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Include a key to access the clipboard on the main keyboard."
-          }
-        }
-      }
-    },
     "i18n.app.settings.keyboard.layout.default_currency" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -11896,30 +11872,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Birincil klavye düzeninden aksanlı harf tuşlarını kaldırın."
-          }
-        }
-      }
-    },
-    "i18n.app.settings.keyboard.layout.floating_on_keyboard" : {
-      "comment" : "",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Floating key on keyboard"
-          }
-        }
-      }
-    },
-    "i18n.app.settings.keyboard.layout.floating_on_keyboard_description" : {
-      "comment" : "",
-      "extractionState" : "stale",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Include a key to float the keyboard UI on the main keyboard."
           }
         }
       }
