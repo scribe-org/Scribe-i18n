@@ -8491,6 +8491,18 @@
         }
       }
     },
+    "i18n.app.keyboard.tutorial.non_scribe_keyboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Non-Scribe Keyboard"
+          }
+        }
+      }
+    },
     "i18n.app.keyboard.tutorial.not_quite" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -8515,6 +8527,30 @@
         }
       }
     },
+    "i18n.app.keyboard.tutorial.noun_annotation.instruction_1" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Write the word \"{mother_word}\". Notice the word suggestions that appear on the keyboard's top bar.\n\nThen, press space. You will see the word's gender tag on the keyboard's top bar – in this case, \"{mother_tag}\" for {mother_gender}."
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_annotation.instruction_2" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Now write the word \"{father_word}\" and then press space. The gender tag will be \"{father_tag}\", for {father_gender}."
+          }
+        }
+      }
+    },
     "i18n.app.keyboard.tutorial.noun_plurals" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -8523,6 +8559,30 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Noun plurals"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_plurals.instruction" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe can easily find the plural of any noun that Wikidata has. Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {plural}.\n\nThen write the noun you want the plural for, press ▶, and the plural will be returned to you."
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.select_keyboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Press the 🌐 button to select a Scribe keyboard."
           }
         }
       }
@@ -8551,6 +8611,18 @@
         }
       }
     },
+    "i18n.app.keyboard.tutorial.verb_conjugation.instruction" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe can conjugate any verb on Wikidata! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {conjugate}.\n\nWrite the verb you want to conjugate, press ▶, and your will see a table with all the verb tenses. Select the one you need and it will be inserted!"
+          }
+        }
+      }
+    },
     "i18n.app.keyboard.tutorial.word_translation" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -8559,6 +8631,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Word translation"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.word_translation.instruction" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Let's translate with Wiktionary translations! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {translate}.\n\nThen write the word you want to translate, press ▶, and the translation will be returned to you."
           }
         }
       }
