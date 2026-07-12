@@ -8527,7 +8527,7 @@
         }
       }
     },
-    "i18n.app.keyboard.tutorial.noun_annotation.instruction1" : {
+    "i18n.app.keyboard.tutorial.noun_annotation.instruction_1" : {
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
@@ -8539,7 +8539,7 @@
         }
       }
     },
-    "i18n.app.keyboard.tutorial.noun_annotation.instruction2" : {
+    "i18n.app.keyboard.tutorial.noun_annotation.instruction_2" : {
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {

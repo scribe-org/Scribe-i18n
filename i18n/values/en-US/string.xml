@@ -123,8 +123,8 @@
     <string name="i18n.app.keyboard.tutorial.non_scribe_keyboard">Non-Scribe Keyboard</string>
     <string name="i18n.app.keyboard.tutorial.not_quite">Not quite! Try writing {expected_word}.</string>
     <string name="i18n.app.keyboard.tutorial.noun_annotation">Noun annotation</string>
-    <string name="i18n.app.keyboard.tutorial.noun_annotation.instruction1">Write the word "{mother_word}". Notice the word suggestions that appear on the keyboard\'s top bar.\n\nThen, press space. You will see the word\'s gender tag on the keyboard\'s top bar – in this case, "{mother_tag}" for {mother_gender}.</string>
-    <string name="i18n.app.keyboard.tutorial.noun_annotation.instruction2">Now write the word "{father_word}" and then press space. The gender tag will be "{father_tag}", for {father_gender}.</string>
+    <string name="i18n.app.keyboard.tutorial.noun_annotation.instruction_1">Write the word "{mother_word}". Notice the word suggestions that appear on the keyboard\'s top bar.\n\nThen, press space. You will see the word\'s gender tag on the keyboard\'s top bar – in this case, "{mother_tag}" for {mother_gender}.</string>
+    <string name="i18n.app.keyboard.tutorial.noun_annotation.instruction_2">Now write the word "{father_word}" and then press space. The gender tag will be "{father_tag}", for {father_gender}.</string>
     <string name="i18n.app.keyboard.tutorial.noun_plurals">Noun plurals</string>
     <string name="i18n.app.keyboard.tutorial.noun_plurals.instruction">Finding the plural of a noun with Scribe is easy. Tap the ➡ Scribe key on the top-left corner of your keyboard, and select {plural}.\n\nThen write the noun you want the plural for, press ▶, and the plural will be returned to you.</string>
     <string name="i18n.app.keyboard.tutorial.select_keyboard">Press the 🌐 button to select a Scribe keyboard.</string>
