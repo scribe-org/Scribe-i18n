@@ -5793,6 +5793,18 @@
         }
       }
     },
+    "i18n.app.download.error.no_network" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "No internet connection. Please connect and try again."
+          }
+        }
+      }
+    },
     "i18n.app.download.error.server" : {
       "comment" : "",
       "extractionState" : "stale",

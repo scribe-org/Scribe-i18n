@@ -79,6 +79,7 @@
   "i18n.app.download.error.network": "Network error: {error}",
   "i18n.app.download.error.server": "Server error: {code}",
   "i18n.app.download.error.timeout": "Download timed out",
+  "i18n.app.download.error.no_network": "No internet connection. Please connect and try again.",
   "i18n.app.download.menu_option.conjugate_description": "Add new data to Scribe Conjugate.",
   "i18n.app.download.menu_option.conjugate_download_data": "Download verb data",
   "i18n.app.download.menu_option.conjugate_download_data_start": "Download data to start conjugating!",
