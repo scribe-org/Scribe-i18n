@@ -7,11 +7,11 @@ requires-python = ">=3.12"
 
 dependencies = []
 
-[project.optional-dependencies]
+[dependency-groups]
 dev = [
     # Keep docs dependencies formatted in this way with ruff to allow for upgrades via VS Code extension.
-    "i18n-check>=1.19.2",
-    "prek>=0.3.10",
+    "i18n-check>=1.19.5",
+    "prek>=0.4.9",
 ]
 
 [project.urls]
