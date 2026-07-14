@@ -113,6 +113,7 @@
   "i18n.app.settings.keyboard.translation.select_source.title": "மொழிபெயர்ப்பு மொழி",
   "i18n.app.settings.keyboard.translation.select_source_description": "எந்த மொழியிலிருந்து மொழிபெயர்க்க வேண்டும் என்பதை மாற்றவும்.",
   "i18n.app.settings.keyboard.translation.title": "மொழிபெயர்ப்பு மூல மொழி",
+  "i18n.app.settings.keyboard_app_hint_tooltip": "பயன்பாடு மற்றும் நிறுவப்பட்ட மொழி விசைப்பலகைகளுக்கான அமைப்புகள் இங்கே காணப்படுகின்றன.",
   "i18n.app.settings.menu.app_color_mode": "இருள் முறை",
   "i18n.app.settings.menu.app_color_mode_description": "பயன்பாட்டுக் காட்சியை இருள் முறைக்கு மாற்றவும்.",
   "i18n.app.settings.menu.app_language": "பயன்பாட்டு மொழி",

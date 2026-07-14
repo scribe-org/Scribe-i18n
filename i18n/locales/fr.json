@@ -105,6 +105,7 @@
   "i18n.app.settings.keyboard.translation.select_source.title": "Langue de traduction",
   "i18n.app.settings.keyboard.translation.select_source_description": "Modifier la langue à partir de laquelle la traduction doit être effectuée.",
   "i18n.app.settings.keyboard.translation.title": "Langue source de la traduction",
+  "i18n.app.settings.keyboard_app_hint_tooltip": "Les paramètres de l'application et des claviers linguistiques installés se trouvent ici.",
   "i18n.app.settings.menu.app_color_mode": "Thème sombre",
   "i18n.app.settings.menu.app_color_mode_description": "Modifier l'affichage de l'application en mode sombre.",
   "i18n.app.settings.menu.app_language": "Langue de l'application",

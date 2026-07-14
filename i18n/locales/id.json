@@ -105,6 +105,7 @@
   "i18n.app.settings.keyboard.translation.select_source.title": "Bahasa terjemahan",
   "i18n.app.settings.keyboard.translation.select_source_description": "Ubah bahasa untuk diterjemahkan dari.",
   "i18n.app.settings.keyboard.translation.title": "Bahasa asal terjemahan",
+  "i18n.app.settings.keyboard_app_hint_tooltip": "Pengaturan aplikasi dan keyboard bahasa yang terpasang bisa ditemukan di sini.",
   "i18n.app.settings.menu.app_color_mode": "Mode gelap",
   "i18n.app.settings.menu.app_color_mode_description": "Aktifkan mode gelap untuk tampilan aplikasi.",
   "i18n.app.settings.menu.app_language": "Bahasa aplikasi",

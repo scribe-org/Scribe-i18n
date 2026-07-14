@@ -134,6 +134,7 @@
   "i18n.app.settings.keyboard.translation.select_source.title": "Γλώσσα μετάφρασης",
   "i18n.app.settings.keyboard.translation.select_source_description": "Αλλαγή της γλώσσας από την οποία γίνεται η μετάφραση.",
   "i18n.app.settings.keyboard.translation.title": "Γλώσσα πηγής μετάφρασης",
+  "i18n.app.settings.keyboard_app_hint_tooltip": "Οι ρυθμίσεις για την εφαρμογή και τα εγκατεστημένα πληκτρολόγια γλώσσας βρίσκονται εδώ.",
   "i18n.app.settings.menu.app_color_mode": "Σκοτεινή λειτουργία",
   "i18n.app.settings.menu.app_color_mode_description": "Αλλαγή της εμφάνισης της εφαρμογής σε σκοτεινή λειτουργία.",
   "i18n.app.settings.menu.app_language": "Γλώσσα εφαρμογής",

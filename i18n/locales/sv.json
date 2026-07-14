@@ -105,6 +105,7 @@
   "i18n.app.settings.keyboard.translation.select_source.title": "Språk för översättning",
   "i18n.app.settings.keyboard.translation.select_source_description": "Välj ett språk att översätta ifrån",
   "i18n.app.settings.keyboard.translation.title": "Källspråk för översättning",
+  "i18n.app.settings.keyboard_app_hint_tooltip": "Inställningar för appen och installerade tangentbord finns här.",
   "i18n.app.settings.menu.app_color_mode": "Mörkt läge",
   "i18n.app.settings.menu.app_color_mode_description": "Ändra programmets visning till mörkt läge.",
   "i18n.app.settings.menu.app_language": "App-språk",
