@@ -135,7 +135,6 @@
     <string name="i18n.app.settings.keyboard.translation.select_source.title">अनुवाद भाषा</string>
     <string name="i18n.app.settings.keyboard.translation.select_source_description">जुन भाषाबाट अनुवाद गर्ने हो त्यो बद्ल्नुहोस्।</string>
     <string name="i18n.app.settings.keyboard.translation.title">अनुवाद स्रोत भाषा</string>
-    <string name="i18n.app.settings.keyboard_app_hint_tooltip">एप र स्थापित भाषा किबोर्डहरूका सेटिङ्स यहाँ पाइन्छ।</string>
     <string name="i18n.app.settings.menu.app_color_mode">डार्क मोड</string>
     <string name="i18n.app.settings.menu.app_color_mode_description">एप्लिकेसन प्रदर्शन डार्क मोडमा बद्ल्नुहोस्।</string>
     <string name="i18n.app.settings.menu.app_language">एप भाषा</string>
