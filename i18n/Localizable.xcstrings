@@ -1551,6 +1551,114 @@
         }
       }
     },
+    "i18n.app._global.quick_tutorial" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "دليل سريع"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "দ্রুত টিউটোরিয়াল"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Schnelltutorial"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Γρήγορο μάθημα"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Quick tutorial"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutorial rápido"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutoriel rapide"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "त्वरित ट्यूटोरियल"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutorial singkat"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ತ್ವರಿತ ಟ್ಯುಟೋರಿಯಲ್"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "빠른 튜토리얼"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "त्वरित ट्युटोरियल"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "छिटो ट्युटोरियल"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tutorial rápido"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Snabb genomgång"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "விரைவு பயிற்சி"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Hızlı eğitim"
+          }
+        }
+      }
+    },
     "i18n.app._global.russian" : {
       "comment" : "",
       "localizations" : {
@@ -4869,6 +4977,90 @@
         }
       }
     },
+    "i18n.app.clipboard.clear_all" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clear all"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.clipboard_is_empty" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clipboard is empty"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.close_clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Close clipboard"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.copied_to_clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Copied to clipboard"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.copy_to_clipboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Copy to clipboard"
+          }
+        }
+      }
+    },
+    "i18n.app.clipboard.title" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clipboard"
+          }
+        }
+      }
+    },
+    "i18n.app.conjugate.app_hint_tooltip" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Download verb data with the menu below to start conjugating verbs."
+          }
+        }
+      }
+    },
     "i18n.app.conjugate.choose_conjugation.select_tense" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -5301,6 +5493,18 @@
         }
       }
     },
+    "i18n.app.conjugate.verbs_search.data_not_in_wikidata" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Data not in Wikidata"
+          }
+        }
+      }
+    },
     "i18n.app.conjugate.verbs_search.placeholder" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -5585,6 +5789,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Network error: {error}"
+          }
+        }
+      }
+    },
+    "i18n.app.download.error.no_network" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "No internet connection. Please connect and try again."
           }
         }
       }
@@ -7263,113 +7479,6 @@
         }
       }
     },
-    "i18n.app.installation.button_quick_tutorial" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "دليل سريع"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "দ্রুত টিউটোরিয়াল"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Schnelltutorial"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Γρήγορο μάθημα"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Quick tutorial"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tutorial rápido"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tutoriel rapide"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "त्वरित ट्यूटोरियल"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tutorial singkat"
-          }
-        },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ತ್ವರಿತ ಟ್ಯುಟೋರಿಯಲ್"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "빠른 튜토리얼"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "त्वरित ट्युटोरियल"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "छिटो ट्युटोरियल"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tutorial rápido"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Snabb genomgång"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "விரைவு பயிற்சி"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Hızlı eğitim"
-          }
-        }
-      }
-    },
     "i18n.app.installation.keyboard.keyboard_settings" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -8334,103 +8443,206 @@
         }
       }
     },
-    "i18n.app.settings.app_hint_tooltip" : {
+    "i18n.app.keyboard.tutorial.chapters" : {
       "comment" : "",
+      "extractionState" : "stale",
       "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "توجد إعدادات التطبيق ولوحات المفاتيح اللغوية المثبتة هنا."
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Hier sind die Einstellungen der App und installierte Tastaturen zu finden."
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Οι ρυθμίσεις για την εφαρμογή και τα εγκατεστημένα πληκτρολόγια γλώσσας βρίσκονται εδώ."
-          }
-        },
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Settings for the app and installed language keyboards are found here."
+            "value" : "Tutorial chapters"
           }
-        },
-        "es" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.description" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "La configuración de la aplicación y los teclados de idiomas instalados se encuentran aquí."
+            "value" : "This quick tutorial will show you how to use Scribe to support writing in your second language.\nMake sure you select the desired Scribe keyboard by pressing 🌐 when typing."
           }
-        },
-        "fr" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.finish_tutorial" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Les paramètres de l'application et des claviers linguistiques installés se trouvent ici."
+            "value" : "Finish tutorial"
           }
-        },
-        "hi" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.next" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ऐप और इंस्टॉल किए गए भाषा कीबोर्ड की सेटिंग्स यहाँ मिलेंगी।"
+            "value" : "Next"
           }
-        },
-        "id" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.non_scribe_keyboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Pengaturan aplikasi dan keyboard bahasa yang terpasang bisa ditemukan di sini."
+            "value" : "Non-Scribe Keyboard"
           }
-        },
-        "kn" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.not_quite" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ಭಾಷಾ ಕೀಬೋರ್ಡ್‌ಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿದೆ."
+            "value" : "Not quite! Try writing {expected_word}."
           }
-        },
-        "ko" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_annotation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "앱 설정과 설치된 언어 키보드는 여기서 찾을 수 있습니다."
+            "value" : "Noun annotation"
           }
-        },
-        "mr" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_annotation.instruction_1" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "अ‍ॅप आणि इंस्टॉल केलेल्या भाषा कीबोर्डची सेटिंग्ज इथे मिळतील."
+            "value" : "Write the word \"{mother_word}\". Notice the word suggestions that appear on the keyboard's top bar.\n\nThen, press space. You will see the word's gender tag on the keyboard's top bar – in this case, \"{mother_tag}\" for {mother_gender}."
           }
-        },
-        "ne" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_annotation.instruction_2" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "एप र स्थापित भाषा किबोर्डहरूका सेटिङ्स यहाँ पाइन्छ।"
+            "value" : "Now write the word \"{father_word}\" and then press space. The gender tag will be \"{father_tag}\", for {father_gender}."
           }
-        },
-        "pt" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_plurals" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Aqui você encontra as configurações do aplicativo e teclados de idioma instalados."
+            "value" : "Noun plurals"
           }
-        },
-        "sv" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_plurals.instruction" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Inställningar för appen och installerade tangentbord finns här."
+            "value" : "Scribe can easily find the plural of any noun that Wikidata has. Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {plural}.\n\nThen write the noun you want the plural for, press ▶, and the plural will be returned to you."
           }
-        },
-        "ta" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.select_keyboard" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "பயன்பாடு மற்றும் நிறுவப்பட்ட மொழி விசைப்பலகைகளுக்கான அமைப்புகள் இங்கே காணப்படுகின்றன."
+            "value" : "Press the 🌐 button to select a Scribe keyboard."
           }
-        },
-        "tr" : {
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.start_full_tutorial" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Uygulama ve yüklenmiş dil klavyelerinin ayarlarını burada bulun."
+            "value" : "Start full tutorial"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.verb_conjugation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Verb conjugation"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.verb_conjugation.instruction" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe can conjugate any verb on Wikidata! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {conjugate}.\n\nWrite the verb you want to conjugate, press ▶, and your will see a table with all the verb tenses. Select the one you need and it will be inserted!"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.word_translation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Word translation"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.word_translation.instruction" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Let's translate with Wiktionary translations! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {translate}.\n\nThen write the word you want to translate, press ▶, and the translation will be returned to you."
           }
         }
       }
@@ -8538,6 +8750,119 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Klavye yükle"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.conjugate_app_hint_tooltip" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Settings for the app's language and interface are found here."
+          }
+        }
+      }
+    },
+    "i18n.app.settings.keyboard_app_hint_tooltip" : {
+      "comment" : "",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "توجد إعدادات التطبيق ولوحات المفاتيح اللغوية المثبتة هنا."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Hier sind die Einstellungen der App und installierte Tastaturen zu finden."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Οι ρυθμίσεις για την εφαρμογή και τα εγκατεστημένα πληκτρολόγια γλώσσας βρίσκονται εδώ."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Settings for the app and installed language keyboards are found here."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "La configuración de la aplicación y los teclados de idiomas instalados se encuentran aquí."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Les paramètres de l'application et des claviers linguistiques installés se trouvent ici."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ऐप और इंस्टॉल किए गए भाषा कीबोर्ड की सेटिंग्स यहाँ मिलेंगी।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Pengaturan aplikasi dan keyboard bahasa yang terpasang bisa ditemukan di sini."
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಪ್ಲಿಕೇಶನ್ ಮತ್ತು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿದ ಭಾಷಾ ಕೀಬೋರ್ಡ್‌ಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಇಲ್ಲಿ ಲಭ್ಯವಿದೆ."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "앱 설정과 설치된 언어 키보드는 여기서 찾을 수 있습니다."
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अ‍ॅप आणि इंस्टॉल केलेल्या भाषा कीबोर्डची सेटिंग्ज इथे मिळतील."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एप र स्थापित भाषा किबोर्डहरूका सेटिङ्स यहाँ पाइन्छ।"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Aqui você encontra as configurações do aplicativo e teclados de idioma instalados."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Inställningar för appen och installerade tangentbord finns här."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "பயன்பாடு மற்றும் நிறுவப்பட்ட மொழி விசைப்பலகைகளுக்கான அமைப்புகள் இங்கே காணப்படுகின்றன."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Uygulama ve yüklenmiş dil klavyelerinin ayarlarını burada bulun."
           }
         }
       }
@@ -13947,6 +14272,54 @@
         }
       }
     },
+    "i18n.app.settings.option.cancel" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.option.ok" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "OK"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.theme_override_message" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "You are selecting a theme that goes against your system default. Are you sure you want to proceed?"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.theme_override_title" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Theme override"
+          }
+        }
+      }
+    },
     "i18n.app.settings.title" : {
       "comment" : "",
       "localizations" : {
@@ -14157,6 +14530,54 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Çeviri"
+          }
+        }
+      }
+    },
+    "i18n.app.share.conjugate.check_out" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Check out Scribe Conjugate!"
+          }
+        }
+      }
+    },
+    "i18n.app.share.conjugate.share_via" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Share Scribe Conjugate via..."
+          }
+        }
+      }
+    },
+    "i18n.app.share.keyboard.check_out" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Check out Scribe!"
+          }
+        }
+      }
+    },
+    "i18n.app.share.keyboard.share_via" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Share Scribe via..."
           }
         }
       }
