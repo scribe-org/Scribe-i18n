@@ -845,6 +845,66 @@
         }
       }
     },
+    "i18n.app._global.check" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Check"
+          }
+        }
+      }
+    },
+    "i18n.app._global.clear_all" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clear all"
+          }
+        }
+      }
+    },
+    "i18n.app._global.confirmation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Confirmation"
+          }
+        }
+      }
+    },
+    "i18n.app._global.delete" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Delete"
+          }
+        }
+      }
+    },
+    "i18n.app._global.download" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Download"
+          }
+        }
+      }
+    },
     "i18n.app._global.download_data" : {
       "comment" : "",
       "localizations" : {
@@ -1269,6 +1329,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Almanca"
+          }
+        }
+      }
+    },
+    "i18n.app._global.hint" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Hint"
           }
         }
       }
@@ -4977,14 +5049,134 @@
         }
       }
     },
-    "i18n.app.clipboard.clear_all" : {
+    "i18n.app.about.title_alt_text" : {
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Clear all"
+            "value" : "About tab."
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.back" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Back"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.clear" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Clear"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.copy_conjugation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Copy conjugation"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.expand_tenses" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Expand tenses"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.leading_icon" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Leading icon"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.play_button" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Play button"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.right_arrow" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Right Arrow"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.search" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.trailing_icon" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Trailing icon"
+          }
+        }
+      }
+    },
+    "i18n.app.accessibility.wikimedia_logo" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wikimedia Logo"
           }
         }
       }
@@ -5277,6 +5469,30 @@
         }
       }
     },
+    "i18n.app.conjugate.data_not_present_in_wikidata" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Data not present in Wikidata"
+          }
+        }
+      }
+    },
+    "i18n.app.conjugate.loading_tables" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Loading conjugation tables..."
+          }
+        }
+      }
+    },
     "i18n.app.conjugate.recently_conjugated.title" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -5489,6 +5705,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Çekimle"
+          }
+        }
+      }
+    },
+    "i18n.app.conjugate.title_alt_text" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Conjugate tab."
           }
         }
       }
@@ -8336,6 +8564,18 @@
         }
       }
     },
+    "i18n.app.installation.select_keyboard_alt_text" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Select Keyboard."
+          }
+        }
+      }
+    },
     "i18n.app.installation.title" : {
       "comment" : "",
       "localizations" : {
@@ -8439,6 +8679,90 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Kurulum"
+          }
+        }
+      }
+    },
+    "i18n.app.installation.title_alt_text" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Installation tab."
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.change_keyboard_type" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Change keyboard type"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.command_bar" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Command Bar"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.enter" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Enter"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.scribe_key" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe Key"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.shift" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Shift"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.suggestion" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Suggestion"
           }
         }
       }
@@ -14423,6 +14747,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Ayarlar"
+          }
+        }
+      }
+    },
+    "i18n.app.settings.title_alt_text" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Settings tab."
           }
         }
       }

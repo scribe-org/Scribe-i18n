@@ -225,7 +225,7 @@ The following sets up the [i18n-check](https://github.com/activist-org/i18n-chec
   > First, install `uv` if you don't already have it by following the [official installation guide](https://docs.astral.sh/uv/getting-started/installation/).
 
   ```bash
-  uv sync --all-extras  # create .venv and install all dependencies from uv.lock
+  uv sync --all-groups  # create .venv and install all dependencies from uv.lock
 
   # Unix or macOS:
   source .venv/bin/activate
