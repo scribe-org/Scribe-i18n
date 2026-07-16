@@ -17,7 +17,7 @@ jobs:
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |
-            ## Thank you for the pull request! 💙🩵
+            ## Thank you for the pull request! 💙
 
             The Scribe-i18n team will do our best to address your contribution as soon as we can. The following are some important points:
             - If you're not already a member of our [public Matrix community](https://matrix.to/#/#scribe_community:matrix.org), please consider joining!
