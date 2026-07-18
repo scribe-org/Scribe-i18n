@@ -83,6 +83,12 @@
             "value" : "Android Changelog"
           }
         },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ആൻഡ്രോയിഡ് മാറ്റങ്ങളുടെ ലോഗ്"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -111,6 +117,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Available Data"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ലഭ്യമായ ഡാറ്റ"
           }
         },
         "ne" : {
@@ -143,6 +155,12 @@
             "value" : "Blog Posts"
           }
         },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ബ്ലോഗ് പോസ്റ്റുകൾ"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -173,6 +191,12 @@
             "value" : "Changelog"
           }
         },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "മാറ്റങ്ങളുടെ ലോഗ്"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -195,6 +219,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Conjugate Apps"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "കോൺജുഗേറ്റ് ആപ്പുകൾ"
           }
         },
         "ne" : {
@@ -273,6 +303,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Data Server"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ഡാറ്റാ സെർവർ"
           }
         },
         "ne" : {
@@ -359,6 +395,12 @@
             "value" : "iOS Changelog"
           }
         },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ഐ.ഒ.എസ് മാറ്റങ്ങളുടെ ലോഗ്"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -381,6 +423,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Keyboard Apps"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "കീബോർഡ് ആപ്പുകൾ"
           }
         },
         "ne" : {
@@ -520,6 +568,12 @@
             "value" : "법률"
           }
         },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "നിയമപരം"
+          }
+        },
         "mr" : {
           "stringUnit" : {
             "state" : "",
@@ -572,6 +626,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Our Community"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ഞങ്ങളുടെ സമൂഹം"
           }
         },
         "ne" : {
@@ -854,6 +914,12 @@
             "state" : "",
             "value" : "Check"
           }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "പരിശോധിക്കുക"
+          }
         }
       }
     },
@@ -865,6 +931,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Clear all"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "എല്ലാം മായ്‌ക്കുക"
           }
         }
       }
@@ -878,6 +950,12 @@
             "state" : "",
             "value" : "Confirmation"
           }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "സ്ഥിരീകരണം"
+          }
         }
       }
     },
@@ -889,6 +967,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Delete"
+          }
+        },
+        "ml" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ഇല്ലാതാക്കുക"
           }
         }
       }
