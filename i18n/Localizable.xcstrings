@@ -5140,7 +5140,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "About tab."
+            "value" : "Navigate to the About tab."
           }
         }
       }
@@ -5800,7 +5800,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Conjugate tab."
+            "value" : "Navigate to the Conjugate tab."
           }
         }
       }
@@ -8648,14 +8648,14 @@
         }
       }
     },
-    "i18n.app.installation.select_keyboard_alt_text" : {
+    "i18n.app.installation.select_keyboard_icon_description" : {
       "comment" : "",
       "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Select Keyboard."
+            "value" : "the Select Keyboard icon"
           }
         }
       }
@@ -8774,7 +8774,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Installation tab."
+            "value" : "Navigate to the Installation tab."
           }
         }
       }
@@ -14842,7 +14842,7 @@
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Settings tab."
+            "value" : "Navigate to the Settings tab."
           }
         }
       }
