@@ -12,5 +12,7 @@ repos:
         entry: uv run i18n-check -a
         language: python
         pass_filenames: false
+        files:
+            ^\s*(i18n/|\.i18n-check\.yaml|pyproject\.toml|uv\.lock)
         additional_dependencies:
           - i18n-check
