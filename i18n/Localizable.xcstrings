@@ -8959,6 +8959,18 @@
         }
       }
     },
+    "i18n.app.keyboard.tutorial.noun_annotation.invalid_language" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Noun annotation is not available for {language} as nouns don't have genders. Please proceed to the next tutorial."
+          }
+        }
+      }
+    },
     "i18n.app.keyboard.tutorial.noun_plurals" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -8979,6 +8991,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe can easily find the plural of any noun that Wikidata has. Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {plural}.\n\nThen write the noun you want the plural for, press ▶, and the plural will be returned to you."
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.noun_plurals.invalid_language" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Noun plurals are not available for {language} as nouns don't have grammatical number. Please proceed to the next tutorial."
           }
         }
       }
@@ -9027,6 +9051,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe can conjugate any verb on Wikidata! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {conjugate}.\n\nWrite the verb you want to conjugate, press ▶, and your will see a table with all the verb tenses. Select the one you need and it will be inserted!"
+          }
+        }
+      }
+    },
+    "i18n.app.keyboard.tutorial.verb_conjugation.invalid_language" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Verb conjugation isn't available for {language} as verbs don't have conjugations. Please proceed to the next tutorial."
           }
         }
       }
