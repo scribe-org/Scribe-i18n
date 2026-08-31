@@ -3742,6 +3742,54 @@
         }
       }
     },
+    "i18n.app.about.feedback.rate_description_amazon" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Rate us on Amazon Appstore"
+          }
+        }
+      }
+    },
+    "i18n.app.about.feedback.rate_description_f_droid" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Rate us on F-Droid"
+          }
+        }
+      }
+    },
+    "i18n.app.about.feedback.rate_description_galaxy" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Rate us on Galaxy Store"
+          }
+        }
+      }
+    },
+    "i18n.app.about.feedback.rate_description_google_play" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Rate us on Google Play Store"
+          }
+        }
+      }
+    },
     "i18n.app.about.feedback.rate_scribe" : {
       "comment" : "",
       "localizations" : {
