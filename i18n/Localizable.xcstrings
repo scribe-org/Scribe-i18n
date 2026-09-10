@@ -3634,6 +3634,18 @@
         }
       }
     },
+    "i18n.app.about.feedback.no_browser_found" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "No browser found to open {store} page"
+          }
+        }
+      }
+    },
     "i18n.app.about.feedback.rate_conjugate" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -5266,6 +5278,18 @@
         }
       }
     },
+    "i18n.app.accessibility.go_to_chapter" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Go to {title}"
+          }
+        }
+      }
+    },
     "i18n.app.accessibility.leading_icon" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -5406,6 +5430,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Download verb data with the menu below to start conjugating verbs."
+          }
+        }
+      }
+    },
+    "i18n.app.conjugate.choose_conjugation.all_tenses" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "All tenses"
           }
         }
       }
