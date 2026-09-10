@@ -50,8 +50,8 @@
     <string name="i18n.app.about.community.wikimedia.text_2">Wikidata is a collaboratively edited multilingual knowledge graph hosted by the Wikimedia Foundation. It provides freely available data that anyone can use under a Creative Commons Public Domain license (CC0). Scribe uses language data from Wikidata to provide users with verb conjugations, noun-form annotations, noun plurals, and many other features.</string>
     <string name="i18n.app.about.community.wikimedia.text_3">Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Scribe uses data from Wikipedia to produce autosuggestions by deriving the most common words in a language as well as the most common words that follow them.</string>
     <string name="i18n.app.about.feedback.bug_report">Report a bug</string>
-    <string name="i18n.app.about.feedback.rate_conjugate">Rate Scribe Conjugate</string>
     <string name="i18n.app.about.feedback.no_browser_found">No browser found to open {store} page</string>
+    <string name="i18n.app.about.feedback.rate_conjugate">Rate Scribe Conjugate</string>
     <string name="i18n.app.about.feedback.rate_description_amazon">Rate us on Amazon Appstore</string>
     <string name="i18n.app.about.feedback.rate_description_f_droid">Rate us on F-Droid</string>
     <string name="i18n.app.about.feedback.rate_description_galaxy">Rate us on Galaxy Store</string>
