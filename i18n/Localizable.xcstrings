@@ -35,6 +35,12 @@
             "value" : "परिचय"
           }
         },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ಬಗ್ಗೆ"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -83,6 +89,18 @@
             "value" : "Android Changelog"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एंड्रॉइड चेंजलॉग"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಆಂಡ್ರಾಯ್ಡ್ ಚೇಂಜ್‌ಲಾಗ್"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -117,6 +135,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Available Data"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "उपलब्ध डेटा"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಲಭ್ಯವಿರುವ ದತ್ತಾಂಶ"
           }
         },
         "ml" : {
@@ -155,6 +185,18 @@
             "value" : "Blog Posts"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ब्लॉग पोस्ट"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ಗಳು"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -191,6 +233,18 @@
             "value" : "Changelog"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "चेंजलॉग"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಚೇಂಜ್‌ಲಾಗ್"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -219,6 +273,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Conjugate Apps"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कॉन्जुगेट ऐप्स"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕಾಂಜುಗೇಟ್ ಆ್ಯಪ್‌ಗಳು"
           }
         },
         "ml" : {
@@ -255,6 +321,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "इन्फ्रास्ट्रक्चर"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ದತ್ತಾಂಶ ಹೊರತೆಗೆಯುವಿಕೆ"
           }
         },
         "ml" : {
@@ -305,6 +377,18 @@
             "value" : "Data Server"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा सर्वर"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ದತ್ತಾಂಶ ಸರ್ವರ್"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -345,6 +429,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "छाप"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಚ್ಚು"
           }
         },
         "ml" : {
@@ -395,6 +485,18 @@
             "value" : "iOS Changelog"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "आईओएस चेंजलॉग"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಐಓಎಸ್ ಚೇಂಜ್‌ಲಾಗ್"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -423,6 +525,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Keyboard Apps"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कीबोर्ड ऐप्स"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕೀಬೋರ್ಡ್ ಆ್ಯಪ್‌ಗಳು"
           }
         },
         "ml" : {
@@ -471,6 +585,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "और जानें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
           }
         },
         "ml" : {
@@ -628,6 +748,18 @@
             "value" : "Our Community"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "हमारा समुदाय"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನಮ್ಮ ಸಮುದಾಯ"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -783,6 +915,18 @@
             "value" : "Support Scribe"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe का समर्थन करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ಅನ್ನು ಬೆಂಬಲಿಸಿ"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -823,6 +967,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "समर्थक"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಬೆಂಬಲಿಗರು"
           }
         },
         "ml" : {
@@ -879,6 +1029,12 @@
             "value" : "ट्रेडमार्क नीति"
           }
         },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಟ್ರೇಡ್‌ಮಾರ್ಕ್ ನೀತಿ"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -933,6 +1089,18 @@
             "value" : "Clear all"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सभी साफ़ करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಎಲ್ಲವನ್ನೂ ಅಳಿಸಿ"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -949,6 +1117,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Confirmation"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "पुष्टि"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ದೃಢೀಕರಣ"
           }
         },
         "ml" : {
@@ -969,6 +1149,18 @@
             "value" : "Delete"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "हटाएं"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಳಿಸಿ"
+          }
+        },
         "ml" : {
           "stringUnit" : {
             "state" : "",
@@ -985,6 +1177,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Download"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डाउनलोड करें"
           }
         }
       }
@@ -1426,6 +1624,18 @@
             "state" : "",
             "value" : "Hint"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "संकेत"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಸುಳಿವು"
+          }
         }
       }
     },
@@ -1448,6 +1658,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Indonesian"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इंडोनेशियाई"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಇಂಡೋನೇಷಿಯನ್"
           }
         },
         "ne" : {
@@ -1590,6 +1812,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Norwegian"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "नॉर्वेजियन"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನಾರ್ವೇಜಿಯನ್"
           }
         },
         "ne" : {
@@ -3643,6 +3877,18 @@
             "state" : "",
             "value" : "No browser found to open {store} page"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{store} पेज खोलने के लिए कोई ब्राउज़र नहीं मिला"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{store} ಪುಟ ತೆರೆಯಲು ಯಾವುದೇ ಬ್ರೌಸರ್ ಸಿಗಲಿಲ್ಲ"
+          }
         }
       }
     },
@@ -3763,6 +4009,18 @@
             "state" : "",
             "value" : "Rate us on Amazon Appstore"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अमेज़न ऐपस्टोर पर हमें रेट करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಮೆಜಾನ್ ಆ್ಯಪ್‌ಸ್ಟೋರ್‌ನಲ್ಲಿ ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ"
+          }
         }
       }
     },
@@ -3774,6 +4032,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Rate us on F-Droid"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "एफ-ड्रॉइड पर हमें रेट करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಎಫ್-ಡ್ರಾಯ್ಡ್ ನಲ್ಲಿ ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ"
           }
         }
       }
@@ -3787,6 +4057,18 @@
             "state" : "",
             "value" : "Rate us on Galaxy Store"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "गैलेक्सी स्टोर पर हमें रेट करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಗ್ಯಾಲಕ್ಸಿ ಸ್ಟೋರ್‌ನಲ್ಲಿ ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ"
+          }
         }
       }
     },
@@ -3798,6 +4080,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Rate us on Google Play Store"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "गूगल प्ले स्टोर पर हमें रेट करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಗೂಗಲ್ ಪ್ಲೇ ಸ್ಟೋರ್‌ನಲ್ಲಿ ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ"
           }
         }
       }
@@ -5096,6 +5390,12 @@
             "state" : "",
             "value" : "Additionally, this SERVICE bundles word-prediction dictionaries sourced from the Helium314 aosp-dictionaries project, available at https://codeberg.org/Helium314/aosp-dictionaries. These dictionaries are compiled from openly licensed word lists; the specific lists used by this SERVICE are released primarily under the Creative Commons Attribution 4.0 License (CC BY 4.0), with full per-language source and license details listed in that project's README. The compiled dictionary files themselves are distributed under the GNU General Public License v3.0 (GPL-3.0), available at https://codeberg.org/Helium314/aosp-dictionaries/src/branch/main/LICENSE."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इसके अतिरिक्त, यह SERVICE Helium314 के aosp-dictionaries प्रोजेक्ट से प्राप्त वर्ड-प्रेडिक्शन डिक्शनरी को शामिल करता है, जो https://codeberg.org/Helium314/aosp-dictionaries पर उपलब्ध है। ये डिक्शनरी खुले लाइसेंस वाली शब्द-सूचियों से संकलित की गई हैं; इस SERVICE द्वारा उपयोग की जाने वाली विशिष्ट सूचियाँ मुख्य रूप से Creative Commons Attribution 4.0 License (CC BY 4.0) के अंतर्गत जारी की गई हैं, जिनके प्रत्येक भाषा के पूर्ण स्रोत और लाइसेंस विवरण उस प्रोजेक्ट की README में सूचीबद्ध हैं। संकलित डिक्शनरी फ़ाइलें स्वयं GNU General Public License v3.0 (GPL-3.0) के अंतर्गत वितरित की जाती हैं, जो https://codeberg.org/Helium314/aosp-dictionaries/src/branch/main/LICENSE पर उपलब्ध है।"
+          }
         }
       }
     },
@@ -5107,6 +5407,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "The word-prediction and autocomplete engine used by this SERVICE is based on the dictionary engine from HeliBoard by Helium314, which is itself derived from the Android Open Source Project (AOSP) LatinIME keyboard. HeliBoard is released under a GPL-3.0 license, with this license being available at https://github.com/Helium314/HeliBoard/blob/main/LICENSE."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इस SERVICE द्वारा उपयोग किया जाने वाला वर्ड-प्रेडिक्शन और ऑटोकम्प्लीट इंजन Helium314 के HeliBoard के डिक्शनरी इंजन पर आधारित है, जो स्वयं Android Open Source Project (AOSP) LatinIME कीबोर्ड से व्युत्पन्न है। HeliBoard को GPL-3.0 लाइसेंस के तहत जारी किया गया है, जो https://github.com/Helium314/HeliBoard/blob/main/LICENSE पर उपलब्ध है।"
           }
         }
       }
@@ -5227,6 +5533,18 @@
             "state" : "",
             "value" : "Navigate to the About tab."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अबाउट टैब पर जाएं।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಬೌಟ್ ಟ್ಯಾಬ್‌ಗೆ ಹೋಗಿ."
+          }
         }
       }
     },
@@ -5238,6 +5556,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Back"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "वापस"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಹಿಂದೆ"
           }
         }
       }
@@ -5251,6 +5581,18 @@
             "state" : "",
             "value" : "Clear"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "साफ़ करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಳಿಸಿ"
+          }
         }
       }
     },
@@ -5262,6 +5604,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Copy conjugation"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "संयोजन कॉपी करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ರಿಯಾಪದ ರೂಪ ನಕಲಿಸಿ"
           }
         }
       }
@@ -5287,6 +5641,18 @@
             "state" : "",
             "value" : "Go to {title}"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{title} पर जाएं"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{title} ಗೆ ಹೋಗಿ"
+          }
         }
       }
     },
@@ -5298,6 +5664,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Leading icon"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अग्रणी आइकन"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಪ್ರಮುಖ ಐಕಾನ್"
           }
         }
       }
@@ -5311,6 +5689,12 @@
             "state" : "",
             "value" : "Play button"
           }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಪ್ಲೇ ಬಟನ್"
+          }
         }
       }
     },
@@ -5323,6 +5707,18 @@
             "state" : "",
             "value" : "Right Arrow"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "दायां तीर"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಬಲ ಬಾಣ"
+          }
         }
       }
     },
@@ -5334,6 +5730,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Search"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "खोजें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಹುಡುಕಿ"
           }
         }
       }
@@ -5359,6 +5767,18 @@
             "state" : "",
             "value" : "Wikimedia Logo"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wikimedia लोगो"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wikimedia ಲೋಗೋ"
+          }
         }
       }
     },
@@ -5370,6 +5790,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Clipboard is empty"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्लिपबोर्ड खाली है"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ಖಾಲಿಯಾಗಿದೆ"
           }
         }
       }
@@ -5383,6 +5815,18 @@
             "state" : "",
             "value" : "Close clipboard"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्लिपबोर्ड बंद करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್ ಮುಚ್ಚಿ"
+          }
         }
       }
     },
@@ -5394,6 +5838,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Copied to clipboard"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्लिपबोर्ड पर कॉपी किया गया"
           }
         }
       }
@@ -5407,6 +5857,12 @@
             "state" : "",
             "value" : "Copy to clipboard"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्लिपबोर्ड पर कॉपी करें"
+          }
         }
       }
     },
@@ -5418,6 +5874,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Clipboard"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्लिपबोर्ड"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್"
           }
         }
       }
@@ -5431,6 +5899,18 @@
             "state" : "",
             "value" : "Download verb data with the menu below to start conjugating verbs."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्रिया संयुग्मन शुरू करने के लिए नीचे दिए गए मेनू से क्रिया डेटा डाउनलोड करें।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ರಿಯಾಪದಗಳನ್ನು ಸಂಯೋಜಿಸಲು ಪ್ರಾರಂಭಿಸಲು ಕೆಳಗಿನ ಮೆನುವಿನಿಂದ ಕ್ರಿಯಾಪದ ದತ್ತಾಂಶ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ."
+          }
         }
       }
     },
@@ -5442,6 +5922,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "All tenses"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सभी काल"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಎಲ್ಲಾ ಕಾಲಗಳು"
           }
         }
       }
@@ -5671,6 +6163,18 @@
             "state" : "",
             "value" : "Data not present in Wikidata"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा Wikidata में मौजूद नहीं है"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ವಿಕಿಡೇಟಾದಲ್ಲಿ ದತ್ತಾಂಶ ಲಭ್ಯವಿಲ್ಲ"
+          }
         }
       }
     },
@@ -5682,6 +6186,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Loading conjugation tables..."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "संयोजन तालिकाएं लोड हो रही हैं..।"
           }
         }
       }
@@ -5911,6 +6421,18 @@
             "state" : "",
             "value" : "Navigate to the Conjugate tab."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कॉन्जुगेट टैब पर जाएं।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕಾಂಜುಗೇಟ್ ಟ್ಯಾಬ್‌ಗೆ ಹೋಗಿ."
+          }
         }
       }
     },
@@ -5922,6 +6444,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Data not in Wikidata"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटा Wikidata में नहीं है"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ದತ್ತಾಂಶ Wikidata ನಲ್ಲಿ ಇಲ್ಲ"
           }
         }
       }
@@ -6151,6 +6685,18 @@
             "state" : "",
             "value" : "Database error: {error}"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेटाबेस त्रुटि: {error}"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಡೇಟಾಬೇಸ್ ದೋಷ: {error}"
+          }
         }
       }
     },
@@ -6162,6 +6708,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Decoding failed: {error}"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डिकोडिंग विफल: {error}"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಡಿಕೋಡಿಂಗ್ ವಿಫಲವಾಗಿದೆ: {error}"
           }
         }
       }
@@ -6175,6 +6733,18 @@
             "state" : "",
             "value" : "Download failed: {error}"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डाउनलोड विफल: {error}"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ: {error}"
+          }
         }
       }
     },
@@ -6186,6 +6756,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Invalid server response"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಮಾನ್ಯ ಸರ್ವರ್ ಪ್ರತಿಕ್ರಿಯೆ"
           }
         }
       }
@@ -6199,6 +6775,18 @@
             "state" : "",
             "value" : "Invalid URL"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अमान्य URL"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಅಮಾನ್ಯ URL"
+          }
         }
       }
     },
@@ -6210,6 +6798,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Network error: {error}"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "नेटवर्क त्रुटि: {error}"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನೆಟ್‌ವರ್ಕ್ ದೋಷ: {error}"
           }
         }
       }
@@ -6223,6 +6823,18 @@
             "state" : "",
             "value" : "No internet connection. Please connect and try again."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इंटरनेट कनेक्शन नहीं है। कृपया कनेक्ट करें और फिर से प्रयास करें।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕ ಇಲ್ಲ. ದಯವಿಟ್ಟು ಸಂಪರ್ಕಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ."
+          }
         }
       }
     },
@@ -6235,6 +6847,18 @@
             "state" : "",
             "value" : "Server error: {code}"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सर्वर त्रुटि: {code}"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಸರ್ವರ್ ದೋಷ: {code}"
+          }
         }
       }
     },
@@ -6246,6 +6870,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Download timed out"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डाउनलोड का समय समाप्त हो गया"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಡೌನ್‌ಲೋಡ್ ಸಮಯ ಮುಗಿದಿದೆ"
           }
         }
       }
@@ -7009,6 +7645,18 @@
             "state" : "",
             "value" : "{language} conjugate data is already up to date"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} संयोजन डेटा अद्यतित है"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} ಸಂಯೋಜನೆ ದತ್ತಾಂಶ ಇತ್ತೀಚಿನದ್ದಾಗಿದೆ"
+          }
         }
       }
     },
@@ -7020,6 +7668,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "{language} conjugate data downloaded successfully!"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} संयोजन डेटा सफलतापूर्वक डाउनलोड हो गया!"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} ಸಂಯೋಜನೆ ದತ್ತಾಂಶ ಡೌನ್‌ಲೋಡ್ ಆಗಿದೆ!"
           }
         }
       }
@@ -7141,6 +7801,18 @@
             "state" : "",
             "value" : "{language} data is already up to date"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} डेटा अद्यतित है"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} ದತ್ತಾಂಶ ಇತ್ತೀಚಿನದ್ದಾಗಿದೆ"
+          }
         }
       }
     },
@@ -7152,6 +7824,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "{language} data downloaded successfully!"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} डेटा सफलतापूर्वक डाउनलोड हो गया!"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} ದತ್ತಾಂಶ ಡೌನ್‌ಲೋಡ್ ಆಗಿದೆ!"
           }
         }
       }
@@ -7177,6 +7861,18 @@
             "value" : "Downloading"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डाउनलोड हो रहा है"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -7193,6 +7889,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Already up to date!"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अद्यतित है!"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಇತ್ತೀಚಿನದ್ದಾಗಿದೆ!"
           }
         }
       }
@@ -7325,6 +8033,18 @@
             "value" : "Up to date"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अद्यतित"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಇತ್ತೀಚಿನದ್ದಾಗಿದೆ"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -7349,6 +8069,18 @@
             "value" : "Update"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अपडेट करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನವೀಕರಿಸಿ"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -7364,6 +8096,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Update all"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सभी अपडेट करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಎಲ್ಲವನ್ನೂ ನವೀಕರಿಸಿ"
           }
         }
       }
@@ -7381,6 +8125,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "You currently do not have any Scribe keyboard installed. Please click the Install keyboards button below to install a Scribe keyboard and then come back to download the needed data."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "आपके पास कोई Scribe कीबोर्ड इंस्टॉल नहीं है। कृपया एक Scribe कीबोर्ड इंस्टॉल करने के लिए नीचे दिए गए \"कीबोर्ड इंस्टॉल करें\" बटन पर क्लिक करें और फिर आवश्यक डेटा डाउनलोड करने के लिए वापस आएं।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನಿಮ್ಮ ಬಳಿ ಪ್ರಸ್ತುತ ಯಾವುದೇ Scribe ಕೀಬೋರ್ಡ್ ಇನ್‌ಸ್ಟಾಲ್ ಆಗಿಲ್ಲ. ದಯವಿಟ್ಟು Scribe ಕೀಬೋರ್ಡ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಕೆಳಗಿನ \"ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ\" ಬಟನ್ ಒತ್ತಿ ಮತ್ತು ನಂತರ ಅಗತ್ಯವಿರುವ ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಹಿಂತಿರುಗಿ."
           }
         },
         "ne" : {
@@ -7412,6 +8168,18 @@
             "value" : "Change language"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "भाषा बदलें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಭಾಷೆ ಬದಲಾಯಿಸಿ"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -7433,6 +8201,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "The data you will download will allow you to translate from {source_language} to {target_language}. Do you want to change the language you'll translate  from?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "आप जो डेटा डाउनलोड करेंगे, वह आपको {source_language} से {target_language} में अनुवाद करने में सक्षम बनाएगा। क्या आप वह भाषा बदलना चाहते हैं जिससे आप अनुवाद करेंगे?"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನೀವು ಡೌನ್‌ಲೋಡ್ ಮಾಡುವ ದತ್ತಾಂಶವು ನಿಮಗೆ {source_language} ನಿಂದ {target_language} ಗೆ ಅನುವಾದಿಸಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ನೀವು ಅನುವಾದಿಸುವ ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಲು ಬಯಸುವಿರಾ?"
           }
         },
         "ne" : {
@@ -7462,6 +8242,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Use {source_language}"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{source_language} का उपयोग करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{source_language} ಬಳಸಿ"
           }
         },
         "ne" : {
@@ -8766,6 +9558,12 @@
             "state" : "",
             "value" : "the Select Keyboard icon"
           }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಸೆಲೆಕ್ಟ್ ಕೀಬೋರ್ಡ್ ಐಕಾನ್"
+          }
         }
       }
     },
@@ -8885,6 +9683,18 @@
             "state" : "",
             "value" : "Navigate to the Installation tab."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "इंस्टॉलेशन टैब पर जाएं।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಇನ್‌ಸ್ಟಾಲೇಶನ್ ಟ್ಯಾಬ್‌ಗೆ ಹೋಗಿ."
+          }
         }
       }
     },
@@ -8897,6 +9707,18 @@
             "state" : "",
             "value" : "Change keyboard type"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कीबोर्ड प्रकार बदलें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕೀಬೋರ್ಡ್ ಪ್ರಕಾರ ಬದಲಾಯಿಸಿ"
+          }
         }
       }
     },
@@ -8908,6 +9730,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Command Bar"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कमांड बार"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕಮಾಂಡ್ ಬಾರ್"
           }
         }
       }
@@ -8957,6 +9791,18 @@
             "state" : "",
             "value" : "Suggestion"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सुझाव"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಸಲಹೆ"
+          }
         }
       }
     },
@@ -8968,6 +9814,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Tutorial chapters"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ट्यूटोरियल अध्याय"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಟ್ಯುಟೋರಿಯಲ್ ಅಧ್ಯಾಯಗಳು"
           }
         }
       }
@@ -8981,6 +9839,18 @@
             "state" : "",
             "value" : "This quick tutorial will show you how to use Scribe to support writing in your second language.\n\nMake sure you select the desired Scribe keyboard by pressing 🌐 when typing."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "यह त्वरित ट्यूटोरियल आपको दिखाएगा कि आप अपनी दूसरी भाषा में लिखने में सहायता के लिए Scribe का उपयोग कैसे करें।\n\nटाइप करते समय 🌐 दबाकर सुनिश्चित करें कि आपने वांछित Scribe कीबोर्ड चुना है।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಈ ತ್ವರಿತ ಟ್ಯುಟೋರಿಯಲ್ ನಿಮ್ಮ ಎರಡನೇ ಭಾಷೆಯಲ್ಲಿ ಬರೆಯಲು ಬೆಂಬಲಿಸಲು Scribe ಅನ್ನು ಹೇಗೆ ಬಳಸುವುದು ಎಂಬುದನ್ನು ತೋರಿಸುತ್ತದೆ.\n\nಟೈಪ್ ಮಾಡುವಾಗ 🌐 ಒತ್ತುವ ಮೂಲಕ ನೀವು ಬಯಸಿದ Scribe ಕೀಬೋರ್ಡ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡಿರುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+          }
         }
       }
     },
@@ -8992,6 +9862,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Finish tutorial"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ट्यूटोरियल समाप्त करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಟ್ಯುಟೋರಿಯಲ್ ಮುಗಿಸಿ"
           }
         }
       }
@@ -9005,6 +9887,18 @@
             "state" : "",
             "value" : "Next"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अगला"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಮುಂದೆ"
+          }
         }
       }
     },
@@ -9016,6 +9910,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Non-Scribe Keyboard"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "गैर-Scribe कीबोर्ड"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಸ್ಕ್ರೈಬ್ ಅಲ್ಲದ ಕೀಬೋರ್ಡ್"
           }
         }
       }
@@ -9029,6 +9935,18 @@
             "state" : "",
             "value" : "Not quite! Try writing {expected_word}."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "थोड़ा और प्रयास करें! {expected_word} लिखें।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಸ್ವಲ್ಪ ತಪ್ಪಾಗಿದೆ! {expected_word} ಬರೆಯಲು ಪ್ರಯತ್ನಿಸಿ."
+          }
         }
       }
     },
@@ -9040,6 +9958,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Noun annotation"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "संज्ञा एनोटेशन"
           }
         }
       }
@@ -9053,6 +9977,18 @@
             "state" : "",
             "value" : "Write the word \"{mother_word}\". Notice the word suggestions that appear on the keyboard's top bar.\n\nThen, press space. You will see the word's gender tag on the keyboard's top bar – in this case \"{mother_tag}\" for {mother_gender}."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "शब्द \"{mother_word}\" लिखें। कीबोर्ड की ऊपरी पट्टी पर दिखाई देने वाले शब्द सुझावों पर ध्यान दें।\n\nफिर, स्पेस दबाएं। आपको कीबोर्ड की ऊपरी पट्टी पर शब्द का जेंडर टैग दिखाई देगा – इस मामले में {mother_gender} के लिए \"{mother_tag}\"।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "\"{mother_word}\" ಪದವನ್ನು ಬರೆಯಿರಿ. ಕೀಬೋರ್ಡ್‌ನ ಟಾಪ್ ಬಾರ್‌ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುವ ಪದ ಸಲಹೆಗಳನ್ನು ಗಮನಿಸಿ.\n\nನಂತರ, ಸ್ಪೇಸ್ ಒತ್ತಿ. ನೀವು ಕೀಬೋರ್ಡ್‌ನ ಟಾಪ್ ಬಾರ್‌ನಲ್ಲಿ ಪದದ ಲಿಂಗ ಟ್ಯಾಗ್ ಅನ್ನು ನೋಡುತ್ತೀರಿ – ಈ ಸಂದರ್ಭದಲ್ಲಿ {mother_gender} ಗಾಗಿ \"{mother_tag}\"."
+          }
         }
       }
     },
@@ -9064,6 +10000,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Now write the word \"{father_word}\" and then press space. The gender tag will be \"{father_tag}\" for {father_gender}."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अब \"{father_word}\" शब्द लिखें और फिर स्पेस दबाएँ। {father_gender} के लिए जेंडर टैग \"{father_tag}\" होगा।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಈಗ \"{father_word}\" ಪದವನ್ನು ಬರೆಯಿರಿ ಮತ್ತು ನಂತರ ಸ್ಪೇಸ್ ಒತ್ತಿ. {father_gender} ಗಾಗಿ ಲಿಂಗ ಟ್ಯಾಗ್ \"{father_tag}\" ಆಗಿರುತ್ತದೆ."
           }
         }
       }
@@ -9077,6 +10025,18 @@
             "state" : "",
             "value" : "Noun annotation is not available for {language} as nouns don't have genders. Please proceed to the next tutorial."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} के लिए संज्ञा एनोटेशन उपलब्ध नहीं है क्योंकि संज्ञाओं में लिंग नहीं होते हैं। कृपया अगले ट्यूटोरियल पर आगे बढ़ें।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} ಗೆ ನಾಮಪದ ಟಿಪ್ಪಣಿ ಲಭ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ನಾಮಪದಗಳಿಗೆ ಲಿಂಗಗಳಿಲ್ಲ. ದಯವಿಟ್ಟು ಮುಂದಿನ ಟ್ಯುಟೋರಿಯಲ್‌ಗೆ ಮುಂದುವರಿಯಿರಿ."
+          }
         }
       }
     },
@@ -9088,6 +10048,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Noun plurals"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "संज्ञा बहुवचन"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನಾಮಪದ ಬಹುವಚನ"
           }
         }
       }
@@ -9101,6 +10073,18 @@
             "state" : "",
             "value" : "Scribe can easily find the plural of any noun that Wikidata has. Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {plural}.\n\nThen write the noun you want the plural for, press ▶, and the plural will be returned to you."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe Wikidata में मौजूद किसी भी संज्ञा का बहुवचन आसानी से खोज सकता है। अपने कीबोर्ड के ऊपर-बाएं कोने में पेंसिल जैसी Scribe key पर टैप करें, और {plural} चुनें।\n\nफिर वह संज्ञा लिखें जिसका आप बहुवचन चाहते हैं, ▶ दबाएं, और बहुवचन आपको वापस मिल जाएगा।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wikidata ನಲ್ಲಿರುವ ಯಾವುದೇ ನಾಮಪದದ ಬಹುವಚನವನ್ನು Scribe ಸುಲಭವಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು. ನಿಮ್ಮ ಕೀಬೋರ್ಡ್‌ನ ಮೇಲಿನ-ಎಡ ಮೂಲೆಯಲ್ಲಿರುವ ಪೆನ್ಸಿಲ್‌ನಂತಹ Scribe ಕೀಯನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ, ಮತ್ತು {plural} ಆಯ್ಕೆಮಾಡಿ.\n\nನಂತರ ನೀವು ಬಹುವಚನ ಬಯಸುವ ನಾಮಪದವನ್ನು ಬರೆಯಿರಿ, ▶ ಒತ್ತಿ, ಮತ್ತು ಬಹುವಚನ ನಿಮಗೆ ಸಿಗುತ್ತದೆ."
+          }
         }
       }
     },
@@ -9112,6 +10096,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Noun plurals are not available for {language} as nouns don't have grammatical number. Please proceed to the next tutorial."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} के लिए संज्ञा बहुवचन उपलब्ध नहीं है क्योंकि संज्ञाओं में व्याकरणिक वचन नहीं होता। कृपया अगले ट्यूटोरियल पर आगे बढ़ें।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} ಗೆ ನಾಮಪದ ಬಹುವಚನಗಳು ಲಭ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ನಾಮಪದಗಳಿಗೆ ವ್ಯಾಕರಣ ವಚನ ಇಲ್ಲ. ದಯವಿಟ್ಟು ಮುಂದಿನ ಟ್ಯುಟೋರಿಯಲ್‌ಗೆ ಮುಂದುವರಿಯಿರಿ."
           }
         }
       }
@@ -9125,6 +10121,18 @@
             "state" : "",
             "value" : "Press the 🌐 button to select a Scribe keyboard."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe कीबोर्ड चुनने के लिए 🌐 बटन दबाएं।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ಕೀಬೋರ್ಡ್ ಆಯ್ಕೆ ಮಾಡಲು 🌐 ಬಟನ್ ಒತ್ತಿ."
+          }
         }
       }
     },
@@ -9136,6 +10144,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Start full tutorial"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "पूरा ट्यूटोरियल शुरू करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಪೂರ್ಣ ಟ್ಯುಟೋರಿಯಲ್ ಪ್ರಾರಂಭಿಸಿ"
           }
         }
       }
@@ -9149,6 +10169,18 @@
             "state" : "",
             "value" : "Verb conjugation"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "क्रिया संयोजन"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ರಿಯಾಪದ ಸಂಯೋಜನೆ"
+          }
         }
       }
     },
@@ -9160,6 +10192,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Scribe can conjugate any verb on Wikidata! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {conjugate}.\n\nWrite the verb you want to conjugate, press ▶, and your will see a table with all the verb tenses. Select the one you need and it will be inserted!"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe Wikidata पर किसी भी क्रिया का संयोजन कर सकता है! अपने कीबोर्ड के ऊपर-बाएं कोने में पेंसिल जैसी Scribe की पर टैप करें, और {conjugate} चुनें।\n\nजिस क्रिया का आप संयोजन करना चाहते हैं उसे लिखें, ▶ दबाएं, और आपको सभी क्रिया कालों वाली एक तालिका दिखाई देगी। आपको जो चाहिए उसे चुनें और वह जोड़ दी जाएगी!"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe Wikidata ನಲ್ಲಿ ಯಾವುದೇ ಕ್ರಿಯಾಪದವನ್ನು ಸಂಯೋಜಿಸಬಹುದು! ನಿಮ್ಮ ಕೀಬೋರ್ಡ್‌ನ ಮೇಲಿನ-ಎಡ ಮೂಲೆಯಲ್ಲಿರುವ ಪೆನ್ಸಿಲ್‌ನಂತಹ Scribe ಕೀಯನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ, ಮತ್ತು {conjugate} ಆಯ್ಕೆಮಾಡಿ.\n\nನೀವು ಸಂಯೋಜಿಸಲು ಬಯಸುವ ಕ್ರಿಯಾಪದವನ್ನು ಬರೆಯಿರಿ, ▶ ಒತ್ತಿ, ಮತ್ತು ಎಲ್ಲಾ ಕ್ರಿಯಾಪದ ಕಾಲಗಳ ಕೋಷ್ಟಕವನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ. ನಿಮಗೆ ಬೇಕಾದುದನ್ನು ಆಯ್ಕೆಮಾಡಿ, ಅದು ಸೇರ್ಪಡೆಯಾಗುತ್ತದೆ!"
           }
         }
       }
@@ -9173,6 +10217,18 @@
             "state" : "",
             "value" : "Verb conjugation isn't available for {language} as verbs don't have conjugations. Please proceed to the next tutorial."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} के लिए क्रिया संयोजन उपलब्ध नहीं है क्योंकि क्रियाओं में संयोजन नहीं होते। कृपया अगले ट्यूटोरियल पर आगे बढ़ें।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} ಗೆ ಕ್ರಿಯಾಪದ ಸಂಯೋಜನೆ ಲಭ್ಯವಿಲ್ಲ ಏಕೆಂದರೆ ಕ್ರಿಯಾಪದಗಳಿಗೆ ಸಂಯೋಜನೆಗಳಿಲ್ಲ. ದಯವಿಟ್ಟು ಮುಂದಿನ ಟ್ಯುಟೋರಿಯಲ್‌ಗೆ ಮುಂದುವರಿಯಿರಿ."
+          }
         }
       }
     },
@@ -9185,6 +10241,18 @@
             "state" : "",
             "value" : "Word translation"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "शब्द अनुवाद"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಪದ ಅನುವಾದ"
+          }
         }
       }
     },
@@ -9196,6 +10264,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Let's translate with Wiktionary translations! Tap the pencil-like Scribe key on the top-left corner of your keyboard, and select {translate}.\n\nThen write the word you want to translate, press ▶, and the translation will be returned to you."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "आइए Wiktionary अनुवाद के साथ अनुवाद करें! अपने कीबोर्ड के ऊपर-बाएं कोने में पेंसिल जैसी Scribe की पर टैप करें, और {translate} चुनें।\n\nफिर वह शब्द लिखें जिसका आप अनुवाद करना चाहते हैं, ▶ दबाएं, और अनुवाद आपको वापस मिल जाएगा।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wiktionary ಅನುವಾದಗಳೊಂದಿಗೆ ಅನುವಾದಿಸೋಣ! ನಿಮ್ಮ ಕೀಬೋರ್ಡ್‌ನ ಮೇಲಿನ-ಎಡ ಮೂಲೆಯಲ್ಲಿರುವ ಪೆನ್ಸಿಲ್‌ನಂತಹ Scribe ಕೀಯನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ, ಮತ್ತು {translate} ಆಯ್ಕೆಮಾಡಿ.\n\nನಂತರ ನೀವು ಅನುವಾದಿಸಲು ಬಯಸುವ ಪದವನ್ನು ಬರೆಯಿರಿ, ▶ ಒತ್ತಿ, ಮತ್ತು ಅನುವಾದ ನಿಮಗೆ ಸಿಗುತ್ತದೆ."
           }
         }
       }
@@ -9315,6 +10395,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Settings for the app's language and interface are found here."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ऐप की भाषा और स्वरूप से जुड़ी सेटिंग्स यहां मिलेंगी।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಆ್ಯಪ್‌ನ ಭಾಷೆ ಮತ್ತು ಇಂಟರ್ಫೇಸ್‌ಗೆ ಸಂಬಂಧಿಸಿದ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಇಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ."
           }
         }
       }
@@ -9644,6 +10736,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Auto-space punctuation"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विराम चिह्नों के लिए ऑटो-स्पेस"
           }
         }
       }
@@ -11403,6 +12501,12 @@
             "value" : "Play sound on key press"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "की दबाने पर ध्वनि चलाएं"
+          }
+        },
         "kn" : {
           "stringUnit" : {
             "state" : "",
@@ -12992,6 +14096,18 @@
             "value" : "You've changed your source translation language. Would you like to download new data so that you can translate from {source_language}?"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "आपने अपनी स्रोत अनुवाद भाषा बदल दी है। क्या आप {source_language} से अनुवाद करने के लिए नया डेटा डाउनलोड करना चाहेंगे?"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನೀವು ನಿಮ್ಮ ಮೂಲ ಅನುವಾದ ಭಾಷೆಯನ್ನು ಬದಲಾಯಿಸಿದ್ದೀರಿ. {source_language} ನಿಂದ ಅನುವಾದಿಸಲು ನೀವು ಹೊಸ ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಬಯಸುವಿರಾ?"
+          }
+        },
         "ne" : {
           "stringUnit" : {
             "state" : "",
@@ -13019,6 +14135,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Keep {source_language}"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{source_language} रखें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{source_language} ಇರಿಸಿ"
           }
         },
         "ne" : {
@@ -14870,6 +15998,12 @@
             "state" : "",
             "value" : "OK"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ठीक है"
+          }
         }
       }
     },
@@ -14881,6 +16015,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "You are selecting a theme that goes against your system default. Are you sure you want to proceed?"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "आप एक ऐसी थीम चुन रहे हैं जो आपकी सिस्टम डिफ़ॉल्ट सेटिंग के विपरीत है। क्या आप वाकई आगे बढ़ना चाहते हैं?"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನಿಮ್ಮ ಸಿಸ್ಟಮ್ ಡೀಫಾಲ್ಟ್‌ಗೆ ವಿರುದ್ಧವಾದ ಥೀಮ್ ಅನ್ನು ನೀವು ಆಯ್ಕೆ ಮಾಡುತ್ತಿದ್ದೀರಿ. ನೀವು ಮುಂದುವರಿಯಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?"
           }
         }
       }
@@ -15013,6 +16159,18 @@
             "state" : "",
             "value" : "Navigate to the Settings tab."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "सेटिंग्स टैब पर जाएं।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಟ್ಯಾಬ್‌ಗೆ ಹೋಗಿ."
+          }
         }
       }
     },
@@ -15132,6 +16290,18 @@
             "state" : "",
             "value" : "Check out Scribe Conjugate!"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe कॉन्जुगेट देखें!"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ಕಾಂಜುಗೇಟ್ ನೋಡಿ!"
+          }
         }
       }
     },
@@ -15143,6 +16313,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Share Scribe Conjugate via..."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe कॉन्जुगेट को इसके ज़रिए शेयर करें..।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ಕಾಂಜುಗೇಟ್ ಅನ್ನು ಇದರ ಮೂಲಕ ಹಂಚಿಕೊಳ್ಳಿ.."
           }
         }
       }
@@ -15156,6 +16338,18 @@
             "state" : "",
             "value" : "Check out Scribe!"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe देखें!"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ನೋಡಿ!"
+          }
         }
       }
     },
@@ -15167,6 +16361,18 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Share Scribe via..."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe को इसके ज़रिए शेयर करें..।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ಅನ್ನು ಇದರ ಮೂಲಕ ಹಂಚಿಕೊಳ್ಳಿ..."
           }
         }
       }
