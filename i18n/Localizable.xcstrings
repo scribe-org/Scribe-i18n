@@ -6758,6 +6758,12 @@
             "value" : "Invalid server response"
           }
         },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "अमान्य सर्वर प्रतिक्रिया"
+          }
+        },
         "kn" : {
           "stringUnit" : {
             "state" : "",
@@ -10755,6 +10761,12 @@
             "state" : "",
             "value" : "Automatically adjust spaces around punctuation marks."
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विराम चिह्नों के आसपास स्पेस को स्वचालित रूप से समायोजित करें।"
+          }
         }
       }
     },
@@ -12547,6 +12559,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Have the device play a sound when keys are pressed."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "की दबाने पर डिवाइस से ध्वनि चलवाएं।"
           }
         },
         "kn" : {
@@ -16039,6 +16057,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Theme override"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "थीम ओवरराइड"
           }
         }
       }

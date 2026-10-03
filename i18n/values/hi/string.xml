@@ -99,6 +99,7 @@
     <string name="i18n.app.download.error.database">डेटाबेस त्रुटि: {error}</string>
     <string name="i18n.app.download.error.decoding">डिकोडिंग विफल: {error}</string>
     <string name="i18n.app.download.error.failed">डाउनलोड विफल: {error}</string>
+    <string name="i18n.app.download.error.invalid_response">अमान्य सर्वर प्रतिक्रिया</string>
     <string name="i18n.app.download.error.invalid_url">अमान्य URL</string>
     <string name="i18n.app.download.error.network">नेटवर्क त्रुटि: {error}</string>
     <string name="i18n.app.download.error.no_network">इंटरनेट कनेक्शन नहीं है। कृपया कनेक्ट करें और फिर से प्रयास करें।</string>
@@ -168,6 +169,7 @@
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions">अनोटेट सुझाव/समाप्ति</string>
     <string name="i18n.app.settings.keyboard.functionality.annotate_suggestions_description">टाइप करते समय सुझाव और समाप्ति को रेखांकित करें ताकि उनके लिंग दिख सकें।</string>
     <string name="i18n.app.settings.keyboard.functionality.auto_space_punctuation">विराम चिह्नों के लिए ऑटो-स्पेस</string>
+    <string name="i18n.app.settings.keyboard.functionality.auto_space_punctuation_description">विराम चिह्नों के आसपास स्पेस को स्वचालित रूप से समायोजित करें।</string>
     <string name="i18n.app.settings.keyboard.functionality.auto_suggest_emoji">इमोजी का स्वतः सुझाव दें</string>
     <string name="i18n.app.settings.keyboard.functionality.auto_suggest_emoji_description">अधिक अभिव्यक्तिपूर्ण टाइपिंग के लिए इमोजी सुझाव और समाप्ति चालू करें।</string>
     <string name="i18n.app.settings.keyboard.functionality.default_emoji_tone">डिफ़ॉल्ट इमोजी त्वचा का रंग</string>
@@ -185,6 +187,7 @@
     <string name="i18n.app.settings.keyboard.functionality.punctuation_spacing_description">विराम चिह्नों से पहले अतिरिक्त स्थान हटाएं।</string>
     <string name="i18n.app.settings.keyboard.functionality.title">कार्यक्षमता</string>
     <string name="i18n.app.settings.keyboard.keypress_sound">की दबाने पर ध्वनि चलाएं</string>
+    <string name="i18n.app.settings.keyboard.keypress_sound_description">की दबाने पर डिवाइस से ध्वनि चलवाएं।</string>
     <string name="i18n.app.settings.keyboard.keypress_vibration">की प्रेस पर कंपन करें</string>
     <string name="i18n.app.settings.keyboard.keypress_vibration_description">जब कुंजियाँ दबाई जाती हैं तो डिवाइस कंपन करे।</string>
     <string name="i18n.app.settings.keyboard.layout.default_currency">डिफ़ॉल्ट मुद्रा प्रतीक</string>
@@ -221,6 +224,7 @@
     <string name="i18n.app.settings.menu.title">ऐप सेटिंग्स</string>
     <string name="i18n.app.settings.option.ok">ठीक है</string>
     <string name="i18n.app.settings.theme_override_message">आप एक ऐसी थीम चुन रहे हैं जो आपकी सिस्टम डिफ़ॉल्ट सेटिंग के विपरीत है। क्या आप वाकई आगे बढ़ना चाहते हैं?</string>
+    <string name="i18n.app.settings.theme_override_title">थीम ओवरराइड</string>
     <string name="i18n.app.settings.title">सेटिंग्स</string>
     <string name="i18n.app.settings.title_alt_text">सेटिंग्स टैब पर जाएं।</string>
     <string name="i18n.app.settings.translation">अनुवाद</string>
