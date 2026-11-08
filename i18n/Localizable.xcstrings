@@ -3446,103 +3446,103 @@
         "ar" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "لن يكون Scribe ممكنًا بدون مساهمات لا حصر لها من مساهمي ويكيميديا في العديد من المشاريع التي يدعمونها. على وجه التحديد، يستخدم Scribe بيانات من مجتمع بيانات ويكيدا المعجمية، بالإضافة إلى بيانات من ويكيبديا لكل لغة يدعمها Scribe."
+            "value" : "توفر حركة ويكيميديا موارد مجانية ومفتوحة المصدر، بما في ذلك ويكيبيديا والعديد من مشاريعها الشقيقة. ولم يكن برنامج سكرايب ليُصبح ممكنًا لولا المساهمات القيّمة التي يقدمها مجتمع ويكيميديا للعديد من المشاريع التي يدعمها."
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe সম্ভব হত না যদি না বহু Wikimedia সহযোগীর অবদান এবং তাদের সমর্থিত প্রকল্পগুলো না থাকত। বিশেষ করে Scribe, Wikidata এর লেক্সিকোগ্রাফিক্যাল তথ্যের ব্যবহার করে এবং Scribe দ্বারা সমর্থিত প্রতিটি ভাষার জন্য Wikipedia এর তথ্য ব্যবহার করে।"
+            "value" : "উইকিমিডিয়া আন্দোলন উইকিপিডিয়া এবং এর অনেক সহযোগী প্রকল্প সহ বিনামূল্যে এবং উন্মুক্ত সম্পদ সরবরাহ করে। উইকিমিডিয়া কমিউনিটি তাদের সমর্থিত বিভিন্ন প্রকল্পে যে অগণিত অবদান রাখে, তা ছাড়া স্ক্রাইব সম্ভব হতো না।"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe wäre ohne die etlichen Mitwirkungen von Wikimedia Mitwirkenden, den Projekten, die sie unterstützen, gegenüber, nicht möglich. Scribe benutzt Daten der Lexikografischen Datencommunity in Wikidata, sowie solche von Wikipedia für jede von Scribe unterstützte Sprache."
+            "value" : "Die Wikimedia-Bewegung stellt freie und offene Ressourcen bereit, darunter Wikipedia und ihre zahlreichen Schwesterprojekte. Scribe wäre ohne die unzähligen Beiträge der Wikimedia-Community zu den vielen von ihr unterstützten Projekten nicht möglich."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Το Scribe δεν θα ήταν δυνατό χωρίς τις αμέτρητες συνεισφορές των εθελοντών του Wikimedia στα πολλά έργα που υποστηρίζουν. Το Scribe χρησιμοποιεί δεδομένα από την κοινότητα λεξικογραφικών δεδομένων των Wikidata, καθώς και δεδομένα από τη Wikipedia για κάθε γλώσσα που υποστηρίζει το Scribe."
+            "value" : "Το κίνημα Wikimedia παρέχει ελεύθερους και ανοιχτούς πόρους, συμπεριλαμβανομένης της Wikipedia και των πολλών αδελφικών της εγχειρημάτων. Το Scribe δεν θα ήταν δυνατό χωρίς τις αμέτρητες συνεισφορές της κοινότητας του Wikimedia στα πολλά εγχειρήματα που υποστηρίζει."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe would not be possible without countless contributions by Wikimedia contributors to the many projects that they support. Scribe makes use of data from the Wikidata Lexicographical data community, as well as data from Wikipedia for each language that Scribe supports."
+            "value" : "The Wikimedia movement provides free and open resources including Wikipedia and its many sister projects. Scribe would not be possible without the countless contributions by the Wikimedia community to the many projects that they support."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe no sería posible sin las innumerables contribuciones de los colaboradores de Wikimedia a los numerosos proyectos que apoya. Scribe utiliza datos de la comunidad de datos lexicográficos de Wikidata, así como datos de Wikipedia para cada idioma que Scribe admite."
+            "value" : "El movimiento Wikimedia ofrece recursos gratuitos y abiertos, entre ellos Wikipedia y sus numerosos proyectos hermanos. Scribe no sería posible sin las innumerables contribuciones de la comunidad Wikimedia a los diversos proyectos que respalda."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe ne pourrait pas exister sans les nombreuses contributions des contributeurs de Wikimedia aux nombreux projets qu'ils soutiennent. Scribe utilise les données de la communauté de données lexicographiques Wikidata, ainsi que les données de Wikipédia pour chaque langue prise en charge par Scribe."
+            "value" : "Le mouvement Wikimedia propose des ressources libres et ouvertes, notamment Wikipédia et ses nombreux projets connexes. Scribe ne pourrait exister sans les innombrables contributions apportées par la communauté Wikimedia aux multiples projets qu’elle soutient."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "स्क्राइब विकिमीडिया योगदानकर्ताओं द्वारा समर्थित कई परियोजनाओं में योगदान के बिना संभव नहीं होता। विशेष रूप से स्क्राइब, विकिडेटा शब्दकोशीय डेटा समुदाय से डेटा और स्क्राइब द्वारा समर्थित प्रत्येक भाषा के लिए विकिपीडिया से डेटा का उपयोग करता है।"
+            "value" : "विकिमीडिया मूवमेंट विकिपीडिया और इसके कई सहयोगी प्रोजेक्ट्स सहित मुफ्त और खुले संसाधन उपलब्ध कराता है। विकिमीडिया समुदाय द्वारा उन कई प्रोजेक्ट्स में दिए गए अनगिनत योगदान के बिना 'स्क्राइब' (Scribe) का अस्तित्व संभव नहीं होता।"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe tidak akan mungkin ada tanpa kontribusi yang tak terhitung jumlahnya oleh kontributor Wikimedia dan proyek-proyek yang didukungnya. Secara khusus, Scribe memanfaatkan data dari komunitas data Lexicographical Wikidata, serta data dari Wikipedia untuk setiap bahasa yang didukung oleh Scribe."
+            "value" : "Gerakan Wikimedia menyediakan sumber daya yang bebas dan terbuka, termasuk Wikipedia beserta berbagai proyek pendampingnya. Scribe tidak akan mungkin terwujud tanpa kontribusi tak terhitung jumlahnya dari komunitas Wikimedia terhadap berbagai proyek yang mereka dukung."
           }
         },
         "kn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe, ವಿಕಿಮೀಡಿಯಾ ಕೊಡುಗೆದಾರರು ಅವರು ಬೆಂಬಲಿಸುವ ಅನೇಕ ಯೋಜನೆಗಳಿಗೆ ಮಾಡಿದ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಕೊಡುಗೆಗಳಿಲ್ಲದೆ ಸಾಧ್ಯವಾಗುತ್ತಿರಲಿಲ್ಲ. Scribe, Wikidata Lexicographical data ಸಮುದಾಯದಿಂದ ದತ್ತಾಂಶವನ್ನು, ಹಾಗೆಯೇ Scribe ಬೆಂಬಲಿಸುವ ಪ್ರತಿಯೊಂದು ಭಾಷೆಗೆ ವಿಕಿಪೀಡಿಯಾದಿಂದ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ."
+            "value" : "ವಿಕಿಮೀಡಿಯಾ ಆಂದೋಲನವು ವಿಕಿಪೀಡಿಯಾ ಮತ್ತು ಅದರ ಅನೇಕ ಸಹೋದರಿ ಯೋಜನೆಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಉಚಿತ ಮತ್ತು ಮುಕ್ತ ಸಂಪನ್ಮೂಲಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ. ವಿಕಿಮೀಡಿಯಾ ಸಮುದಾಯವು ಅವರು ಬೆಂಬಲಿಸುವ ಅನೇಕ ಯೋಜನೆಗಳಿಗೆ ಅಸಂಖ್ಯಾತ ಕೊಡುಗೆಗಳನ್ನು ನೀಡದೆ ಸ್ಕ್ರೈಬ್ ಸಾಧ್ಯವಾಗುತ್ತಿರಲಿಲ್ಲ."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe는 수많은 위키미디어 기여자들의 도움 없이는 불가능했을 것입니다. 특히 Scribe는 위키데이터의 어휘 데이터와 Scribe가 지원하는 각 언어의 위키피디아 데이터를 사용하고 있습니다."
+            "value" : "위키미디어 운동은 위키피디아와 그 자매 프로젝트들을 포함한 수많은 무료 공개 리소스를 제공합니다. 스크라이브는 위키미디어 커뮤니티가 지원하는 여러 프로젝트에 대한 수많은 기여가 없었다면 불가능했을 것입니다."
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "विकिमीडिया योगदानकर्त्यांच्या समर्थनाशिवाय स्क्राइब शक्य झाले नसते. विशेषतः स्क्राइब विकिडेटा शब्दकोशीय डेटा आणि विविध भाषांसाठी विकिपीडियाच्या डेटाचा वापर करतो."
+            "value" : "विकिमीडिया चळवळ विकिपीडिया आणि त्याच्या अनेक भगिनी प्रकल्पांसह विनामूल्य आणि मुक्त संसाधने प्रदान करते. विकिमीडिया समुदायाने त्यांच्याद्वारे समर्थित अनेक प्रकल्पांमध्ये दिलेल्या असंख्य योगदानाशिवाय स्क्राइब शक्य झाले नसते."
           }
         },
         "ne" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "विकिमिडिया योगदानकर्ताहरूको अनगिन्ती योगदान बिना स्क्राइब सम्भव हुने थिएन। स्क्राइबले विकिडेटा शब्दकोश डेटा समुदायको डेटा र स्क्राइबले समर्थन गर्ने प्रत्येक भाषाका लागि विकिपिडियाको डेटा उपयोग गर्छ।"
+            "value" : "विकिमिडिया आन्दोलनले विकिपिडिया र यसका धेरै भगिनी परियोजनाहरू सहित नि:शुल्क र खुला स्रोतहरू प्रदान गर्दछ। विकिमिडिया समुदायले उनीहरूले समर्थन गर्ने धेरै परियोजनाहरूमा अनगिन्ती योगदान बिना स्क्राइब सम्भव हुने थिएन।"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "O Scribe não seria possível sem as incontáveis contribuições feitas pelos contribuidores da Wikimedia aos diversos projetos que ela apoia. O Scribe usa dados da comunidade de dados lexográficos da Wikidata, bem como dados da Wikipédia, para cada idioma ofertado pelo Scribe."
+            "value" : "O movimento Wikimedia disponibiliza recursos gratuitos e abertos, incluindo a Wikipédia e seus diversos projetos correlatos. O Scribe não seria possível sem as inúmeras contribuições da comunidade Wikimedia para os muitos projetos que ela apoia."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe skulle inte vara möjligt utan de otaliga bidrag som görs till de olika Wikimedia-projekten. Scribe använder sig av data från Wikidata Lexicographical data gemenskapen, och data från Wikipedia för de olika språk som Scribe stöder."
+            "value" : "Wikimedia-rörelsen tillhandahåller fria och öppna resurser, däribland Wikipedia och dess många systerprojekt. Scribe skulle inte vara möjligt utan de otaliga bidrag som Wikimedia-gemenskapen har gett till de många projekt de stöder."
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "விக்கிமீடியா பங்களிப்பாளர்கள் ஆதரிக்கும் பல திட்டங்களுக்கு செய்த எண்ணற்ற பங்களிப்புகள் இல்லையென்றால் Scribe சாத்தியமாகியிருக்காது. Scribe, விக்கிடேட்டா அகராதி தரவு சமூகத்தின் தரவுகளையும், Scribe ஆதரிக்கும் ஒவ்வொரு மொழிக்கும் விக்கிபீடியாவின் தரவுகளையும் பயன்படுத்துகிறது."
+            "value" : "விக்கிமீடியா இயக்கம், விக்கிப்பீடியா மற்றும் அதன் பல சகோதரத் திட்டங்கள் உட்பட இலவச மற்றும் திறந்த வளங்களை வழங்குகிறது. விக்கிமீடியா சமூகம் தாங்கள் ஆதரிக்கும் பல திட்டங்களுக்கு வழங்கும் எண்ணற்ற பங்களிப்புகள் இல்லாமல் ஸ்க்ரைப் சாத்தியமாகியிருக்காது."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Scribe, Wikimedia projelerine katkıda bulunan sayısız katkıcının desteği olmadan mümkün olamazdı. Scribe, desteklediği her dil için Wikidata Lexicographical veri topluluğundan ve Wikipedia'dan veri kullanır."
+            "value" : "Wikimedia hareketi; Wikipedia ve onun pek çok kardeş projesi dahil olmak üzere ücretsiz ve açık kaynaklar sunar. Scribe, Wikimedia topluluğunun desteklediği sayısız projeye yaptığı paha biçilmez katkılar olmasaydı var olamazdı."
           }
         }
       }
@@ -3553,103 +3553,103 @@
         "ar" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ويكيدا هو رسم بياني متعدد اللغات للمعرفة يتم تحريره بشكل تعاوني ويستضيفه مؤسسة ويكيميديا. يوفر بيانات متاحة للجميع يمكن لأي شخص استخدامها بموجب ترخيص المشاع الإبداعي (CC0). يستخدم Scribe بيانات اللغة من ويكيدا لتزويد المستخدمين بتصريفات الأفعال، وتعليقات شكل الاسم، وجمع الأسماء، والعديد من الميزات الأخرى."
+            "value" : "ويكيدا هو رسم بياني متعدد اللغات للمعرفة يتم تحريره بشكل تعاونويستفيد سكرايب تحديدًا من بيانات مجتمع ويكي بيانات المعجمي، بالإضافة إلى بيانات من ويكشنري لكل لغة يدعمها."
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "উইকিডাটা হলো Wikimedia ফাউন্ডেশন দ্বারা হোস্ট করা একটি সহযোগিতায় সম্পাদিত বহু ভাষার জ্ঞান গ্রাফ। এটি বিনামূল্যে ডেটা সরবরাহ করে যা যে কেউ Creative Commons Public Domain লাইসেন্স (CC0) এর অধীনে ব্যবহার করতে পারে। Scribe ব্যবহারকারীদের ক্রিয়া রূপান্তর, বিশেষ্য রূপের টীকা, বিশেষ্যের বহুবচন এবং আরও অনেক বৈশিষ্ট্য প্রদান করতে Wikidata থেকে ভাষার ডেটা ব্যবহার করে।"
+            "value" : "বিশেষভাবে, স্ক্রাইব উইকিডেটা লেক্সিকোগ্রাফিক্যাল ডেটা কমিউনিটির ডেটা এবং স্ক্রাইব দ্বারা সমর্থিত প্রতিটি ভাষার জন্য উইকশনারির ডেটা ব্যবহার করে।"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikidata ist ein kollaborativ gestalteter, mehrsprachiger Wissensgraf, der von der Wikimedia Foundation gehostet wird. Sie stellt frei verfügbare Daten, die unter einer Creative Commons Public Domain Lizenz (CC0) stehen, zur Verfügung. Scribe benutzt Sprachdaten von Wikidata, um Nutzern Verbkonjugationen, Kasusannotationen, Plurale und viele andere Funktionen zu bieten."
+            "value" : "Konkret nutzt Scribe Daten aus der Community für lexikografische Daten bei Wikidata sowie Daten aus Wiktionary für jede von Scribe unterstützte Sprache."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Τα Wikidata είναι ένα πολύγλωσσο γράφημα γνώσης που επεξεργάζεται συνεργατικά και φιλοξενείται από το Wikimedia Foundation. Παρέχει ελεύθερα διαθέσιμα δεδομένα που ο καθένας μπορεί να χρησιμοποιήσει υπό την άδεια Creative Commons Public Domain (CC0). Το Scribe χρησιμοποιεί γλωσσικά δεδομένα από τα Wikidata για να παρέχει στους χρήστες κλίσεις ρημάτων, σχολιασμούς μορφών ουσιαστικών, πληθυντικούς και πολλές άλλες λειτουργίες."
+            "value" : "Συγκεκριμένα, το Scribe αξιοποιεί δεδομένα από την κοινότητα λεξικογραφικών δεδομένων του Wikidata, καθώς και δεδομένα από το Wiktionary για κάθε γλώσσα που υποστηρίζει το Scribe."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikidata is a collaboratively edited multilingual knowledge graph hosted by the Wikimedia Foundation. It provides freely available data that anyone can use under a Creative Commons Public Domain license (CC0). Scribe uses language data from Wikidata to provide users with verb conjugations, noun-form annotations, noun plurals, and many other features."
+            "value" : "Specifically Scribe makes use of data from the Wikidata Lexicographical data community, as well as data from Wiktionary for each language that Scribe supports."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikidata es un gráfico de conocimiento colaborativo y multilingüe alojado por la Fundación Wikimedia. Proporciona datos disponibles gratuitamente bajo una licencia de dominio público Creative Commons (CC0). Scribe utiliza datos de idioma de Wikidata para proporcionar a los usuarios conjugaciones verbales, anotaciones de casos, plurales y muchas otras características."
+            "value" : "En concreto, Scribe utiliza datos procedentes de la comunidad de datos lexicográficos de Wikidata, así como información de Wikcionario para cada uno de los idiomas que admite."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikidata est un réseau de connaissances multilingues collaboratif hébergé par la fondation Wikimedia. Il fournit des données librement disponibles que chacun peut utiliser sous une licence Creative Commons Public Domain (CC0). Scribe utilise les données linguistiques de Wikidata pour fournir aux utilisateurs des conjugaisons de verbes, des annotations de formes de noms, des pluriels de noms et de nombreuses autres fonctionnalités."
+            "value" : "Plus précisément, Scribe exploite les données issues de la communauté lexicographique de Wikidata, ainsi que celles provenant du Wiktionnaire pour chacune des langues prises en charge par Scribe."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "विकिडेटा एक सहयोगी संपादित बहुभाषीय ज्ञान ग्राफ है जो विकिमीडिया फाउंडेशन द्वारा होस्ट किया गया है। यह स्वतंत्र रूप से उपलब्ध डेटा प्रदान करता है जिसका कोई भी क्रिएटिव कॉमन्स पब्लिक डोमेन लाइसेंस (CC0) के तहत उपयोग कर सकता है। स्क्राइब, उपयोगकर्ताओं को क्रिया रूपांतरण, संज्ञा-फॉर्म एनोटेशन, संज्ञा बहुवचन और कई अन्य विशेषताएं प्रदान करने के लिए विकिडेटा से भाषा डेटा का उपयोग करता है।"
+            "value" : "विशेष रूप से, 'स्क्राइब' विकिडेटा लेक्सिकोग्राफिकल डेटा समुदाय के डेटा का उपयोग करता है। इसके अलावा, 'स्क्राइब' जिन भाषाओं को सपोर्ट करता है, उनके लिए यह विकशनरी (Wiktionary) से भी डेटा लेता है।"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikidata adalah grafik pengetahuan multibahasa yang disunting secara kolaboratif dan diselenggarakan oleh Wikimedia Foundation. Wikidata menyediakan data yang tersedia secara bebas yang dapat digunakan oleh siapa saja di bawah lisensi Creative Commons Public Domain (CC0). Scribe menggunakan data bahasa dari Wikidata untuk menyediakan konjugasi kata kerja, anotasi bentuk kata benda, bentuk jamak kata benda, dan banyak fitur lainnya kepada pengguna."
+            "value" : "Secara khusus, Scribe memanfaatkan data dari komunitas data leksikografis Wikidata, serta data dari Wiktionary untuk setiap bahasa yang didukung oleh Scribe."
           }
         },
         "kn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ವಿಕಿಡೇಟಾವು ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಶನ್ ಮೂಲಕ ಹೋಸ್ಟ್ ಮಾಡಲಾದ ಸಹಯೋಗದಲ್ಲಿ ಸಂಪಾದಿಸಲಾದ ಬಹುಭಾಷಾ ಜ್ಞಾನ ನಕ್ಷೆ. ಇದು ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಪಬ್ಲಿಕ್ ಡೊಮೇನ್ ಲೈಸೆನ್ಸ್ (CC0) ಅಡಿಯಲ್ಲಿ ಯಾರಾದರೂ ಬಳಸಬಹುದಾದ ಉಚಿತ ದತ್ತಾಂಶವನ್ನು ಒದಗಿಸುತ್ತದೆ. Scribe, ಬಳಕೆದಾರರಿಗೆ ಕ್ರಿಯಾ ಸಂಯೋಜನೆಗಳು, ನಾಮಪದ ರೂಪದ ಉಲ್ಲೇಖಗಳು, ನಾಮಪದ ಬಹುವಚನಗಳು ಮತ್ತು ಇತರ ಹಲವು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಒದಗಿಸಲು ವಿಕಿಡೇಟಾದಿಂದ ಭಾಷಾ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ."
+            "value" : "ನಿರ್ದಿಷ್ಟವಾಗಿ ಹೇಳುವುದಾದರೆ ಸ್ಕ್ರೈಬ್ ವಿಕಿಡೇಟಾ ಲೆಕ್ಸಿಕೋಗ್ರಾಫಿಕಲ್ ಡೇಟಾ ಸಮುದಾಯದ ಡೇಟಾವನ್ನು ಹಾಗೂ ಸ್ಕ್ರೈಬ್ ಬೆಂಬಲಿಸುವ ಪ್ರತಿಯೊಂದು ಭಾಷೆಗೆ ವಿಕ್ಷನರಿಯ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "위키데이터는 위키미디어 재단이 운영하는 다국어 협업 지식 그래프 입니다. 누구나 사용할 수 있는 자유로운 데이터로, CC0(Creative Commons Public Domain license) 하에 제공됩니다. Scribe는 위키데이터의 언어 데이터를 활용하여 사용자에게 동사 활용, 명사 형태, 명사 복수형 등 다양한 기능을 제공합니다."
+            "value" : "특히 스크라이브는 위키데이터 사전 데이터 커뮤니티의 데이터와 스크라이브가 지원하는 각 언어에 대한 위키낱말사전 데이터를 활용합니다."
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "विकिडेटा हा विकिमीडिया फाउंडेशनद्वारे होस्ट केलेला एक सहयोगी संपादित बहुभाषिक ज्ञान ग्राफ आहे. याचा डेटा क्रिएटिव्ह कॉमन्स पब्लिक डोमेन (CC0) अंतर्गत उपलब्ध आहे."
+            "value" : "विशेषतः, स्क्राइब समर्थित प्रत्येक भाषेसाठी विकीडेटा लेक्सिकोग्राफिकल डेटा समुदायाकडील डेटा, तसेच विक्टनरीकडील डेटा वापरते."
           }
         },
         "ne" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "विकिडेटा विकिमिडिया फाउन्डेसनद्वारा संचालित सहयोगी रूपमा सम्पादित बहुभाषिक ज्ञान ग्राफ हो। यसले CC0 लाइसेन्स अन्तर्गत स्वतन्त्र रूपमा उपलब्ध डेटा प्रदान गर्छ।"
+            "value" : "विशेष गरी स्क्राइबले विकिडिटाले लेक्सिकोग्राफिकल डेटा समुदायबाट डेटा, साथै स्क्राइबले समर्थन गर्ने प्रत्येक भाषाको लागि विक्शनरीबाट डेटा प्रयोग गर्दछ।"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "A Wikidata é um grafo de conhecimento multilíngue editado colaborativamente e hospedado pela Fundação Wikimedia. A Wikidata fornece dados de uso gratuito por qualquer pessoa sob a licença Creative Commons de Domínio Público (CC0). O Scribe usa dados linguísticos da Wikidata para fornecer aos seus usuários conjugações de verbos, anotações de substantivos, plurais, e muitas outras funcionalidades."
+            "value" : "Especificamente, o Scribe utiliza dados da comunidade de dados lexicográficos do Wikidata, bem como dados do Wikcionário para cada idioma suportado pela ferramenta."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikidata är en flerspråkig kunskapsgraf som underhålls kollektivt. Den hostas av Wikimedia Foundation. Den tillhandahåller data som kan användas under Creative Commons Public Domain-licensen (CC0). Scribe använder sig av språk-relaterad data från Wikidata för att ge användare tillgång till diverse grammatiska funktioner."
+            "value" : "Mer specifikt använder Scribe data från gemenskapen kring lexikografiska data i Wikidata, samt data från Wiktionary för vart och ett av de språk som Scribe stöder."
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "விக்கிடேட்டா என்பது விக்கிமீடியா அறக்கட்டளையால் நடத்தப்படும் கூட்டுறவு முறையில் திருத்தப்படும் பன்மொழி அறிவுக் கோவை ஆகும். இது Creative Commons பொது டொமைன் உரிமம் (CC0) கீழ் எவரும் பயன்படுத்தக்கூடிய இலவச தரவுகளை வழங்குகிறது. Scribe, பயனர்களுக்கு வினைச்சொல் இணைப்புகள், பெயர்ச்சொல் குறிப்புகள், பெயர்ச்சொல் பன்மைகள் மற்றும் பல அம்சங்களை வழங்க விக்கிடேட்டாவின் மொழித் தரவுகளைப் பயன்படுத்துகிறது."
+            "value" : "குறிப்பாக, ஸ்க்ரைப் ஆதரிக்கும் ஒவ்வொரு மொழிக்கும் விக்கிடேட்டா அகராதியியல் தரவு சமூகத்தின் தரவுகளையும், விக்கி அகராதியின் தரவுகளையும் ஸ்க்ரைப் பயன்படுத்துகிறது."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikimedia Vakfı tarafından barındırılan Wikidata, kolaboratif çok dilli bir bilgi grafiğidir. Herkesin ücretsiz olarak kullanabileceği verileri, Creative Commons Kamu Malı lisansı (CC0) altında erişebilir kılar. Scribe, kullanıcılarına fiil çekimleri, isim formları açıklamaları, isim çoğulları ve daha birçok özellik sağlamak için Wikidata'nın dil verilerini kullanır."
+            "value" : "Scribe; özellikle Wikidata'nın sözlükbilimsel (leksikografik) veri topluluğundan ve desteklediği her bir dil için Wiktionary'den sağlanan verilerden yararlanır."
           }
         }
       }
@@ -3660,103 +3660,319 @@
         "ar" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ويكيبيديا هي موسوعة حرة متعددة اللغات عبر الإنترنت، يتم كتابتها وصيانتها من قبل مجتمع من المتطوعين من خلال التعاون المفتوح ونظام تحرير قائم على ويكي. يستخدم Scribe بيانات من ويكيبديا لإنتاج الاقتراحات التلقائية من خلال اشتقاق أكثر الكلمات شيوعًا في لغة ما، بالإضافة إلى أكثر الكلمات شيوعًا التي تتبعها."
+            "value" : "ويكي بيانات عبارة عن رسم بياني معرفي متعدد اللغات يُحرر بشكل تعاوني، وتستضيفه مؤسسة ويكيميديا. ويوفر بيانات متاحة مجانًا يمكن لأي شخص استخدامها بموجب ترخيص المشاع الإبداعي (CC0). ويستخدم سكرايب بيانات اللغة من ويكي بيانات لتزويد المستخدمين بتصريفات الأفعال، وشروح صيغ الأسماء، وجمع الأسماء، والعديد من الميزات الأخرى."
           }
         },
         "bn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "উইকিপিডিয়া হলো একটি বহু ভাষার মুক্ত অনলাইন বিশ্বকোষ, যা স্বেচ্ছাসেবকরা খোলা সহযোগিতার মাধ্যমে এবং একটি উইকি ভিত্তিক সম্পাদনা ব্যবস্থার মাধ্যমে লিখে এবং রক্ষণাবেক্ষণ করে। Scribe, ভাষার মধ্যে সবচেয়ে সাধারণ শব্দ এবং তারপরে আসা সবচেয়ে সাধারণ শব্দগুলো বিশ্লেষণ করে অটো সাজেশন তৈরি করতে Wikipedia এর তথ্য ব্যবহার করে।"
+            "value" : "উইকিডেটা হলো উইকিমিডিয়া ফাউন্ডেশন দ্বারা পরিচালিত একটি সম্মিলিতভাবে সম্পাদিত বহুভাষিক নলেজ গ্রাফ। এটি বিনামূল্যে ব্যবহারযোগ্য ডেটা সরবরাহ করে যা যে কেউ ক্রিয়েটিভ কমন্স পাবলিক ডোমেইন লাইসেন্সের (CC0) অধীনে ব্যবহার করতে পারে। স্ক্রাইব ব্যবহারকারীদের ক্রিয়াপদের রূপান্তর, বিশেষ্যের রূপের টীকা, বিশেষ্যের বহুবচন এবং আরও অনেক বৈশিষ্ট্য সরবরাহ করার জন্য উইকিডেটা থেকে ভাষার ডেটা ব্যবহার করে।"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikipedia ist eine mehrsprachige, freie, Online-Enzyklopädie, die von einer Community an Freiwilligen durch offene Kollaboration und einem Wiki-basierten Bearbeitungssystem geschrieben und aufrechterhalten wird. Scribe nutzt Wikipedia-Daten, um automatische Empfehlungen zu erstellen, indem die häufigsten Wörter und Folgewörter einer Sprache erlangt werden."
+            "value" : "Wikidata ist ein gemeinschaftlich bearbeiteter, mehrsprachiger Wissensgraph, der von der Wikimedia Foundation betrieben wird. Er bietet frei zugängliche Daten, die jede Person unter einer „Creative Commons Public Domain“-Lizenz (CC0) nutzen kann. Scribe verwendet Sprachdaten aus Wikidata, um Nutzern unter anderem Verbkonjugationen, Angaben zu Substantivformen, Pluralformen von Substantiven sowie weitere Funktionen bereitzustellen."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Η Wikipedia είναι μια πολύγλωσση δωρεάν διαδικτυακή εγκυκλοπαίδεια που γράφεται και συντηρείται από μια κοινότητα εθελοντών μέσω ανοιχτής συνεργασίας. Το Scribe χρησιμοποιεί δεδομένα από τη Wikipedia για να παράγει αυτόματες προτάσεις, αντλώντας τις πιο κοινές λέξεις σε μια γλώσσα καθώς και τις πιο κοινές λέξεις που τις ακολουθούν."
+            "value" : "Το Wikidata είναι ένα πολύγλωσσο γράφημα γνώσης, το οποίο διαμορφώνεται μέσω συλλογικής επεξεργασίας και φιλοξενείται από το Ίδρυμα Wikimedia (Wikimedia Foundation). Παρέχει δεδομένα ελεύθερα διαθέσιμα, τα οποία μπορεί να χρησιμοποιήσει ο καθένας υπό την άδεια Creative Commons Public Domain (CC0). Το Scribe χρησιμοποιεί γλωσσικά δεδομένα από το Wikidata για να παρέχει στους χρήστες κλίσεις ρημάτων, πληροφορίες για τους τύπους των ουσιαστικών, πληθυντικούς αριθμούς ουσιαστικών και πολλές άλλες λειτουργίες."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Scribe uses data from Wikipedia to produce autosuggestions by deriving the most common words in a language as well as the most common words that follow them."
+            "value" : "Wikidata is a collaboratively edited multilingual knowledge graph hosted by the Wikimedia Foundation. It provides freely available data that anyone can use under a Creative Commons Public Domain license (CC0).  Scribe uses language data from Wikidata to provide users with verb conjugations, noun-form annotations, noun plurals, and many other features."
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "La Wikipedia es una enciclopedia libre multilingüe escrita y mantenida por una comunidad de voluntarios mediante una colaboración abierta y un sistema de edición basado en wiki. Scribe utiliza datos de la Wikipedia para generar autosugestiones derivando las palabras más comunes de un idioma, así como las palabras más comunes que las siguen."
+            "value" : "Wikidata es un grafo de conocimiento multilingüe, editado de forma colaborativa y alojado por la Fundación Wikimedia. Proporciona datos de libre acceso que cualquier persona puede utilizar bajo una licencia de dominio público de Creative Commons (CC0). Scribe emplea datos lingüísticos de Wikidata para ofrecer a los usuarios conjugaciones verbales, anotaciones sobre formas nominales, plurales de sustantivos y muchas otras funcionalidades."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikipédia est une encyclopédie en ligne multilingue gratuite, rédigée et mise à jour par une communauté de bénévoles grâce à une collaboration libre et à un système d'édition basé sur un wiki. Scribe utilise les données de Wikipedia pour produire des autosuggestions en dérivant les mots les plus courants dans une langue ainsi que les mots les plus courants qui les suivent."
+            "value" : "Wikidata est un graphe de connaissances multilingue, édité de manière collaborative et hébergé par la Wikimedia Foundation. Il met à disposition des données en accès libre, utilisables par tous sous une licence Creative Commons « Domaine public » (CC0). Scribe utilise les données linguistiques de Wikidata pour proposer aux utilisateurs des conjugaisons verbales, des annotations sur les formes nominales, des pluriels de noms, ainsi que bien d’autres fonctionnalités."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "विकिपीडिया एक बहुभाषीय स्वतंत्र ऑनलाइन विश्वकोश है जिसे स्वैच्छिक समुदाय द्वारा ओपन सहयोग और विकि-आधारित संपादन प्रणाली के माध्यम से लिखा और बनाए रखा जाता है। स्क्राइब, भाषा में सबसे सामान्य शब्दों के साथ-साथ उनके बाद आने वाले सबसे सामान्य शब्दों को निकालकर ऑटो-सुझाव उत्पन्न करने के लिए विकिपीडिया से डेटा का उपयोग करता है।"
+            "value" : "विकिडेटा एक बहुभाषी नॉलेज ग्राफ़ है, जिसे विकिमीडिया फाउंडेशन द्वारा होस्ट किया जाता है और जिसे कई लोग मिलकर एडिट करते हैं। यह ऐसा डेटा उपलब्ध कराता है जिसे कोई भी 'क्रिएटिव कॉमन्स पब्लिक डोमेन लाइसेंस' (CC0) के तहत मुफ्त में इस्तेमाल कर सकता है। 'स्क्राइब' विकिडेटा से भाषा संबंधी डेटा का उपयोग करके उपयोगकर्ताओं को क्रिया के रूप (verb conjugations), संज्ञा के रूप, संज्ञा के बहुवचन और कई अन्य सुविधाएँ प्रदान करता है।"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikipedia adalah ensiklopedia multibahasa online gratis yang ditulis dan dikelola oleh komunitas sukarelawan memalui kolaborase terbuka dan sistem penyuntingan berbasis wiki. Scribe menggunakan data dari Wikipedia untuk menghasilkan saran otomatis dengan cara menghasilkan daftar kata yang paling umum dalam suatu bahasa, termasuk kata-kata yang umum muncul setelahnya."
+            "value" : "Wikidata adalah graf pengetahuan multibahasa yang disunting secara kolaboratif dan dikelola oleh Wikimedia Foundation. Wikidata menyediakan data yang dapat diakses secara bebas oleh siapa pun di bawah lisensi Creative Commons Public Domain (CC0). Scribe menggunakan data bahasa dari Wikidata untuk menyajikan informasi seperti konjugasi kata kerja, anotasi bentuk kata benda, bentuk jamak kata benda, dan berbagai fitur lainnya kepada pengguna."
           }
         },
         "kn" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "ವಿಕಿಪೀಡಿಯಾವು ಸ್ವಯಂಸೇವಕರ ಸಮುದಾಯದಿಂದ ಮುಕ್ತ ಸಹಯೋಗ ಮತ್ತು ವಿಕಿ-ಆಧಾರಿತ ಸಂಪಾದನಾ ವ್ಯವಸ್ಥೆಯ ಮೂಲಕ ಬರೆಯಲಾದ ಮತ್ತು ನಿರ್ವಹಿಸಲ್ಪಡುವ ಬಹುಭಾಷಾ ಉಚಿತ ಆನ್‌ಲೈನ್ ಎನ್‌ಸೈಕ್ಲೋಪೀಡಿಯಾ. Scribe, ಒಂದು ಭಾಷೆಯಲ್ಲಿನ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಮತ್ತು ಅವುಗಳನ್ನು ಅನುಸರಿಸುವ ಸಾಮಾನ್ಯ ಪದಗಳನ್ನು ಹುಡುಕುವ ಮೂಲಕ ಸ್ವಯಂ-ಸೂಚನೆಗಳನ್ನು ಸೃಷ್ಟಿಸಲು ವಿಕಿಪೀಡಿಯಾದಿಂದ ದತ್ತಾಂಶವನ್ನು ಬಳಸುತ್ತದೆ."
+            "value" : "ವಿಕಿಡೇಟಾ ಎನ್ನುವುದು ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಶನ್ ಆಯೋಜಿಸಿರುವ ಸಹಯೋಗದಿಂದ ಸಂಪಾದಿಸಲಾದ ಬಹುಭಾಷಾ ಜ್ಞಾನ ಗ್ರಾಫ್ ಆಗಿದೆ. ಇದು ಕ್ರಿಯೇಟಿವ್ ಕಾಮನ್ಸ್ ಪಬ್ಲಿಕ್ ಡೊಮೇನ್ ಪರವಾನಗಿ (CC0) ಅಡಿಯಲ್ಲಿ ಯಾರಾದರೂ ಬಳಸಬಹುದಾದ ಮುಕ್ತವಾಗಿ ಲಭ್ಯವಿರುವ ಡೇಟಾವನ್ನು ಒದಗಿಸುತ್ತದೆ. ಕ್ರಿಯಾಪದ ಸಂಯೋಗಗಳು, ನಾಮಪದ-ರೂಪದ ಟಿಪ್ಪಣಿಗಳು, ನಾಮಪದ ಬಹುವಚನಗಳು ಮತ್ತು ಇತರ ಹಲವು ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಬಳಕೆದಾರರಿಗೆ ಒದಗಿಸಲು ಸ್ಕ್ರೈಬ್ ವಿಕಿಡೇಟಾದಿಂದ ಭಾಷಾ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "위키피디아는 자원봉사자 커뮤니티가 개방형 협업과 위키 기반 편집 시스템을 통해 작성하고 유지하는 다국어 무료 온라인 백과사전입니다. Scribe는 위키피디아의 데이터를 활용하여 언어에서 가장 일반적인 단어와 그 뒤에 오는 가장 일반적인 단어를 기반으로 자동 추천을 생성합니다."
+            "value" : "위키데이터는 위키미디어 재단에서 호스팅하는 협업 편집 방식의 다국어 지식 그래프입니다. 누구나 크리에이티브 커먼즈 퍼블릭 도메인 라이선스(CC0)에 따라 자유롭게 사용할 수 있는 데이터를 제공합니다. 스크라이브는 위키데이터의 언어 데이터를 사용하여 동사 활용형, 명사 형태 주석, 명사 복수형 및 기타 여러 기능을 사용자에게 제공합니다."
           }
         },
         "mr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "विकिपीडिया हे एक बहुभाषिक मुक्त ऑनलाइन विश्वकोश आहे. स्क्राइब शब्दांच्या सुचवण्या करण्यासाठी विकिपीडियाच्या डेटाचा वापर करतो."
+            "value" : "विकीडेटा हा विकिमीडिया फाउंडेशनद्वारे होस्ट केलेला, एकत्रितपणे संपादित केलेला एक बहुभाषिक नॉलेज ग्राफ आहे. तो क्रिएटिव्ह कॉमन्स पब्लिक डोमेन लायसन्स (CC0) अंतर्गत कोणीही वापरू शकेल असा विनामूल्य उपलब्ध डेटा प्रदान करतो. स्क्राइब वापरकर्त्यांना क्रियापदांची रूपे, नामांच्या रूपांवरील भाष्ये, नामांची अनेकवचने आणि इतर अनेक वैशिष्ट्ये प्रदान करण्यासाठी विकिडेटाकडून मिळालेल्या भाषिक डेटाचा वापर करते."
           }
         },
         "ne" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "विकिपिडिया स्वयंसेवकहरूको समुदायद्वारा लेखित र संचालित बहुभाषिक मुक्त ऑनलाइन विश्वकोश हो। स्क्राइबले भाषामा सबैभन्दा सामान्य शब्दहरू निकाल्न विकिपिडियाको डेटा उपयोग गर्छ।"
+            "value" : "विकिडिटाले विकिमिडिया फाउन्डेसनद्वारा होस्ट गरिएको सहयोगी रूपमा सम्पादन गरिएको बहुभाषिक ज्ञान ग्राफ हो। यसले क्रिएटिभ कमन्स पब्लिक डोमेन इजाजतपत्र (CC0) अन्तर्गत जो कोहीले पनि प्रयोग गर्न सक्ने स्वतन्त्र रूपमा उपलब्ध डेटा प्रदान गर्दछ। स्क्राइबले प्रयोगकर्ताहरूलाई क्रिया संयोजन, संज्ञा-रूप एनोटेसन, संज्ञा बहुवचन, र अन्य धेरै सुविधाहरू प्रदान गर्न विकिडिटाको भाषा डेटा प्रयोग गर्दछ।"
           }
         },
         "pt" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "A Wikipédia é uma enciclopédia multilíngue online e gratuita, escrita e mantida por uma comunidade de voluntários através de colaboração aberta e um sistema de edição baseado em wiki. O Scribe usa dados da Wikiédia para fornecer sugestões automáticas das palavras mais comuns em um idioma, bem como as palavras que mais comumente as sucedem."
+            "value" : "O Wikidata é um grafo de conhecimento multilíngue, editado de forma colaborativa e mantido pela Wikimedia Foundation. Ele oferece dados de livre acesso que podem ser utilizados por qualquer pessoa sob uma licença Creative Commons de Domínio Público (CC0). O Scribe emprega dados linguísticos do Wikidata para fornecer aos usuários conjugações verbais, anotações sobre formas nominais, plurais de substantivos e diversas outras funcionalidades."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikipedia är en flerspråkig gratis online-encyklopedi skriven och underhållen av en gemenskap av volontärer genom öppet samarbete och ett wiki-baserat redigeringssystem. Scribe använder data från Wikipedia för att producera autoförslag genom att härleda de vanligaste orden i ett språk samt de vanligaste orden som följer dem."
+            "value" : "Wikidata är en flerspråkig kunskapsgraf som redigeras genom samarbete och som drivs av Wikimedia Foundation. Den tillhandahåller fritt tillgänglig data som vem som helst kan använda under licensen Creative Commons Public Domain (CC0). Scribe använder språkdata från Wikidata för att erbjuda användare verbkonjugationer, information om substantivformer, pluralformer av substantiv och många andra funktioner."
           }
         },
         "ta" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "விக்கிபீடியா என்பது தன்னார்வலர்களின் சமூகத்தால் திறந்த ஒத்துழைப்பு மற்றும் விக்கி-அடிப்படையிலான திருத்தும் முறையின் மூலம் எழுதப்பட்டு பராமரிக்கப்படும் பன்மொழி இலவச ஆன்லைன் கலைக்களஞ்சியம் ஆகும். Scribe, ஒரு மொழியின் மிகவும் பொதுவான சொற்கள் மற்றும் அவற்றைத் தொடரும் மிகவும் பொதுவான சொற்களைக் கண்டறிந்து தானியங்கு பரிந்துரைகளை உருவாக்க விக்கிபீடியாவின் தரவுகளைப் பயன்படுத்துகிறது."
+            "value" : "விக்கிடேட்டா என்பது விக்கிமீடியா அறக்கட்டளையால் நிர்வகிக்கப்படும், கூட்டாகத் தொகுக்கப்படும் ஒரு பன்மொழி அறிவு வரைபடம் ஆகும். இது கிரியேட்டிவ் காமன்ஸ் பொது டொமைன் உரிமத்தின் (CC0) கீழ் யார் வேண்டுமானாலும் பயன்படுத்தக்கூடிய, இலவசமாகக் கிடைக்கும் தரவுகளை வழங்குகிறது. பயனர்களுக்கு வினைச்சொல் இணைப்புகள், பெயர்ச்சொல் வடிவக் குறிப்புகள், பெயர்ச்சொல் பன்மைகள் மற்றும் பல அம்சங்களை வழங்க, ஸ்க்ரைப் விக்கிடேட்டாவிலிருந்து மொழித் தரவுகளைப் பயன்படுத்துகிறது."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "Wikipedia, topluluğu gönüllülerden oluşan ve toplu işbirlik yoluyla yazılan ve sürdürülen, çok dilli bir ücretsiz çevrimiçi ansiklopedidir. Scribe, bir dildeki en yaygın kelimeleri ve onları takip eden en yaygın kelimeleri kullanarak otomatik öneriler üretmek için Wikipedia'dan veri kullanır."
+            "value" : "Wikidata, Wikimedia Vakfı tarafından barındırılan, iş birliğiyle düzenlenen ve çok dilli bir bilgi grafiğidir. Herkesin Creative Commons Kamu Malı lisansı (CC0) altında özgürce kullanabileceği veriler sunar. Scribe; fiil çekimleri, isim biçimi ek açıklamaları, isimlerin çoğul halleri ve daha pek çok özelliği kullanıcılara sunmak için Wikidata'daki dil verilerinden faydalanır."
+          }
+        }
+      }
+    },
+    "i18n.app.about.community.wikimedia.text_4" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ويكشنري عبارة عن قاموس إلكتروني مجاني متعدد اللغات، يُدار من قِبل مجتمع من المتطوعين من خلال التعاون المفتوح ونظام تحرير قائم على نظام ويكي. ويستخدم سكرايب بيانات من ويكشنري لتوفير ترجمات لتطبيقات لوحة مفاتيح اللغة الخاصة به."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "উইকশনারি হলো একটি বহুভাষিক বিনামূল্যের অনলাইন অভিধান যা স্বেচ্ছাসেবকদের একটি কমিউনিটি উন্মুক্ত সহযোগিতা এবং একটি উইকি-ভিত্তিক সম্পাদনা ব্যবস্থার মাধ্যমে রক্ষণাবেক্ষণ করে। স্ক্রাইব তার ভাষা কীবোর্ড অ্যাপ্লিকেশনগুলির জন্য অনুবাদ সরবরাহ করতে উইকশনারি থেকে ডেটা ব্যবহার করে।"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wiktionary ist ein mehrsprachiges, freies Online-Wörterbuch, das von einer Gemeinschaft Freiwilliger durch offene Zusammenarbeit und ein Wiki-basiertes Bearbeitungssystem gepflegt wird. Scribe nutzt Daten aus Wiktionary, um Übersetzungen für die Sprach-Tastatur-Anwendungen von Scribe bereitzustellen."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Το Wiktionary είναι ένα πολύγλωσσο, ελεύθερο διαδικτυακό λεξικό, το οποίο συντηρείται από μια κοινότητα εθελοντών μέσω ανοιχτής συνεργασίας και ενός συστήματος επεξεργασίας βασισμένου στη λογική wiki. Το Scribe χρησιμοποιεί δεδομένα από το Wiktionary για να παρέχει μεταφράσεις για τις εφαρμογές πληκτρολογίου του Scribe."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wiktionary is a multilingual free online dictionary maintained by a community of volunteers through open collaboration and a wiki-based editing system. Scribe uses data from Wiktionary to provide translations for the Scribe language keyboard applications."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wikcionario es un diccionario en línea, gratuito y multilingüe, mantenido por una comunidad de voluntarios mediante la colaboración abierta y un sistema de edición basado en tecnología wiki. Scribe utiliza datos de Wikcionario para proporcionar traducciones en sus aplicaciones de teclado para diversos idiomas."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Le Wiktionnaire est un dictionnaire en ligne multilingue et libre, maintenu par une communauté de bénévoles grâce à une collaboration ouverte et un système d’édition de type wiki. Scribe utilise les données du Wiktionnaire pour fournir des traductions au sein de ses applications de clavier linguistique."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विकशनरी एक बहुभाषी, मुफ्त ऑनलाइन शब्दकोश है। इसे स्वयंसेवकों का एक समुदाय, खुले सहयोग और विकी-आधारित संपादन प्रणाली के माध्यम से संचालित करता है। 'स्क्राइब' अपने भाषा कीबोर्ड एप्लिकेशन के लिए अनुवाद उपलब्ध कराने हेतु विकशनरी के डेटा का उपयोग करता है।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wiktionary adalah kamus daring multibahasa gratis yang dikelola oleh komunitas sukarelawan melalui kolaborasi terbuka dan sistem penyuntingan berbasis wiki. Scribe menggunakan data dari Wiktionary untuk menyediakan terjemahan bagi aplikasi papan ketik bahasa di Scribe."
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ವಿಕ್ಷನರಿ ಎನ್ನುವುದು ಮುಕ್ತ ಸಹಯೋಗ ಮತ್ತು ವಿಕಿ-ಆಧಾರಿತ ಸಂಪಾದನಾ ವ್ಯವಸ್ಥೆಯ ಮೂಲಕ ಸ್ವಯಂಸೇವಕರ ಸಮುದಾಯದಿಂದ ನಿರ್ವಹಿಸಲ್ಪಡುವ ಬಹುಭಾಷಾ ಉಚಿತ ಆನ್‌ಲೈನ್ ನಿಘಂಟಾಗಿದೆ. ಸ್ಕ್ರೈಬ್ ಭಾಷಾ ಕೀಬೋರ್ಡ್ ಅಪ್ಲಿಕೇಶನ್‌ಗಳಿಗೆ ಅನುವಾದಗಳನ್ನು ಒದಗಿಸಲು ಸ್ಕ್ರೈಬ್ ವಿಕ್ಷನರಿಯಿಂದ ಡೇಟಾವನ್ನು ಬಳಸುತ್ತದೆ."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "위키낱말사전은 자원봉사자 커뮤니티가 개방적인 협업과 위키 기반 편집 시스템을 통해 유지 관리하는 다국어 무료 온라인 사전입니다. 스크라이브는 위키낱말사전의 데이터를 사용하여 스크라이브 언어 키보드 애플리케이션에 번역을 제공합니다."
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विक्टनरी हा एक बहुभाषिक विनामूल्य ऑनलाइन शब्दकोश आहे, जो स्वयंसेवकांच्या समुदायाद्वारे मुक्त सहयोग आणि विकी-आधारित संपादन प्रणालीद्वारे सांभाळला जातो. स्क्राइब आपल्या भाषिक कीबोर्ड ॲप्लिकेशन्ससाठी भाषांतरे प्रदान करण्याकरिता विक्टनरीकडील डेटा वापरते."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "विकिडिटाले खुला सहयोग र विकी-आधारित सम्पादन प्रणाली मार्फत स्वयंसेवकहरूको समुदायद्वारा राखिएको बहुभाषिक नि:शुल्क अनलाइन शब्दकोश हो। स्क्राइबले स्क्राइब भाषा किबोर्ड अनुप्रयोगहरूको लागि अनुवाद प्रदान गर्न विक्शनरीबाट डेटा प्रयोग गर्दछ।"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "O Wikcionário é um dicionário online gratuito e multilíngue, mantido por uma comunidade de voluntários por meio de colaboração aberta e um sistema de edição baseado em wiki. O Scribe utiliza dados do Wikcionário para oferecer traduções nos aplicativos de teclado para idiomas do Scribe."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wiktionary är en flerspråkig, fri nätordbok som underhålls av en gemenskap av volontärer genom öppet samarbete och ett wiki-baserat redigeringssystem. Scribe använder data från Wiktionary för att tillhandahålla översättningar i Scribes tangentbordsappar för olika språk."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "விக்கி அகராதி என்பது தன்னார்வலர்கள் சமூகத்தால் திறந்த ஒத்துழைப்பு மற்றும் விக்கி அடிப்படையிலான தொகுப்பு முறை மூலம் பராமரிக்கப்படும் ஒரு பன்மொழி இலவச இணைய அகராதி ஆகும். ஸ்க்ரைப் மொழி விசைப்பலகை பயன்பாடுகளுக்கு மொழிபெயர்ப்புகளை வழங்க, ஸ்க்ரைப் விக்கி அகராதியிலிருந்து தரவுகளைப் பயன்படுத்துகிறது."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Wiktionary; gönüllülerden oluşan bir topluluğun, açık iş birliği ve wiki tabanlı bir düzenleme sistemi aracılığıyla sürdürdüğü, çok dilli ve ücretsiz bir çevrim içi sözlüktür. Scribe, dil klavyesi uygulamalarında çeviriler sunmak için Wiktionary'deki verileri kullanır."
+          }
+        }
+      }
+    },
+    "i18n.app.about.community.wikimedia.text_5" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "يود سكرايب أيضًا أن يشكر مؤسسة ويكيميديا وويكيميديا ألمانيا على دعمهم من خلال برامج التواصل مع المطورين ودعواتهم لتقديم أعمالنا في فعاليات حركة ويكيميديا."
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ডেভেলপার আউটরিচ প্রোগ্রাম এবং উইকিমিডিয়া মুভমেন্ট ইভেন্টগুলিতে আমাদের কাজ উপস্থাপনের আমন্ত্রণের মাধ্যমে সমর্থনের জন্য স্ক্রাইব উইকিমিডিয়া ফাউন্ডেশন এবং উইকিমিডিয়া ডয়েচলান্ডকে ধন্যবাদ জানাতে চায়।"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe möchte zudem der Wikimedia Foundation und Wikimedia Deutschland für ihre Unterstützung danken – etwa durch Programme zur Förderung von Entwicklern sowie durch Einladungen, unsere Arbeit bei Veranstaltungen der Wikimedia-Bewegung zu präsentieren."
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Το Scribe θα ήθελε επίσης να ευχαριστήσει το Ίδρυμα Wikimedia (Wikimedia Foundation) και το Wikimedia Deutschland για την υποστήριξή τους, μέσω προγραμμάτων απευθυνόμενων σε προγραμματιστές, καθώς και για τις προσκλήσεις να παρουσιάσουμε το έργο μας σε εκδηλώσεις του κινήματος Wikimedia."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe would also like to thank Wikimedia Foundation and Wikimedia Deutschland for their support through developer outreach programs and invitations to present our work at Wikimedia movement events."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Asimismo, Scribe desea expresar su agradecimiento a la Fundación Wikimedia y a Wikimedia Deutschland por su apoyo a través de programas de acercamiento a desarrolladores e invitaciones para presentar nuestro trabajo en eventos del movimiento Wikimedia."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe tient également à remercier la Wikimedia Foundation et Wikimedia Deutschland pour leur soutien, manifesté notamment par des programmes destinés aux développeurs et par des invitations à présenter nos travaux lors d’événements liés au mouvement Wikimedia."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "'स्क्राइब' विकिमीडिया फाउंडेशन और विकिमीडिया डॉयचलैंड (Wikimedia Deutschland) को भी धन्यवाद देना चाहता है। उन्होंने 'डेवलपर आउटरीच प्रोग्राम' के ज़रिए और विकिमीडिया मूवमेंट के कार्यक्रमों में हमारे काम को प्रस्तुत करने का अवसर देकर हमारा समर्थन किया है।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe juga ingin menyampaikan terima kasih kepada Wikimedia Foundation dan Wikimedia Deutschland atas dukungan mereka melalui program penjangkauan pengembang serta undangan untuk mempresentasikan karya kami dalam berbagai acara gerakan Wikimedia."
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಡೆವಲಪರ್ ಔಟ್ರೀಚ್ ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು ವಿಕಿಮೀಡಿಯಾ ಆಂದೋಲನ ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ ನಮ್ಮ ಕೆಲಸವನ್ನು ಪ್ರಸ್ತುತಪಡಿಸಲು ಆಹ್ವಾನಗಳ ಮೂಲಕ ಬೆಂಬಲ ನೀಡಿದ್ದಕ್ಕಾಗಿ ಸ್ಕ್ರೈಬ್ ವಿಕಿಮೀಡಿಯಾ ಫೌಂಡೇಶನ್ ಮತ್ತು ವಿಕಿಮೀಡಿಯಾ ಡಾಯ್ಚ್‌ಲ್ಯಾಂಡ್‌ಗೆ ಧನ್ಯವಾದಗಳನ್ನು ಅರ್ಪಿಸುತ್ತಾರೆ."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "스크라이브는 개발자 지원 프로그램과 위키미디어 운동 행사에서 저희의 작업을 발표할 수 있도록 초대해 주신 위키미디어 재단과 위키미디어 독일에도 감사를 표하고 싶습니다."
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "डेव्हलपर आऊटरीच कार्यक्रमांद्वारे दिलेल्या पाठिंब्याबद्दल आणि विकिमीडिया चळवळीच्या कार्यक्रमांमध्ये आमचे कार्य सादर करण्यासाठी दिलेल्या आमंत्रणांबद्दल स्क्राइब विकिमीडिया फाउंडेशन आणि विकिमीडिया डॉइचलँड यांचेही आभार मानू इच्छितो."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "स्क्राइबले विकिमीडिया फाउन्डेसन र विकिमीडिया डचल्याण्डलाई विकासकर्ता आउटरिच कार्यक्रमहरू र विकिमीडिया आन्दोलनका कार्यक्रमहरूमा हाम्रो काम प्रस्तुत गर्न निमन्त्रणा मार्फत उनीहरूको समर्थनको लागि धन्यवाद दिन चाहन्छ।"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "O Scribe também gostaria de agradecer à Wikimedia Foundation e à Wikimedia Deutschland pelo apoio, por meio de programas voltados a desenvolvedores e convites para apresentar nosso trabalho em eventos do movimento Wikimedia."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe vill också rikta ett tack till Wikimedia Foundation och Wikimedia Deutschland för deras stöd genom program riktade till utvecklare, samt för inbjudningar att presentera vårt arbete vid evenemang inom Wikimedia-rörelsen."
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "டெவலப்பர் அவுட்ரீச் திட்டங்கள் மற்றும் விக்கிமீடியா இயக்க நிகழ்வுகளில் எங்கள் படைப்புகளை முன்வைப்பதற்கான அழைப்புகள் மூலம் ஆதரவளித்த விக்கிமீடியா அறக்கட்டளை மற்றும் விக்கிமீடியா ஜெர்மனிக்கும் ஸ்க்ரைப் தனது நன்றியைத் தெரிவித்துக் கொள்கிறது."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ayrıca, geliştirici destek programları aracılığıyla sağladıkları katkılar ve çalışmalarımızı Wikimedia hareketi etkinliklerinde tanıtmamız için yaptıkları davetler nedeniyle Wikimedia Vakfı'na ve Wikimedia Deutschland'a teşekkür eder."
           }
         }
       }
@@ -4786,7 +5002,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "कृपया ध्यान दें कि इस नीति का अंग्रेज़ी संस्करण अन्य सभी संस्करणों पर प्राथमिकता रखता है।\n\nस्क्राइब  डेवलपर्स (स्क्राइब ) ने iOS एप्लिकेशन \"स्क्राइब  - Language भाषा कीबोर्डs\" (सेवा) को एक ओपन-सोर्स एप्लिकेशन के रूप में बनाया। यह सेवा स्क्राइब  द्वारा निःशुल्क प्रदान की जाती है और इसका उपयोग यथास्थिति के आधार पर किया जा सकता है।\n\nयह गोपनीयता नीति (नीति) पाठक को उन नीतियों के बारे में सूचित करने के लिए है जिनका उपयोग इस सेवा (उपयोगकर्ताओं) के उपयोगकर्ताओं की व्यक्तिगत जानकारी (उपयोगकर्ता की सूचना) और उपयोग डेटा (उपयोगकर्ता का डेटा) तक पहुँच, ट्रैकिंग, संग्रह, रखरखाव, उपयोग और प्रकटीकरण के लिए किया जाता है।\n\nउपयोगकर्ता की सूचना को विशेष रूप से उन जानकारी के रूप में परिभाषित किया गया है जो उपयोगकर्ता या उनके द्वारा उपयोग किए जाने वाले उपकरणों से संबंधित होती हैं।\n\nउपयोगकर्ता का डेटा को विशेष रूप से उन पाठों के रूप में परिभाषित किया गया है जिन्हें उपयोगकर्ता इस सेवा का उपयोग करते समय टाइप करते हैं या किए गए क्रियाओं के रूप में परिभाषित किया गया है।\n\n1. नीति वक्तव्य\n\nयह सेवा कोई भी USER उपयोगकर्ता की सूचना या उपयोगकर्ता का डेटा तक पहुँच, ट्रैक, संग्रह, रखरखाव, उपयोग या प्रकटीकरण नहीं करती है।\n\n2. ट्रैक न करें\n\nउपयोगकर्ता जो स्क्राइब  से संपर्क करते हैं और अपनी उपयोगकर्ता की सूचना और उपयोगकर्ता का डेटा को ट्रैक न करने के लिए कहते हैं, उन्हें इस नीति की एक प्रति और सभी स्रोत कोड का लिंक प्रदान किया जाएगा, यह प्रमाण देने के लिए कि उन्हें ट्रैक नहीं किया जा रहा है।\n\n3. तृतीय-पक्ष डेटा\n\nयह सेवा तृतीय-पक्ष डेटा का उपयोग करती है। इस सेवा के निर्माण में उपयोग किया गया सभी डेटा ऐसे स्रोतों से आता है जो इसे इस सेवा द्वारा किए गए उपयोग में अनुमति देते हैं। विशेष रूप से, इस सेवा का डेटा विकिडेटा, विकिपीडिया और यूनिकोड से आता है। विकिडेटा बताता है कि, \"मुख्य, प्रॉपर्टी और लेक्सिम नेमस्पेस में उपलब्ध सभी संरचित डेटा क्रिएटिव कॉमन्स CC0 लाइसेंस के तहत उपलब्ध है; अन्य नेमस्पेस में उपलब्ध टेक्स्ट क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयर अलाइक लाइसेंस के तहत उपलब्ध है।\" विकिडेटा डेटा उपयोग के बारे में नीति https://www.wikidata.org/wiki/Wikidata:Licensing पर पाई जा सकती है। विकिपीडिया बताता है कि टेक्स्ट डेटा, जिसे इस सेवा द्वारा उपयोग किया जाता है, \"… क्रिएटिव कॉमन्स एट्रिब्यूशन शेयर-अलाइक लाइसेंस की शर्तों के तहत उपयोग किया जा सकता है\"। विकिपीडिया डेटा उपयोग के बारे में नीति https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content पर पाई जा सकती है। यूनिकोड यह अनुमति प्रदान करता है, \"… किसी भी व्यक्ति को यूनिकोड डेटा फाइलों और संबंधित दस्तावेज़ीकरण की एक प्रति प्राप्त करने की अनुमति है (\"डेटा फाइल\") या यूनिकोड सॉफ़्टवेयर और संबंधित दस्तावेज़ीकरण (\"सॉफ़्टवेयर\") को बिना किसी प्रतिबंध के उपयोग करने की अनुमति देता है।\" यूनिकोड डेटा उपयोग के बारे में नीति https://www.unicode.org/license.txt पर पाई जा सकती है।\n\n4. तृतीय-पक्ष स्रोत कोड\n\nयह सेवा तृतीय-पक्ष कोड पर आधारित है। इस सेवा के निर्माण में उपयोग किया गया सभी स्रोत कोड ऐसे स्रोतों से आता है जो इसे इस सेवा द्वारा किए गए उपयोग में पूरी तरह से अनुमति देते हैं। विशेष रूप से, इस परियोजना का आधार Ethan Sarif-Kattan द्वारा बनाया गया कस्टम कीबोर्ड प्रोजेक्ट था। कस्टम कीबोर्डकस्टम कीबोर्ड को MIT लाइसेंस के तहत जारी किया गया था, जो https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE पर उपलब्ध है।\n\n5. तृतीय-पक्ष सेवाएं\n\nयह सेवा तृतीय-पक्ष सेवाओं का उपयोग करती है ताकि कुछ तृतीय-पक्ष डेटा को परिवर्तित किया जा सके। विशेष रूप से, डेटा Hugging Face transformers के मॉडल का उपयोग करके अनुवाद किया गया है। यह सेवा Apache License 2.0 के तहत आती है, जो इसके व्यावसायिक उपयोग, संशोधन, वितरण, पेटेंट उपयोग और निजी उपयोग के लिए उपलब्ध है। उपरोक्त सेवा का लाइसेंस https://github.com/huggingface/transformers/blob/master/LICENSE पर पाया जा सकता है।\n\n6. तृतीय-पक्ष लिंक\n\nयह सेवा बाहरी वेबसाइटों के लिंक शामिल करती है। यदि उपयोगकर्ता तृतीय-पक्ष लिंक पर क्लिक करते हैं, तो उन्हें एक वेबसाइट पर निर्देशित किया जाएगा। ध्यान दें कि ये बाहरी वेबसाइटें इस सेवा द्वारा संचालित नहीं हैं। इसलिए, उपयोगकर्ता को इन वेबसाइटों की गोपनीयता नीति की समीक्षा करने की सिफारिश की जाती है। यह सेवा किसी भी तृतीय-पक्ष साइटों या सेवाओं की सामग्री, गोपनीयता नीतियों या प्रथाओं के लिए कोई ज़िम्मेदारी नहीं लेती है।\n\n7. तृतीय-पक्ष छवियां\n\nयह सेवा तृतीय-पक्ष द्वारा कॉपीराइट की गई छवियां शामिल करती है। विशेष रूप से, इस एप में गिटहब, Inc. के लोगो की एक प्रति शामिल है और विकिडेटा का लोगो, जिसे Wikimedia फाउंडेशन, Inc. द्वारा ट्रेडमार्क किया गया है। गिटहब लोगो के उपयोग की शर्तें https://github.com/logos पर पाई जाती हैं, और विकिडेटा लोगो के उपयोग की शर्तें निम्नलिखित Wikimedia पेज पर पाई जाती हैं: https://foundation.wikimedia.org/wiki/Policy:Trademark_policy। यह सेवा कॉपीराइट की गई छवियों का उपयोग उन मानदंडों के अनुसार करती है, जिसमें केवल गिटहब लोगो की एक घुमाव शामिल होती है, जो ओपन-सोर्स समुदाय में यह इंगित करने के लिए सामान्य है कि गिटहब वेबसाइट का लिंक है।\n\n8. सामग्री सूचना\n\nयह सेवा उपयोगकर्ता को भाषाई सामग्री (CONTENT) तक पहुँचने की अनुमति देती है। कुछ CONTENT को बच्चों और नाबालिगों के लिए अनुपयुक्त माना जा सकता है। सेवा का उपयोग करके CONTENT तक पहुँच इस तरह से किया जाता है कि जानकारी तब तक अनुपलब्ध होती है जब तक उसे विशेष रूप से नहीं जाना जाता। विशेष रूप से, उपयोगकर्ता \"शब्दों\" का अनुवाद कर सकते हैं, क्रियाओं को संयोजित कर सकते हैं और CONTENT की अन्य व्याकरणिक विशेषताओं तक पहुँच सकते हैं, जो यौन, हिंसक या अन्यथा अनुचित प्रकृति की हो सकती है। उपयोगकर्ता \"ऐसी सामग्री\" का अनुवाद नहीं कर सकते, क्रियाओं को संयोजित नहीं कर सकते और CONTENT की अन्य व्याकरणिक विशेषताओं तक पहुँच नहीं सकते, जब तक वे पहले से CONTENT की प्रकृति के बारे में नहीं जानते हों। स्क्राइब  ऐसी सामग्री तक पहुँच की ज़िम्मेदारी नहीं लेता है।\n\n9. परिवर्तन\n\nयह नीति परिवर्तन के अधीन है। इस नीति में किए गए अपडेट सभी पिछले संस्करणों को प्रतिस्थापित करेंगे, और यदि इसे महत्वपूर्ण माना गया, तो यह अगले संबंधित अपडेट में स्पष्ट रूप से उल्लिखित होगा। स्क्राइब  उपयोगकर्ता को हमारी गोपनीयता प्रथाओं पर नवीनतम जानकारी के लिए समय-समय पर इस नीति की समीक्षा करने और किसी भी परिवर्तन से परिचित होने के लिए प्रोत्साहित करता है।\n\n10. संपर्क करें\n\nयदि आपके कोई प्रश्न, चिंताएँ, या सुझाव हैं तो कृपया https://github.com/scribe-org पर जाएँ या स्क्राइब  से security[at]scri.be पर संपर्क करें। ऐसे पूछताछ के लिए जिम्मेदार व्यक्ति Andrew Tavis McAllister हैं।\n\n11. प्रभावी तिथि\n\nयह नीति 24 मई, 2022 से प्रभावी है।"
+            "value" : "कृपया ध्यान दें कि इस नीति का अंग्रेज़ी संस्करण अन्य सभी संस्करणों पर प्राथमिकता रखता है।\n\nस्क्राइब डेवलपर्स (स्क्राइब ) ने iOS एप्लिकेशन \"स्क्राइब - Language भाषा कीबोर्डs\" (सेवा) को एक ओपन-सोर्स एप्लिकेशन के रूप में बनाया। यह सेवा स्क्राइब  द्वारा निःशुल्क प्रदान की जाती है और इसका उपयोग यथास्थिति के आधार पर किया जा सकता है।\n\nयह गोपनीयता नीति (नीति) पाठक को उन नीतियों के बारे में सूचित करने के लिए है जिनका उपयोग इस सेवा (उपयोगकर्ताओं) के उपयोगकर्ताओं की व्यक्तिगत जानकारी (उपयोगकर्ता की सूचना) और उपयोग डेटा (उपयोगकर्ता का डेटा) तक पहुँच, ट्रैकिंग, संग्रह, रखरखाव, उपयोग और प्रकटीकरण के लिए किया जाता है।\n\nउपयोगकर्ता की सूचना को विशेष रूप से उन जानकारी के रूप में परिभाषित किया गया है जो उपयोगकर्ता या उनके द्वारा उपयोग किए जाने वाले उपकरणों से संबंधित होती हैं।\n\nउपयोगकर्ता का डेटा को विशेष रूप से उन पाठों के रूप में परिभाषित किया गया है जिन्हें उपयोगकर्ता इस सेवा का उपयोग करते समय टाइप करते हैं या किए गए क्रियाओं के रूप में परिभाषित किया गया है।\n\n1. नीति वक्तव्य\n\nयह सेवा कोई भी USER उपयोगकर्ता की सूचना या उपयोगकर्ता का डेटा तक पहुँच, ट्रैक, संग्रह, रखरखाव, उपयोग या प्रकटीकरण नहीं करती है।\n\n2. ट्रैक न करें\n\nउपयोगकर्ता जो स्क्राइब से संपर्क करते हैं और अपनी उपयोगकर्ता की सूचना और उपयोगकर्ता का डेटा को ट्रैक न करने के लिए कहते हैं, उन्हें इस नीति की एक प्रति और सभी स्रोत कोड का लिंक प्रदान किया जाएगा, यह प्रमाण देने के लिए कि उन्हें ट्रैक नहीं किया जा रहा है।\n\n3. तृतीय-पक्ष डेटा\n\nयह सेवा तृतीय-पक्ष डेटा का उपयोग करती है। इस सेवा के निर्माण में उपयोग किया गया सभी डेटा ऐसे स्रोतों से आता है जो इसे इस सेवा द्वारा किए गए उपयोग में अनुमति देते हैं। विशेष रूप से, इस सेवा का डेटा विकिडेटा, विकिपीडिया और यूनिकोड से आता है। विकिडेटा बताता है कि, \"मुख्य, प्रॉपर्टी और लेक्सिम नेमस्पेस में उपलब्ध सभी संरचित डेटा क्रिएटिव कॉमन्स CC0 लाइसेंस के तहत उपलब्ध है; अन्य नेमस्पेस में उपलब्ध टेक्स्ट क्रिएटिव कॉमन्स एट्रिब्यूशन-शेयर अलाइक लाइसेंस के तहत उपलब्ध है।\" विकिडेटा डेटा उपयोग के बारे में नीति https://www.wikidata.org/wiki/Wikidata:Licensing पर पाई जा सकती है। विकिपीडिया बताता है कि टेक्स्ट डेटा, जिसे इस सेवा द्वारा उपयोग किया जाता है, \"… क्रिएटिव कॉमन्स एट्रिब्यूशन शेयर-अलाइक लाइसेंस की शर्तों के तहत उपयोग किया जा सकता है\"। विकिपीडिया डेटा उपयोग के बारे में नीति https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content पर पाई जा सकती है। यूनिकोड यह अनुमति प्रदान करता है, \"… किसी भी व्यक्ति को यूनिकोड डेटा फाइलों और संबंधित दस्तावेज़ीकरण की एक प्रति प्राप्त करने की अनुमति है (\"डेटा फाइल\") या यूनिकोड सॉफ़्टवेयर और संबंधित दस्तावेज़ीकरण (\"सॉफ़्टवेयर\") को बिना किसी प्रतिबंध के उपयोग करने की अनुमति देता है।\" यूनिकोड डेटा उपयोग के बारे में नीति https://www.unicode.org/license.txt पर पाई जा सकती है।\n\n4. तृतीय-पक्ष स्रोत कोड\n\nयह सेवा तृतीय-पक्ष कोड पर आधारित है। इस सेवा के निर्माण में उपयोग किया गया सभी स्रोत कोड ऐसे स्रोतों से आता है जो इसे इस सेवा द्वारा किए गए उपयोग में पूरी तरह से अनुमति देते हैं। विशेष रूप से, इस परियोजना का आधार Ethan Sarif-Kattan द्वारा बनाया गया कस्टम कीबोर्ड प्रोजेक्ट था। कस्टम कीबोर्डकस्टम कीबोर्ड को MIT लाइसेंस के तहत जारी किया गया था, जो https://github.com/EthanSK/CustomKeyboard/blob/master/LICENSE पर उपलब्ध है।\n\n5. तृतीय-पक्ष सेवाएं\n\nयह सेवा तृतीय-पक्ष सेवाओं का उपयोग करती है ताकि कुछ तृतीय-पक्ष डेटा को परिवर्तित किया जा सके। विशेष रूप से, डेटा Hugging Face transformers के मॉडल का उपयोग करके अनुवाद किया गया है। यह सेवा Apache License 2.0 के तहत आती है, जो इसके व्यावसायिक उपयोग, संशोधन, वितरण, पेटेंट उपयोग और निजी उपयोग के लिए उपलब्ध है। उपरोक्त सेवा का लाइसेंस https://github.com/huggingface/transformers/blob/master/LICENSE पर पाया जा सकता है।\n\n6. तृतीय-पक्ष लिंक\n\nयह सेवा बाहरी वेबसाइटों के लिंक शामिल करती है। यदि उपयोगकर्ता तृतीय-पक्ष लिंक पर क्लिक करते हैं, तो उन्हें एक वेबसाइट पर निर्देशित किया जाएगा। ध्यान दें कि ये बाहरी वेबसाइटें इस सेवा द्वारा संचालित नहीं हैं। इसलिए, उपयोगकर्ता को इन वेबसाइटों की गोपनीयता नीति की समीक्षा करने की सिफारिश की जाती है। यह सेवा किसी भी तृतीय-पक्ष साइटों या सेवाओं की सामग्री, गोपनीयता नीतियों या प्रथाओं के लिए कोई ज़िम्मेदारी नहीं लेती है।\n\n7. तृतीय-पक्ष छवियां\n\nयह सेवा तृतीय-पक्ष द्वारा कॉपीराइट की गई छवियां शामिल करती है। विशेष रूप से, इस एप में गिटहब, Inc. के लोगो की एक प्रति शामिल है और विकिडेटा का लोगो, जिसे Wikimedia फाउंडेशन, Inc. द्वारा ट्रेडमार्क किया गया है। गिटहब लोगो के उपयोग की शर्तें https://github.com/logos पर पाई जाती हैं, और विकिडेटा लोगो के उपयोग की शर्तें निम्नलिखित Wikimedia पेज पर पाई जाती हैं: https://foundation.wikimedia.org/wiki/Policy:Trademark_policy। यह सेवा कॉपीराइट की गई छवियों का उपयोग उन मानदंडों के अनुसार करती है, जिसमें केवल गिटहब लोगो की एक घुमाव शामिल होती है, जो ओपन-सोर्स समुदाय में यह इंगित करने के लिए सामान्य है कि गिटहब वेबसाइट का लिंक है।\n\n8. सामग्री सूचना\n\nयह सेवा उपयोगकर्ता को भाषाई सामग्री (CONTENT) तक पहुँचने की अनुमति देती है। कुछ CONTENT को बच्चों और नाबालिगों के लिए अनुपयुक्त माना जा सकता है। सेवा का उपयोग करके CONTENT तक पहुँच इस तरह से किया जाता है कि जानकारी तब तक अनुपलब्ध होती है जब तक उसे विशेष रूप से नहीं जाना जाता। विशेष रूप से, उपयोगकर्ता \"शब्दों\" का अनुवाद कर सकते हैं, क्रियाओं को संयोजित कर सकते हैं और CONTENT की अन्य व्याकरणिक विशेषताओं तक पहुँच सकते हैं, जो यौन, हिंसक या अन्यथा अनुचित प्रकृति की हो सकती है। उपयोगकर्ता \"ऐसी सामग्री\" का अनुवाद नहीं कर सकते, क्रियाओं को संयोजित नहीं कर सकते और CONTENT की अन्य व्याकरणिक विशेषताओं तक पहुँच नहीं सकते, जब तक वे पहले से CONTENT की प्रकृति के बारे में नहीं जानते हों। स्क्राइब  ऐसी सामग्री तक पहुँच की ज़िम्मेदारी नहीं लेता है।\n\n9. परिवर्तन\n\nयह नीति परिवर्तन के अधीन है। इस नीति में किए गए अपडेट सभी पिछले संस्करणों को प्रतिस्थापित करेंगे, और यदि इसे महत्वपूर्ण माना गया, तो यह अगले संबंधित अपडेट में स्पष्ट रूप से उल्लिखित होगा। स्क्राइब उपयोगकर्ता को हमारी गोपनीयता प्रथाओं पर नवीनतम जानकारी के लिए समय-समय पर इस नीति की समीक्षा करने और किसी भी परिवर्तन से परिचित होने के लिए प्रोत्साहित करता है।\n\n10. संपर्क करें\n\nयदि आपके कोई प्रश्न, चिंताएँ, या सुझाव हैं तो कृपया https://github.com/scribe-org पर जाएँ या स्क्राइब से security[at]scri.be पर संपर्क करें। ऐसे पूछताछ के लिए जिम्मेदार व्यक्ति Andrew Tavis McAllister हैं।\n\n11. प्रभावी तिथि\n\nयह नीति 24 मई, 2022 से प्रभावी है।"
           }
         },
         "id" : {
@@ -5322,7 +5538,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "स्क्राइब  डेवलपर्स (स्क्राइब ) ने आईओएस एप्लिकेशन \"स्क्राइब  - भाषा कीबोर्ड\" (सेवा) का निर्माण तृतीय-पक्ष कोड का उपयोग करके किया है। इस सेवा के निर्माण में उपयोग किया गया सभी स्रोत कोड ऐसे स्रोतों से आता है जो इसे इस सेवा द्वारा किए गए उपयोग में अनुमति देते हैं। इस खंड में उन स्रोत कोड की सूची दी गई है, जिन पर सेवा ही प्रत्येक का संबंधित लाइसेंस।\n\nनिम्नलिखित सभी उपयोग किए गए स्रोत कोड की सूची है, कोड के मुख्य लेखक या लेखक, उस समय जारी किए गए लाइसेंस और लाइसेंस के लिंक।"
+            "value" : "स्क्राइब डेवलपर्स (स्क्राइब ) ने आईओएस एप्लिकेशन \"स्क्राइब - भाषा कीबोर्ड\" (सेवा) का निर्माण तृतीय-पक्ष कोड का उपयोग करके किया है। इस सेवा के निर्माण में उपयोग किया गया सभी स्रोत कोड ऐसे स्रोतों से आता है जो इसे इस सेवा द्वारा किए गए उपयोग में अनुमति देते हैं। इस खंड में उन स्रोत कोड की सूची दी गई है, जिन पर सेवा ही प्रत्येक का संबंधित लाइसेंस।\n\nनिम्नलिखित सभी उपयोग किए गए स्रोत कोड की सूची है, कोड के मुख्य लेखक या लेखक, उस समय जारी किए गए लाइसेंस और लाइसेंस के लिंक।"
           }
         },
         "id" : {
@@ -5413,6 +5629,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "इस SERVICE द्वारा उपयोग किया जाने वाला वर्ड-प्रेडिक्शन और ऑटोकम्प्लीट इंजन Helium314 के HeliBoard के डिक्शनरी इंजन पर आधारित है, जो स्वयं Android Open Source Project (AOSP) LatinIME कीबोर्ड से व्युत्पन्न है। HeliBoard को GPL-3.0 लाइसेंस के तहत जारी किया गया है, जो https://github.com/Helium314/HeliBoard/blob/main/LICENSE पर उपलब्ध है।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಈ SERVICE ಬಳಸುವ ಪದ-ಊಹೆ ಮತ್ತು ಆಟೋಕಂಪ್ಲೀಟ್ ಎಂಜಿನ್ Helium314 ರ HeliBoard ನ ಡಿಕ್ಷನರಿ ಎಂಜಿನ್ ಆಧಾರಿತವಾಗಿದೆ, ಇದು ಸ್ವತಃ Android Open Source Project (AOSP) LatinIME ಕೀಬೋರ್ಡ್‌ನಿಂದ ಪಡೆಯಲ್ಪಟ್ಟಿದೆ. HeliBoard ಅನ್ನು GPL-3.0 ಪರವಾನಗಿಯಡಿ ಬಿಡುಗಡೆ ಮಾಡಲಾಗಿದೆ, ಈ ಪರವಾನಗಿ https://github.com/Helium314/HeliBoard/blob/main/LICENSE ನಲ್ಲಿ ಲಭ್ಯವಿದೆ."
           }
         }
       }
@@ -5845,6 +6067,12 @@
             "state" : "",
             "value" : "क्लिपबोर्ड पर कॉपी किया गया"
           }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ"
+          }
         }
       }
     },
@@ -5862,6 +6090,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "क्लिपबोर्ड पर कॉपी करें"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಿ"
           }
         }
       }
@@ -6192,6 +6426,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "संयोजन तालिकाएं लोड हो रही हैं..।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕ್ರಿಯಾಪದ ರೂಪ ಕೋಷ್ಟಕಗಳನ್ನು ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ..."
           }
         }
       }
@@ -6940,7 +7180,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "स्क्राइब  संयोजन में नया डेटा जोड़ें।"
+            "value" : "स्क्राइब संयोजन में नया डेटा जोड़ें।"
           }
         },
         "id" : {
@@ -8639,7 +8879,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "अपने डिवाइस पर स्क्राइब  कीबोर्ड इंस्टॉल करने के लिए नीचे दिए गए निर्देशों का पालन करें।"
+            "value" : "अपने डिवाइस पर स्क्राइब कीबोर्ड इंस्टॉल करने के लिए नीचे दिए गए निर्देशों का पालन करें।"
           }
         },
         "id" : {
@@ -8961,7 +9201,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "स्क्राइब  सेटिंग्स खोलें"
+            "value" : "स्क्राइब सेटिंग्स खोलें"
           }
         },
         "id" : {
@@ -9773,6 +10013,18 @@
             "state" : "",
             "value" : "Scribe Key"
           }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe की"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Scribe ಕೀ"
+          }
         }
       }
     },
@@ -9970,6 +10222,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "संज्ञा एनोटेशन"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನಾಮಪದ ಟಿಪ್ಪಣಿ"
           }
         }
       }
@@ -10749,6 +11007,12 @@
             "state" : "",
             "value" : "विराम चिह्नों के लिए ऑटो-स्पेस"
           }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ವಿರಾಮ ಚಿಹ್ನೆಗಳಿಗೆ ಆಟೋ-ಸ್ಪೇಸ್"
+          }
         }
       }
     },
@@ -10766,6 +11030,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "विराम चिह्नों के आसपास स्पेस को स्वचालित रूप से समायोजित करें।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ವಿರಾಮಚಿಹ್ನೆಗಳ ಸುತ್ತಲಿನ ಅಂತರವನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಹೊಂದಿಸಿ."
           }
         }
       }
@@ -15079,7 +15349,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "स्क्राइब  ऐप किस भाषा में होगा, उसे बदलें।"
+            "value" : "स्क्राइब ऐप किस भाषा में होगा, उसे बदलें।"
           }
         },
         "id" : {
@@ -15294,7 +15564,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "",
-            "value" : "आपके डिवाइस पर केवल एक भाषा स्थापित है। कृपया सेटिंग्स में अधिक भाषाएँ स्थापित करें और फिर आप स्क्राइब  के विभिन्न स्थानीयकरण का चयन कर सकते हैं।"
+            "value" : "आपके डिवाइस पर केवल एक भाषा स्थापित है। कृपया सेटिंग्स में अधिक भाषाएँ स्थापित करें और फिर आप स्क्राइब के विभिन्न स्थानीयकरण का चयन कर सकते हैं।"
           }
         },
         "id" : {
@@ -16063,6 +16333,12 @@
           "stringUnit" : {
             "state" : "",
             "value" : "थीम ओवरराइड"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಥೀಮ್ ಓವರ್‌ರೈಡ್"
           }
         }
       }
