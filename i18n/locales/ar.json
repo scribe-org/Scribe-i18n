@@ -1,6 +1,7 @@
 {
   "i18n._global.legal": "قانوني",
   "i18n._global.privacy_policy": "سياسة الخصوصية",
+  "i18n.app._global.button_install_keyboards": "تثبيت لوحات المفاتيح",
   "i18n.app._global.download_data": "تنزيل البيانات",
   "i18n.app._global.english": "الإنجليزية",
   "i18n.app._global.french": "الفرنسية",
@@ -69,7 +70,6 @@
   "i18n.app.installation.keyboard.text_4": "لاختيار لوحات المفاتيح",
   "i18n.app.installation.keyboard.title": "تثبيت لوحة المفاتيح",
   "i18n.app.installation.title": "تثبيت",
-  "i18n.app.settings.button_install_keyboards": "تثبيت لوحات المفاتيح",
   "i18n.app.settings.keyboard.functionality.annotate_suggestions": "توضيح الاقتراحات/الاكتمال",
   "i18n.app.settings.keyboard.functionality.annotate_suggestions_description": "تسطير الاقتراحات والاكتملات لإظهار جنسها أثناء الكتابة.",
   "i18n.app.settings.keyboard.functionality.auto_suggest_emoji": "اقتراح الرموز التعبيرية تلقائيًا",

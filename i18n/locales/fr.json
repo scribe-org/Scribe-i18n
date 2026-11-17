@@ -1,6 +1,7 @@
 {
   "i18n._global.legal": "Mentions légales",
   "i18n._global.privacy_policy": "Politique de confidentialité",
+  "i18n.app._global.button_install_keyboards": "Installer les claviers",
   "i18n.app._global.download_data": "Télécharger les données",
   "i18n.app._global.english": "Anglais",
   "i18n.app._global.french": "Français",
@@ -69,7 +70,6 @@
   "i18n.app.installation.keyboard.text_4": "pour sélectionner le clavier",
   "i18n.app.installation.keyboard.title": "Installation du clavier",
   "i18n.app.installation.title": "Installation",
-  "i18n.app.settings.button_install_keyboards": "Installer les claviers",
   "i18n.app.settings.keyboard.functionality.annotate_suggestions": "Annoter, suggérer/compléter",
   "i18n.app.settings.keyboard.functionality.annotate_suggestions_description": "Souligner les suggestions et les complétions pour indiquer leur genre au fur et à mesure de la saisie.",
   "i18n.app.settings.keyboard.functionality.auto_suggest_emoji": "Suggérer des émojis",

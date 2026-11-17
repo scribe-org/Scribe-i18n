@@ -8358,7 +8358,7 @@
         }
       }
     },
-    "i18n.app.download.menu_ui.no_keyboards_installed" : {
+    "i18n.app._global.no_keyboards_installed" : {
       "comment" : "",
       "localizations" : {
         "el" : {
@@ -10544,7 +10544,7 @@
         }
       }
     },
-    "i18n.app.settings.button_install_keyboards" : {
+    "i18n.app._global.button_install_keyboards" : {
       "comment" : "",
       "localizations" : {
         "ar" : {
