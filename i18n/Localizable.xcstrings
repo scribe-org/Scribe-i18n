@@ -1061,6 +1061,114 @@
         }
       }
     },
+    "i18n.app._global.button_install_keyboards" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "تثبيت لوحات المفاتيح"
+          }
+        },
+        "bn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "কীবোর্ড ইনস্টল করুন"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Tastaturen installieren"
+          }
+        },
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Εγκατάσταση πληκτρολογίων"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Install keyboards"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Instalar teclados"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Installer les claviers"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कीबोर्ड इंस्टॉल करें"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Pasang keyboard"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "키보드 설치하기"
+          }
+        },
+        "mr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "कीबोर्ड इंस्टॉल करा"
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "किबोर्ड स्थापना गर्नुहोस्"
+          }
+        },
+        "pt" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Instalar teclados"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Installera tangentbord"
+          }
+        },
+        "ta" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "விசைப்பலகைகளை நிறுவுங்கள்"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Klavye yükle"
+          }
+        }
+      }
+    },
     "i18n.app._global.check" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -1789,6 +1897,42 @@
           "stringUnit" : {
             "state" : "",
             "value" : "İtalyanca"
+          }
+        }
+      }
+    },
+    "i18n.app._global.no_keyboards_installed" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "el" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Αυτή τη στιγμή δεν έχετε εγκατεστημένο κανένα πληκτρολόγιο Scribe. Παρακαλούμε πατήστε το κουμπί Εγκατάσταση πληκτρολογίων παρακάτω για να εγκαταστήσετε ένα πληκτρολόγιο Scribe και μετά επιστρέψτε για να κατεβάσετε τα απαραίτητα δεδομένα."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "You currently do not have any Scribe keyboards installed. Please click the Install keyboards button below to install a Scribe keyboard and then come back to download the needed data."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "आपके पास कोई Scribe कीबोर्ड इंस्टॉल नहीं है। कृपया एक Scribe कीबोर्ड इंस्टॉल करने के लिए नीचे दिए गए \"कीबोर्ड इंस्टॉल करें\" बटन पर क्लिक करें और फिर आवश्यक डेटा डाउनलोड करने के लिए वापस आएं।"
+          }
+        },
+        "kn" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "ನಿಮ್ಮ ಬಳಿ ಪ್ರಸ್ತುತ ಯಾವುದೇ Scribe ಕೀಬೋರ್ಡ್ ಇನ್‌ಸ್ಟಾಲ್ ಆಗಿಲ್ಲ. ದಯವಿಟ್ಟು Scribe ಕೀಬೋರ್ಡ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಕೆಳಗಿನ \"ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ\" ಬಟನ್ ಒತ್ತಿ ಮತ್ತು ನಂತರ ಅಗತ್ಯವಿರುವ ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಹಿಂತಿರುಗಿ."
+          }
+        },
+        "ne" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "तपाईंसँग हाल कुनै स्क्राइब किबोर्ड स्थापना गरिएको छैन। किबोर्ड स्थापना गर्न तलको बटन क्लिक गर्नुहोस्।"
           }
         }
       }
@@ -8062,6 +8206,30 @@
         }
       }
     },
+    "i18n.app.download.menu_ui.download_data.delete_confirmation" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "Are you sure you want to delete {language} data?"
+          }
+        }
+      }
+    },
+    "i18n.app.download.menu_ui.download_data.delete_success" : {
+      "comment" : "",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "",
+            "value" : "{language} data deleted successfully"
+          }
+        }
+      }
+    },
     "i18n.app.download.menu_ui.download_data.download_success" : {
       "comment" : "",
       "extractionState" : "stale",
@@ -8354,41 +8522,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "ಎಲ್ಲವನ್ನೂ ನವೀಕರಿಸಿ"
-          }
-        }
-      }
-    },
-    "i18n.app._global.no_keyboards_installed" : {
-      "comment" : "",
-      "localizations" : {
-        "el" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Αυτή τη στιγμή δεν έχετε εγκατεστημένο κανένα πληκτρολόγιο Scribe. Παρακαλούμε πατήστε το κουμπί Εγκατάσταση πληκτρολογίων παρακάτω για να εγκαταστήσετε ένα πληκτρολόγιο Scribe και μετά επιστρέψτε για να κατεβάσετε τα απαραίτητα δεδομένα."
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "You currently do not have any Scribe keyboard installed. Please click the Install keyboards button below to install a Scribe keyboard and then come back to download the needed data."
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "आपके पास कोई Scribe कीबोर्ड इंस्टॉल नहीं है। कृपया एक Scribe कीबोर्ड इंस्टॉल करने के लिए नीचे दिए गए \"कीबोर्ड इंस्टॉल करें\" बटन पर क्लिक करें और फिर आवश्यक डेटा डाउनलोड करने के लिए वापस आएं।"
-          }
-        },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ನಿಮ್ಮ ಬಳಿ ಪ್ರಸ್ತುತ ಯಾವುದೇ Scribe ಕೀಬೋರ್ಡ್ ಇನ್‌ಸ್ಟಾಲ್ ಆಗಿಲ್ಲ. ದಯವಿಟ್ಟು Scribe ಕೀಬೋರ್ಡ್ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಲು ಕೆಳಗಿನ \"ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ\" ಬಟನ್ ಒತ್ತಿ ಮತ್ತು ನಂತರ ಅಗತ್ಯವಿರುವ ದತ್ತಾಂಶವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು ಹಿಂತಿರುಗಿ."
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "तपाईंसँग हाल कुनै स्क्राइब किबोर्ड स्थापना गरिएको छैन। किबोर्ड स्थापना गर्न तलको बटन क्लिक गर्नुहोस्।"
           }
         }
       }
@@ -10540,113 +10673,6 @@
           "stringUnit" : {
             "state" : "",
             "value" : "Wiktionary ಅನುವಾದಗಳೊಂದಿಗೆ ಅನುವಾದಿಸೋಣ! ನಿಮ್ಮ ಕೀಬೋರ್ಡ್‌ನ ಮೇಲಿನ-ಎಡ ಮೂಲೆಯಲ್ಲಿರುವ ಪೆನ್ಸಿಲ್‌ನಂತಹ Scribe ಕೀಯನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ, ಮತ್ತು {translate} ಆಯ್ಕೆಮಾಡಿ.\n\nನಂತರ ನೀವು ಅನುವಾದಿಸಲು ಬಯಸುವ ಪದವನ್ನು ಬರೆಯಿರಿ, ▶ ಒತ್ತಿ, ಮತ್ತು ಅನುವಾದ ನಿಮಗೆ ಸಿಗುತ್ತದೆ."
-          }
-        }
-      }
-    },
-    "i18n.app._global.button_install_keyboards" : {
-      "comment" : "",
-      "localizations" : {
-        "ar" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "تثبيت لوحات المفاتيح"
-          }
-        },
-        "bn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "কীবোর্ড ইনস্টল করুন"
-          }
-        },
-        "de" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Tastaturen installieren"
-          }
-        },
-        "el" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Εγκατάσταση πληκτρολογίων"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Install keyboards"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Instalar teclados"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Installer les claviers"
-          }
-        },
-        "hi" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "कीबोर्ड इंस्टॉल करें"
-          }
-        },
-        "id" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Pasang keyboard"
-          }
-        },
-        "kn" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "ಕೀಬೋರ್ಡ್‌ಗಳನ್ನು ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "키보드 설치하기"
-          }
-        },
-        "mr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "कीबोर्ड इंस्टॉल करा"
-          }
-        },
-        "ne" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "किबोर्ड स्थापना गर्नुहोस्"
-          }
-        },
-        "pt" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Instalar teclados"
-          }
-        },
-        "sv" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Installera tangentbord"
-          }
-        },
-        "ta" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "விசைப்பலகைகளை நிறுவுங்கள்"
-          }
-        },
-        "tr" : {
-          "stringUnit" : {
-            "state" : "",
-            "value" : "Klavye yükle"
           }
         }
       }
